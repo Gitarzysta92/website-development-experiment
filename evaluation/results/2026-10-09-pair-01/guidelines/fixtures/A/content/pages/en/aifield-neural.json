@@ -1,0 +1,97 @@
+{
+  "id": "aifield-neural",
+  "locale": "en",
+  "type": "detail",
+  "title": "What could a learned field model predict?",
+  "description": "AIFIELD neural optical-field research: supplied boundary information, experimental context, generalization, domain stitching and unresolved speed advantage.",
+  "eyebrow": "AIFIELD / PHOTONIC ENGINEERING",
+  "lead": "A research question about optical fields, with conditions that matter as much as the prediction itself.",
+  "sections": [
+    {
+      "id": "question",
+      "title": "Explore a learned approximation of optical behavior.",
+      "paragraphs": [
+        "The neural research direction asks whether a learned model can estimate an optical field for a defined problem. It is a separate investigation from the classical design and simulation workflow described elsewhere.",
+        "A promising prediction in a selected setting does not establish a general solver. The input information, training context, evaluated structures and reference all determine what the result can support."
+      ],
+      "links": [
+        {
+          "id": "aifield-design"
+        }
+      ]
+    },
+    {
+      "id": "boundaries",
+      "title": "Boundary information is part of the experiment.",
+      "paragraphs": [
+        "The supplied September 2026 research summary describes results under conditions that include supplied boundary information. That information constrains the problem. It must remain visible when interpreting a result or comparing the method with another approach.",
+        "A prediction using such information cannot be presented as an equivalent demonstration of prediction from scratch. The original plots, complete settings and numerical comparisons are not provided in this package, so no reconstructed accuracy chart is shown."
+      ]
+    },
+    {
+      "id": "limits",
+      "title": "Four questions before broader use.",
+      "paragraphs": [
+        "The research needs to be assessed beyond a favorable individual example. The summary identifies limits that affect practical interpretation."
+      ],
+      "rows": [
+        [
+          "From-scratch prediction",
+          "What information must already be known, and how much of the physical problem is solved by supplying it?"
+        ],
+        [
+          "Generalization",
+          "Does the method remain useful for structures and conditions outside the evaluated context?"
+        ],
+        [
+          "Stitched domains",
+          "Can local predictions form a consistent larger field without unacceptable boundary mismatch?"
+        ],
+        [
+          "Practical speed",
+          "Does an advantage remain after preparation, boundary information, prediction and checking are included?"
+        ]
+      ]
+    },
+    {
+      "id": "next",
+      "title": "Make the next comparison answer a narrower question.",
+      "paragraphs": [
+        "A useful next study would state its reference, input information, domain and acceptance criteria before comparing predictions. It should retain successful and unsuccessful cases, and report the work needed to obtain an end-to-end result.",
+        "These are proposed research questions, not a confirmed experiment schedule. The supplied summary does not establish universal accuracy or a practical speed advantage. An investment or collaboration discussion should keep that uncertainty explicit."
+      ],
+      "links": [
+        {
+          "id": "aifield-validation"
+        },
+        {
+          "id": "investors"
+        },
+        {
+          "id": "partnerships"
+        }
+      ]
+    }
+  ],
+  "relatedIds": [
+    "aifield-design",
+    "aifield-validation",
+    "investors",
+    "partnerships"
+  ],
+  "project": "aifield",
+  "sourceReferences": [
+    "HP-1.1/project-context",
+    "SM-0.3/aifield-neural"
+  ],
+  "sourceRevision": "2026-10-09 (AIFIELD snapshot: September 2026)",
+  "editorialState": "published",
+  "modifiedAt": "2026-10-09T21:00:00.000Z",
+  "reviews": {
+    "facts": "c40069ca497910480b78f77838d3439bdf3c3776db99b45f22cb2669fd8d87a1",
+    "language": "c40069ca497910480b78f77838d3439bdf3c3776db99b45f22cb2669fd8d87a1",
+    "assets": "c40069ca497910480b78f77838d3439bdf3c3776db99b45f22cb2669fd8d87a1"
+  },
+  "privateNotes": "Locally authored from supplied summary. Factual, translation and asset owner review pending. Original PDFs were not supplied.",
+  "maturity": "September 2026 source snapshot · current access by discussion"
+}

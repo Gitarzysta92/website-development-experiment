@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="960" viewBox="0 0 1440 960" role="img" aria-labelledby="title desc">
+<title id="title">Artifactory selected Purple and Teal palette</title>
+<desc id="desc">Eight selected colors, their roles, exact hexadecimal values, and CSS tokens. This is a color reference, not a website mockup.</desc>
+<rect width="1440" height="960" fill="#FFFFFF"/>
+<text x="64" y="64" font-family="Avenir, sans-serif" font-size="18" fill="#5C6470">ARTIFACTORY / PREPARED INPUTS</text>
+<text x="64" y="143" font-family="Avenir, sans-serif" font-size="52" fill="#202438">Purple + Teal</text>
+<text x="64" y="187" font-family="Avenir, sans-serif" font-size="24" fill="#5C6470">Selected color reference  |  9 October 2026</text>
+<rect x="64" y="234" width="308" height="128" fill="#662483" stroke="#DCE5E6"/>
+<text x="64" y="409" font-family="Avenir, sans-serif" font-size="28" fill="#202438">Primary</text>
+<text x="64" y="444" font-family="Avenir, sans-serif" font-size="24" fill="#202438">#662483</text>
+<text x="64" y="477" font-family="Avenir, sans-serif" font-size="20" fill="#5C6470">--af-purple</text>
+<rect x="398" y="234" width="308" height="128" fill="#087F8C" stroke="#DCE5E6"/>
+<text x="398" y="409" font-family="Avenir, sans-serif" font-size="28" fill="#202438">Accent</text>
+<text x="398" y="444" font-family="Avenir, sans-serif" font-size="24" fill="#202438">#087F8C</text>
+<text x="398" y="477" font-family="Avenir, sans-serif" font-size="20" fill="#5C6470">--af-teal</text>
+<rect x="732" y="234" width="308" height="128" fill="#202438" stroke="#DCE5E6"/>
+<text x="732" y="409" font-family="Avenir, sans-serif" font-size="28" fill="#202438">Ink</text>
+<text x="732" y="444" font-family="Avenir, sans-serif" font-size="24" fill="#202438">#202438</text>
+<text x="732" y="477" font-family="Avenir, sans-serif" font-size="20" fill="#5C6470">--af-ink</text>
+<rect x="1066" y="234" width="308" height="128" fill="#FFFFFF" stroke="#DCE5E6"/>
+<text x="1066" y="409" font-family="Avenir, sans-serif" font-size="28" fill="#202438">Page</text>
+<text x="1066" y="444" font-family="Avenir, sans-serif" font-size="24" fill="#202438">#FFFFFF</text>
+<text x="1066" y="477" font-family="Avenir, sans-serif" font-size="20" fill="#5C6470">--af-white</text>
+<rect x="64" y="514" width="308" height="128" fill="#F2F7F7" stroke="#DCE5E6"/>
+<text x="64" y="689" font-family="Avenir, sans-serif" font-size="28" fill="#202438">Surface</text>
+<text x="64" y="724" font-family="Avenir, sans-serif" font-size="24" fill="#202438">#F2F7F7</text>
+<text x="64" y="757" font-family="Avenir, sans-serif" font-size="20" fill="#5C6470">--af-mist</text>
+<rect x="398" y="514" width="308" height="128" fill="#DCE5E6" stroke="#DCE5E6"/>
+<text x="398" y="689" font-family="Avenir, sans-serif" font-size="28" fill="#202438">Divider</text>
+<text x="398" y="724" font-family="Avenir, sans-serif" font-size="24" fill="#202438">#DCE5E6</text>
+<text x="398" y="757" font-family="Avenir, sans-serif" font-size="20" fill="#5C6470">--af-line</text>
+<rect x="732" y="514" width="308" height="128" fill="#541B6E" stroke="#DCE5E6"/>
+<text x="732" y="689" font-family="Avenir, sans-serif" font-size="28" fill="#202438">Primary hover</text>
+<text x="732" y="724" font-family="Avenir, sans-serif" font-size="24" fill="#202438">#541B6E</text>
+<text x="732" y="757" font-family="Avenir, sans-serif" font-size="20" fill="#5C6470">--af-purple-hover</text>
+<rect x="1066" y="514" width="308" height="128" fill="#5C6470" stroke="#DCE5E6"/>
+<text x="1066" y="689" font-family="Avenir, sans-serif" font-size="28" fill="#202438">Muted text</text>
+<text x="1066" y="724" font-family="Avenir, sans-serif" font-size="24" fill="#202438">#5C6470</text>
+<text x="1066" y="757" font-family="Avenir, sans-serif" font-size="20" fill="#5C6470">--af-muted</text>
+<text x="64" y="853" font-family="Avenir, sans-serif" font-size="24" fill="#202438">Purple for primary actions. Teal for technical emphasis. White and mist for surfaces.</text>
+<text x="64" y="893" font-family="Avenir, sans-serif" font-size="20" fill="#5C6470">Generated from palette.json. Label typography is illustrative; no website font is selected.</text>
+</svg>

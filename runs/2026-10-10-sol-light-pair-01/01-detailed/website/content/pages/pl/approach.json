@@ -1,0 +1,43 @@
+{
+  "id": "approach",
+  "locale": "pl",
+  "title": "Twierdzenia oparte na dowodach",
+  "lead": "Proponowane podejście łączy projektowanie, kontrolowane testy i jasne wskazywanie ograniczeń.",
+  "description": "To ramy pracy wynikające z dostarczonych materiałów, a nie zapewnienie, że wszystkie procedury są już formalnie stosowane.",
+  "eyebrow": "Artifactory",
+  "sections": [
+    {
+      "id": "focus",
+      "title": "Zacznij od pytania",
+      "paragraphs": [
+        "Dla detekcji określ substancję i warunki. Dla narzędzi projektowych określ dane wejściowe, metodę odniesienia i decyzje, którym wynik ma służyć."
+      ]
+    },
+    {
+      "id": "evidence",
+      "title": "Rozróżniaj etapy",
+      "paragraphs": [
+        "Symulacja pomaga projektować; wykonany element testuje hipotezę fizyczną; badanie zastosowania odpowiada na jeszcze inne pytanie."
+      ]
+    },
+    {
+      "id": "next",
+      "title": "Pokazuj ograniczenia",
+      "paragraphs": [
+        "Daty, konfiguracje, metody odniesienia i nieudane przypadki pozwalają sensownie ocenić materiał techniczny."
+      ]
+    }
+  ],
+  "related": [
+    "projects",
+    "contact"
+  ],
+  "stage": "Local draft · source context October 2026",
+  "pageType": "company",
+  "sourceReferences": [
+    "HP-1.1 project-context 2026-10-09"
+  ],
+  "sourceRevision": "2026-10-09",
+  "editorialState": "draft",
+  "modifiedAt": "2026-10-10"
+}

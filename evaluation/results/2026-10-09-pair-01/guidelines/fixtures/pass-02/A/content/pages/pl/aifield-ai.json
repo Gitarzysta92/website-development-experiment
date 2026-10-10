@@ -1,0 +1,76 @@
+{
+  "id": "aifield-ai",
+  "locale": "pl",
+  "type": "detail",
+  "title": "Wsparcie z miejscem na ocenę człowieka.",
+  "description": "Jak AIFIELD bada wsparcie agentowe przez CLI i MCP: propozycje działań, zastosowanie przez człowieka, wykonanie narzędzi i ocena wyników.",
+  "eyebrow": "AIFIELD / INŻYNIERIA FOTONICZNA",
+  "lead": "Polecenie może rozpocząć użyteczne działanie inżynierskie. Nadal trzeba sprawdzić, co narzędzie zmieniło i co oznacza wynik.",
+  "sections": [
+    {
+      "id": "instruction",
+      "title": "Od zamiaru do propozycji działania.",
+      "paragraphs": [
+        "Człowiek określa zadanie i potrzebny kontekst projektu. Asystent może zaproponować zmiany lub wywołania narzędzi. Materiał z września 2026 opisuje częściowe wsparcie przez interfejs wiersza poleceń oraz Model Context Protocol (MCP).",
+        "Interfejs wiersza poleceń udostępnia określoną operację. MCP umożliwia asystentowi wywoływanie udostępnionych narzędzi. Żaden z tych interfejsów nie potwierdza fizycznej zasadności operacji ani nie zastępuje jej oceny."
+      ]
+    },
+    {
+      "id": "review",
+      "title": "Zastosowanie i ocena pozostają po stronie człowieka.",
+      "paragraphs": [
+        "Opisany proces obejmuje zastosowanie i sprawdzenie propozycji przez człowieka. Przed przyjęciem zmiany należy ocenić jej cel, parametry i wpływ na projekt. Po wykonaniu narzędzia trzeba porównać wynik z pytaniem inżynierskim.",
+        "Wywołanie zakończone bez błędu może nadal dotyczyć niewłaściwej geometrii, warunków brzegowych lub interpretacji. Nieudane bądź niepełne działanie wymaga rozstrzygnięcia przed kolejnymi krokami. Nie jest to dowód autonomicznego projektowania chipów od początku do końca."
+      ],
+      "links": [
+        {
+          "id": "aifield-design"
+        }
+      ]
+    },
+    {
+      "id": "data",
+      "title": "Ustal, gdzie trafiają informacje.",
+      "paragraphs": [
+        "Lokalny solver i asystent stanowią odrębne granice przetwarzania. Lokalne obliczenia nie oznaczają, że każde polecenie, fragment projektu lub wynik pozostaje na komputerze. Podsumowanie nie rozstrzyga, jaki dostawca asystenta ani ustawienia przetwarzania zewnętrznego dotyczą konkretnego wdrożenia.",
+        "Przed udostępnieniem wrażliwych danych ustal, co opuszcza komputer, do jakiej usługi trafia oraz jakie są zasady retencji i dostępu. Nie deklarujemy ogólnej gwarancji poufności; pierwsze zapytanie powinno opisywać niepoufne zadanie."
+      ]
+    },
+    {
+      "id": "limits",
+      "title": "Oceń całą sekwencję, także niepowodzenia.",
+      "paragraphs": [
+        "Użyteczna demonstracja powinna pokazać polecenie użytkownika, propozycję, przyjęte zmiany, wykonane polecenie i oceniony wynik. Powinna również wyjaśniać zachowanie przy niedostępnym narzędziu lub niejednoznacznym rezultacie.",
+        "Obecne źródło uzasadnia częściowe wsparcie procesu. Szersza automatyzacja, niezawodność bez nadzoru i bieżący dostęp pozostają tematami demonstracji o uzgodnionym zakresie."
+      ],
+      "links": [
+        {
+          "id": "aifield-validation"
+        },
+        {
+          "id": "contact"
+        }
+      ]
+    }
+  ],
+  "relatedIds": [
+    "aifield-design",
+    "aifield-validation",
+    "contact"
+  ],
+  "project": "aifield",
+  "sourceReferences": [
+    "HP-1.1/project-context",
+    "SM-0.3/aifield-ai"
+  ],
+  "sourceRevision": "2026-10-09 (AIFIELD snapshot: September 2026)",
+  "editorialState": "draft",
+  "modifiedAt": "2026-10-09T21:00:00.000Z",
+  "reviews": {
+    "facts": null,
+    "language": null,
+    "assets": null
+  },
+  "privateNotes": "Locally authored from supplied summary. Factual, translation and asset owner review pending. Original PDFs were not supplied.",
+  "maturity": "Stan opisany we wrześniu 2026 · aktualny dostęp do uzgodnienia"
+}

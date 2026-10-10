@@ -1,0 +1,405 @@
+{
+  "id": "B-en-artisense-mobile",
+  "label": "B",
+  "locale": "en",
+  "pageId": "artisense",
+  "view": "mobile",
+  "url": "http://127.0.0.1:4511/en/projects/artisense/",
+  "status": 200,
+  "errors": [],
+  "title": "ArtiSense: Photonic sensing | Artifactory",
+  "language": "en",
+  "h1": [
+    "A new perspective on sensing."
+  ],
+  "headings": [
+    {
+      "level": "H1",
+      "text": "A new perspective on sensing."
+    },
+    {
+      "level": "H2",
+      "text": "From optical response to useful information."
+    },
+    {
+      "level": "H2",
+      "text": "A clear view of the current work."
+    },
+    {
+      "level": "H3",
+      "text": "What the material shows"
+    },
+    {
+      "level": "H3",
+      "text": "What remains to be established"
+    },
+    {
+      "level": "H3",
+      "text": "Where the work can go next"
+    },
+    {
+      "level": "H2",
+      "text": "The detail behind the direction."
+    },
+    {
+      "level": "H3",
+      "text": "Technology"
+    },
+    {
+      "level": "H3",
+      "text": "Applications"
+    },
+    {
+      "level": "H3",
+      "text": "Research & validation"
+    },
+    {
+      "level": "H2",
+      "text": "Let’s explore what\ncomes next."
+    },
+    {
+      "level": "H2",
+      "text": "Projects"
+    },
+    {
+      "level": "H2",
+      "text": "Company"
+    },
+    {
+      "level": "H2",
+      "text": "Get in touch"
+    }
+  ],
+  "text": "Skip to content\nLocal preview\nDraft content · 9 October 2026\nartifactory.\nMenu\nArtiSense\nOverview\nHome\nProjects\nArtiSense\n\nARTISENSE / PHOTONIC SENSING\n\nA new perspective on sensing.\n\nExploring how light can reveal chemical information, with a miniaturized sensing system at the heart of the research.\n\nResearch & concept development\nExplore the technology\nFor investors\nARTISENSE / 01\nPHOTONICS\nSIGNAL\nLIGHT\nConceptual illustration · not a product image or measured result\n\nTHE PROJECT\n\nFrom optical response to useful information.\n\nArtiSense investigates a photonic approach to chemical measurement. The intended system brings illumination, optical response and signal interpretation together in a compact architecture.\n\nFor researchers and engineering partners exploring optical sensing and its integration into future measurement systems.\n\nEVIDENCE SNAPSHOT\n\nA clear view of the current work.\n\nSEPTEMBER 2026 MATERIAL · CONTEXT REVIEWED 9 OCTOBER 2026\n\n01 / DESCRIBED WORK\nWhat the material shows\n\nThe supplied material describes optical feasibility work and a photonic glucose chip-design example.\n\n02 / THE BOUNDARY\nWhat remains to be established\n\nDesign and simulation do not establish a fabricated sensor, glucose accuracy or clinical performance. Non-invasive and wearable uses remain intended directions.\n\n03 / PROPOSED NEXT STEP\nWhere the work can go next\n\nA proposed next step is to define the physical experiment and calibration conditions needed to test the optical design. Timing and responsibility require project confirmation.\n\nGO DEEPER\n\nThe detail behind the direction.\n01 / ARTISENSE\nTechnology\n\nExplore the proposed path from illumination to optical response, signal processing and interpretation in ArtiSense.\n\n02 / ARTISENSE\nApplications\n\nUnderstand the intended glucose-sensing application, proposed form factors and the evidence needed before use.\n\n03 / ARTISENSE\nResearch & validation\n\nA qualified account of ArtiSense optical feasibility and design work, with the gaps to physical and clinical validation.\n\nPhotonics and proposed electronics are explained together in the system architecture. Technology\n\nTHE NEXT CONVERSATION\n\nLet’s explore what\ncomes next.\n\nInvest in the company. Explore the science. Bring a question worth working on.\n\nDiscuss an investment\nExplore partnerships\nartifactory.\n\nEngineering light. Creating possibility.\n\nSensing technology and tools for designing photonic systems.\nProjects\nAll projects\nArtiSense\nAIFIELD\nCompany\nHome\nInvestors\nOur approach\nAbout\nPartnerships\nGet in touch\ninfo@artifactory.tech\nContact\nPrivacy\nArtifactory · 2026\nLocal review edition. Content and Polish translations await owner review.\nBack to top ↑",
+  "links": [
+    {
+      "text": "Skip to content",
+      "href": "#main",
+      "lang": ""
+    },
+    {
+      "text": "artifactory.",
+      "href": "/en/",
+      "lang": ""
+    },
+    {
+      "text": "All projects",
+      "href": "/en/projects/",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSensePhotonic sensing",
+      "href": "/en/projects/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELDPhotonic engineering",
+      "href": "/en/projects/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Investors",
+      "href": "/en/investors/",
+      "lang": ""
+    },
+    {
+      "text": "Our approach",
+      "href": "/en/approach/",
+      "lang": ""
+    },
+    {
+      "text": "About",
+      "href": "/en/about/",
+      "lang": ""
+    },
+    {
+      "text": "Partnerships",
+      "href": "/en/partnerships/",
+      "lang": ""
+    },
+    {
+      "text": "Contact",
+      "href": "/en/contact/",
+      "lang": ""
+    },
+    {
+      "text": "PL",
+      "href": "/pl/projekty/artisense/",
+      "lang": "pl"
+    },
+    {
+      "text": "Let’s talk",
+      "href": "/en/contact/?intent=investment",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/en/projects/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/en/projects/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/en/projects/artisense/technology/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/en/projects/artisense/applications/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/en/projects/artisense/research-validation/",
+      "lang": ""
+    },
+    {
+      "text": "Home",
+      "href": "/en/",
+      "lang": ""
+    },
+    {
+      "text": "Projects",
+      "href": "/en/projects/",
+      "lang": ""
+    },
+    {
+      "text": "Explore the technology",
+      "href": "/en/projects/artisense/technology/",
+      "lang": ""
+    },
+    {
+      "text": "For investors",
+      "href": "/en/investors/",
+      "lang": ""
+    },
+    {
+      "text": "01 / ARTISENSE\nTechnology\n\nExplore the proposed path from illumination to optical response, signal processing and interpretation in ArtiSense.",
+      "href": "/en/projects/artisense/technology/",
+      "lang": ""
+    },
+    {
+      "text": "02 / ARTISENSE\nApplications\n\nUnderstand the intended glucose-sensing application, proposed form factors and the evidence needed before use.",
+      "href": "/en/projects/artisense/applications/",
+      "lang": ""
+    },
+    {
+      "text": "03 / ARTISENSE\nResearch & validation\n\nA qualified account of ArtiSense optical feasibility and design work, with the gaps to physical and clinical validation.",
+      "href": "/en/projects/artisense/research-validation/",
+      "lang": ""
+    },
+    {
+      "text": "Technology",
+      "href": "/en/projects/artisense/technology/",
+      "lang": ""
+    },
+    {
+      "text": "Discuss an investment",
+      "href": "/en/contact/?intent=investment&project=artisense",
+      "lang": ""
+    },
+    {
+      "text": "Explore partnerships",
+      "href": "/en/partnerships/",
+      "lang": ""
+    },
+    {
+      "text": "artifactory.",
+      "href": "/en/",
+      "lang": ""
+    },
+    {
+      "text": "All projects",
+      "href": "/en/projects/",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSense",
+      "href": "/en/projects/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELD",
+      "href": "/en/projects/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Home",
+      "href": "/en/",
+      "lang": ""
+    },
+    {
+      "text": "Investors",
+      "href": "/en/investors/",
+      "lang": ""
+    },
+    {
+      "text": "Our approach",
+      "href": "/en/approach/",
+      "lang": ""
+    },
+    {
+      "text": "About",
+      "href": "/en/about/",
+      "lang": ""
+    },
+    {
+      "text": "Partnerships",
+      "href": "/en/partnerships/",
+      "lang": ""
+    },
+    {
+      "text": "info@artifactory.tech",
+      "href": "mailto:info@artifactory.tech",
+      "lang": ""
+    },
+    {
+      "text": "Contact",
+      "href": "/en/contact/",
+      "lang": ""
+    },
+    {
+      "text": "Privacy",
+      "href": "/en/privacy/",
+      "lang": ""
+    },
+    {
+      "text": "Back to top ↑",
+      "href": "#top",
+      "lang": ""
+    }
+  ],
+  "metadata": [
+    {
+      "name": "viewport",
+      "content": "width=device-width, initial-scale=1"
+    },
+    {
+      "name": "description",
+      "content": "Exploring how light can reveal chemical information, with a miniaturized sensing system at the heart of the research."
+    },
+    {
+      "name": "robots",
+      "content": "noindex,nofollow"
+    },
+    {
+      "name": "theme-color",
+      "content": "#662483"
+    },
+    {
+      "rel": "canonical",
+      "href": "http://127.0.0.1:4511/en/projects/artisense/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "en",
+      "href": "http://127.0.0.1:4511/en/projects/artisense/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "pl",
+      "href": "http://127.0.0.1:4511/pl/projekty/artisense/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "x-default",
+      "href": "http://127.0.0.1:4511/en/projects/artisense/"
+    },
+    {
+      "property": "og:type",
+      "content": "website"
+    },
+    {
+      "property": "og:site_name",
+      "content": "Artifactory"
+    },
+    {
+      "property": "og:title",
+      "content": "ArtiSense: Photonic sensing | Artifactory"
+    },
+    {
+      "property": "og:description",
+      "content": "Exploring how light can reveal chemical information, with a miniaturized sensing system at the heart of the research."
+    },
+    {
+      "property": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "property": "og:locale:alternate",
+      "content": "pl_PL"
+    },
+    {
+      "property": "og:url",
+      "content": "http://127.0.0.1:4511/en/projects/artisense/"
+    },
+    {
+      "property": "og:image",
+      "content": "http://127.0.0.1:4511/assets/share-en.svg"
+    },
+    {
+      "name": "twitter:card",
+      "content": "summary_large_image"
+    }
+  ],
+  "forms": [],
+  "images": [],
+  "viewport": {
+    "width": 390,
+    "height": 844,
+    "scrollWidth": 390
+  },
+  "overflowing": [],
+  "axe": {
+    "violations": [
+      {
+        "id": "region",
+        "impact": "moderate",
+        "tags": [
+          "cat.keyboard",
+          "best-practice",
+          "RGAAv4",
+          "RGAA-9.2.1"
+        ],
+        "description": "Ensure all page content is contained by landmarks",
+        "help": "All page content should be contained by landmarks",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/region?application=playwright",
+        "nodes": [
+          {
+            "any": [
+              {
+                "id": "region",
+                "data": {
+                  "isIframe": false
+                },
+                "relatedNodes": [],
+                "impact": "moderate",
+                "message": "Some page content is not contained by landmarks"
+              }
+            ],
+            "all": [],
+            "none": [],
+            "impact": "moderate",
+            "html": "<div class=\"preview-strip\"><div class=\"container\"><span><i aria-hidden=\"true\"></i>Local preview</span><span>Draft content · 9 October 2026</span></div></div>",
+            "target": [
+              ".preview-strip"
+            ],
+            "failureSummary": "Fix any of the following:\n  Some page content is not contained by landmarks"
+          }
+        ]
+      }
+    ],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "impact": "serious",
+        "nodeCount": 9
+      }
+    ],
+    "passes": 39
+  }
+}

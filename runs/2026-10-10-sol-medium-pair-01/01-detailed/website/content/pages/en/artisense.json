@@ -1,0 +1,44 @@
+{
+  "id": "artisense",
+  "locale": "en",
+  "title": "Exploring light as a chemical signal",
+  "description": "ArtiSense investigates a miniaturized optical sensing system. Its proposed architecture aims to turn a sample-dependent photonic response into interpretable information, with substantial measurement and integration questions still open.",
+  "eyebrow": "ArtiSense",
+  "lead": "ArtiSense investigates a miniaturized optical sensing system. Its proposed architecture aims to turn a sample-dependent photonic response into interpretable information, with substantial measurement and integration questions still open.",
+  "sections": [
+    {
+      "id": "section-1",
+      "heading": "The measurement ambition",
+      "body": [
+        "The concept uses visible or infrared light interacting with a sample. A detector and reference comparison could help separate a chemical signal from variation in illumination, tissue, motion and environment. Non-invasive and wearable uses are intended directions rather than demonstrated products."
+      ]
+    },
+    {
+      "id": "section-2",
+      "heading": "A proposed system, not one finished chip",
+      "body": [
+        "The described architecture includes photonic components, electronic detection, a proposed reprogrammable analog interpretation processor, software support and connectivity. Component descriptions do not establish an integrated or validated device."
+      ]
+    },
+    {
+      "id": "section-3",
+      "heading": "What comes next",
+      "body": [
+        "Optical feasibility and chip design work provide a starting point. The next development questions concern calibration, repeatability, physical integration and comparison with trusted measurements under defined conditions."
+      ]
+    }
+  ],
+  "related": [
+    "artisense-technology",
+    "artisense-applications",
+    "artisense-validation",
+    "aifield"
+  ],
+  "editorialState": "draft",
+  "sourceRevision": "HP-1.1; context 2026-10-09",
+  "modified": "2026-10-10",
+  "sourceRefs": [
+    "inputs/content/project-context.md (summary, 2026-10-09)",
+    "inputs/docs/sitemap.md (SM-0.3)"
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "id": "AF-ROUTES-1.0",
+  "source": "../inputs/docs/sitemap.md#canonical-route-register",
+  "selection": "D-02; complete local preview scope, not a declaration of publication approval",
+  "default_locale": "en",
+  "locales": [
+    "en",
+    "pl"
+  ],
+  "routes": [
+    {
+      "id": "home",
+      "parent": null,
+      "labels": {
+        "en": "Home",
+        "pl": "Strona główna"
+      },
+      "paths": {
+        "en": "/en/",
+        "pl": "/pl/"
+      },
+      "project": null
+    },
+    {
+      "id": "projects",
+      "parent": "home",
+      "labels": {
+        "en": "Projects",
+        "pl": "Projekty"
+      },
+      "paths": {
+        "en": "/en/projects/",
+        "pl": "/pl/projekty/"
+      },
+      "project": null
+    },
+    {
+      "id": "artisense",
+      "parent": "projects",
+      "labels": {
+        "en": "ArtiSense",
+        "pl": "ArtiSense"
+      },
+      "paths": {
+        "en": "/en/projects/artisense/",
+        "pl": "/pl/projekty/artisense/"
+      },
+      "project": "artisense"
+    },
+    {
+      "id": "artisense-technology",
+      "parent": "artisense",
+      "labels": {
+        "en": "Technology",
+        "pl": "Technologia"
+      },
+      "paths": {
+        "en": "/en/projects/artisense/technology/",
+        "pl": "/pl/projekty/artisense/technologia/"
+      },
+      "project": "artisense"
+    },
+    {
+      "id": "artisense-applications",
+      "parent": "artisense",
+      "labels": {
+        "en": "Applications",
+        "pl": "Zastosowania"
+      },
+      "paths": {
+        "en": "/en/projects/artisense/applications/",
+        "pl": "/pl/projekty/artisense/zastosowania/"
+      },
+      "project": "artisense"
+    },
+    {
+      "id": "artisense-validation",
+      "parent": "artisense",
+      "labels": {
+        "en": "Research and Validation",
+        "pl": "Badania i walidacja"
+      },
+      "paths": {
+        "en": "/en/projects/artisense/research-validation/",
+        "pl": "/pl/projekty/artisense/badania-walidacja/"
+      },
+      "project": "artisense"
+    },
+    {
+      "id": "aifield",
+      "parent": "projects",
+      "labels": {
+        "en": "AIFIELD",
+        "pl": "AIFIELD"
+      },
+      "paths": {
+        "en": "/en/projects/aifield/",
+        "pl": "/pl/projekty/aifield/"
+      },
+      "project": "aifield"
+    },
+    {
+      "id": "aifield-design",
+      "parent": "aifield",
+      "labels": {
+        "en": "Design and Simulation",
+        "pl": "Projektowanie i symulacja"
+      },
+      "paths": {
+        "en": "/en/projects/aifield/design-simulation/",
+        "pl": "/pl/projekty/aifield/projektowanie-symulacja/"
+      },
+      "project": "aifield"
+    },
+    {
+      "id": "aifield-ai",
+      "parent": "aifield",
+      "labels": {
+        "en": "AI Workflows",
+        "pl": "Praca z AI"
+      },
+      "paths": {
+        "en": "/en/projects/aifield/ai-workflows/",
+        "pl": "/pl/projekty/aifield/praca-z-ai/"
+      },
+      "project": "aifield"
+    },
+    {
+      "id": "aifield-neural",
+      "parent": "aifield",
+      "labels": {
+        "en": "Neural Field Research",
+        "pl": "Badania neuronowych modeli pola"
+      },
+      "paths": {
+        "en": "/en/projects/aifield/neural-field-research/",
+        "pl": "/pl/projekty/aifield/badania-modeli-pola/"
+      },
+      "project": "aifield"
+    },
+    {
+      "id": "aifield-validation",
+      "parent": "aifield",
+      "labels": {
+        "en": "Examples and Validation",
+        "pl": "Przykłady i walidacja"
+      },
+      "paths": {
+        "en": "/en/projects/aifield/examples-validation/",
+        "pl": "/pl/projekty/aifield/przyklady-walidacja/"
+      },
+      "project": "aifield"
+    },
+    {
+      "id": "investors",
+      "parent": "home",
+      "labels": {
+        "en": "Investors",
+        "pl": "Dla inwestorów"
+      },
+      "paths": {
+        "en": "/en/investors/",
+        "pl": "/pl/inwestorzy/"
+      },
+      "project": null
+    },
+    {
+      "id": "approach",
+      "parent": "home",
+      "labels": {
+        "en": "Our Approach",
+        "pl": "Jak pracujemy"
+      },
+      "paths": {
+        "en": "/en/approach/",
+        "pl": "/pl/jak-pracujemy/"
+      },
+      "project": null
+    },
+    {
+      "id": "about",
+      "parent": "home",
+      "labels": {
+        "en": "About",
+        "pl": "O nas"
+      },
+      "paths": {
+        "en": "/en/about/",
+        "pl": "/pl/o-nas/"
+      },
+      "project": null
+    },
+    {
+      "id": "partnerships",
+      "parent": "home",
+      "labels": {
+        "en": "Partnerships",
+        "pl": "Współpraca"
+      },
+      "paths": {
+        "en": "/en/partnerships/",
+        "pl": "/pl/wspolpraca/"
+      },
+      "project": null
+    },
+    {
+      "id": "contact",
+      "parent": "home",
+      "labels": {
+        "en": "Contact",
+        "pl": "Kontakt"
+      },
+      "paths": {
+        "en": "/en/contact/",
+        "pl": "/pl/kontakt/"
+      },
+      "project": null
+    },
+    {
+      "id": "privacy",
+      "parent": "home",
+      "labels": {
+        "en": "Privacy",
+        "pl": "Polityka prywatności"
+      },
+      "paths": {
+        "en": "/en/privacy/",
+        "pl": "/pl/prywatnosc/"
+      },
+      "project": null
+    }
+  ],
+  "redirects": {
+    "/": "/en/",
+    "/artisense-module/": "/pl/projekty/artisense/",
+    "/about/": "/pl/o-nas/",
+    "/partners/": "/pl/wspolpraca/",
+    "/contact/": "/pl/kontakt/"
+  },
+  "redirect_status": 308,
+  "legacy_artisense_fragments": [
+    "o-module",
+    "fotonika",
+    "elektronika",
+    "technologie"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "variant": "02-inputs-only",
+  "run_group": "2026-10-10-sol-medium-pair-01",
+  "name": "artifactory-inputs-only-sol-medium",
+  "origin": "https://artifactory-inputs-only-sol-medium.coolify.threesixty.dev",
+  "model": "gpt-6-sol",
+  "reasoning_effort": "medium",
+  "source_sha256": "da0bd509cd4afbc768aec726919fb1b61529bf3e15450e16d9de4f8367fd8372",
+  "source_files": {
+    "website/package.json": "ecda5a3074f20df77163f06a6899c1ed455abd3e11347c8163eccbf9a39d818c",
+    "website/server.mjs": "a5da2745bc4d049c74d3df478771c380a2193b314505cb161e38b615b617797b",
+    "website/build.mjs": "cfa44897fd1c3ec8448af44ad34307b64749484ff74b79d2ce076e8660df13ab",
+    "website/check.mjs": "c6b0007c2beafbca02610ad64ed65c6437c38a46b1c0c895f2c78088f9928e94",
+    "website/form-check.mjs": "0b3902b6785aff2d15fa3642540141f667dd9e5bb66dde4f211e8703ad6aaef1",
+    "website/content.mjs": "e4f1e4b7d346e7c4841410e4d9bbc998d9f6fe79a8e7e1350850216757b96a66",
+    "website/app.js": "56a7078abb17473ad62393046cf0f462cc78e31a40b03ff454a0b8054c848e63",
+    "website/style.css": "443968070f1f557e60d4bf29c52b702e067ddbc50f4ed3978b5529651c00a033"
+  }
+}

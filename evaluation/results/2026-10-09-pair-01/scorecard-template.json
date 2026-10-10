@@ -1,0 +1,771 @@
+{
+  "schema_version": 1,
+  "protocol_version": "1.0",
+  "run_group": "2026-10-09-pair-01",
+  "status": "not_evaluated",
+  "review_label": null,
+  "variant": null,
+  "reviewer": {
+    "id": null,
+    "type": null,
+    "polish_proficiency": null,
+    "blind_to_condition": null,
+    "prior_exposure": null
+  },
+  "snapshot": {
+    "path": null,
+    "content_manifest_sha256": null,
+    "captured_at": null,
+    "entry_task_started_at": null,
+    "first_delivery_at": null,
+    "terminal_status": null,
+    "assisted_before_delivery": null,
+    "first_intervention_at": null
+  },
+  "environment": {
+    "os": null,
+    "runtime": null,
+    "package_manager": null,
+    "browsers": [],
+    "audit_tools": [],
+    "device_scale_factor": null,
+    "network_profile": null,
+    "cpu_profile": null,
+    "cache_policy": null
+  },
+  "viewports_css_pixels": [
+    [
+      1440,
+      900
+    ],
+    [
+      390,
+      844
+    ],
+    [
+      320,
+      640
+    ],
+    [
+      1280,
+      720
+    ]
+  ],
+  "allowed_check_statuses": [
+    "pass",
+    "partial",
+    "fail",
+    "not_tested",
+    "blocked_external",
+    "not_applicable"
+  ],
+  "rating_scale": {
+    "0": "Absent or unusable",
+    "1": "Major defects",
+    "2": "Usable with clear shortcomings",
+    "3": "Strong with minor issues",
+    "4": "Consistently polished with evidence"
+  },
+  "categories": [
+    {
+      "id": "visual",
+      "weight": 25,
+      "criteria": [
+        {
+          "id": "visual.composition",
+          "description": "Clear hierarchy and deliberately composed sections across page types",
+          "rating": null,
+          "status": "not_tested",
+          "observations": null,
+          "evidence": []
+        },
+        {
+          "id": "visual.typography",
+          "description": "Readable typography, spacing, density, and long Polish labels",
+          "rating": null,
+          "status": "not_tested",
+          "observations": null,
+          "evidence": []
+        },
+        {
+          "id": "visual.consistency",
+          "description": "Coherent supplied palette, components, and interaction states",
+          "rating": null,
+          "status": "not_tested",
+          "observations": null,
+          "evidence": []
+        },
+        {
+          "id": "visual.visuals",
+          "description": "Useful, honestly labeled diagrams/imagery and purposeful motion",
+          "rating": null,
+          "status": "not_tested",
+          "observations": null,
+          "evidence": []
+        }
+      ]
+    },
+    {
+      "id": "functionality",
+      "weight": 20,
+      "criteria": [
+        {
+          "id": "functionality.investor",
+          "description": "Complete company investment and evidence journey",
+          "rating": null,
+          "status": "not_tested",
+          "observations": null,
+          "evidence": []
+        },
+        {
+          "id": "functionality.partner_demo",
+          "description": "Complete technical partner and AIFIELD demo journeys",
+          "rating": null,
+          "status": "not_tested",
+          "observations": null,
+          "evidence": []
+        },
+        {
+          "id": "functionality.navigation",
+          "description": "Direct arrivals, navigation, refresh, language switching, history, and recovery",
+          "rating": null,
+          "status": "not_tested",
+          "observations": null,
+          "evidence": []
+        },
+        {
+          "id": "functionality.enquiry",
+          "description": "Useful enquiry context, validation, truthful acceptance/failure, retry, and email fallback",
+          "rating": null,
+          "status": "not_tested",
+          "observations": null,
+          "evidence": []
+        }
+      ]
+    },
+    {
+      "id": "content",
+      "weight": 20,
+      "criteria": [
+        {
+          "id": "content.company",
+          "description": "Clear company-level investment story and appropriate audience focus",
+          "rating": null,
+          "status": "not_tested",
+          "observations": null,
+          "evidence": []
+        },
+        {
+          "id": "content.coverage",
+          "description": "Substantive project detail and coverage of proposed page purposes, allowing justified consolidation",
+          "rating": null,
+          "status": "not_tested",
+          "observations": null,
+          "evidence": []
+        },
+        {
+          "id": "content.claims",
+          "description": "Accurate, qualified facts, evidence, maturity, asset captions, and commercial statements",
+          "rating": null,
+          "status": "not_tested",
+          "observations": null,
+          "evidence": []
+        },
+        {
+          "id": "content.bilingual",
+          "description": "Equivalent substantive English and Polish content, interface text, and error states",
+          "rating": null,
+          "status": "not_tested",
+          "observations": null,
+          "evidence": []
+        }
+      ]
+    },
+    {
+      "id": "accessibility",
+      "weight": 15,
+      "criteria": [
+        {
+          "id": "accessibility.reflow",
+          "description": "Readable desktop/mobile/narrow/short layouts without blocked content",
+          "rating": null,
+          "status": "not_tested",
+          "observations": null,
+          "evidence": []
+        },
+        {
+          "id": "accessibility.keyboard",
+          "description": "Keyboard operation, visible focus, sensible order, and usable menus",
+          "rating": null,
+          "status": "not_tested",
+          "observations": null,
+          "evidence": []
+        },
+        {
+          "id": "accessibility.semantics",
+          "description": "Meaningful structure, labels, alternatives, and screen-reader feedback",
+          "rating": null,
+          "status": "not_tested",
+          "observations": null,
+          "evidence": []
+        },
+        {
+          "id": "accessibility.adaptation",
+          "description": "Readable contrast, zoom, reduced motion, and perceivable form status/errors",
+          "rating": null,
+          "status": "not_tested",
+          "observations": null,
+          "evidence": []
+        }
+      ]
+    },
+    {
+      "id": "engineering",
+      "weight": 10,
+      "criteria": [
+        {
+          "id": "engineering.setup",
+          "description": "Reproducible documented install, build, and start",
+          "rating": null,
+          "status": "not_tested",
+          "observations": null,
+          "evidence": []
+        },
+        {
+          "id": "engineering.structure",
+          "description": "Proportionate shared presentation and content ownership with manageable duplication",
+          "rating": null,
+          "status": "not_tested",
+          "observations": null,
+          "evidence": []
+        },
+        {
+          "id": "engineering.boundaries",
+          "description": "Appropriate configuration, private/public boundaries, and enquiry data handling",
+          "rating": null,
+          "status": "not_tested",
+          "observations": null,
+          "evidence": []
+        },
+        {
+          "id": "engineering.handover",
+          "description": "Useful verification, accurate result claims, and actionable setup/blocker documentation",
+          "rating": null,
+          "status": "not_tested",
+          "observations": null,
+          "evidence": []
+        }
+      ]
+    },
+    {
+      "id": "performance",
+      "weight": 5,
+      "criteria": [
+        {
+          "id": "performance.loading",
+          "description": "Observed loading responsiveness under the fixed test profile",
+          "rating": null,
+          "status": "not_tested",
+          "observations": null,
+          "evidence": []
+        },
+        {
+          "id": "performance.stability",
+          "description": "Observed layout stability during loading and interaction",
+          "rating": null,
+          "status": "not_tested",
+          "observations": null,
+          "evidence": []
+        },
+        {
+          "id": "performance.resources",
+          "description": "Efficient assets, requests, and transferred bytes for supplied content",
+          "rating": null,
+          "status": "not_tested",
+          "observations": null,
+          "evidence": []
+        },
+        {
+          "id": "performance.consistency",
+          "description": "Consistent mobile results across representative pages and repeated measurements",
+          "rating": null,
+          "status": "not_tested",
+          "observations": null,
+          "evidence": []
+        }
+      ]
+    },
+    {
+      "id": "metadata",
+      "weight": 5,
+      "criteria": [
+        {
+          "id": "metadata.localized",
+          "description": "Appropriate localized page titles and descriptions",
+          "rating": null,
+          "status": "not_tested",
+          "observations": null,
+          "evidence": []
+        },
+        {
+          "id": "metadata.equivalence",
+          "description": "Coherent canonicals and reciprocal language relationships",
+          "rating": null,
+          "status": "not_tested",
+          "observations": null,
+          "evidence": []
+        },
+        {
+          "id": "metadata.inventory",
+          "description": "Accurate sitemap/route membership and unknown-route behavior",
+          "rating": null,
+          "status": "not_tested",
+          "observations": null,
+          "evidence": []
+        },
+        {
+          "id": "metadata.visibility",
+          "description": "Preview visibility matches intent and source/private materials stay outside public output",
+          "rating": null,
+          "status": "not_tested",
+          "observations": null,
+          "evidence": []
+        }
+      ]
+    }
+  ],
+  "critical_gates": [
+    {
+      "id": "startup",
+      "description": "Starts through documented setup",
+      "status": "not_tested",
+      "evidence": []
+    },
+    {
+      "id": "scope",
+      "description": "Both required languages and both project branches are present",
+      "status": "not_tested",
+      "evidence": []
+    },
+    {
+      "id": "journeys",
+      "description": "Core navigation and contact access work, including mobile and keyboard",
+      "status": "not_tested",
+      "evidence": []
+    },
+    {
+      "id": "delivery_truth",
+      "description": "Receipt is claimed only after acceptance",
+      "status": "not_tested",
+      "evidence": []
+    },
+    {
+      "id": "private_material",
+      "description": "No observed exposure of private material",
+      "status": "not_tested",
+      "evidence": []
+    },
+    {
+      "id": "claim_truth",
+      "description": "No material invented business or scientific evidence",
+      "status": "not_tested",
+      "evidence": []
+    }
+  ],
+  "readiness": {
+    "local_website": {
+      "status": "not_tested",
+      "limitations": [],
+      "evidence": []
+    },
+    "local_enquiry_handling": {
+      "status": "not_tested",
+      "limitations": [],
+      "evidence": []
+    },
+    "real_receiver_mailbox_delivery": {
+      "status": "not_tested",
+      "limitations": [],
+      "evidence": []
+    },
+    "publication": {
+      "status": "not_tested",
+      "limitations": [],
+      "evidence": []
+    }
+  },
+  "page_purposes": [
+    {
+      "page_id": "home",
+      "english_label": "Home",
+      "proposed_en": "/en/",
+      "proposed_pl": "/pl/",
+      "actual_en": null,
+      "actual_pl": null,
+      "consolidation_reason": null,
+      "subject_coverage": "not_tested",
+      "evidence": []
+    },
+    {
+      "page_id": "projects",
+      "english_label": "Projects",
+      "proposed_en": "/en/projects/",
+      "proposed_pl": "/pl/projekty/",
+      "actual_en": null,
+      "actual_pl": null,
+      "consolidation_reason": null,
+      "subject_coverage": "not_tested",
+      "evidence": []
+    },
+    {
+      "page_id": "artisense",
+      "english_label": "ArtiSense",
+      "proposed_en": "/en/projects/artisense/",
+      "proposed_pl": "/pl/projekty/artisense/",
+      "actual_en": null,
+      "actual_pl": null,
+      "consolidation_reason": null,
+      "subject_coverage": "not_tested",
+      "evidence": []
+    },
+    {
+      "page_id": "artisense-technology",
+      "english_label": "Technology",
+      "proposed_en": "/en/projects/artisense/technology/",
+      "proposed_pl": "/pl/projekty/artisense/technologia/",
+      "actual_en": null,
+      "actual_pl": null,
+      "consolidation_reason": null,
+      "subject_coverage": "not_tested",
+      "evidence": []
+    },
+    {
+      "page_id": "artisense-applications",
+      "english_label": "Applications",
+      "proposed_en": "/en/projects/artisense/applications/",
+      "proposed_pl": "/pl/projekty/artisense/zastosowania/",
+      "actual_en": null,
+      "actual_pl": null,
+      "consolidation_reason": null,
+      "subject_coverage": "not_tested",
+      "evidence": []
+    },
+    {
+      "page_id": "artisense-validation",
+      "english_label": "Research and Validation",
+      "proposed_en": "/en/projects/artisense/research-validation/",
+      "proposed_pl": "/pl/projekty/artisense/badania-walidacja/",
+      "actual_en": null,
+      "actual_pl": null,
+      "consolidation_reason": null,
+      "subject_coverage": "not_tested",
+      "evidence": []
+    },
+    {
+      "page_id": "aifield",
+      "english_label": "AIFIELD",
+      "proposed_en": "/en/projects/aifield/",
+      "proposed_pl": "/pl/projekty/aifield/",
+      "actual_en": null,
+      "actual_pl": null,
+      "consolidation_reason": null,
+      "subject_coverage": "not_tested",
+      "evidence": []
+    },
+    {
+      "page_id": "aifield-design",
+      "english_label": "Design and Simulation",
+      "proposed_en": "/en/projects/aifield/design-simulation/",
+      "proposed_pl": "/pl/projekty/aifield/projektowanie-symulacja/",
+      "actual_en": null,
+      "actual_pl": null,
+      "consolidation_reason": null,
+      "subject_coverage": "not_tested",
+      "evidence": []
+    },
+    {
+      "page_id": "aifield-ai",
+      "english_label": "AI Workflows",
+      "proposed_en": "/en/projects/aifield/ai-workflows/",
+      "proposed_pl": "/pl/projekty/aifield/praca-z-ai/",
+      "actual_en": null,
+      "actual_pl": null,
+      "consolidation_reason": null,
+      "subject_coverage": "not_tested",
+      "evidence": []
+    },
+    {
+      "page_id": "aifield-neural",
+      "english_label": "Neural Field Research",
+      "proposed_en": "/en/projects/aifield/neural-field-research/",
+      "proposed_pl": "/pl/projekty/aifield/badania-modeli-pola/",
+      "actual_en": null,
+      "actual_pl": null,
+      "consolidation_reason": null,
+      "subject_coverage": "not_tested",
+      "evidence": []
+    },
+    {
+      "page_id": "aifield-validation",
+      "english_label": "Examples and Validation",
+      "proposed_en": "/en/projects/aifield/examples-validation/",
+      "proposed_pl": "/pl/projekty/aifield/przyklady-walidacja/",
+      "actual_en": null,
+      "actual_pl": null,
+      "consolidation_reason": null,
+      "subject_coverage": "not_tested",
+      "evidence": []
+    },
+    {
+      "page_id": "investors",
+      "english_label": "Investors",
+      "proposed_en": "/en/investors/",
+      "proposed_pl": "/pl/inwestorzy/",
+      "actual_en": null,
+      "actual_pl": null,
+      "consolidation_reason": null,
+      "subject_coverage": "not_tested",
+      "evidence": []
+    },
+    {
+      "page_id": "approach",
+      "english_label": "Our Approach",
+      "proposed_en": "/en/approach/",
+      "proposed_pl": "/pl/jak-pracujemy/",
+      "actual_en": null,
+      "actual_pl": null,
+      "consolidation_reason": null,
+      "subject_coverage": "not_tested",
+      "evidence": []
+    },
+    {
+      "page_id": "about",
+      "english_label": "About",
+      "proposed_en": "/en/about/",
+      "proposed_pl": "/pl/o-nas/",
+      "actual_en": null,
+      "actual_pl": null,
+      "consolidation_reason": null,
+      "subject_coverage": "not_tested",
+      "evidence": []
+    },
+    {
+      "page_id": "partnerships",
+      "english_label": "Partnerships",
+      "proposed_en": "/en/partnerships/",
+      "proposed_pl": "/pl/wspolpraca/",
+      "actual_en": null,
+      "actual_pl": null,
+      "consolidation_reason": null,
+      "subject_coverage": "not_tested",
+      "evidence": []
+    },
+    {
+      "page_id": "contact",
+      "english_label": "Contact",
+      "proposed_en": "/en/contact/",
+      "proposed_pl": "/pl/kontakt/",
+      "actual_en": null,
+      "actual_pl": null,
+      "consolidation_reason": null,
+      "subject_coverage": "not_tested",
+      "evidence": []
+    },
+    {
+      "page_id": "privacy",
+      "english_label": "Privacy",
+      "proposed_en": "/en/privacy/",
+      "proposed_pl": "/pl/prywatnosc/",
+      "actual_en": null,
+      "actual_pl": null,
+      "consolidation_reason": null,
+      "subject_coverage": "not_tested",
+      "evidence": []
+    }
+  ],
+  "checks": [
+    {
+      "id": "E01",
+      "name": "Clean setup and build",
+      "status": "not_tested",
+      "conditions": null,
+      "observations": null,
+      "evidence": []
+    },
+    {
+      "id": "E02",
+      "name": "Scope and routes",
+      "status": "not_tested",
+      "conditions": null,
+      "observations": null,
+      "evidence": []
+    },
+    {
+      "id": "E03",
+      "name": "Investor journey",
+      "status": "not_tested",
+      "conditions": null,
+      "observations": null,
+      "evidence": []
+    },
+    {
+      "id": "E04",
+      "name": "Partner and demo journeys",
+      "status": "not_tested",
+      "conditions": null,
+      "observations": null,
+      "evidence": []
+    },
+    {
+      "id": "E05",
+      "name": "Language and history",
+      "status": "not_tested",
+      "conditions": null,
+      "observations": null,
+      "evidence": []
+    },
+    {
+      "id": "E06",
+      "name": "Contact states",
+      "status": "not_tested",
+      "conditions": null,
+      "observations": null,
+      "evidence": []
+    },
+    {
+      "id": "E07",
+      "name": "Claim and asset audit",
+      "status": "not_tested",
+      "conditions": null,
+      "observations": null,
+      "evidence": []
+    },
+    {
+      "id": "E08",
+      "name": "Visual comparison",
+      "status": "not_tested",
+      "conditions": null,
+      "observations": null,
+      "evidence": []
+    },
+    {
+      "id": "E09",
+      "name": "Responsive and accessible use",
+      "status": "not_tested",
+      "conditions": null,
+      "observations": null,
+      "evidence": []
+    },
+    {
+      "id": "E10",
+      "name": "Performance",
+      "status": "not_tested",
+      "conditions": null,
+      "observations": null,
+      "evidence": []
+    },
+    {
+      "id": "E11",
+      "name": "Metadata and visibility",
+      "status": "not_tested",
+      "conditions": null,
+      "observations": null,
+      "evidence": []
+    },
+    {
+      "id": "E12",
+      "name": "Source and handover review",
+      "status": "not_tested",
+      "conditions": null,
+      "observations": null,
+      "evidence": []
+    }
+  ],
+  "legacy_entries": {
+    "/": "/en/",
+    "/artisense-module/": "/pl/projekty/artisense/",
+    "/about/": "/pl/o-nas/",
+    "/partners/": "/pl/wspolpraca/",
+    "/contact/": "/pl/kontakt/"
+  },
+  "legacy_artisense_fragments": [
+    "o-module",
+    "fotonika",
+    "elektronika",
+    "technologie"
+  ],
+  "defects": [],
+  "defect_record_fields": [
+    "id",
+    "severity",
+    "primary_criterion",
+    "affected_routes_locales",
+    "steps",
+    "expected",
+    "actual",
+    "evidence",
+    "baseline_or_repair"
+  ],
+  "instruction_compliance": {
+    "source_package": null,
+    "requirements": [],
+    "cross_condition_score": null
+  },
+  "metrics": {
+    "run_interval": {
+      "start": null,
+      "end": null,
+      "selection_evidence": []
+    },
+    "requested_model": "gpt-6-astra",
+    "requested_reasoning_effort": "xhigh",
+    "models_observed": [],
+    "dispatch_to_start_seconds": null,
+    "delivery_wall_seconds": null,
+    "completed_or_interrupted_turn_union_seconds": null,
+    "tool_wait_union_seconds": null,
+    "tokens": {
+      "input_tokens": null,
+      "cached_input_tokens": null,
+      "cache_write_input_tokens": null,
+      "output_tokens": null,
+      "reasoning_output_tokens": null,
+      "total_tokens": null
+    },
+    "responses_missing_token_fields": null,
+    "tool_calls": null,
+    "tool_calls_by_name": null,
+    "interrupted_turns": null,
+    "operator_interventions_confirmed": null,
+    "operator_minutes": null,
+    "human_intervention_records": [],
+    "pure_reasoning_seconds": null,
+    "gateway_cost_usd": null,
+    "cost_evidence_kind": null,
+    "cost_evidence": [],
+    "common_preparation": {
+      "tokens": null,
+      "human_minutes": null,
+      "cost_usd": null,
+      "evidence": []
+    },
+    "variant_preparation": {
+      "tokens": null,
+      "human_minutes": null,
+      "cost_usd": null,
+      "evidence": []
+    },
+    "performance_measurements": [],
+    "measurement_limitations": []
+  },
+  "summary": {
+    "category_scores": null,
+    "quality_score": null,
+    "incomplete_score_interval": null,
+    "critical_failures": null,
+    "major_defects": null,
+    "minor_defects": null,
+    "most_consequential_differences": []
+  },
+  "repair_rounds": []
+}

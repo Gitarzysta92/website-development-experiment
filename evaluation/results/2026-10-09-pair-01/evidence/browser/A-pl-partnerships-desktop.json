@@ -1,0 +1,319 @@
+{
+  "id": "A-pl-partnerships-desktop",
+  "label": "A",
+  "locale": "pl",
+  "pageId": "partnerships",
+  "view": "desktop",
+  "url": "http://127.0.0.1:4501/pl/wspolpraca/",
+  "status": 200,
+  "errors": [],
+  "title": "Zaproponuj pytanie do zbadania. | Artifactory",
+  "language": "pl",
+  "h1": [
+    "Zaproponuj pytanie do zbadania."
+  ],
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Zaproponuj pytanie do zbadania."
+    },
+    {
+      "level": "H2",
+      "text": "Pomiary i odpowiedź optyczna."
+    },
+    {
+      "level": "H2",
+      "text": "Połącz projekt ze strukturą do zbadania."
+    },
+    {
+      "level": "H2",
+      "text": "Oceń proces inżynierski."
+    },
+    {
+      "level": "H2",
+      "text": "Nadaj pierwszej rozmowie potrzebny kontekst."
+    },
+    {
+      "level": "H2",
+      "text": "Zacznijmy od konkretnej rozmowy."
+    },
+    {
+      "level": "H2",
+      "text": "Firma"
+    },
+    {
+      "level": "H2",
+      "text": "Projekty"
+    },
+    {
+      "level": "H2",
+      "text": "Porozmawiajmy"
+    }
+  ],
+  "text": "Przejdź do treści\nWersja lokalna · Badania w toku\na·\nartifactory\nProjekty\n⌄\nDla inwestorów\nJak pracujemy\nO nas\nEN\n↔\nPorozmawiajmy\n↗\nStrona główna\nWspółpraca\n\nARTIFACTORY / FIRMA\n\nZaproponuj pytanie do zbadania.\n\nUżyteczna współpraca zaczyna się od konkretnego pytania technicznego i wiedzy potrzebnej do udzielenia odpowiedzi.\n\nNa tej stronie\n\nPomiary i odpowiedź optyczna.\nPołącz projekt ze strukturą do zbadania.\nOceń proces inżynierski.\nNadaj pierwszej rozmowie potrzebny kontekst.\n\nArtifactory\n\nArtiSense\n\nCel pomiarowy\n\nAIFIELD\n\nNarzędzia projektowania\n\nKoncepcyjne powiązanie prac. Etap i dowody każdego projektu wymagają osobnej oceny.\nPomiary i odpowiedź optyczna.\n\nMożliwe rozmowy o ArtiSense dotyczą poszukiwanej odpowiedzi optycznej, właściwego porównania odniesienia i wpływów mogących przesłonić sygnał. Wiedza o kontrolowanych pomiarach, kalibracji i powtarzalności może pomóc określić wymagania wartościowego eksperymentu.\n\nOpisz kontekst zastosowania i obserwację, którą możesz pomóc ocenić. Ambicje nieinwazyjne i ubieralne pozostają kierunkami badań; nie oznaczają pilotażu klinicznego ani zwalidowanej zdolności pomiarowej.\n\nTechnologia\n↗\nBadania i walidacja\n↗\nPołącz projekt ze strukturą do zbadania.\n\nPotencjalne tematy wytwarzania i testowania obejmują założenia procesu, tolerancje, zachowanie materiałów i warunki porównania struktury fizycznej z modelem. Pierwszym zadaniem jest wskazanie miejsc, w których założenia projektu mogą zawieść przy realizacji.\n\nSą to proponowane obszary rozmowy. Dostarczony materiał nie potwierdza umowy produkcyjnej, uzgodnionego programu testów ani istniejącej relacji partnerskiej.\n\nOceń proces inżynierski.\n\nW przypadku AIFIELD użyteczna ocena zaczyna się od ograniczonego zadania projektowego: danych, oczekiwanego wyniku i metody odniesienia. Projektanci fotoniki mogą pomóc ocenić wsparcie przygotowania, porównania i analizy rezultatów.\n\nInformacja zwrotna o pracy przez wiersz poleceń lub z agentem powinna obejmować odpowiedzialność człowieka i granice przetwarzania lokalnego oraz zewnętrznego. Prośba o demo rozpoczyna rozmowę o dostępie i zakresie, nie daje natychmiastowego dostępu do produktu.\n\nProjektowanie i symulacja\n↗\nPrzykłady i walidacja\n↗\nNadaj pierwszej rozmowie potrzebny kontekst.\n\nWskaż pytanie, wiedzę lub zaplecze, które możesz wnieść, oraz dowody potrzebne do oceny postępu. Określ ograniczenia udostępniania przed przesłaniem plików projektowych lub nieopublikowanych danych. Wystarczy krótki niepoufny opis.\n\nTematy na stronie zapraszają do oceny możliwości współpracy. Nie stanowią dowodu istnienia partnerów, klientów, listów intencyjnych ani uzgodnionych pilotaży. Każda relacja i zgoda na jej publiczny opis wymagają osobnego potwierdzenia.\n\nKontakt\n↗\nZacznijmy od konkretnej rozmowy.\nPorozmawiajmy o współpracy\n↗\nartifactory·\n\nTechnologie pomiarowe i narzędzia do projektowania systemów fotonicznych.\n\ninfo@artifactory.tech\n↗\nFirma\nStrona główna\nProjekty\nDla inwestorów\nJak pracujemy\nO nas\nProjekty\nArtiSense\nAIFIELD\nPorozmawiajmy\nWspółpraca\nKontakt\nPolityka prywatności\nArtifactory\nŚwiatło otwiera nowe możliwości.",
+  "links": [
+    {
+      "text": "Przejdź do treści",
+      "href": "#main",
+      "lang": ""
+    },
+    {
+      "text": "a·\nartifactory",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/pl/projekty/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/pl/projekty/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/pl/projekty/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Dla inwestorów",
+      "href": "/pl/inwestorzy/",
+      "lang": ""
+    },
+    {
+      "text": "Jak pracujemy",
+      "href": "/pl/jak-pracujemy/",
+      "lang": ""
+    },
+    {
+      "text": "O nas",
+      "href": "/pl/o-nas/",
+      "lang": ""
+    },
+    {
+      "text": "Współpraca",
+      "href": "/pl/wspolpraca/",
+      "lang": ""
+    },
+    {
+      "text": "Kontakt",
+      "href": "/pl/kontakt/",
+      "lang": ""
+    },
+    {
+      "text": "EN\n↔",
+      "href": "http://127.0.0.1:4501/en/partnerships/",
+      "lang": "en"
+    },
+    {
+      "text": "Porozmawiajmy\n↗",
+      "href": "/pl/kontakt/?intent=investment",
+      "lang": ""
+    },
+    {
+      "text": "Strona główna",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "Pomiary i odpowiedź optyczna.",
+      "href": "#sensing",
+      "lang": ""
+    },
+    {
+      "text": "Połącz projekt ze strukturą do zbadania.",
+      "href": "#fabrication",
+      "lang": ""
+    },
+    {
+      "text": "Oceń proces inżynierski.",
+      "href": "#tools",
+      "lang": ""
+    },
+    {
+      "text": "Nadaj pierwszej rozmowie potrzebny kontekst.",
+      "href": "#context",
+      "lang": ""
+    },
+    {
+      "text": "Technologia\n↗",
+      "href": "/pl/projekty/artisense/technologia/",
+      "lang": ""
+    },
+    {
+      "text": "Badania i walidacja\n↗",
+      "href": "/pl/projekty/artisense/badania-walidacja/",
+      "lang": ""
+    },
+    {
+      "text": "Projektowanie i symulacja\n↗",
+      "href": "/pl/projekty/aifield/projektowanie-symulacja/",
+      "lang": ""
+    },
+    {
+      "text": "Przykłady i walidacja\n↗",
+      "href": "/pl/projekty/aifield/przyklady-walidacja/",
+      "lang": ""
+    },
+    {
+      "text": "Kontakt\n↗",
+      "href": "/pl/kontakt/",
+      "lang": ""
+    },
+    {
+      "text": "Porozmawiajmy o współpracy\n↗",
+      "href": "/pl/kontakt/?intent=partnership",
+      "lang": ""
+    },
+    {
+      "text": "artifactory·",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "info@artifactory.tech\n↗",
+      "href": "mailto:info@artifactory.tech",
+      "lang": ""
+    },
+    {
+      "text": "Strona główna",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "Projekty",
+      "href": "/pl/projekty/",
+      "lang": ""
+    },
+    {
+      "text": "Dla inwestorów",
+      "href": "/pl/inwestorzy/",
+      "lang": ""
+    },
+    {
+      "text": "Jak pracujemy",
+      "href": "/pl/jak-pracujemy/",
+      "lang": ""
+    },
+    {
+      "text": "O nas",
+      "href": "/pl/o-nas/",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSense",
+      "href": "/pl/projekty/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELD",
+      "href": "/pl/projekty/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Współpraca",
+      "href": "/pl/wspolpraca/",
+      "lang": ""
+    },
+    {
+      "text": "Kontakt",
+      "href": "/pl/kontakt/",
+      "lang": ""
+    },
+    {
+      "text": "Polityka prywatności",
+      "href": "/pl/prywatnosc/",
+      "lang": ""
+    }
+  ],
+  "metadata": [
+    {
+      "name": "viewport",
+      "content": "width=device-width, initial-scale=1"
+    },
+    {
+      "name": "description",
+      "content": "Proponowane tematy współpracy Artifactory: pomiary optyczne, wytwarzanie i testowanie oraz ocena narzędzi inżynierii fotonicznej."
+    },
+    {
+      "name": "robots",
+      "content": "noindex, nofollow"
+    },
+    {
+      "rel": "canonical",
+      "href": "http://127.0.0.1:4501/pl/wspolpraca/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "en",
+      "href": "http://127.0.0.1:4501/en/partnerships/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "pl",
+      "href": "http://127.0.0.1:4501/pl/wspolpraca/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "x-default",
+      "href": "http://127.0.0.1:4501/en/partnerships/"
+    },
+    {
+      "property": "og:type",
+      "content": "website"
+    },
+    {
+      "property": "og:site_name",
+      "content": "Artifactory"
+    },
+    {
+      "property": "og:title",
+      "content": "Zaproponuj pytanie do zbadania. | Artifactory"
+    },
+    {
+      "property": "og:description",
+      "content": "Proponowane tematy współpracy Artifactory: pomiary optyczne, wytwarzanie i testowanie oraz ocena narzędzi inżynierii fotonicznej."
+    },
+    {
+      "property": "og:url",
+      "content": "http://127.0.0.1:4501/pl/wspolpraca/"
+    },
+    {
+      "property": "og:locale",
+      "content": "pl_PL"
+    },
+    {
+      "property": "og:image",
+      "content": "http://127.0.0.1:4501/brand/share-v1.svg"
+    },
+    {
+      "property": "og:image:width",
+      "content": "1200"
+    },
+    {
+      "property": "og:image:height",
+      "content": "630"
+    }
+  ],
+  "forms": [],
+  "images": [],
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "scrollWidth": 1425
+  },
+  "overflowing": [],
+  "axe": {
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "impact": "serious",
+        "nodeCount": 7
+      }
+    ],
+    "passes": 39
+  }
+}

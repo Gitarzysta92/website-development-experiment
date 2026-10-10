@@ -1,0 +1,13 @@
+---
+import type {PageView} from '../../content/index';
+import PageIntro from '../../partials/PageIntro.astro';
+import ProjectClosing from '../../partials/ProjectClosing.astro';
+import ProjectFrame from '../../layouts/ProjectFrame.astro';
+import FlowDiagram from '../../components/ui/FlowDiagram.astro';
+import ConceptVisual from '../../components/ui/ConceptVisual.astro';
+import Sections from '../Sections.astro';
+import diagram from './diagram.json';
+interface Props{page:PageView;}const {page}=Astro.props;const pl=page.locale==='pl';
+---
+<PageIntro page={page}/><ProjectFrame page={page}><figure class="research-visual"><ConceptVisual kind="field" label={pl?'Koncepcyjny rysunek pola; nie przedstawia wyniku symulacji.':'Conceptual field drawing; it does not show a simulation result.'} labels={pl?['BADANIA / KONCEPCJA','ILUSTRACJA BEZ DANYCH POMIAROWYCH']:['RESEARCH / CONCEPT','ILLUSTRATION WITHOUT MEASUREMENT DATA']}/><figcaption>{pl?'Ilustracja koncepcyjna. Krzywe nie są danymi ani dowodem dokładności.':'Concept illustration. Curves are not data or evidence of accuracy.'}</figcaption></figure><FlowDiagram steps={diagram[page.locale]} caption={pl?'Diagram objaśniający koncepcję, nie interfejs programu ani wynik eksperymentu.':'Explanatory concept diagram, not a software interface or experimental result.'}/><Sections page={page}/></ProjectFrame><ProjectClosing page={page}/>
+<style>.research-visual{margin-bottom:40px}.research-visual figcaption{font-size:16px;color:var(--af-muted);margin-top:16px}</style>

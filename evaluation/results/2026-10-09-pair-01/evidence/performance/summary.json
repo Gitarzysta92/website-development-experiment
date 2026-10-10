@@ -1,0 +1,648 @@
+{
+  "A": {
+    "samples": 30,
+    "errors": [],
+    "overall": {
+      "score": {
+        "median": 1.0,
+        "min": 1,
+        "max": 1
+      },
+      "lcp_ms": {
+        "median": 1052.44475,
+        "min": 1051.424,
+        "max": 1203.89
+      },
+      "cls": {
+        "median": 0.0,
+        "min": 0,
+        "max": 0
+      },
+      "tbt_ms": {
+        "median": 0.0,
+        "min": 0,
+        "max": 0
+      },
+      "transfer_bytes": {
+        "median": 52493.5,
+        "min": 47587,
+        "max": 61714
+      }
+    },
+    "pages": [
+      {
+        "page": "aifield",
+        "locale": "en",
+        "score": {
+          "median": 1,
+          "min": 1,
+          "max": 1
+        },
+        "lcp_ms": {
+          "median": 1051.946,
+          "min": 1051.576,
+          "max": 1052.3315
+        },
+        "cls": {
+          "median": 0,
+          "min": 0,
+          "max": 0
+        },
+        "tbt_ms": {
+          "median": 0,
+          "min": 0,
+          "max": 0
+        },
+        "transfer_bytes": {
+          "median": 47964,
+          "min": 47964,
+          "max": 47964
+        }
+      },
+      {
+        "page": "aifield",
+        "locale": "pl",
+        "score": {
+          "median": 1,
+          "min": 1,
+          "max": 1
+        },
+        "lcp_ms": {
+          "median": 1052.168,
+          "min": 1051.9643,
+          "max": 1052.316
+        },
+        "cls": {
+          "median": 0,
+          "min": 0,
+          "max": 0
+        },
+        "tbt_ms": {
+          "median": 0,
+          "min": 0,
+          "max": 0
+        },
+        "transfer_bytes": {
+          "median": 48195,
+          "min": 48195,
+          "max": 48195
+        }
+      },
+      {
+        "page": "artisense",
+        "locale": "en",
+        "score": {
+          "median": 1,
+          "min": 1,
+          "max": 1
+        },
+        "lcp_ms": {
+          "median": 1202.012,
+          "min": 1201.52,
+          "max": 1202.2509
+        },
+        "cls": {
+          "median": 0,
+          "min": 0,
+          "max": 0
+        },
+        "tbt_ms": {
+          "median": 0,
+          "min": 0,
+          "max": 0
+        },
+        "transfer_bytes": {
+          "median": 52113,
+          "min": 52113,
+          "max": 52113
+        }
+      },
+      {
+        "page": "artisense",
+        "locale": "pl",
+        "score": {
+          "median": 1,
+          "min": 1,
+          "max": 1
+        },
+        "lcp_ms": {
+          "median": 1202.0776,
+          "min": 1201.72,
+          "max": 1203.89
+        },
+        "cls": {
+          "median": 0,
+          "min": 0,
+          "max": 0
+        },
+        "tbt_ms": {
+          "median": 0,
+          "min": 0,
+          "max": 0
+        },
+        "transfer_bytes": {
+          "median": 53974,
+          "min": 53974,
+          "max": 53974
+        }
+      },
+      {
+        "page": "artisense-validation",
+        "locale": "en",
+        "score": {
+          "median": 1,
+          "min": 1,
+          "max": 1
+        },
+        "lcp_ms": {
+          "median": 1052.3108,
+          "min": 1051.914,
+          "max": 1052.558
+        },
+        "cls": {
+          "median": 0,
+          "min": 0,
+          "max": 0
+        },
+        "tbt_ms": {
+          "median": 0,
+          "min": 0,
+          "max": 0
+        },
+        "transfer_bytes": {
+          "median": 47587,
+          "min": 47587,
+          "max": 47587
+        }
+      },
+      {
+        "page": "artisense-validation",
+        "locale": "pl",
+        "score": {
+          "median": 1,
+          "min": 1,
+          "max": 1
+        },
+        "lcp_ms": {
+          "median": 1051.826,
+          "min": 1051.638,
+          "max": 1052.2674
+        },
+        "cls": {
+          "median": 0,
+          "min": 0,
+          "max": 0
+        },
+        "tbt_ms": {
+          "median": 0,
+          "min": 0,
+          "max": 0
+        },
+        "transfer_bytes": {
+          "median": 47738,
+          "min": 47738,
+          "max": 47738
+        }
+      },
+      {
+        "page": "contact",
+        "locale": "en",
+        "score": {
+          "median": 1,
+          "min": 1,
+          "max": 1
+        },
+        "lcp_ms": {
+          "median": 1051.518,
+          "min": 1051.424,
+          "max": 1055.0951
+        },
+        "cls": {
+          "median": 0,
+          "min": 0,
+          "max": 0
+        },
+        "tbt_ms": {
+          "median": 0,
+          "min": 0,
+          "max": 0
+        },
+        "transfer_bytes": {
+          "median": 52874,
+          "min": 52874,
+          "max": 52874
+        }
+      },
+      {
+        "page": "contact",
+        "locale": "pl",
+        "score": {
+          "median": 1,
+          "min": 1,
+          "max": 1
+        },
+        "lcp_ms": {
+          "median": 1051.674,
+          "min": 1051.652,
+          "max": 1052.7597
+        },
+        "cls": {
+          "median": 0,
+          "min": 0,
+          "max": 0
+        },
+        "tbt_ms": {
+          "median": 0,
+          "min": 0,
+          "max": 0
+        },
+        "transfer_bytes": {
+          "median": 53074,
+          "min": 53074,
+          "max": 53074
+        }
+      },
+      {
+        "page": "home",
+        "locale": "en",
+        "score": {
+          "median": 1,
+          "min": 1,
+          "max": 1
+        },
+        "lcp_ms": {
+          "median": 1201.717,
+          "min": 1201.663,
+          "max": 1201.8333
+        },
+        "cls": {
+          "median": 0,
+          "min": 0,
+          "max": 0
+        },
+        "tbt_ms": {
+          "median": 0,
+          "min": 0,
+          "max": 0
+        },
+        "transfer_bytes": {
+          "median": 61473,
+          "min": 61473,
+          "max": 61473
+        }
+      },
+      {
+        "page": "home",
+        "locale": "pl",
+        "score": {
+          "median": 1,
+          "min": 1,
+          "max": 1
+        },
+        "lcp_ms": {
+          "median": 1201.741,
+          "min": 1201.552,
+          "max": 1202.112
+        },
+        "cls": {
+          "median": 0,
+          "min": 0,
+          "max": 0
+        },
+        "tbt_ms": {
+          "median": 0,
+          "min": 0,
+          "max": 0
+        },
+        "transfer_bytes": {
+          "median": 61714,
+          "min": 61714,
+          "max": 61714
+        }
+      }
+    ]
+  },
+  "B": {
+    "samples": 30,
+    "errors": [],
+    "overall": {
+      "score": {
+        "median": 0.99,
+        "min": 0.95,
+        "max": 1
+      },
+      "lcp_ms": {
+        "median": 2101.23558734545,
+        "min": 1650.807,
+        "max": 2551.2117537469508
+      },
+      "cls": {
+        "median": 0.0,
+        "min": 0,
+        "max": 0
+      },
+      "tbt_ms": {
+        "median": 0.0,
+        "min": 0,
+        "max": 0
+      },
+      "transfer_bytes": {
+        "median": 181424.0,
+        "min": 116463,
+        "max": 282622
+      }
+    },
+    "pages": [
+      {
+        "page": "aifield",
+        "locale": "en",
+        "score": {
+          "median": 0.99,
+          "min": 0.99,
+          "max": 0.99
+        },
+        "lcp_ms": {
+          "median": 1801.128,
+          "min": 1800.9450000000002,
+          "max": 1801.44705
+        },
+        "cls": {
+          "median": 0,
+          "min": 0,
+          "max": 0
+        },
+        "tbt_ms": {
+          "median": 0,
+          "min": 0,
+          "max": 0
+        },
+        "transfer_bytes": {
+          "median": 125596,
+          "min": 125596,
+          "max": 125596
+        }
+      },
+      {
+        "page": "aifield",
+        "locale": "pl",
+        "score": {
+          "median": 0.99,
+          "min": 0.99,
+          "max": 0.99
+        },
+        "lcp_ms": {
+          "median": 1950.915,
+          "min": 1950.885,
+          "max": 1951.0371
+        },
+        "cls": {
+          "median": 0,
+          "min": 0,
+          "max": 0
+        },
+        "tbt_ms": {
+          "median": 0,
+          "min": 0,
+          "max": 0
+        },
+        "transfer_bytes": {
+          "median": 155497,
+          "min": 155497,
+          "max": 155497
+        }
+      },
+      {
+        "page": "artisense",
+        "locale": "en",
+        "score": {
+          "median": 0.99,
+          "min": 0.99,
+          "max": 0.99
+        },
+        "lcp_ms": {
+          "median": 2101.2690000000002,
+          "min": 2101.098,
+          "max": 2101.5143793032476
+        },
+        "cls": {
+          "median": 0,
+          "min": 0,
+          "max": 0
+        },
+        "tbt_ms": {
+          "median": 0,
+          "min": 0,
+          "max": 0
+        },
+        "transfer_bytes": {
+          "median": 181238,
+          "min": 181238,
+          "max": 181238
+        }
+      },
+      {
+        "page": "artisense",
+        "locale": "pl",
+        "score": {
+          "median": 0.97,
+          "min": 0.97,
+          "max": 0.97
+        },
+        "lcp_ms": {
+          "median": 2251.239,
+          "min": 2251.239,
+          "max": 2251.5416999999998
+        },
+        "cls": {
+          "median": 0,
+          "min": 0,
+          "max": 0
+        },
+        "tbt_ms": {
+          "median": 0,
+          "min": 0,
+          "max": 0
+        },
+        "transfer_bytes": {
+          "median": 211195,
+          "min": 211195,
+          "max": 211195
+        }
+      },
+      {
+        "page": "artisense-validation",
+        "locale": "en",
+        "score": {
+          "median": 0.99,
+          "min": 0.99,
+          "max": 0.99
+        },
+        "lcp_ms": {
+          "median": 2101.2021746908995,
+          "min": 2100.741,
+          "max": 2101.3019999999997
+        },
+        "cls": {
+          "median": 0,
+          "min": 0,
+          "max": 0
+        },
+        "tbt_ms": {
+          "median": 0,
+          "min": 0,
+          "max": 0
+        },
+        "transfer_bytes": {
+          "median": 181610,
+          "min": 181610,
+          "max": 181610
+        }
+      },
+      {
+        "page": "artisense-validation",
+        "locale": "pl",
+        "score": {
+          "median": 0.97,
+          "min": 0.97,
+          "max": 0.97
+        },
+        "lcp_ms": {
+          "median": 2250.93,
+          "min": 2250.87,
+          "max": 2251.362662703677
+        },
+        "cls": {
+          "median": 0,
+          "min": 0,
+          "max": 0
+        },
+        "tbt_ms": {
+          "median": 0,
+          "min": 0,
+          "max": 0
+        },
+        "transfer_bytes": {
+          "median": 211405,
+          "min": 211405,
+          "max": 211405
+        }
+      },
+      {
+        "page": "contact",
+        "locale": "en",
+        "score": {
+          "median": 1,
+          "min": 1,
+          "max": 1
+        },
+        "lcp_ms": {
+          "median": 1651.5390000000002,
+          "min": 1650.807,
+          "max": 1651.57485
+        },
+        "cls": {
+          "median": 0,
+          "min": 0,
+          "max": 0
+        },
+        "tbt_ms": {
+          "median": 0,
+          "min": 0,
+          "max": 0
+        },
+        "transfer_bytes": {
+          "median": 116463,
+          "min": 116463,
+          "max": 116463
+        }
+      },
+      {
+        "page": "contact",
+        "locale": "pl",
+        "score": {
+          "median": 0.99,
+          "min": 0.99,
+          "max": 0.99
+        },
+        "lcp_ms": {
+          "median": 1800.9869999999999,
+          "min": 1800.915,
+          "max": 1801.6302
+        },
+        "cls": {
+          "median": 0,
+          "min": 0,
+          "max": 0
+        },
+        "tbt_ms": {
+          "median": 0,
+          "min": 0,
+          "max": 0
+        },
+        "transfer_bytes": {
+          "median": 146298,
+          "min": 146298,
+          "max": 146298
+        }
+      },
+      {
+        "page": "home",
+        "locale": "en",
+        "score": {
+          "median": 0.97,
+          "min": 0.97,
+          "max": 0.97
+        },
+        "lcp_ms": {
+          "median": 2401.1639999999998,
+          "min": 2400.771,
+          "max": 2401.342194258087
+        },
+        "cls": {
+          "median": 0,
+          "min": 0,
+          "max": 0
+        },
+        "tbt_ms": {
+          "median": 0,
+          "min": 0,
+          "max": 0
+        },
+        "transfer_bytes": {
+          "median": 252751,
+          "min": 252751,
+          "max": 252751
+        }
+      },
+      {
+        "page": "home",
+        "locale": "pl",
+        "score": {
+          "median": 0.95,
+          "min": 0.95,
+          "max": 0.95
+        },
+        "lcp_ms": {
+          "median": 2551.0260000000003,
+          "min": 2550.8549999999996,
+          "max": 2551.2117537469508
+        },
+        "cls": {
+          "median": 0,
+          "min": 0,
+          "max": 0
+        },
+        "tbt_ms": {
+          "median": 0,
+          "min": 0,
+          "max": 0
+        },
+        "transfer_bytes": {
+          "median": 282622,
+          "min": 282622,
+          "max": 282622
+        }
+      }
+    ]
+  }
+}

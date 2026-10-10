@@ -1,0 +1,7 @@
+# Runtime and local recovery
+
+The project uses Astro 7.3.8, the Node adapter 11.1.7 and a loopback preview wrapper in `scripts/runtime/server.mjs`. The wrapper serves the built Astro handler, adds preview noindex/no-store and security headers to static and dynamic responses, and handles the five known path redirects. `src/middleware.ts` covers dynamic responses within Astro. Source inputs, compiled prompts and research references remain outside `website/public/` and `dist/client/`.
+
+`npm run build` preserves the previous `dist/` while building and restores it after a failure. `npm run build:published` fails before touching the built preview because factual/language reviews, permissions, privacy/receiver approvals and a canonical origin have not been provided. Rebuild with `npm run build`, restart `npm run start`, and inspect `/en/` if generated output is damaged. Do not edit `dist/`; edit `src/` and rebuild. `npm ci` restores exact package-lock dependencies. A locally running process does not update its endpoint code on rebuild; restart after server changes.
+
+The assigned host initially had Node 22.17.1 and npm 10.9.2. The package-pinned Node 24.21.0/npm 11.19.0 was subsequently installed with nvm. `npm ci`, type check, unit tests, build, link and bundle checks, resource check, built server startup and Chromium suite then passed on the pinned runtime. Earlier Node 22 observations remain in the execution history.

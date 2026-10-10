@@ -1,0 +1,20 @@
+[
+  {
+    "variant": "01-detailed",
+    "run_group": "2026-10-10-sol-medium-pair-01",
+    "name": "artifactory-detailed-sol-medium",
+    "origin": "https://artifactory-detailed-sol-medium.coolify.threesixty.dev",
+    "model": "gpt-6-sol",
+    "reasoning_effort": "medium",
+    "source_sha256": "752c5a7ea348eb8fc3311958d5b2d95255c2f667cf179c215ddb3f1bbdd21489"
+  },
+  {
+    "variant": "02-inputs-only",
+    "run_group": "2026-10-10-sol-medium-pair-01",
+    "name": "artifactory-inputs-only-sol-medium",
+    "origin": "https://artifactory-inputs-only-sol-medium.coolify.threesixty.dev",
+    "model": "gpt-6-sol",
+    "reasoning_effort": "medium",
+    "source_sha256": "da0bd509cd4afbc768aec726919fb1b61529bf3e15450e16d9de4f8367fd8372"
+  }
+]

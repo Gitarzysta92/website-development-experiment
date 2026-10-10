@@ -1,0 +1,47 @@
+{
+  "id": "aifield-ai",
+  "locale": "pl",
+  "title": "Wsparcie z kontrolą człowieka",
+  "lead": "AI może proponować kroki inżynierskie, ale ich ocenę i zastosowanie prowadzi człowiek.",
+  "description": "Opisane eksperymenty korzystają z interfejsów wiersza poleceń i Model Context Protocol; oznaczają częściowe wsparcie.",
+  "eyebrow": "AIFIELD",
+  "sections": [
+    {
+      "id": "focus",
+      "title": "Ograniczony proces",
+      "paragraphs": [
+        "Inżynier definiuje zadanie, ocenia proponowany krok, jego założenia i wynik. Nadal potrzebne są zwykłe kontrole."
+      ]
+    },
+    {
+      "id": "evidence",
+      "title": "Gdzie trafiają informacje",
+      "paragraphs": [
+        "Lokalne wykonanie solwera i ewentualne przekazanie danych zewnętrznemu asystentowi to różne granice. Poufność zależy od konfiguracji i wymaga potwierdzenia."
+      ]
+    },
+    {
+      "id": "next",
+      "title": "Co trzeba sprawdzić",
+      "paragraphs": [
+        "Powtarzalność, obsługa błędów, możliwość audytu i korzyść wobec ręcznej pracy wymagają systematycznej oceny."
+      ]
+    }
+  ],
+  "related": [
+    "aifield",
+    "aifield-design",
+    "aifield-ai",
+    "aifield-neural",
+    "aifield-validation",
+    "partnerships"
+  ],
+  "stage": "Local draft · source context October 2026",
+  "pageType": "project",
+  "sourceReferences": [
+    "HP-1.1 project-context 2026-10-09"
+  ],
+  "sourceRevision": "2026-10-09",
+  "editorialState": "draft",
+  "modifiedAt": "2026-10-10"
+}

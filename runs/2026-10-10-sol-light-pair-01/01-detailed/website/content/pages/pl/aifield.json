@@ -1,0 +1,47 @@
+{
+  "id": "aifield",
+  "locale": "pl",
+  "title": "Środowisko inżynierii fotonicznej",
+  "lead": "AIFIELD łączy zadania projektowania i symulacji w procesie tworzenia układów fotonicznych.",
+  "description": "Materiały z września 2026 opisują CAD, solwery oraz eksperymentalne wsparcie AI. Predykcja pola przez sieć neuronową pozostaje badaniem.",
+  "eyebrow": "AIFIELD",
+  "sections": [
+    {
+      "id": "focus",
+      "title": "Proces inżynierski",
+      "paragraphs": [
+        "Warstwy i proces technologiczny, symulacje modów, obwodów, pola i temperatury odpowiadają na różne pytania. Aktualna dostępność funkcji wymaga potwierdzenia."
+      ]
+    },
+    {
+      "id": "evidence",
+      "title": "Wsparcie kierowane przez człowieka",
+      "paragraphs": [
+        "Eksperymenty z wierszem poleceń i Model Context Protocol pozwalają proponować kroki, które człowiek ocenia i stosuje. To nie jest autonomiczne projektowanie układu."
+      ]
+    },
+    {
+      "id": "next",
+      "title": "Granice dowodów",
+      "paragraphs": [
+        "Porównania wewnętrzne i przykład projektu układu glukozowego ilustrują pracę inżynierską, nie parametry wyprodukowanego układu ani sprawdzony czujnik."
+      ]
+    }
+  ],
+  "related": [
+    "aifield",
+    "aifield-design",
+    "aifield-ai",
+    "aifield-neural",
+    "aifield-validation",
+    "partnerships"
+  ],
+  "stage": "Local draft · source context October 2026",
+  "pageType": "project",
+  "sourceReferences": [
+    "HP-1.1 project-context 2026-10-09"
+  ],
+  "sourceRevision": "2026-10-09",
+  "editorialState": "draft",
+  "modifiedAt": "2026-10-10"
+}

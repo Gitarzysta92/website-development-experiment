@@ -1,0 +1,22 @@
+# Dependencies, caches, and local runtimes
+node_modules/
+npm-cache/
+.npm-cache/
+.cache/
+.runtime/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Reproducible build output
+dist/
+.dist-*/
+.astro/
+.next/
+
+# Local configuration and operating-system files
+.env
+.env.*
+!.env.example
+!.env.sample
+.DS_Store

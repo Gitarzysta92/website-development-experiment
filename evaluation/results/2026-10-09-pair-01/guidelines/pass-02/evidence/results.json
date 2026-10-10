@@ -1,0 +1,203 @@
+{
+  "scope": "Frozen first-delivery copies, synthetic local checks only. Promotion faults are explicitly injected; no production release or external send.",
+  "node": "v24.21.0",
+  "results": [
+    {
+      "id": "A-baseline",
+      "buildExit": 0,
+      "httpStatus": 200,
+      "artifactHash": "2d29a37e4eebbc1c308a59f8e19aad5efa069cd2b61f5740a89e938b96249537"
+    },
+    {
+      "id": "A-parallel-read-smoke",
+      "requests": 24,
+      "statuses": [
+        200,
+        200,
+        200,
+        200,
+        200,
+        200,
+        200,
+        200,
+        200,
+        200,
+        200,
+        200,
+        200,
+        200,
+        200,
+        200,
+        200,
+        200,
+        200,
+        200,
+        200,
+        200,
+        200,
+        200
+      ],
+      "scope": "Small local smoke check, not a capacity or production-load benchmark."
+    },
+    {
+      "id": "A-network-idempotency",
+      "sameId": [
+        {
+          "status": 200,
+          "result": {
+            "status": "accepted",
+            "receiptId": "local-9115f9fe-dbd1-4a2a-9706-7a0757361ecb",
+            "mode": "fixture"
+          }
+        },
+        {
+          "status": 200,
+          "result": {
+            "status": "accepted",
+            "receiptId": "local-9115f9fe-dbd1-4a2a-9706-7a0757361ecb",
+            "mode": "fixture"
+          }
+        },
+        {
+          "status": 200,
+          "result": {
+            "status": "accepted",
+            "receiptId": "local-9115f9fe-dbd1-4a2a-9706-7a0757361ecb",
+            "mode": "fixture"
+          }
+        },
+        {
+          "status": 200,
+          "result": {
+            "status": "accepted",
+            "receiptId": "local-9115f9fe-dbd1-4a2a-9706-7a0757361ecb",
+            "mode": "fixture"
+          }
+        }
+      ],
+      "distinctReceipts": [
+        "local-9115f9fe-dbd1-4a2a-9706-7a0757361ecb"
+      ],
+      "conflict": {
+        "status": 409,
+        "result": {
+          "status": "conflict"
+        }
+      },
+      "rateLimited": {
+        "status": 429,
+        "result": {
+          "status": "throttled",
+          "retryAfter": 60
+        }
+      }
+    },
+    {
+      "id": "A-failed-preparation",
+      "exitCode": 1,
+      "artifactUnchanged": true,
+      "httpStatus": 200,
+      "htmlUnchanged": true
+    },
+    {
+      "id": "A-failed-promotion",
+      "exitCode": 1,
+      "faultInjected": true,
+      "distExists": false,
+      "backupExists": true,
+      "backupMatchesBaseline": true,
+      "httpStatus": 500,
+      "requestError": null,
+      "serverExitCode": null
+    },
+    {
+      "id": "A-manual-artifact-restore",
+      "httpStatus": 200,
+      "htmlUnchanged": true,
+      "artifactUnchanged": true
+    },
+    {
+      "id": "A-malformed-request-target",
+      "target": "http://[",
+      "response": {
+        "status": null,
+        "error": "ECONNRESET"
+      },
+      "serverExitCode": 1,
+      "followupStatus": null,
+      "followupError": "ECONNREFUSED"
+    },
+    {
+      "id": "B-baseline",
+      "buildExit": 0,
+      "httpStatus": 200,
+      "artifactHash": "80bf4cbaf6364158dfcccbdc7422aad1c485d4eba04a6746279786658367d65a"
+    },
+    {
+      "id": "B-parallel-read-smoke",
+      "requests": 24,
+      "statuses": [
+        200,
+        200,
+        200,
+        200,
+        200,
+        200,
+        200,
+        200,
+        200,
+        200,
+        200,
+        200,
+        200,
+        200,
+        200,
+        200,
+        200,
+        200,
+        200,
+        200,
+        200,
+        200,
+        200,
+        200
+      ],
+      "scope": "Small local smoke check, not a capacity or production-load benchmark."
+    },
+    {
+      "id": "B-failed-preparation",
+      "exitCode": 1,
+      "artifactUnchanged": true,
+      "httpStatus": 200,
+      "htmlUnchanged": true
+    },
+    {
+      "id": "B-failed-promotion",
+      "exitCode": 1,
+      "faultInjected": true,
+      "distExists": false,
+      "backupExists": true,
+      "backupMatchesBaseline": true,
+      "httpStatus": null,
+      "requestError": "UND_ERR_SOCKET",
+      "serverExitCode": 1
+    },
+    {
+      "id": "B-manual-artifact-restore",
+      "httpStatus": 200,
+      "htmlUnchanged": true,
+      "artifactUnchanged": true
+    },
+    {
+      "id": "B-malformed-request-target",
+      "target": "http://[",
+      "response": {
+        "status": 400,
+        "body": "Bad request"
+      },
+      "serverExitCode": null,
+      "followupStatus": 200,
+      "followupError": null
+    }
+  ]
+}

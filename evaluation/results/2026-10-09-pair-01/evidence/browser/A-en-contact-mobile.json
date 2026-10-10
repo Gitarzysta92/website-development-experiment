@@ -1,0 +1,333 @@
+{
+  "id": "A-en-contact-mobile",
+  "label": "A",
+  "locale": "en",
+  "pageId": "contact",
+  "view": "mobile",
+  "url": "http://127.0.0.1:4501/en/contact/",
+  "status": 200,
+  "errors": [],
+  "title": "Let’s start a conversation. | Artifactory",
+  "language": "en",
+  "h1": [
+    "Let’s start a conversation."
+  ],
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Let’s start a conversation."
+    },
+    {
+      "level": "H2",
+      "text": "A useful starting point"
+    },
+    {
+      "level": "H2",
+      "text": "Prefer email?"
+    },
+    {
+      "level": "H2",
+      "text": "Company"
+    },
+    {
+      "level": "H2",
+      "text": "Projects"
+    },
+    {
+      "level": "H2",
+      "text": "Connect"
+    }
+  ],
+  "text": "Skip to content\nLocal draft · Research in progress\na·\nartifactory\nMenu\n☰\nHome\nContact\n\nCONTACT\n\nLet’s start a conversation.\n\nTell us which question you are exploring. Investment conversations concern Artifactory as a company; project and partnership discussions can start with a specific technical question.\n\nA useful starting point\n\nChoose an enquiry type and, if relevant, a project. For an investment discussion, describe the information you would like to assess. For a partnership or demo, outline the engineering question and the evidence you need.\n\nThis preview is for testing the website. Use invented example details in the form, not personal, financial or confidential information. AIFIELD demo enquiries request a conversation; they do not grant immediate product access.\n\nPrefer email?\ninfo@artifactory.tech\n↗\n\nOpens your email application. The form’s local test mode does not apply to email you choose to send.\n\nLocal test mode\n\nThis form sends synthetic data to an in-memory receiver on this computer. No email is sent. Records expire within 24 hours and clear on server restart.\n\nWhat would you like to discuss?\nGeneral enquiry\nInvestment in Artifactory\nPartnership\nAIFIELD demo conversation\nProject (optional)\nNo specific project\nArtiSense\nAIFIELD\nName (optional)\nOrganization (optional)\nEmail address *\nYour message *\n\n20–5,000 characters. Use synthetic test data only; do not include personal or confidential information.\n\nRead how this local form handles information\n\nSend test enquiry\n↗\nartifactory·\n\nSensing technology and tools for designing photonic systems.\n\ninfo@artifactory.tech\n↗\nCompany\nHome\nProjects\nInvestors\nOur Approach\nAbout\nProjects\nArtiSense\nAIFIELD\nConnect\nPartnerships\nContact\nPrivacy\nArtifactory\nNew possibilities, through light.",
+  "links": [
+    {
+      "text": "Skip to content",
+      "href": "#main",
+      "lang": ""
+    },
+    {
+      "text": "a·\nartifactory",
+      "href": "/en/",
+      "lang": ""
+    },
+    {
+      "text": "All projects↗",
+      "href": "/en/projects/",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSense↗",
+      "href": "/en/projects/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELD↗",
+      "href": "/en/projects/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Investors",
+      "href": "/en/investors/",
+      "lang": ""
+    },
+    {
+      "text": "Our Approach",
+      "href": "/en/approach/",
+      "lang": ""
+    },
+    {
+      "text": "About",
+      "href": "/en/about/",
+      "lang": ""
+    },
+    {
+      "text": "Partnerships",
+      "href": "/en/partnerships/",
+      "lang": ""
+    },
+    {
+      "text": "Contact",
+      "href": "/en/contact/",
+      "lang": ""
+    },
+    {
+      "text": "PL ↔",
+      "href": "http://127.0.0.1:4501/pl/kontakt/",
+      "lang": "pl"
+    },
+    {
+      "text": "Let’s talk↗",
+      "href": "/en/contact/?intent=investment",
+      "lang": ""
+    },
+    {
+      "text": "Home",
+      "href": "/en/",
+      "lang": ""
+    },
+    {
+      "text": "info@artifactory.tech\n↗",
+      "href": "mailto:info@artifactory.tech",
+      "lang": ""
+    },
+    {
+      "text": "Read how this local form handles information",
+      "href": "/en/privacy/",
+      "lang": ""
+    },
+    {
+      "text": "artifactory·",
+      "href": "/en/",
+      "lang": ""
+    },
+    {
+      "text": "info@artifactory.tech\n↗",
+      "href": "mailto:info@artifactory.tech",
+      "lang": ""
+    },
+    {
+      "text": "Home",
+      "href": "/en/",
+      "lang": ""
+    },
+    {
+      "text": "Projects",
+      "href": "/en/projects/",
+      "lang": ""
+    },
+    {
+      "text": "Investors",
+      "href": "/en/investors/",
+      "lang": ""
+    },
+    {
+      "text": "Our Approach",
+      "href": "/en/approach/",
+      "lang": ""
+    },
+    {
+      "text": "About",
+      "href": "/en/about/",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSense",
+      "href": "/en/projects/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELD",
+      "href": "/en/projects/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Partnerships",
+      "href": "/en/partnerships/",
+      "lang": ""
+    },
+    {
+      "text": "Contact",
+      "href": "/en/contact/",
+      "lang": ""
+    },
+    {
+      "text": "Privacy",
+      "href": "/en/privacy/",
+      "lang": ""
+    }
+  ],
+  "metadata": [
+    {
+      "name": "viewport",
+      "content": "width=device-width, initial-scale=1"
+    },
+    {
+      "name": "description",
+      "content": "Discuss an investment in Artifactory, a research partnership or an AIFIELD demonstration. This local form accepts synthetic test enquiries only."
+    },
+    {
+      "name": "robots",
+      "content": "noindex, nofollow"
+    },
+    {
+      "rel": "canonical",
+      "href": "http://127.0.0.1:4501/en/contact/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "en",
+      "href": "http://127.0.0.1:4501/en/contact/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "pl",
+      "href": "http://127.0.0.1:4501/pl/kontakt/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "x-default",
+      "href": "http://127.0.0.1:4501/en/contact/"
+    },
+    {
+      "property": "og:type",
+      "content": "website"
+    },
+    {
+      "property": "og:site_name",
+      "content": "Artifactory"
+    },
+    {
+      "property": "og:title",
+      "content": "Let’s start a conversation. | Artifactory"
+    },
+    {
+      "property": "og:description",
+      "content": "Discuss an investment in Artifactory, a research partnership or an AIFIELD demonstration. This local form accepts synthetic test enquiries only."
+    },
+    {
+      "property": "og:url",
+      "content": "http://127.0.0.1:4501/en/contact/"
+    },
+    {
+      "property": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "property": "og:image",
+      "content": "http://127.0.0.1:4501/brand/share-v1.svg"
+    },
+    {
+      "property": "og:image:width",
+      "content": "1200"
+    },
+    {
+      "property": "og:image:height",
+      "content": "630"
+    }
+  ],
+  "forms": [
+    {
+      "action": "/api/enquiries",
+      "method": "post",
+      "controls": [
+        {
+          "tag": "SELECT",
+          "name": "intent",
+          "type": "select-one",
+          "required": true,
+          "label": "What would you like to discuss?"
+        },
+        {
+          "tag": "SELECT",
+          "name": "project",
+          "type": "select-one",
+          "required": false,
+          "label": "Project (optional)"
+        },
+        {
+          "tag": "INPUT",
+          "name": "name",
+          "type": "text",
+          "required": false,
+          "label": "Name (optional)"
+        },
+        {
+          "tag": "INPUT",
+          "name": "organization",
+          "type": "text",
+          "required": false,
+          "label": "Organization (optional)"
+        },
+        {
+          "tag": "INPUT",
+          "name": "email",
+          "type": "email",
+          "required": true,
+          "label": "Email address *"
+        },
+        {
+          "tag": "TEXTAREA",
+          "name": "message",
+          "type": "textarea",
+          "required": true,
+          "label": "Your message *"
+        },
+        {
+          "tag": "INPUT",
+          "name": "website",
+          "type": "text",
+          "required": false,
+          "label": "Website"
+        },
+        {
+          "tag": "BUTTON",
+          "name": "",
+          "type": "submit"
+        },
+        {
+          "tag": "BUTTON",
+          "name": "",
+          "type": "button"
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "viewport": {
+    "width": 390,
+    "height": 844,
+    "scrollWidth": 375
+  },
+  "overflowing": [],
+  "axe": {
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "impact": "serious",
+        "nodeCount": 1
+      }
+    ],
+    "passes": 44
+  }
+}

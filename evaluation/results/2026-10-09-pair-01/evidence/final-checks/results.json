@@ -1,0 +1,398 @@
+[
+  {
+    "id": "A-internal-links",
+    "status": "pass",
+    "uniqueLinksIncludingFragments": 182,
+    "uniqueRequests": 42
+  },
+  {
+    "id": "A-metadata",
+    "status": "pass",
+    "routes": 34,
+    "uniqueTitles": 34
+  },
+  {
+    "id": "A-redirects",
+    "status": "pass",
+    "redirects": [
+      {
+        "from": "/",
+        "to": "/en/",
+        "status": 308,
+        "location": "/en/"
+      },
+      {
+        "from": "/artisense-module/",
+        "to": "/pl/projekty/artisense/",
+        "status": 308,
+        "location": "/pl/projekty/artisense/"
+      },
+      {
+        "from": "/about/",
+        "to": "/pl/o-nas/",
+        "status": 308,
+        "location": "/pl/o-nas/"
+      },
+      {
+        "from": "/partners/",
+        "to": "/pl/wspolpraca/",
+        "status": 308,
+        "location": "/pl/wspolpraca/"
+      },
+      {
+        "from": "/contact/",
+        "to": "/pl/kontakt/",
+        "status": 308,
+        "location": "/pl/kontakt/"
+      }
+    ]
+  },
+  {
+    "id": "A-visibility",
+    "status": "pass",
+    "statuses": [
+      {
+        "path": "/en/evaluation-missing/",
+        "status": 404,
+        "robots": "noindex, nofollow"
+      },
+      {
+        "path": "/pl/evaluation-missing/",
+        "status": 404,
+        "robots": "noindex, nofollow"
+      },
+      {
+        "path": "/.env",
+        "status": 404,
+        "robots": "noindex, nofollow"
+      },
+      {
+        "path": "/.env.example",
+        "status": 404,
+        "robots": "noindex, nofollow"
+      },
+      {
+        "path": "/content/shared/routes.json",
+        "status": 404,
+        "robots": "noindex, nofollow"
+      },
+      {
+        "path": "/docs/acceptance-report.md",
+        "status": 404,
+        "robots": "noindex, nofollow"
+      },
+      {
+        "path": "/inputs/docs/project-brief.md",
+        "status": 404,
+        "robots": "noindex, nofollow"
+      }
+    ],
+    "robots": "User-agent: *\nDisallow: /\n",
+    "sitemap": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\"></urlset>"
+  },
+  {
+    "id": "A-en-keyboard-and-motion",
+    "status": "pass",
+    "first": {
+      "tag": "A",
+      "text": "Skip to content",
+      "href": "#main"
+    },
+    "motion": {
+      "reduced": true,
+      "activeAnimations": 0
+    },
+    "focus": {
+      "outline": "rgb(8, 127, 140) solid 2px",
+      "shadow": "none"
+    },
+    "screenReader": "Accessibility tree inspected; no real screen reader used"
+  },
+  {
+    "id": "A-pl-keyboard-and-motion",
+    "status": "pass",
+    "first": {
+      "tag": "A",
+      "text": "Przejdź do treści",
+      "href": "#main"
+    },
+    "motion": {
+      "reduced": true,
+      "activeAnimations": 0
+    },
+    "focus": {
+      "outline": "rgb(8, 127, 140) solid 2px",
+      "shadow": "none"
+    },
+    "screenReader": "Accessibility tree inspected; no real screen reader used"
+  },
+  {
+    "id": "A-legacy-fragments",
+    "status": "pass",
+    "fragments": [
+      {
+        "id": "o-module",
+        "finalUrl": "http://127.0.0.1:4501/pl/projekty/artisense/#o-module",
+        "visible": true
+      },
+      {
+        "id": "fotonika",
+        "finalUrl": "http://127.0.0.1:4501/pl/projekty/artisense/#fotonika",
+        "visible": true
+      },
+      {
+        "id": "elektronika",
+        "finalUrl": "http://127.0.0.1:4501/pl/projekty/artisense/#elektronika",
+        "visible": true
+      },
+      {
+        "id": "technologie",
+        "finalUrl": "http://127.0.0.1:4501/pl/projekty/artisense/#technologie",
+        "visible": true
+      }
+    ]
+  },
+  {
+    "id": "A-no-javascript",
+    "status": "pass",
+    "submitHiddenOrDisabled": true
+  },
+  {
+    "id": "B-internal-links",
+    "status": "pass",
+    "uniqueLinksIncludingFragments": 174,
+    "uniqueRequests": 48
+  },
+  {
+    "id": "B-metadata",
+    "status": "pass",
+    "routes": 34,
+    "uniqueTitles": 34
+  },
+  {
+    "id": "B-redirects",
+    "status": "pass",
+    "redirects": [
+      {
+        "from": "/",
+        "to": "/en/",
+        "status": 308,
+        "location": "/en/"
+      },
+      {
+        "from": "/artisense-module/",
+        "to": "/pl/projekty/artisense/",
+        "status": 308,
+        "location": "/pl/projekty/artisense/"
+      },
+      {
+        "from": "/about/",
+        "to": "/pl/o-nas/",
+        "status": 308,
+        "location": "/pl/o-nas/"
+      },
+      {
+        "from": "/partners/",
+        "to": "/pl/wspolpraca/",
+        "status": 308,
+        "location": "/pl/wspolpraca/"
+      },
+      {
+        "from": "/contact/",
+        "to": "/pl/kontakt/",
+        "status": 308,
+        "location": "/pl/kontakt/"
+      }
+    ]
+  },
+  {
+    "id": "B-visibility",
+    "status": "pass",
+    "statuses": [
+      {
+        "path": "/en/evaluation-missing/",
+        "status": 404,
+        "robots": "noindex, nofollow"
+      },
+      {
+        "path": "/pl/evaluation-missing/",
+        "status": 404,
+        "robots": "noindex, nofollow"
+      },
+      {
+        "path": "/.env",
+        "status": 404,
+        "robots": "noindex, nofollow"
+      },
+      {
+        "path": "/.env.example",
+        "status": 404,
+        "robots": "noindex, nofollow"
+      },
+      {
+        "path": "/content/shared/routes.json",
+        "status": 404,
+        "robots": "noindex, nofollow"
+      },
+      {
+        "path": "/docs/acceptance-report.md",
+        "status": 404,
+        "robots": "noindex, nofollow"
+      },
+      {
+        "path": "/inputs/docs/project-brief.md",
+        "status": 404,
+        "robots": "noindex, nofollow"
+      }
+    ],
+    "robots": "User-agent: *\nDisallow: /\n",
+    "sitemap": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n\n</urlset>\n"
+  },
+  {
+    "id": "B-en-keyboard-and-motion",
+    "status": "pass",
+    "first": {
+      "tag": "A",
+      "text": "Skip to content",
+      "href": "#main"
+    },
+    "motion": {
+      "reduced": true,
+      "activeAnimations": 0
+    },
+    "focus": {
+      "outline": "rgb(8, 127, 140) solid 3px",
+      "shadow": "none"
+    },
+    "screenReader": "Accessibility tree inspected; no real screen reader used"
+  },
+  {
+    "id": "B-pl-keyboard-and-motion",
+    "status": "pass",
+    "first": {
+      "tag": "A",
+      "text": "Przejdź do treści",
+      "href": "#main"
+    },
+    "motion": {
+      "reduced": true,
+      "activeAnimations": 0
+    },
+    "focus": {
+      "outline": "rgb(8, 127, 140) solid 3px",
+      "shadow": "none"
+    },
+    "screenReader": "Accessibility tree inspected; no real screen reader used"
+  },
+  {
+    "id": "B-legacy-fragments",
+    "status": "pass",
+    "fragments": [
+      {
+        "id": "o-module",
+        "finalUrl": "http://127.0.0.1:4511/pl/projekty/artisense/#o-module",
+        "visible": true
+      },
+      {
+        "id": "fotonika",
+        "finalUrl": "http://127.0.0.1:4511/pl/projekty/artisense/#fotonika",
+        "visible": true
+      },
+      {
+        "id": "elektronika",
+        "finalUrl": "http://127.0.0.1:4511/pl/projekty/artisense/#elektronika",
+        "visible": true
+      },
+      {
+        "id": "technologie",
+        "finalUrl": "http://127.0.0.1:4511/pl/projekty/artisense/#technologie",
+        "visible": true
+      }
+    ]
+  },
+  {
+    "id": "B-no-javascript",
+    "status": "pass",
+    "submitHiddenOrDisabled": true
+  },
+  {
+    "id": "A-en-rejected",
+    "status": "pass",
+    "state": "rejected",
+    "requests": 1,
+    "text": "Please check the highlighted fields. Your input is still here.",
+    "evidenceKind": "browser fault injection"
+  },
+  {
+    "id": "A-en-unavailable",
+    "status": "pass",
+    "state": "unavailable",
+    "requests": 1,
+    "text": "The receiver is unavailable. Your enquiry has not been confirmed. You can use the email link instead.",
+    "evidenceKind": "browser fault injection"
+  },
+  {
+    "id": "A-en-uncertain",
+    "status": "pass",
+    "state": "uncertain",
+    "requests": 2,
+    "text": "Receipt could not be confirmed. Your enquiry may have been received. Retry the unchanged enquiry to check safely, or contact us by email.",
+    "evidenceKind": "browser fault injection"
+  },
+  {
+    "id": "A-en-timeout",
+    "status": "pass",
+    "state": "uncertain",
+    "requests": 1,
+    "text": "Receipt could not be confirmed. Your enquiry may have been received. Retry the unchanged enquiry to check safely, or contact us by email.",
+    "evidenceKind": "browser fault injection"
+  },
+  {
+    "id": "A-en-duplicate",
+    "status": "pass",
+    "state": "pending",
+    "requests": 1,
+    "text": "This enquiry is still being processed. Wait before retrying with the same information.",
+    "evidenceKind": "browser fault injection"
+  },
+  {
+    "id": "A-pl-rejected",
+    "status": "pass",
+    "state": "rejected",
+    "requests": 1,
+    "text": "Sprawdź zaznaczone pola. Wpisane informacje zostały zachowane.",
+    "evidenceKind": "browser fault injection"
+  },
+  {
+    "id": "A-pl-unavailable",
+    "status": "pass",
+    "state": "unavailable",
+    "requests": 1,
+    "text": "Odbiornik jest niedostępny. Odbiór zapytania nie został potwierdzony. Możesz skorzystać z odnośnika e-mail.",
+    "evidenceKind": "browser fault injection"
+  },
+  {
+    "id": "A-pl-uncertain",
+    "status": "pass",
+    "state": "uncertain",
+    "requests": 2,
+    "text": "Nie udało się potwierdzić odbioru. Zapytanie mogło zostać odebrane. Ponów niezmienione zapytanie, aby bezpiecznie sprawdzić wynik, lub skontaktuj się e-mailem.",
+    "evidenceKind": "browser fault injection"
+  },
+  {
+    "id": "A-pl-timeout",
+    "status": "pass",
+    "state": "uncertain",
+    "requests": 1,
+    "text": "Nie udało się potwierdzić odbioru. Zapytanie mogło zostać odebrane. Ponów niezmienione zapytanie, aby bezpiecznie sprawdzić wynik, lub skontaktuj się e-mailem.",
+    "evidenceKind": "browser fault injection"
+  },
+  {
+    "id": "A-pl-duplicate",
+    "status": "pass",
+    "state": "pending",
+    "requests": 1,
+    "text": "Zapytanie jest nadal przetwarzane. Poczekaj, zanim ponowisz je z tymi samymi informacjami.",
+    "evidenceKind": "browser fault injection"
+  }
+]

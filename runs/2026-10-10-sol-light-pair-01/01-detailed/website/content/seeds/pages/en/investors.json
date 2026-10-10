@@ -1,0 +1,43 @@
+{
+  "id": "investors",
+  "locale": "en",
+  "title": "Invest in the questions worth answering",
+  "lead": "Artifactory’s opportunity is a company-level conversation about sensing and photonic design tools.",
+  "description": "The supplied work supports a focused discussion of technical direction and validation needs, not a current financial ask or traction claim.",
+  "eyebrow": "Artifactory",
+  "sections": [
+    {
+      "id": "focus",
+      "title": "Why these projects belong together",
+      "paragraphs": [
+        "ArtiSense supplies an intended sensing problem. AIFIELD explores tools that could accelerate design work. Their relationship is a development hypothesis, not proof of a shared commercial result."
+      ]
+    },
+    {
+      "id": "evidence",
+      "title": "Evidence before projections",
+      "paragraphs": [
+        "The available summaries cover optical research, chip design, simulation and limited agent assistance. Device accuracy, revenue, customers and commercial terms require separate confirmation."
+      ]
+    },
+    {
+      "id": "next",
+      "title": "What an investor can assess now",
+      "paragraphs": [
+        "Explore each project’s architecture, examples, limitations and proposed next experiments, then contact the company to request current materials and discuss investment."
+      ]
+    }
+  ],
+  "related": [
+    "projects",
+    "contact"
+  ],
+  "stage": "Local draft · source context October 2026",
+  "pageType": "company",
+  "sourceReferences": [
+    "HP-1.1 project-context 2026-10-09"
+  ],
+  "sourceRevision": "2026-10-09",
+  "editorialState": "draft",
+  "modifiedAt": "2026-10-10"
+}

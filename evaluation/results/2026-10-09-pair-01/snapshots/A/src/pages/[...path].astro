@@ -1,0 +1,31 @@
+---
+import { getPages,publicView,type PageView } from '../content/index';
+import { routeFor,type PageId } from '../navigation/index';
+import PageFrame from '../layouts/PageFrame.astro';
+import SiteHeader from '../partials/SiteHeader.astro';
+import SiteFooter from '../partials/SiteFooter.astro';
+import Breadcrumbs from '../partials/Breadcrumbs.astro';
+import ProjectsPage from '../templates/projects/ProjectsPage.astro';
+import ArtiSensePage from '../templates/artisense/Page.astro';
+import ArtiSenseTechnologyPage from '../templates/artisense-technology/Page.astro';
+import ArtiSenseApplicationsPage from '../templates/artisense-applications/Page.astro';
+import ArtiSenseValidationPage from '../templates/artisense-validation/Page.astro';
+import HomePage from '../templates/home/HomePage.astro';
+import ContactPage from '../templates/ContactPage.astro';
+import PrivacyPage from '../templates/PrivacyPage.astro';
+import Page0 from '../templates/aifield/Page.astro';
+import Page1 from '../templates/aifield-design/Page.astro';
+import Page2 from '../templates/aifield-ai/Page.astro';
+import Page3 from '../templates/aifield-neural/Page.astro';
+import Page4 from '../templates/aifield-validation/Page.astro';
+import Company0 from '../templates/investors/Page.astro';
+import Company1 from '../templates/approach/Page.astro';
+import Company2 from '../templates/about/Page.astro';
+import Company3 from '../templates/partnerships/Page.astro';
+export function getStaticPaths(){return getPages().map(r=>({params:{path:routeFor(r.id as PageId,r.locale).slice(1,-1)},props:{page:publicView(r)}}));}
+interface Props{page:PageView;}const {page}=Astro.props;
+const templates={'investors':Company0,'approach':Company1,'about':Company2,'partnerships':Company3, 'home':HomePage,'projects':ProjectsPage,'contact':ContactPage,'privacy':PrivacyPage,'artisense':ArtiSensePage,'artisense-technology':ArtiSenseTechnologyPage,'artisense-applications':ArtiSenseApplicationsPage,'artisense-validation':ArtiSenseValidationPage,'aifield':Page0,'aifield-design':Page1,'aifield-ai':Page2,'aifield-neural':Page3,'aifield-validation':Page4};
+const Template=templates[page.id as keyof typeof templates];
+
+---
+<PageFrame page={page}><SiteHeader slot="header" id={page.id} locale={page.locale} sectionIds={page.sections.map(s=>s.id)}/><Breadcrumbs id={page.id} locale={page.locale}/><Template page={page}/><SiteFooter slot="footer" locale={page.locale}/></PageFrame>

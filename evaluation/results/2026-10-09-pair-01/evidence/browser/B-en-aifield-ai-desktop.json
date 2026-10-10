@@ -1,0 +1,439 @@
+{
+  "id": "B-en-aifield-ai-desktop",
+  "label": "B",
+  "locale": "en",
+  "pageId": "aifield-ai",
+  "view": "desktop",
+  "url": "http://127.0.0.1:4511/en/projects/aifield/ai-workflows/",
+  "status": 200,
+  "errors": [],
+  "title": "AIFIELD: AI workflows | Artifactory",
+  "language": "en",
+  "h1": [
+    "Assistance for the engineer. Review at every step."
+  ],
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Assistance for the engineer. Review at every step."
+    },
+    {
+      "level": "H2",
+      "text": "The human review loop"
+    },
+    {
+      "level": "H3",
+      "text": "Ask"
+    },
+    {
+      "level": "H3",
+      "text": "Propose"
+    },
+    {
+      "level": "H3",
+      "text": "Review & apply"
+    },
+    {
+      "level": "H3",
+      "text": "Run & inspect"
+    },
+    {
+      "level": "H2",
+      "text": "Engineering judgment stays visible"
+    },
+    {
+      "level": "H3",
+      "text": "Before execution"
+    },
+    {
+      "level": "H3",
+      "text": "After execution"
+    },
+    {
+      "level": "H2",
+      "text": "Local tools and external assistance"
+    },
+    {
+      "level": "H2",
+      "text": "What to inspect in a demonstration"
+    },
+    {
+      "level": "H2",
+      "text": "Let’s explore what\ncomes next."
+    },
+    {
+      "level": "H2",
+      "text": "Projects"
+    },
+    {
+      "level": "H2",
+      "text": "Company"
+    },
+    {
+      "level": "H2",
+      "text": "Get in touch"
+    }
+  ],
+  "text": "Skip to content\nLocal preview\nDraft content · 9 October 2026\nartifactory.\nProjects\nInvestors\nOur approach\nAbout\nEN\n/\nPL\nLet’s talk\nAIFIELD\nOverview\nDesign & simulation\nAI workflows\nNeural field research\nExamples & validation\nHome\nProjects\nAIFIELD\nAI workflows\n\nAIFIELD / AI WORKFLOWS\n\nAssistance for the engineer. Review at every step.\n\nAIFIELD’s supplied material explores agent-assisted engineering through command-line and Model Context Protocol (MCP) interactions. The described work is partial assistance; it does not establish autonomous end-to-end chip design.\n\nON THIS PAGE\n01\nThe human review loop\n02\nEngineering judgment stays visible\n03\nLocal tools and external assistance\n04\nWhat to inspect in a demonstration\nResearch snapshot\n\nSeptember 2026 source context. Draft reviewed 9 October 2026.\n\n01\nInstruction\n02\nProposal\n03\nReview\n04\nInspect\nHUMAN-CONTROLLED APPLICATION\nConceptual illustration · not a product image or measured result\nThe human review loop\n01\nAsk\n\nThe engineer describes a design task and its constraints.\n\n02\nPropose\n\nAn assistant prepares a candidate change or action.\n\n03\nReview & apply\n\nA person inspects the proposal and controls its application.\n\n04\nRun & inspect\n\nTools execute the selected work; the engineer reviews results and limitations.\n\nEngineering judgment stays visible\n\nAn assistant can help express a task and prepare actions, but a plausible proposal is not proof of a correct design. The engineer remains responsible for assumptions, setup, result interpretation and deciding whether further checks are required.\n\nBefore execution\n\nCheck the geometry, parameters and intended action.\n\nAfter execution\n\nInspect results and compare against a suitable reference.\n\nLocal tools and external assistance\n\nThe context distinguishes local solver work from information that may be processed by an external assistant. The exact tool actions and data flow need current verification. No claim that every part of the workflow is local or confidential can be made from this material.\n\ni\n\nA demonstration should identify what information leaves the machine, the service receiving it and the person authorizing that step.\n\nWhat to inspect in a demonstration\n\nAsk to see a concrete task, the proposed action, the human intervention point, a solver result and a failure or limitation. A recorded sequence and available-action list would make the actual automation boundary reviewable.\n\nRequest a demo\nCONTINUE EXPLORING\nDesign & simulation\nNeural field research\nExamples & validation\nInvestors\n\nTHE NEXT CONVERSATION\n\nLet’s explore what\ncomes next.\n\nInvest in the company. Explore the science. Bring a question worth working on.\n\nDiscuss an investment\nExplore partnerships\nartifactory.\n\nEngineering light. Creating possibility.\n\nSensing technology and tools for designing photonic systems.\nProjects\nAll projects\nArtiSense\nAIFIELD\nCompany\nHome\nInvestors\nOur approach\nAbout\nPartnerships\nGet in touch\ninfo@artifactory.tech\nContact\nPrivacy\nArtifactory · 2026\nLocal review edition. Content and Polish translations await owner review.\nBack to top ↑",
+  "links": [
+    {
+      "text": "Skip to content",
+      "href": "#main",
+      "lang": ""
+    },
+    {
+      "text": "artifactory.",
+      "href": "/en/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/en/projects/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/en/projects/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/en/projects/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Investors",
+      "href": "/en/investors/",
+      "lang": ""
+    },
+    {
+      "text": "Our approach",
+      "href": "/en/approach/",
+      "lang": ""
+    },
+    {
+      "text": "About",
+      "href": "/en/about/",
+      "lang": ""
+    },
+    {
+      "text": "Partnerships",
+      "href": "/en/partnerships/",
+      "lang": ""
+    },
+    {
+      "text": "Contact",
+      "href": "/en/contact/",
+      "lang": ""
+    },
+    {
+      "text": "PL",
+      "href": "/pl/projekty/aifield/praca-z-ai/",
+      "lang": "pl"
+    },
+    {
+      "text": "Let’s talk",
+      "href": "/en/contact/?intent=investment",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELD",
+      "href": "/en/projects/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Overview",
+      "href": "/en/projects/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Design & simulation",
+      "href": "/en/projects/aifield/design-simulation/",
+      "lang": ""
+    },
+    {
+      "text": "AI workflows",
+      "href": "/en/projects/aifield/ai-workflows/",
+      "lang": ""
+    },
+    {
+      "text": "Neural field research",
+      "href": "/en/projects/aifield/neural-field-research/",
+      "lang": ""
+    },
+    {
+      "text": "Examples & validation",
+      "href": "/en/projects/aifield/examples-validation/",
+      "lang": ""
+    },
+    {
+      "text": "Home",
+      "href": "/en/",
+      "lang": ""
+    },
+    {
+      "text": "Projects",
+      "href": "/en/projects/",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELD",
+      "href": "/en/projects/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "01\nThe human review loop",
+      "href": "#review-loop",
+      "lang": ""
+    },
+    {
+      "text": "02\nEngineering judgment stays visible",
+      "href": "#responsibility",
+      "lang": ""
+    },
+    {
+      "text": "03\nLocal tools and external assistance",
+      "href": "#data-boundary",
+      "lang": ""
+    },
+    {
+      "text": "04\nWhat to inspect in a demonstration",
+      "href": "#limits",
+      "lang": ""
+    },
+    {
+      "text": "Request a demo",
+      "href": "/en/contact/?intent=demo&project=aifield",
+      "lang": ""
+    },
+    {
+      "text": "Design & simulation",
+      "href": "/en/projects/aifield/design-simulation/",
+      "lang": ""
+    },
+    {
+      "text": "Neural field research",
+      "href": "/en/projects/aifield/neural-field-research/",
+      "lang": ""
+    },
+    {
+      "text": "Examples & validation",
+      "href": "/en/projects/aifield/examples-validation/",
+      "lang": ""
+    },
+    {
+      "text": "Investors",
+      "href": "/en/investors/",
+      "lang": ""
+    },
+    {
+      "text": "Discuss an investment",
+      "href": "/en/contact/?intent=investment&project=aifield",
+      "lang": ""
+    },
+    {
+      "text": "Explore partnerships",
+      "href": "/en/partnerships/",
+      "lang": ""
+    },
+    {
+      "text": "artifactory.",
+      "href": "/en/",
+      "lang": ""
+    },
+    {
+      "text": "All projects",
+      "href": "/en/projects/",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSense",
+      "href": "/en/projects/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELD",
+      "href": "/en/projects/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Home",
+      "href": "/en/",
+      "lang": ""
+    },
+    {
+      "text": "Investors",
+      "href": "/en/investors/",
+      "lang": ""
+    },
+    {
+      "text": "Our approach",
+      "href": "/en/approach/",
+      "lang": ""
+    },
+    {
+      "text": "About",
+      "href": "/en/about/",
+      "lang": ""
+    },
+    {
+      "text": "Partnerships",
+      "href": "/en/partnerships/",
+      "lang": ""
+    },
+    {
+      "text": "info@artifactory.tech",
+      "href": "mailto:info@artifactory.tech",
+      "lang": ""
+    },
+    {
+      "text": "Contact",
+      "href": "/en/contact/",
+      "lang": ""
+    },
+    {
+      "text": "Privacy",
+      "href": "/en/privacy/",
+      "lang": ""
+    },
+    {
+      "text": "Back to top ↑",
+      "href": "#top",
+      "lang": ""
+    }
+  ],
+  "metadata": [
+    {
+      "name": "viewport",
+      "content": "width=device-width, initial-scale=1"
+    },
+    {
+      "name": "description",
+      "content": "How command-line and MCP interactions can assist photonic engineering, with explicit human review and data boundaries."
+    },
+    {
+      "name": "robots",
+      "content": "noindex,nofollow"
+    },
+    {
+      "name": "theme-color",
+      "content": "#662483"
+    },
+    {
+      "rel": "canonical",
+      "href": "http://127.0.0.1:4511/en/projects/aifield/ai-workflows/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "en",
+      "href": "http://127.0.0.1:4511/en/projects/aifield/ai-workflows/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "pl",
+      "href": "http://127.0.0.1:4511/pl/projekty/aifield/praca-z-ai/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "x-default",
+      "href": "http://127.0.0.1:4511/en/projects/aifield/ai-workflows/"
+    },
+    {
+      "property": "og:type",
+      "content": "website"
+    },
+    {
+      "property": "og:site_name",
+      "content": "Artifactory"
+    },
+    {
+      "property": "og:title",
+      "content": "AIFIELD: AI workflows | Artifactory"
+    },
+    {
+      "property": "og:description",
+      "content": "How command-line and MCP interactions can assist photonic engineering, with explicit human review and data boundaries."
+    },
+    {
+      "property": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "property": "og:locale:alternate",
+      "content": "pl_PL"
+    },
+    {
+      "property": "og:url",
+      "content": "http://127.0.0.1:4511/en/projects/aifield/ai-workflows/"
+    },
+    {
+      "property": "og:image",
+      "content": "http://127.0.0.1:4511/assets/share-en.svg"
+    },
+    {
+      "name": "twitter:card",
+      "content": "summary_large_image"
+    }
+  ],
+  "forms": [],
+  "images": [],
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "scrollWidth": 1440
+  },
+  "overflowing": [],
+  "axe": {
+    "violations": [
+      {
+        "id": "region",
+        "impact": "moderate",
+        "tags": [
+          "cat.keyboard",
+          "best-practice",
+          "RGAAv4",
+          "RGAA-9.2.1"
+        ],
+        "description": "Ensure all page content is contained by landmarks",
+        "help": "All page content should be contained by landmarks",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/region?application=playwright",
+        "nodes": [
+          {
+            "any": [
+              {
+                "id": "region",
+                "data": {
+                  "isIframe": false
+                },
+                "relatedNodes": [],
+                "impact": "moderate",
+                "message": "Some page content is not contained by landmarks"
+              }
+            ],
+            "all": [],
+            "none": [],
+            "impact": "moderate",
+            "html": "<div class=\"preview-strip\"><div class=\"container\"><span><i aria-hidden=\"true\"></i>Local preview</span><span>Draft content · 9 October 2026</span></div></div>",
+            "target": [
+              ".preview-strip"
+            ],
+            "failureSummary": "Fix any of the following:\n  Some page content is not contained by landmarks"
+          }
+        ]
+      }
+    ],
+    "incomplete": [
+      {
+        "id": "aria-prohibited-attr",
+        "impact": "serious",
+        "nodeCount": 1
+      },
+      {
+        "id": "color-contrast",
+        "impact": "serious",
+        "nodeCount": 13
+      }
+    ],
+    "passes": 39
+  }
+}

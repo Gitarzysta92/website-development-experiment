@@ -1,0 +1,190 @@
+{
+  "package": "Artifactory website inputs",
+  "version": "HP-1.1-inputs-only",
+  "date": "2026-10-09",
+  "state": "website_inputs",
+  "pdfs_included": false,
+  "excluded": [
+    "Research PDFs",
+    "Images extracted from research PDFs",
+    "Website application",
+    "Credentials and deployment output"
+  ],
+  "source_records": [
+    {
+      "path": "docs/project-brief.md",
+      "sha256": "1dc9f0ec80bcbe2a4a2948e04ebb2cddb5b16c717e62169b1c74d4595f36c295"
+    },
+    {
+      "path": "docs/decision-register.md",
+      "sha256": "164386f2c9f18f4fb7ff574d77be2332eade489fe8b849e836abd6889444add6"
+    },
+    {
+      "path": "docs/sitemap.md",
+      "sha256": "57efe6900654751af20e9725d592aa03edbae63f6a2ca1b60bcac745c530f3a5"
+    },
+    {
+      "path": "design-system/palette.json",
+      "sha256": "cea423464d64f39ff20d938554084ff15f5c8a0b23a87945ad55c16d9bc60631"
+    },
+    {
+      "path": "design-system/colors.css",
+      "sha256": "1079da91e7d89c913d97469854b891d99eab24eaa2c89fe88ae30214be0950c7"
+    },
+    {
+      "path": "design-system/sampled-colors.json",
+      "sha256": "b1a259671fa714a6e8bd18d35328c2a6aa6f2d63f3720455a4976b1dd8e304e2"
+    }
+  ],
+  "notes": [
+    "Project records retain website requirements, source limitations, proposals, and unresolved inputs.",
+    "Source records identify original input bytes; files identify the current variant.",
+    "Three design-system files, palette previews, reference board, four screenshots, written research context, and mockup reference notes are unchanged.",
+    "Research context is a written summary, not approved final copy."
+  ],
+  "validation": {
+    "status": "passed",
+    "date": "2026-10-09",
+    "scope": "Input package contents, local references, and file identity",
+    "local_links_and_anchors_checked": 108,
+    "all_local_links_stay_in_package": true,
+    "included_file_count": 18,
+    "pdf_file_count": 0,
+    "page_count": 17,
+    "localized_route_count": 34,
+    "decision_count": 20,
+    "design_files_and_research_context_unchanged": true,
+    "file_hashes_verified": true,
+    "manifest_hash_scope": "All included files except this self-describing manifest",
+    "website_implementation_checks": "not performed; input files only"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 4819,
+      "sha256": "5582f198e81cfb50a68c3cf25c7ddc4ee9f1ecceb7cad387450aaeed666b628c"
+    },
+    {
+      "path": "content/project-context.md",
+      "bytes": 6675,
+      "sha256": "7a4a95eb7f75f101b1092525d145dfd6227b3f97699d89ea650b8ba12b5f0ea1"
+    },
+    {
+      "path": "design-system/colors.css",
+      "bytes": 1396,
+      "sha256": "1079da91e7d89c913d97469854b891d99eab24eaa2c89fe88ae30214be0950c7"
+    },
+    {
+      "path": "design-system/palette.json",
+      "bytes": 1517,
+      "sha256": "cea423464d64f39ff20d938554084ff15f5c8a0b23a87945ad55c16d9bc60631"
+    },
+    {
+      "path": "design-system/sampled-colors.json",
+      "bytes": 3918,
+      "sha256": "b1a259671fa714a6e8bd18d35328c2a6aa6f2d63f3720455a4976b1dd8e304e2"
+    },
+    {
+      "path": "docs/decision-register.md",
+      "bytes": 14605,
+      "sha256": "483df91d1b3749b139483b46dce45c6e0849d6d2c81262cec26bd54c486260fd"
+    },
+    {
+      "path": "docs/project-brief.md",
+      "bytes": 27082,
+      "sha256": "631b191acf26003246bbafe551bcd6c48ec54265af806fe331d104d490cfda3e"
+    },
+    {
+      "path": "docs/sitemap.md",
+      "bytes": 35836,
+      "sha256": "56e55dd6a430e88882ba12798ec8350ba27b0feb22776d0bea9533906a2eb667"
+    },
+    {
+      "path": "references/mockup-references.md",
+      "bytes": 4062,
+      "sha256": "bdd208fa8aebcb64fcd038a291e9181a41511087fbda5716d766cd77ce233c33"
+    },
+    {
+      "path": "required-items.md",
+      "bytes": 6408,
+      "sha256": "019e7e509b3c8e2f2faff5edce1c81f17cf8bddea501d293813eeada83b60896"
+    },
+    {
+      "path": "visuals/mockup-references/design-reference-board.png",
+      "bytes": 1471538,
+      "sha256": "18c4db6a9042ccd546431834a673d38ff526ddd894b16cfea2b8de803571eb51"
+    },
+    {
+      "path": "visuals/mockup-references/threesixty-case-studies.jpg",
+      "bytes": 77769,
+      "sha256": "4ecf05d660de6729c28d48285e79ea56526b3d2db9bdacfa0feefbfea5da9065"
+    },
+    {
+      "path": "visuals/mockup-references/threesixty-hero.jpg",
+      "bytes": 71938,
+      "sha256": "a16497c67a995cf02897bd8a94cd4c04bb9d5f5a4528cd33a52a8e8957c02e41"
+    },
+    {
+      "path": "visuals/mockup-references/workos-hero.jpg",
+      "bytes": 64396,
+      "sha256": "3c64516272c7098c7ad0cc63b10a499ca890d5e06b9b2c97bd801f92a99679b3"
+    },
+    {
+      "path": "visuals/mockup-references/workos-product-section.jpg",
+      "bytes": 62321,
+      "sha256": "2daf9ee8d7d51b46bae98f79519aac418548c6e5969bce3796dadb438db987a4"
+    },
+    {
+      "path": "visuals/palette-preview.png",
+      "bytes": 56451,
+      "sha256": "b72d663f1cbce0532196cd178493915842a91968ab9cbaa330d2b2c4c550c4a4"
+    },
+    {
+      "path": "visuals/palette-preview.svg",
+      "bytes": 4203,
+      "sha256": "f480e5b59240c22a4c64ecb6961c7743820e3e36267ad5b0cb949dd4fd9be6a6"
+    }
+  ],
+  "reference_sources": [
+    {
+      "kind": "established_external_website_screenshot_references",
+      "origin_chat_title": "Find fresh website design catalogs",
+      "origin_chat_id": "01a121e0-8759-7602-869a-8e5066146b71",
+      "capture_date": "2026-10-09",
+      "websites": [
+        "https://workos.com/",
+        "https://threesixty.dev/"
+      ],
+      "status": "user_selected_design_references",
+      "scope": "Composition, typography, hierarchy, and product presentation; the selected Artifactory palette remains controlling.",
+      "files": [
+        {
+          "path": "visuals/mockup-references/design-reference-board.png",
+          "origin_file": "website-references/design-reference-board.png",
+          "unchanged_copy": true
+        },
+        {
+          "path": "visuals/mockup-references/workos-hero.jpg",
+          "origin_file": "website-references/workos-hero.jpg",
+          "unchanged_copy": true
+        },
+        {
+          "path": "visuals/mockup-references/workos-product-section.jpg",
+          "origin_file": "website-references/workos-product-section.jpg",
+          "unchanged_copy": true
+        },
+        {
+          "path": "visuals/mockup-references/threesixty-hero.jpg",
+          "origin_file": "website-references/threesixty-hero.jpg",
+          "unchanged_copy": true
+        },
+        {
+          "path": "visuals/mockup-references/threesixty-case-studies.jpg",
+          "origin_file": "website-references/threesixty-case-studies.jpg",
+          "unchanged_copy": true
+        }
+      ]
+    }
+  ],
+  "source_version": "HP-1.1"
+}

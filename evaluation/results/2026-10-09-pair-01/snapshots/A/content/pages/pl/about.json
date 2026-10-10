@@ -1,0 +1,84 @@
+{
+  "id": "about",
+  "locale": "pl",
+  "type": "company",
+  "title": "Artifactory. Pomiary i inżynieria fotoniczna.",
+  "description": "Poznaj obszar działania firmy łączący badania pomiarowe ArtiSense i narzędzia projektowe AIFIELD oraz ścieżki oceny dowodów i współpracy.",
+  "eyebrow": "ARTIFACTORY / FIRMA",
+  "lead": "Poznaj prace przez pytania, na które odpowiadają: jak mierzyć za pomocą światła i jak projektować systemy, które to umożliwiają.",
+  "sections": [
+    {
+      "id": "focus",
+      "title": "Firma przedstawiona przez swoje prace.",
+      "paragraphs": [
+        "Artifactory jest firmą stojącą za dwoma prezentowanymi tu projektami. Proponowane pozycjonowanie łączy technologię pomiarową z narzędziami do projektowania systemów fotonicznych. Pozwala inwestorom i potencjalnym współpracownikom ocenić prace na poziomie firmy.",
+        "Strona koncentruje się na ArtiSense i AIFIELD. Ich opisy przedstawiają różne cele, etapy i granice dowodów, a nie jeden połączony produkt."
+      ]
+    },
+    {
+      "id": "relationship",
+      "title": "Powiązane prace, odrębne odpowiedzialności.",
+      "paragraphs": [
+        "ArtiSense rozwija koncepcję zminiaturyzowanego pomiaru składu chemicznego z wykorzystaniem fotoniki i interpretacji sygnałów. AIFIELD dotyczy projektowania i symulacji fotoniki oraz odrębnego kierunku badań neuronowych modeli pola.",
+        "Wewnętrzny przykład związany z glukozą łączy zamierzony cel pomiarowy z procesem inżynierskim. Powiązanie nie zmienia symulowanego projektu w zwalidowany czujnik, a neuronowe elementy obu projektów nie są tą samą technologią."
+      ],
+      "links": [
+        {
+          "id": "projects"
+        }
+      ]
+    },
+    {
+      "id": "known",
+      "title": "Czytaj twierdzenie razem z datą.",
+      "paragraphs": [
+        "Dostarczony kontekst opisuje prace nad wykonalnością optyczną i projektem chipu ArtiSense. Opisy możliwości AIFIELD odnoszą się do stanu z września 2026. Stanowią podstawę rozmowy technicznej, a bieżąca dostępność i dalsza walidacja wymagają potwierdzenia.",
+        "Strona o podejściu wyjaśnia rozróżnienie koncepcji, symulacji i dowodów fizycznych. Strony walidacji zachowują ograniczenia przy opisywanych pracach."
+      ],
+      "links": [
+        {
+          "id": "approach"
+        }
+      ]
+    },
+    {
+      "id": "conversation",
+      "title": "Wybierz odpowiednią rozmowę.",
+      "paragraphs": [
+        "Inwestorzy mogą zacząć od propozycji firmy i otwartych pytań rozwojowych. Potencjalni współpracownicy mogą wyjść od tematu pomiaru, projektowania lub oceny. Do pierwszego zapytania wystarczy niepoufne wprowadzenie.",
+        "Na stronie kontaktowej opisz zainteresowanie i preferowany kontekst. Dostępny jest edytowalny formularz oraz publiczny adres e-mail."
+      ],
+      "links": [
+        {
+          "id": "investors"
+        },
+        {
+          "id": "partnerships"
+        },
+        {
+          "id": "contact"
+        }
+      ]
+    }
+  ],
+  "relatedIds": [
+    "investors",
+    "approach",
+    "partnerships",
+    "contact"
+  ],
+  "project": null,
+  "sourceReferences": [
+    "HP-1.1/project-context",
+    "SM-0.3/about"
+  ],
+  "sourceRevision": "2026-10-09 (AIFIELD snapshot: September 2026)",
+  "editorialState": "draft",
+  "modifiedAt": "2026-10-09T21:00:00.000Z",
+  "reviews": {
+    "facts": null,
+    "language": null,
+    "assets": null
+  },
+  "privateNotes": "Locally authored from supplied summary. Factual, translation and asset owner review pending. Original PDFs were not supplied."
+}

@@ -1,0 +1,1580 @@
+{
+  "chromium": "156.0.8078.4",
+  "scope": "Representative warm reload and blocked-font rendering; no Lighthouse or production performance claim. Request routing is enabled to inject failures, so transfer sizes are diagnostics and not a cache-efficiency comparison.",
+  "results": [
+    {
+      "id": "A-font-fallback-390-en",
+      "route": "/en/",
+      "width": 390,
+      "blockedFonts": [],
+      "normal": {
+        "title": "A clearer signal. A new possibility.",
+        "overflow": false,
+        "fonts": [],
+        "h1Height": 87.1875,
+        "resourceBytes": 31266,
+        "resources": [
+          {
+            "path": "/_astro/ProjectFrame.ompgqqEj.css",
+            "transfer": 18211,
+            "decoded": 17911
+          },
+          {
+            "path": "/_astro/_..Dqo8konS.css",
+            "transfer": 11830,
+            "decoded": 11530
+          },
+          {
+            "path": "/_astro/SiteHeader.astro_astro_type_script_index_0_lang.CdeZ3ikQ.js",
+            "transfer": 1225,
+            "decoded": 925
+          }
+        ]
+      },
+      "warm": {
+        "title": "A clearer signal. A new possibility.",
+        "overflow": false,
+        "fonts": [],
+        "h1Height": 87.1875,
+        "resourceBytes": 31266,
+        "resources": [
+          {
+            "path": "/_astro/ProjectFrame.ompgqqEj.css",
+            "transfer": 18211,
+            "decoded": 17911
+          },
+          {
+            "path": "/_astro/_..Dqo8konS.css",
+            "transfer": 11830,
+            "decoded": 11530
+          },
+          {
+            "path": "/_astro/SiteHeader.astro_astro_type_script_index_0_lang.CdeZ3ikQ.js",
+            "transfer": 1225,
+            "decoded": 925
+          }
+        ]
+      },
+      "fallback": {
+        "title": "A clearer signal. A new possibility.",
+        "overflow": false,
+        "fonts": [],
+        "h1Height": 87.1875,
+        "resourceBytes": 31266,
+        "resources": [
+          {
+            "path": "/_astro/ProjectFrame.ompgqqEj.css",
+            "transfer": 18211,
+            "decoded": 17911
+          },
+          {
+            "path": "/_astro/_..Dqo8konS.css",
+            "transfer": 11830,
+            "decoded": 11530
+          },
+          {
+            "path": "/_astro/SiteHeader.astro_astro_type_script_index_0_lang.CdeZ3ikQ.js",
+            "transfer": 1225,
+            "decoded": 925
+          }
+        ]
+      },
+      "mainTextPreserved": true,
+      "warmTextPreserved": true,
+      "screenshot": "A-font-fallback-390-en.png"
+    },
+    {
+      "id": "A-font-fallback-390-badania-modeli-pola",
+      "route": "/pl/projekty/aifield/badania-modeli-pola/",
+      "width": 390,
+      "blockedFonts": [],
+      "normal": {
+        "title": "Co może przewidzieć wyuczony model pola?",
+        "overflow": false,
+        "fonts": [],
+        "h1Height": 174.375,
+        "resourceBytes": 32134,
+        "resources": [
+          {
+            "path": "/_astro/ProjectFrame.ompgqqEj.css",
+            "transfer": 18211,
+            "decoded": 17911
+          },
+          {
+            "path": "/_astro/_..Dqo8konS.css",
+            "transfer": 11830,
+            "decoded": 11530
+          },
+          {
+            "path": "/_astro/SiteHeader.astro_astro_type_script_index_0_lang.CdeZ3ikQ.js",
+            "transfer": 1225,
+            "decoded": 925
+          },
+          {
+            "path": "/_astro/ProjectNavigation.astro_astro_type_script_index_0_lang.CzpDaEnm.js",
+            "transfer": 868,
+            "decoded": 568
+          }
+        ]
+      },
+      "warm": {
+        "title": "Co może przewidzieć wyuczony model pola?",
+        "overflow": false,
+        "fonts": [],
+        "h1Height": 174.375,
+        "resourceBytes": 32134,
+        "resources": [
+          {
+            "path": "/_astro/ProjectFrame.ompgqqEj.css",
+            "transfer": 18211,
+            "decoded": 17911
+          },
+          {
+            "path": "/_astro/_..Dqo8konS.css",
+            "transfer": 11830,
+            "decoded": 11530
+          },
+          {
+            "path": "/_astro/SiteHeader.astro_astro_type_script_index_0_lang.CdeZ3ikQ.js",
+            "transfer": 1225,
+            "decoded": 925
+          },
+          {
+            "path": "/_astro/ProjectNavigation.astro_astro_type_script_index_0_lang.CzpDaEnm.js",
+            "transfer": 868,
+            "decoded": 568
+          }
+        ]
+      },
+      "fallback": {
+        "title": "Co może przewidzieć wyuczony model pola?",
+        "overflow": false,
+        "fonts": [],
+        "h1Height": 174.375,
+        "resourceBytes": 32134,
+        "resources": [
+          {
+            "path": "/_astro/ProjectFrame.ompgqqEj.css",
+            "transfer": 18211,
+            "decoded": 17911
+          },
+          {
+            "path": "/_astro/_..Dqo8konS.css",
+            "transfer": 11830,
+            "decoded": 11530
+          },
+          {
+            "path": "/_astro/SiteHeader.astro_astro_type_script_index_0_lang.CdeZ3ikQ.js",
+            "transfer": 1225,
+            "decoded": 925
+          },
+          {
+            "path": "/_astro/ProjectNavigation.astro_astro_type_script_index_0_lang.CzpDaEnm.js",
+            "transfer": 868,
+            "decoded": 568
+          }
+        ]
+      },
+      "mainTextPreserved": true,
+      "warmTextPreserved": true,
+      "screenshot": "A-font-fallback-390-badania-modeli-pola.png"
+    },
+    {
+      "id": "A-font-fallback-390-kontakt",
+      "route": "/pl/kontakt/",
+      "width": 390,
+      "blockedFonts": [],
+      "normal": {
+        "title": "Zacznijmy rozmowę.",
+        "overflow": false,
+        "fonts": [],
+        "h1Height": 87.1875,
+        "resourceBytes": 39047,
+        "resources": [
+          {
+            "path": "/_astro/ProjectFrame.ompgqqEj.css",
+            "transfer": 18211,
+            "decoded": 17911
+          },
+          {
+            "path": "/_astro/_..Dqo8konS.css",
+            "transfer": 11830,
+            "decoded": 11530
+          },
+          {
+            "path": "/_astro/SiteHeader.astro_astro_type_script_index_0_lang.CdeZ3ikQ.js",
+            "transfer": 1225,
+            "decoded": 925
+          },
+          {
+            "path": "/_astro/EnquiryForm.astro_astro_type_script_index_0_lang.DggorCY4.js",
+            "transfer": 7781,
+            "decoded": 7481
+          }
+        ]
+      },
+      "warm": {
+        "title": "Zacznijmy rozmowę.",
+        "overflow": false,
+        "fonts": [],
+        "h1Height": 87.1875,
+        "resourceBytes": 39047,
+        "resources": [
+          {
+            "path": "/_astro/ProjectFrame.ompgqqEj.css",
+            "transfer": 18211,
+            "decoded": 17911
+          },
+          {
+            "path": "/_astro/_..Dqo8konS.css",
+            "transfer": 11830,
+            "decoded": 11530
+          },
+          {
+            "path": "/_astro/SiteHeader.astro_astro_type_script_index_0_lang.CdeZ3ikQ.js",
+            "transfer": 1225,
+            "decoded": 925
+          },
+          {
+            "path": "/_astro/EnquiryForm.astro_astro_type_script_index_0_lang.DggorCY4.js",
+            "transfer": 7781,
+            "decoded": 7481
+          }
+        ]
+      },
+      "fallback": {
+        "title": "Zacznijmy rozmowę.",
+        "overflow": false,
+        "fonts": [],
+        "h1Height": 87.1875,
+        "resourceBytes": 39047,
+        "resources": [
+          {
+            "path": "/_astro/ProjectFrame.ompgqqEj.css",
+            "transfer": 18211,
+            "decoded": 17911
+          },
+          {
+            "path": "/_astro/_..Dqo8konS.css",
+            "transfer": 11830,
+            "decoded": 11530
+          },
+          {
+            "path": "/_astro/SiteHeader.astro_astro_type_script_index_0_lang.CdeZ3ikQ.js",
+            "transfer": 1225,
+            "decoded": 925
+          },
+          {
+            "path": "/_astro/EnquiryForm.astro_astro_type_script_index_0_lang.DggorCY4.js",
+            "transfer": 7781,
+            "decoded": 7481
+          }
+        ]
+      },
+      "mainTextPreserved": true,
+      "warmTextPreserved": true,
+      "screenshot": "A-font-fallback-390-kontakt.png"
+    },
+    {
+      "id": "A-font-fallback-1280-en",
+      "route": "/en/",
+      "width": 1280,
+      "blockedFonts": [],
+      "normal": {
+        "title": "A clearer signal. A new possibility.",
+        "overflow": false,
+        "fonts": [],
+        "h1Height": 147.875,
+        "resourceBytes": 31266,
+        "resources": [
+          {
+            "path": "/_astro/ProjectFrame.ompgqqEj.css",
+            "transfer": 18211,
+            "decoded": 17911
+          },
+          {
+            "path": "/_astro/_..Dqo8konS.css",
+            "transfer": 11830,
+            "decoded": 11530
+          },
+          {
+            "path": "/_astro/SiteHeader.astro_astro_type_script_index_0_lang.CdeZ3ikQ.js",
+            "transfer": 1225,
+            "decoded": 925
+          }
+        ]
+      },
+      "warm": {
+        "title": "A clearer signal. A new possibility.",
+        "overflow": false,
+        "fonts": [],
+        "h1Height": 147.875,
+        "resourceBytes": 31266,
+        "resources": [
+          {
+            "path": "/_astro/ProjectFrame.ompgqqEj.css",
+            "transfer": 18211,
+            "decoded": 17911
+          },
+          {
+            "path": "/_astro/_..Dqo8konS.css",
+            "transfer": 11830,
+            "decoded": 11530
+          },
+          {
+            "path": "/_astro/SiteHeader.astro_astro_type_script_index_0_lang.CdeZ3ikQ.js",
+            "transfer": 1225,
+            "decoded": 925
+          }
+        ]
+      },
+      "fallback": {
+        "title": "A clearer signal. A new possibility.",
+        "overflow": false,
+        "fonts": [],
+        "h1Height": 147.875,
+        "resourceBytes": 31266,
+        "resources": [
+          {
+            "path": "/_astro/ProjectFrame.ompgqqEj.css",
+            "transfer": 18211,
+            "decoded": 17911
+          },
+          {
+            "path": "/_astro/_..Dqo8konS.css",
+            "transfer": 11830,
+            "decoded": 11530
+          },
+          {
+            "path": "/_astro/SiteHeader.astro_astro_type_script_index_0_lang.CdeZ3ikQ.js",
+            "transfer": 1225,
+            "decoded": 925
+          }
+        ]
+      },
+      "mainTextPreserved": true,
+      "warmTextPreserved": true,
+      "screenshot": "A-font-fallback-1280-en.png"
+    },
+    {
+      "id": "A-font-fallback-1280-badania-modeli-pola",
+      "route": "/pl/projekty/aifield/badania-modeli-pola/",
+      "width": 1280,
+      "blockedFonts": [],
+      "normal": {
+        "title": "Co może przewidzieć wyuczony model pola?",
+        "overflow": false,
+        "fonts": [],
+        "h1Height": 147.875,
+        "resourceBytes": 32134,
+        "resources": [
+          {
+            "path": "/_astro/ProjectFrame.ompgqqEj.css",
+            "transfer": 18211,
+            "decoded": 17911
+          },
+          {
+            "path": "/_astro/_..Dqo8konS.css",
+            "transfer": 11830,
+            "decoded": 11530
+          },
+          {
+            "path": "/_astro/SiteHeader.astro_astro_type_script_index_0_lang.CdeZ3ikQ.js",
+            "transfer": 1225,
+            "decoded": 925
+          },
+          {
+            "path": "/_astro/ProjectNavigation.astro_astro_type_script_index_0_lang.CzpDaEnm.js",
+            "transfer": 868,
+            "decoded": 568
+          }
+        ]
+      },
+      "warm": {
+        "title": "Co może przewidzieć wyuczony model pola?",
+        "overflow": false,
+        "fonts": [],
+        "h1Height": 147.875,
+        "resourceBytes": 32134,
+        "resources": [
+          {
+            "path": "/_astro/ProjectFrame.ompgqqEj.css",
+            "transfer": 18211,
+            "decoded": 17911
+          },
+          {
+            "path": "/_astro/_..Dqo8konS.css",
+            "transfer": 11830,
+            "decoded": 11530
+          },
+          {
+            "path": "/_astro/SiteHeader.astro_astro_type_script_index_0_lang.CdeZ3ikQ.js",
+            "transfer": 1225,
+            "decoded": 925
+          },
+          {
+            "path": "/_astro/ProjectNavigation.astro_astro_type_script_index_0_lang.CzpDaEnm.js",
+            "transfer": 868,
+            "decoded": 568
+          }
+        ]
+      },
+      "fallback": {
+        "title": "Co może przewidzieć wyuczony model pola?",
+        "overflow": false,
+        "fonts": [],
+        "h1Height": 147.875,
+        "resourceBytes": 32134,
+        "resources": [
+          {
+            "path": "/_astro/ProjectFrame.ompgqqEj.css",
+            "transfer": 18211,
+            "decoded": 17911
+          },
+          {
+            "path": "/_astro/_..Dqo8konS.css",
+            "transfer": 11830,
+            "decoded": 11530
+          },
+          {
+            "path": "/_astro/SiteHeader.astro_astro_type_script_index_0_lang.CdeZ3ikQ.js",
+            "transfer": 1225,
+            "decoded": 925
+          },
+          {
+            "path": "/_astro/ProjectNavigation.astro_astro_type_script_index_0_lang.CzpDaEnm.js",
+            "transfer": 868,
+            "decoded": 568
+          }
+        ]
+      },
+      "mainTextPreserved": true,
+      "warmTextPreserved": true,
+      "screenshot": "A-font-fallback-1280-badania-modeli-pola.png"
+    },
+    {
+      "id": "A-font-fallback-1280-kontakt",
+      "route": "/pl/kontakt/",
+      "width": 1280,
+      "blockedFonts": [],
+      "normal": {
+        "title": "Zacznijmy rozmowę.",
+        "overflow": false,
+        "fonts": [],
+        "h1Height": 125.53125,
+        "resourceBytes": 39047,
+        "resources": [
+          {
+            "path": "/_astro/ProjectFrame.ompgqqEj.css",
+            "transfer": 18211,
+            "decoded": 17911
+          },
+          {
+            "path": "/_astro/_..Dqo8konS.css",
+            "transfer": 11830,
+            "decoded": 11530
+          },
+          {
+            "path": "/_astro/SiteHeader.astro_astro_type_script_index_0_lang.CdeZ3ikQ.js",
+            "transfer": 1225,
+            "decoded": 925
+          },
+          {
+            "path": "/_astro/EnquiryForm.astro_astro_type_script_index_0_lang.DggorCY4.js",
+            "transfer": 7781,
+            "decoded": 7481
+          }
+        ]
+      },
+      "warm": {
+        "title": "Zacznijmy rozmowę.",
+        "overflow": false,
+        "fonts": [],
+        "h1Height": 125.53125,
+        "resourceBytes": 39047,
+        "resources": [
+          {
+            "path": "/_astro/ProjectFrame.ompgqqEj.css",
+            "transfer": 18211,
+            "decoded": 17911
+          },
+          {
+            "path": "/_astro/_..Dqo8konS.css",
+            "transfer": 11830,
+            "decoded": 11530
+          },
+          {
+            "path": "/_astro/SiteHeader.astro_astro_type_script_index_0_lang.CdeZ3ikQ.js",
+            "transfer": 1225,
+            "decoded": 925
+          },
+          {
+            "path": "/_astro/EnquiryForm.astro_astro_type_script_index_0_lang.DggorCY4.js",
+            "transfer": 7781,
+            "decoded": 7481
+          }
+        ]
+      },
+      "fallback": {
+        "title": "Zacznijmy rozmowę.",
+        "overflow": false,
+        "fonts": [],
+        "h1Height": 125.53125,
+        "resourceBytes": 39047,
+        "resources": [
+          {
+            "path": "/_astro/ProjectFrame.ompgqqEj.css",
+            "transfer": 18211,
+            "decoded": 17911
+          },
+          {
+            "path": "/_astro/_..Dqo8konS.css",
+            "transfer": 11830,
+            "decoded": 11530
+          },
+          {
+            "path": "/_astro/SiteHeader.astro_astro_type_script_index_0_lang.CdeZ3ikQ.js",
+            "transfer": 1225,
+            "decoded": 925
+          },
+          {
+            "path": "/_astro/EnquiryForm.astro_astro_type_script_index_0_lang.DggorCY4.js",
+            "transfer": 7781,
+            "decoded": 7481
+          }
+        ]
+      },
+      "mainTextPreserved": true,
+      "warmTextPreserved": true,
+      "screenshot": "A-font-fallback-1280-kontakt.png"
+    },
+    {
+      "id": "B-font-fallback-390-en",
+      "route": "/en/",
+      "width": 390,
+      "blockedFonts": [
+        "/assets/fonts/manrope-latin-wght-normal.woff2",
+        "/assets/fonts/ibm-plex-mono-latin-400-normal.woff2"
+      ],
+      "normal": {
+        "title": "Engineeringlight. Creatingpossibility.",
+        "overflow": false,
+        "fonts": [
+          {
+            "family": "Manrope",
+            "status": "loaded"
+          },
+          {
+            "family": "Manrope",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "loaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "unloaded"
+          }
+        ],
+        "h1Height": 144.421875,
+        "resourceBytes": 102920,
+        "resources": [
+          {
+            "path": "/assets/fonts/manrope-latin-wght-normal.woff2",
+            "transfer": 25136,
+            "decoded": 24836
+          },
+          {
+            "path": "/assets/styles.css",
+            "transfer": 54468,
+            "decoded": 54168
+          },
+          {
+            "path": "/assets/client.js",
+            "transfer": 8308,
+            "decoded": 8008
+          },
+          {
+            "path": "/assets/fonts/ibm-plex-mono-latin-400-normal.woff2",
+            "transfer": 15008,
+            "decoded": 14708
+          }
+        ]
+      },
+      "warm": {
+        "title": "Engineeringlight. Creatingpossibility.",
+        "overflow": false,
+        "fonts": [
+          {
+            "family": "Manrope",
+            "status": "loaded"
+          },
+          {
+            "family": "Manrope",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "loaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "unloaded"
+          }
+        ],
+        "h1Height": 144.421875,
+        "resourceBytes": 102920,
+        "resources": [
+          {
+            "path": "/assets/styles.css",
+            "transfer": 54468,
+            "decoded": 54168
+          },
+          {
+            "path": "/assets/client.js",
+            "transfer": 8308,
+            "decoded": 8008
+          },
+          {
+            "path": "/assets/fonts/manrope-latin-wght-normal.woff2",
+            "transfer": 25136,
+            "decoded": 24836
+          },
+          {
+            "path": "/assets/fonts/ibm-plex-mono-latin-400-normal.woff2",
+            "transfer": 15008,
+            "decoded": 14708
+          }
+        ]
+      },
+      "fallback": {
+        "title": "Engineeringlight. Creatingpossibility.",
+        "overflow": false,
+        "fonts": [
+          {
+            "family": "Manrope",
+            "status": "error"
+          },
+          {
+            "family": "Manrope",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "error"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "unloaded"
+          }
+        ],
+        "h1Height": 144.421875,
+        "resourceBytes": 62776,
+        "resources": [
+          {
+            "path": "/assets/fonts/manrope-latin-wght-normal.woff2",
+            "transfer": 0,
+            "decoded": 0
+          },
+          {
+            "path": "/assets/styles.css",
+            "transfer": 54468,
+            "decoded": 54168
+          },
+          {
+            "path": "/assets/client.js",
+            "transfer": 8308,
+            "decoded": 8008
+          },
+          {
+            "path": "/assets/fonts/ibm-plex-mono-latin-400-normal.woff2",
+            "transfer": 0,
+            "decoded": 0
+          }
+        ]
+      },
+      "mainTextPreserved": true,
+      "warmTextPreserved": true,
+      "screenshot": "B-font-fallback-390-en.png"
+    },
+    {
+      "id": "B-font-fallback-390-badania-modeli-pola",
+      "route": "/pl/projekty/aifield/badania-modeli-pola/",
+      "width": 390,
+      "blockedFonts": [
+        "/assets/fonts/manrope-latin-wght-normal.woff2",
+        "/assets/fonts/ibm-plex-mono-latin-400-normal.woff2",
+        "/assets/fonts/manrope-latin-ext-wght-normal.woff2",
+        "/assets/fonts/ibm-plex-mono-latin-ext-400-normal.woff2"
+      ],
+      "normal": {
+        "title": "Nowy kierunek badań nad polami optycznymi.",
+        "overflow": false,
+        "fonts": [
+          {
+            "family": "Manrope",
+            "status": "loaded"
+          },
+          {
+            "family": "Manrope",
+            "status": "loaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "loaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "loaded"
+          }
+        ],
+        "h1Height": 131.0625,
+        "resourceBytes": 131988,
+        "resources": [
+          {
+            "path": "/assets/styles.css",
+            "transfer": 54468,
+            "decoded": 54168
+          },
+          {
+            "path": "/assets/client.js",
+            "transfer": 8308,
+            "decoded": 8008
+          },
+          {
+            "path": "/assets/fonts/manrope-latin-wght-normal.woff2",
+            "transfer": 25136,
+            "decoded": 24836
+          },
+          {
+            "path": "/assets/fonts/ibm-plex-mono-latin-400-normal.woff2",
+            "transfer": 15008,
+            "decoded": 14708
+          },
+          {
+            "path": "/assets/fonts/manrope-latin-ext-wght-normal.woff2",
+            "transfer": 15420,
+            "decoded": 15120
+          },
+          {
+            "path": "/assets/fonts/ibm-plex-mono-latin-ext-400-normal.woff2",
+            "transfer": 13648,
+            "decoded": 13348
+          }
+        ]
+      },
+      "warm": {
+        "title": "Nowy kierunek badań nad polami optycznymi.",
+        "overflow": false,
+        "fonts": [
+          {
+            "family": "Manrope",
+            "status": "loaded"
+          },
+          {
+            "family": "Manrope",
+            "status": "loaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "loaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "loaded"
+          }
+        ],
+        "h1Height": 131.0625,
+        "resourceBytes": 131988,
+        "resources": [
+          {
+            "path": "/assets/styles.css",
+            "transfer": 54468,
+            "decoded": 54168
+          },
+          {
+            "path": "/assets/fonts/manrope-latin-wght-normal.woff2",
+            "transfer": 25136,
+            "decoded": 24836
+          },
+          {
+            "path": "/assets/client.js",
+            "transfer": 8308,
+            "decoded": 8008
+          },
+          {
+            "path": "/assets/fonts/ibm-plex-mono-latin-400-normal.woff2",
+            "transfer": 15008,
+            "decoded": 14708
+          },
+          {
+            "path": "/assets/fonts/manrope-latin-ext-wght-normal.woff2",
+            "transfer": 15420,
+            "decoded": 15120
+          },
+          {
+            "path": "/assets/fonts/ibm-plex-mono-latin-ext-400-normal.woff2",
+            "transfer": 13648,
+            "decoded": 13348
+          }
+        ]
+      },
+      "fallback": {
+        "title": "Nowy kierunek badań nad polami optycznymi.",
+        "overflow": false,
+        "fonts": [
+          {
+            "family": "Manrope",
+            "status": "error"
+          },
+          {
+            "family": "Manrope",
+            "status": "error"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "error"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "error"
+          }
+        ],
+        "h1Height": 131.0625,
+        "resourceBytes": 62776,
+        "resources": [
+          {
+            "path": "/assets/fonts/manrope-latin-wght-normal.woff2",
+            "transfer": 0,
+            "decoded": 0
+          },
+          {
+            "path": "/assets/styles.css",
+            "transfer": 54468,
+            "decoded": 54168
+          },
+          {
+            "path": "/assets/client.js",
+            "transfer": 8308,
+            "decoded": 8008
+          },
+          {
+            "path": "/assets/fonts/ibm-plex-mono-latin-400-normal.woff2",
+            "transfer": 0,
+            "decoded": 0
+          },
+          {
+            "path": "/assets/fonts/manrope-latin-ext-wght-normal.woff2",
+            "transfer": 0,
+            "decoded": 0
+          },
+          {
+            "path": "/assets/fonts/ibm-plex-mono-latin-ext-400-normal.woff2",
+            "transfer": 0,
+            "decoded": 0
+          }
+        ]
+      },
+      "mainTextPreserved": true,
+      "warmTextPreserved": true,
+      "screenshot": "B-font-fallback-390-badania-modeli-pola.png"
+    },
+    {
+      "id": "B-font-fallback-390-kontakt",
+      "route": "/pl/kontakt/",
+      "width": 390,
+      "blockedFonts": [
+        "/assets/fonts/manrope-latin-wght-normal.woff2",
+        "/assets/fonts/ibm-plex-mono-latin-400-normal.woff2",
+        "/assets/fonts/manrope-latin-ext-wght-normal.woff2",
+        "/assets/fonts/ibm-plex-mono-latin-ext-400-normal.woff2"
+      ],
+      "normal": {
+        "title": "Dobre rzeczyzaczynają sięod pytania.",
+        "overflow": false,
+        "fonts": [
+          {
+            "family": "Manrope",
+            "status": "loaded"
+          },
+          {
+            "family": "Manrope",
+            "status": "loaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "loaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "loaded"
+          }
+        ],
+        "h1Height": 141.421875,
+        "resourceBytes": 131988,
+        "resources": [
+          {
+            "path": "/assets/fonts/manrope-latin-wght-normal.woff2",
+            "transfer": 25136,
+            "decoded": 24836
+          },
+          {
+            "path": "/assets/styles.css",
+            "transfer": 54468,
+            "decoded": 54168
+          },
+          {
+            "path": "/assets/client.js",
+            "transfer": 8308,
+            "decoded": 8008
+          },
+          {
+            "path": "/assets/fonts/ibm-plex-mono-latin-400-normal.woff2",
+            "transfer": 15008,
+            "decoded": 14708
+          },
+          {
+            "path": "/assets/fonts/manrope-latin-ext-wght-normal.woff2",
+            "transfer": 15420,
+            "decoded": 15120
+          },
+          {
+            "path": "/assets/fonts/ibm-plex-mono-latin-ext-400-normal.woff2",
+            "transfer": 13648,
+            "decoded": 13348
+          }
+        ]
+      },
+      "warm": {
+        "title": "Dobre rzeczyzaczynają sięod pytania.",
+        "overflow": false,
+        "fonts": [
+          {
+            "family": "Manrope",
+            "status": "loaded"
+          },
+          {
+            "family": "Manrope",
+            "status": "loaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "loaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "loaded"
+          }
+        ],
+        "h1Height": 141.421875,
+        "resourceBytes": 131988,
+        "resources": [
+          {
+            "path": "/assets/fonts/manrope-latin-wght-normal.woff2",
+            "transfer": 25136,
+            "decoded": 24836
+          },
+          {
+            "path": "/assets/styles.css",
+            "transfer": 54468,
+            "decoded": 54168
+          },
+          {
+            "path": "/assets/client.js",
+            "transfer": 8308,
+            "decoded": 8008
+          },
+          {
+            "path": "/assets/fonts/ibm-plex-mono-latin-400-normal.woff2",
+            "transfer": 15008,
+            "decoded": 14708
+          },
+          {
+            "path": "/assets/fonts/manrope-latin-ext-wght-normal.woff2",
+            "transfer": 15420,
+            "decoded": 15120
+          },
+          {
+            "path": "/assets/fonts/ibm-plex-mono-latin-ext-400-normal.woff2",
+            "transfer": 13648,
+            "decoded": 13348
+          }
+        ]
+      },
+      "fallback": {
+        "title": "Dobre rzeczyzaczynają sięod pytania.",
+        "overflow": false,
+        "fonts": [
+          {
+            "family": "Manrope",
+            "status": "error"
+          },
+          {
+            "family": "Manrope",
+            "status": "error"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "error"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "error"
+          }
+        ],
+        "h1Height": 141.421875,
+        "resourceBytes": 62776,
+        "resources": [
+          {
+            "path": "/assets/fonts/manrope-latin-wght-normal.woff2",
+            "transfer": 0,
+            "decoded": 0
+          },
+          {
+            "path": "/assets/styles.css",
+            "transfer": 54468,
+            "decoded": 54168
+          },
+          {
+            "path": "/assets/client.js",
+            "transfer": 8308,
+            "decoded": 8008
+          },
+          {
+            "path": "/assets/fonts/ibm-plex-mono-latin-400-normal.woff2",
+            "transfer": 0,
+            "decoded": 0
+          },
+          {
+            "path": "/assets/fonts/manrope-latin-ext-wght-normal.woff2",
+            "transfer": 0,
+            "decoded": 0
+          },
+          {
+            "path": "/assets/fonts/ibm-plex-mono-latin-ext-400-normal.woff2",
+            "transfer": 0,
+            "decoded": 0
+          }
+        ]
+      },
+      "mainTextPreserved": true,
+      "warmTextPreserved": true,
+      "screenshot": "B-font-fallback-390-kontakt.png"
+    },
+    {
+      "id": "B-font-fallback-1280-en",
+      "route": "/en/",
+      "width": 1280,
+      "blockedFonts": [
+        "/assets/fonts/manrope-latin-wght-normal.woff2",
+        "/assets/fonts/ibm-plex-mono-latin-400-normal.woff2"
+      ],
+      "normal": {
+        "title": "Engineeringlight. Creatingpossibility.",
+        "overflow": false,
+        "fonts": [
+          {
+            "family": "Manrope",
+            "status": "loaded"
+          },
+          {
+            "family": "Manrope",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "loaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "unloaded"
+          }
+        ],
+        "h1Height": 217.640625,
+        "resourceBytes": 102920,
+        "resources": [
+          {
+            "path": "/assets/fonts/manrope-latin-wght-normal.woff2",
+            "transfer": 25136,
+            "decoded": 24836
+          },
+          {
+            "path": "/assets/styles.css",
+            "transfer": 54468,
+            "decoded": 54168
+          },
+          {
+            "path": "/assets/client.js",
+            "transfer": 8308,
+            "decoded": 8008
+          },
+          {
+            "path": "/assets/fonts/ibm-plex-mono-latin-400-normal.woff2",
+            "transfer": 15008,
+            "decoded": 14708
+          }
+        ]
+      },
+      "warm": {
+        "title": "Engineeringlight. Creatingpossibility.",
+        "overflow": false,
+        "fonts": [
+          {
+            "family": "Manrope",
+            "status": "loaded"
+          },
+          {
+            "family": "Manrope",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "loaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "unloaded"
+          }
+        ],
+        "h1Height": 217.640625,
+        "resourceBytes": 102920,
+        "resources": [
+          {
+            "path": "/assets/fonts/manrope-latin-wght-normal.woff2",
+            "transfer": 25136,
+            "decoded": 24836
+          },
+          {
+            "path": "/assets/styles.css",
+            "transfer": 54468,
+            "decoded": 54168
+          },
+          {
+            "path": "/assets/client.js",
+            "transfer": 8308,
+            "decoded": 8008
+          },
+          {
+            "path": "/assets/fonts/ibm-plex-mono-latin-400-normal.woff2",
+            "transfer": 15008,
+            "decoded": 14708
+          }
+        ]
+      },
+      "fallback": {
+        "title": "Engineeringlight. Creatingpossibility.",
+        "overflow": false,
+        "fonts": [
+          {
+            "family": "Manrope",
+            "status": "error"
+          },
+          {
+            "family": "Manrope",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "error"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "unloaded"
+          }
+        ],
+        "h1Height": 217.640625,
+        "resourceBytes": 62776,
+        "resources": [
+          {
+            "path": "/assets/fonts/manrope-latin-wght-normal.woff2",
+            "transfer": 0,
+            "decoded": 0
+          },
+          {
+            "path": "/assets/styles.css",
+            "transfer": 54468,
+            "decoded": 54168
+          },
+          {
+            "path": "/assets/client.js",
+            "transfer": 8308,
+            "decoded": 8008
+          },
+          {
+            "path": "/assets/fonts/ibm-plex-mono-latin-400-normal.woff2",
+            "transfer": 0,
+            "decoded": 0
+          }
+        ]
+      },
+      "mainTextPreserved": true,
+      "warmTextPreserved": true,
+      "screenshot": "B-font-fallback-1280-en.png"
+    },
+    {
+      "id": "B-font-fallback-1280-badania-modeli-pola",
+      "route": "/pl/projekty/aifield/badania-modeli-pola/",
+      "width": 1280,
+      "blockedFonts": [
+        "/assets/fonts/manrope-latin-wght-normal.woff2",
+        "/assets/fonts/ibm-plex-mono-latin-400-normal.woff2",
+        "/assets/fonts/manrope-latin-ext-wght-normal.woff2",
+        "/assets/fonts/ibm-plex-mono-latin-ext-400-normal.woff2"
+      ],
+      "normal": {
+        "title": "Nowy kierunek badań nad polami optycznymi.",
+        "overflow": false,
+        "fonts": [
+          {
+            "family": "Manrope",
+            "status": "loaded"
+          },
+          {
+            "family": "Manrope",
+            "status": "loaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "loaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "loaded"
+          }
+        ],
+        "h1Height": 150.125,
+        "resourceBytes": 131988,
+        "resources": [
+          {
+            "path": "/assets/styles.css",
+            "transfer": 54468,
+            "decoded": 54168
+          },
+          {
+            "path": "/assets/fonts/manrope-latin-wght-normal.woff2",
+            "transfer": 25136,
+            "decoded": 24836
+          },
+          {
+            "path": "/assets/client.js",
+            "transfer": 8308,
+            "decoded": 8008
+          },
+          {
+            "path": "/assets/fonts/ibm-plex-mono-latin-400-normal.woff2",
+            "transfer": 15008,
+            "decoded": 14708
+          },
+          {
+            "path": "/assets/fonts/manrope-latin-ext-wght-normal.woff2",
+            "transfer": 15420,
+            "decoded": 15120
+          },
+          {
+            "path": "/assets/fonts/ibm-plex-mono-latin-ext-400-normal.woff2",
+            "transfer": 13648,
+            "decoded": 13348
+          }
+        ]
+      },
+      "warm": {
+        "title": "Nowy kierunek badań nad polami optycznymi.",
+        "overflow": false,
+        "fonts": [
+          {
+            "family": "Manrope",
+            "status": "loaded"
+          },
+          {
+            "family": "Manrope",
+            "status": "loaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "loaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "loaded"
+          }
+        ],
+        "h1Height": 150.125,
+        "resourceBytes": 131988,
+        "resources": [
+          {
+            "path": "/assets/styles.css",
+            "transfer": 54468,
+            "decoded": 54168
+          },
+          {
+            "path": "/assets/fonts/manrope-latin-wght-normal.woff2",
+            "transfer": 25136,
+            "decoded": 24836
+          },
+          {
+            "path": "/assets/client.js",
+            "transfer": 8308,
+            "decoded": 8008
+          },
+          {
+            "path": "/assets/fonts/ibm-plex-mono-latin-400-normal.woff2",
+            "transfer": 15008,
+            "decoded": 14708
+          },
+          {
+            "path": "/assets/fonts/manrope-latin-ext-wght-normal.woff2",
+            "transfer": 15420,
+            "decoded": 15120
+          },
+          {
+            "path": "/assets/fonts/ibm-plex-mono-latin-ext-400-normal.woff2",
+            "transfer": 13648,
+            "decoded": 13348
+          }
+        ]
+      },
+      "fallback": {
+        "title": "Nowy kierunek badań nad polami optycznymi.",
+        "overflow": false,
+        "fonts": [
+          {
+            "family": "Manrope",
+            "status": "error"
+          },
+          {
+            "family": "Manrope",
+            "status": "error"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "error"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "error"
+          }
+        ],
+        "h1Height": 150.125,
+        "resourceBytes": 62776,
+        "resources": [
+          {
+            "path": "/assets/fonts/manrope-latin-wght-normal.woff2",
+            "transfer": 0,
+            "decoded": 0
+          },
+          {
+            "path": "/assets/styles.css",
+            "transfer": 54468,
+            "decoded": 54168
+          },
+          {
+            "path": "/assets/client.js",
+            "transfer": 8308,
+            "decoded": 8008
+          },
+          {
+            "path": "/assets/fonts/ibm-plex-mono-latin-400-normal.woff2",
+            "transfer": 0,
+            "decoded": 0
+          },
+          {
+            "path": "/assets/fonts/manrope-latin-ext-wght-normal.woff2",
+            "transfer": 0,
+            "decoded": 0
+          },
+          {
+            "path": "/assets/fonts/ibm-plex-mono-latin-ext-400-normal.woff2",
+            "transfer": 0,
+            "decoded": 0
+          }
+        ]
+      },
+      "mainTextPreserved": true,
+      "warmTextPreserved": true,
+      "screenshot": "B-font-fallback-1280-badania-modeli-pola.png"
+    },
+    {
+      "id": "B-font-fallback-1280-kontakt",
+      "route": "/pl/kontakt/",
+      "width": 1280,
+      "blockedFonts": [
+        "/assets/fonts/manrope-latin-wght-normal.woff2",
+        "/assets/fonts/ibm-plex-mono-latin-400-normal.woff2",
+        "/assets/fonts/manrope-latin-ext-wght-normal.woff2",
+        "/assets/fonts/ibm-plex-mono-latin-ext-400-normal.woff2"
+      ],
+      "normal": {
+        "title": "Dobre rzeczyzaczynają sięod pytania.",
+        "overflow": false,
+        "fonts": [
+          {
+            "family": "Manrope",
+            "status": "loaded"
+          },
+          {
+            "family": "Manrope",
+            "status": "loaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "loaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "loaded"
+          }
+        ],
+        "h1Height": 189.75,
+        "resourceBytes": 131988,
+        "resources": [
+          {
+            "path": "/assets/styles.css",
+            "transfer": 54468,
+            "decoded": 54168
+          },
+          {
+            "path": "/assets/client.js",
+            "transfer": 8308,
+            "decoded": 8008
+          },
+          {
+            "path": "/assets/fonts/manrope-latin-wght-normal.woff2",
+            "transfer": 25136,
+            "decoded": 24836
+          },
+          {
+            "path": "/assets/fonts/ibm-plex-mono-latin-400-normal.woff2",
+            "transfer": 15008,
+            "decoded": 14708
+          },
+          {
+            "path": "/assets/fonts/manrope-latin-ext-wght-normal.woff2",
+            "transfer": 15420,
+            "decoded": 15120
+          },
+          {
+            "path": "/assets/fonts/ibm-plex-mono-latin-ext-400-normal.woff2",
+            "transfer": 13648,
+            "decoded": 13348
+          }
+        ]
+      },
+      "warm": {
+        "title": "Dobre rzeczyzaczynają sięod pytania.",
+        "overflow": false,
+        "fonts": [
+          {
+            "family": "Manrope",
+            "status": "loaded"
+          },
+          {
+            "family": "Manrope",
+            "status": "loaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "loaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "loaded"
+          }
+        ],
+        "h1Height": 189.75,
+        "resourceBytes": 131988,
+        "resources": [
+          {
+            "path": "/assets/styles.css",
+            "transfer": 54468,
+            "decoded": 54168
+          },
+          {
+            "path": "/assets/client.js",
+            "transfer": 8308,
+            "decoded": 8008
+          },
+          {
+            "path": "/assets/fonts/manrope-latin-wght-normal.woff2",
+            "transfer": 25136,
+            "decoded": 24836
+          },
+          {
+            "path": "/assets/fonts/ibm-plex-mono-latin-400-normal.woff2",
+            "transfer": 15008,
+            "decoded": 14708
+          },
+          {
+            "path": "/assets/fonts/manrope-latin-ext-wght-normal.woff2",
+            "transfer": 15420,
+            "decoded": 15120
+          },
+          {
+            "path": "/assets/fonts/ibm-plex-mono-latin-ext-400-normal.woff2",
+            "transfer": 13648,
+            "decoded": 13348
+          }
+        ]
+      },
+      "fallback": {
+        "title": "Dobre rzeczyzaczynają sięod pytania.",
+        "overflow": false,
+        "fonts": [
+          {
+            "family": "Manrope",
+            "status": "error"
+          },
+          {
+            "family": "Manrope",
+            "status": "error"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "error"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "error"
+          }
+        ],
+        "h1Height": 189.75,
+        "resourceBytes": 62776,
+        "resources": [
+          {
+            "path": "/assets/fonts/manrope-latin-wght-normal.woff2",
+            "transfer": 0,
+            "decoded": 0
+          },
+          {
+            "path": "/assets/styles.css",
+            "transfer": 54468,
+            "decoded": 54168
+          },
+          {
+            "path": "/assets/client.js",
+            "transfer": 8308,
+            "decoded": 8008
+          },
+          {
+            "path": "/assets/fonts/ibm-plex-mono-latin-400-normal.woff2",
+            "transfer": 0,
+            "decoded": 0
+          },
+          {
+            "path": "/assets/fonts/manrope-latin-ext-wght-normal.woff2",
+            "transfer": 0,
+            "decoded": 0
+          },
+          {
+            "path": "/assets/fonts/ibm-plex-mono-latin-ext-400-normal.woff2",
+            "transfer": 0,
+            "decoded": 0
+          }
+        ]
+      },
+      "mainTextPreserved": true,
+      "warmTextPreserved": true,
+      "screenshot": "B-font-fallback-1280-kontakt.png"
+    }
+  ]
+}

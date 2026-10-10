@@ -1,0 +1,12 @@
+{
+  "variant": "02-inputs-only",
+  "origin": "https://artifactory-inputs-only-sol-light.coolify.threesixty.dev",
+  "verified_at": "2026-10-10T10:14:43.159279+00:00",
+  "cloudflare_access_protected": true,
+  "pages_ok": 34,
+  "assets_ok": 4,
+  "redirects_and_404s_ok": true,
+  "source_paths_private": true,
+  "noindex": true,
+  "enquiry": "Server rejects writes. Browser prepares a mailto draft for the user to send."
+}

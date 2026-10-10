@@ -1,0 +1,43 @@
+{
+  "id": "about",
+  "locale": "pl",
+  "title": "Firma skupiona na pytaniach fotonicznych",
+  "description": "Artifactory przedstawia dwa obecne projekty: ArtiSense bada zagadnienia pomiarowe, a AIFIELD wspiera pracę inżynierską nad fotoniką. Ten szkic opisuje ich kierunek bez wymyślania zespołu czy historii prawnej.",
+  "eyebrow": "Artifactory",
+  "lead": "Artifactory przedstawia dwa obecne projekty: ArtiSense bada zagadnienia pomiarowe, a AIFIELD wspiera pracę inżynierską nad fotoniką. Ten szkic opisuje ich kierunek bez wymyślania zespołu czy historii prawnej.",
+  "sections": [
+    {
+      "id": "section-1",
+      "heading": "Dlaczego te projekty są obok siebie",
+      "body": [
+        "Koncepcja czujnika wymaga zrozumienia oddziaływania światła z materią oraz projektowania elementów fotonicznych. Proces inżynierski AIFIELD może być przydatny dla projektów ArtiSense, lecz oba kierunki mają osobne cele i podstawy dowodowe."
+      ]
+    },
+    {
+      "id": "section-2",
+      "heading": "Co możemy dziś opisać",
+      "body": [
+        "Dostępny kontekst określa temat projektów i stan badań przedstawiony we wrześniu 2026 roku. Nie potwierdza życiorysów, wielkości zespołu, danych rejestrowych, patentów, własności ani partnerstw. Te fakty należy dodać dopiero po sprawdzeniu przez właściciela treści."
+      ]
+    },
+    {
+      "id": "section-3",
+      "heading": "Jak rozpocząć kontakt",
+      "body": [
+        "Inwestorzy mogą pytać o możliwość inwestycji w całą firmę i obecny etap; partnerzy techniczni mogą zaproponować konkretny temat. Lokalny formularz jest kanałem testowym, a link e-mail otwiera własny program pocztowy odwiedzającego."
+      ]
+    }
+  ],
+  "related": [
+    "artisense",
+    "aifield",
+    "contact"
+  ],
+  "editorialState": "draft",
+  "sourceRevision": "HP-1.1; context 2026-10-09",
+  "modified": "2026-10-10",
+  "sourceRefs": [
+    "inputs/content/project-context.md (summary, 2026-10-09)",
+    "inputs/docs/sitemap.md (SM-0.3)"
+  ]
+}

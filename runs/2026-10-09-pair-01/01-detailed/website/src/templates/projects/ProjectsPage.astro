@@ -1,0 +1,9 @@
+---
+import type {PageView} from '../../content/index';
+import ProjectCollection from './ProjectCollection.astro';
+import {routeFor} from '../../navigation/index';
+interface Props{page:PageView;}const {page}=Astro.props;const pl=page.locale==='pl';
+const projects=page.sections.filter(s=>['artisense','aifield'].includes(s.id));
+const relationship=page.sections.find(s=>!['artisense','aifield'].includes(s.id))!;
+---
+<section class="container page-hero"><p class="eyebrow">{page.eyebrow}</p><h1>{page.title}</h1><p class="lead">{page.lead}</p></section><section class="container section"><ProjectCollection sections={projects} locale={page.locale} tables/></section><section class="section wash"><div class="container split"><h2>{relationship.title}</h2><div>{relationship.paragraphs.map(p=><p>{p}</p>)}<div class="actions"><a class="text-link" href={routeFor('investors',page.locale)}>{pl?'Perspektywa inwestora':'The company investment perspective'} ↗</a></div></div></div></section>

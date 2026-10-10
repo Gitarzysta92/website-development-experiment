@@ -1,0 +1,43 @@
+{
+  "id": "artisense-technology",
+  "locale": "en",
+  "title": "From illumination to interpretation",
+  "description": "The ArtiSense concept is a chain of physical and computational steps. Each step has assumptions that must survive calibration and integration before a practical measurement claim is possible.",
+  "eyebrow": "ArtiSense",
+  "lead": "The ArtiSense concept is a chain of physical and computational steps. Each step has assumptions that must survive calibration and integration before a practical measurement claim is possible.",
+  "sections": [
+    {
+      "id": "section-1",
+      "heading": "Optical path",
+      "body": [
+        "A controlled light source illuminates the target and its interaction changes the returned or transmitted spectrum. Photonic structures may guide or filter that response. Wavelength selection, stray light and sample geometry can change what reaches the detector."
+      ]
+    },
+    {
+      "id": "section-2",
+      "heading": "Detection and reference",
+      "body": [
+        "Electronics convert light into a measurable signal. A reference path and calibration procedure would be needed to distinguish analyte-related change from source drift, temperature, movement and individual variation. The supplied summary does not establish a complete calibration method."
+      ]
+    },
+    {
+      "id": "section-3",
+      "heading": "Interpretation and integration",
+      "body": [
+        "A reprogrammable analog neuromorphic processor is proposed for signal interpretation, alongside software and connectivity. This is separate from AIFIELD neural optical-field research. Power, packaging, repeatability and the gap between components and a complete wearable system remain open."
+      ]
+    }
+  ],
+  "related": [
+    "artisense-validation",
+    "aifield-design",
+    "partnerships"
+  ],
+  "editorialState": "draft",
+  "sourceRevision": "HP-1.1; context 2026-10-09",
+  "modified": "2026-10-10",
+  "sourceRefs": [
+    "inputs/content/project-context.md (summary, 2026-10-09)",
+    "inputs/docs/sitemap.md (SM-0.3)"
+  ]
+}

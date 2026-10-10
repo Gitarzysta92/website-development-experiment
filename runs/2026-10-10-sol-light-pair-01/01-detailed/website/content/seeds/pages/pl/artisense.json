@@ -1,0 +1,46 @@
+{
+  "id": "artisense",
+  "locale": "pl",
+  "title": "Chemia odczytywana światłem",
+  "lead": "ArtiSense to proponowany kompaktowy system fotoniczny do wykrywania substancji chemicznych.",
+  "description": "Zakłada oświetlenie próbki, obserwację odpowiedzi optycznej i interpretację sygnału. Projekt rozważa też analogowe przetwarzanie.",
+  "eyebrow": "ArtiSense",
+  "sections": [
+    {
+      "id": "focus",
+      "title": "Planowany system",
+      "paragraphs": [
+        "Elementy optyczne, elektronika, porównanie ze wzorcem i interpretacja musiałyby działać razem. Opisana architektura jest kierunkiem badań, a nie gotowym urządzeniem noszonym."
+      ]
+    },
+    {
+      "id": "evidence",
+      "title": "Obecne dowody",
+      "paragraphs": [
+        "Materiały omawiają możliwość detekcji optycznej i projekt układu do badania glukozy. Nie potwierdzają wykonanego urządzenia ani dokładności klinicznej."
+      ]
+    },
+    {
+      "id": "next",
+      "title": "Kolejny krok",
+      "paragraphs": [
+        "Potrzebne są testy komponentów i założeń kalibracji w kontrolowanych warunkach, a następnie ocena integracji."
+      ]
+    }
+  ],
+  "related": [
+    "artisense",
+    "artisense-technology",
+    "artisense-applications",
+    "artisense-validation",
+    "partnerships"
+  ],
+  "stage": "Local draft · source context October 2026",
+  "pageType": "project",
+  "sourceReferences": [
+    "HP-1.1 project-context 2026-10-09"
+  ],
+  "sourceRevision": "2026-10-09",
+  "editorialState": "draft",
+  "modifiedAt": "2026-10-10"
+}

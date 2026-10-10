@@ -1,0 +1,1 @@
+export function GET(){return new Response(process.env.SITE_PROFILE==='published'?'User-agent: *\nAllow: /\nSitemap: '+process.env.SITE_ORIGIN+'/sitemap.xml\n':'User-agent: *\nDisallow: /\n',{headers:{'Content-Type':'text/plain'}})}

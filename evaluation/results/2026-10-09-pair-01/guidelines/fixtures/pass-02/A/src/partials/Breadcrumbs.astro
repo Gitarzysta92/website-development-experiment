@@ -1,0 +1,6 @@
+---
+import { ancestors,routeFor,labelFor,type PageId,type Locale } from '../navigation/index';
+interface Props {id:PageId;locale:Locale;}
+const {id,locale}=Astro.props;
+---
+{id!=='home'&&<nav class="breadcrumbs container" aria-label={locale==='pl'?'Ścieżka nawigacji':'Breadcrumb'}><ol>{ancestors(id).map(parent=><li><a href={routeFor(parent,locale)}>{labelFor(parent,locale)}</a></li>)}<li aria-current="page">{labelFor(id,locale)}</li></ol></nav>}

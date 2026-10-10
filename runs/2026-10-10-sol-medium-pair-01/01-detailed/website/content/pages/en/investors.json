@@ -1,0 +1,43 @@
+{
+  "id": "investors",
+  "locale": "en",
+  "title": "A company-level opportunity to examine",
+  "description": "Artifactory connects a sensing ambition with photonic design tooling. An investment discussion should consider the distinct maturity, evidence and risks of ArtiSense and AIFIELD before drawing a company-level conclusion.",
+  "eyebrow": "Artifactory",
+  "lead": "Artifactory connects a sensing ambition with photonic design tooling. An investment discussion should consider the distinct maturity, evidence and risks of ArtiSense and AIFIELD before drawing a company-level conclusion.",
+  "sections": [
+    {
+      "id": "section-1",
+      "heading": "Where the work stands",
+      "body": [
+        "The supplied material supports describing research, design, simulation and proposed architectures. It does not establish a current funding round, commercial traction, clinical validation, ownership position or a numeric ask. These points require direct confirmation."
+      ]
+    },
+    {
+      "id": "section-2",
+      "heading": "Questions worth asking",
+      "body": [
+        "For ArtiSense, the key gate is repeatable measured sensing performance and integration. For AIFIELD, it is a reproducible account of tool capability, limits and user value. Both require current plans, resources and milestones confirmed by the company."
+      ]
+    },
+    {
+      "id": "section-3",
+      "heading": "Start a focused conversation",
+      "body": [
+        "Use the investment enquiry to request current evidence, stage and next milestones for the company as a whole. The form records a local test receipt in this preview; actual investor communication requires the company’s verified contact channel."
+      ]
+    }
+  ],
+  "related": [
+    "artisense-validation",
+    "aifield-validation",
+    "about"
+  ],
+  "editorialState": "draft",
+  "sourceRevision": "HP-1.1; context 2026-10-09",
+  "modified": "2026-10-10",
+  "sourceRefs": [
+    "inputs/content/project-context.md (summary, 2026-10-09)",
+    "inputs/docs/sitemap.md (SM-0.3)"
+  ]
+}

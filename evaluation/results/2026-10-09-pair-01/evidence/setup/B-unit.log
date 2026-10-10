@@ -1,0 +1,56 @@
+
+> artifactory-inputs-only@0.0.0 test
+> node --test tests/site.test.mjs
+
+TAP version 13
+# Subtest: the page manifest contains 17 identities with 34 unique, paired routes
+ok 1 - the page manifest contains 17 identities with 34 unique, paired routes
+  ---
+  duration_ms: 0.443875
+  type: 'test'
+  ...
+# Subtest: all editorial routes have localized metadata, one main heading, reciprocal alternatives and unique IDs
+ok 2 - all editorial routes have localized metadata, one main heading, reciprocal alternatives and unique IDs
+  ---
+  duration_ms: 2.156125
+  type: 'test'
+  ...
+# Subtest: all internal links and their target fragments resolve
+ok 3 - all internal links and their target fragments resolve
+  ---
+  duration_ms: 3.025083
+  type: 'test'
+  ...
+# Subtest: every technical child has its own complete content in both languages
+ok 4 - every technical child has its own complete content in both languages
+  ---
+  duration_ms: 0.48825
+  type: 'test'
+  ...
+# Subtest: legacy Polish sensor fragments exist at the redirect destination
+ok 5 - legacy Polish sensor fragments exist at the redirect destination
+  ---
+  duration_ms: 0.131708
+  type: 'test'
+  ...
+# Subtest: preview output excludes publication inputs and prevents search indexing
+ok 6 - preview output excludes publication inputs and prevents search indexing
+  ---
+  duration_ms: 3.70625
+  type: 'test'
+  ...
+# Subtest: contact never embeds personal data in URLs or persistence APIs
+ok 7 - contact never embeds personal data in URLs or persistence APIs
+  ---
+  duration_ms: 1.100458
+  type: 'test'
+  ...
+1..7
+# tests 7
+# suites 0
+# pass 7
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 69.176583

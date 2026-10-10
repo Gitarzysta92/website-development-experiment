@@ -1,0 +1,46 @@
+{
+  "en": [
+    {
+      "title": "Person → instruction",
+      "description": "Define a non-confidential task and its boundaries."
+    },
+    {
+      "title": "Assistant → proposal",
+      "description": "Suggest a change or an exposed CLI/MCP operation."
+    },
+    {
+      "title": "Person → application",
+      "description": "Review the target, parameters and proposed action."
+    },
+    {
+      "title": "Tool → result",
+      "description": "Execute the accepted operation; surface failures."
+    },
+    {
+      "title": "Person → inspection",
+      "description": "Check the output and its engineering meaning."
+    }
+  ],
+  "pl": [
+    {
+      "title": "Człowiek → polecenie",
+      "description": "Określ niepoufne zadanie i jego granice."
+    },
+    {
+      "title": "Asystent → propozycja",
+      "description": "Zaproponuj zmianę lub udostępnioną operację CLI/MCP."
+    },
+    {
+      "title": "Człowiek → zastosowanie",
+      "description": "Oceń cel, parametry i proponowane działanie."
+    },
+    {
+      "title": "Narzędzie → wynik",
+      "description": "Wykonaj przyjętą operację; ujawnij niepowodzenia."
+    },
+    {
+      "title": "Człowiek → ocena",
+      "description": "Sprawdź wynik i jego znaczenie inżynierskie."
+    }
+  ]
+}

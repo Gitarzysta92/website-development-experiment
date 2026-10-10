@@ -1,0 +1,43 @@
+{
+  "id": "investors",
+  "locale": "pl",
+  "title": "Inwestycja w pytania warte sprawdzenia",
+  "lead": "Potencjał Artifactory dotyczy rozmowy o spółce rozwijającej detekcję i narzędzia projektowania fotonicznego.",
+  "description": "Dostępne prace pozwalają omówić kierunek techniczny i potrzebną walidację, lecz nie aktualną ofertę finansową.",
+  "eyebrow": "Artifactory",
+  "sections": [
+    {
+      "id": "focus",
+      "title": "Dlaczego razem",
+      "paragraphs": [
+        "ArtiSense dostarcza celu pomiarowego. AIFIELD bada narzędzia projektowe. Ich związek jest hipotezą rozwojową, nie dowodem wspólnego wyniku komercyjnego."
+      ]
+    },
+    {
+      "id": "evidence",
+      "title": "Dowody przed prognozami",
+      "paragraphs": [
+        "Podsumowania dotyczą badań optycznych, projektu układu, symulacji i ograniczonego wsparcia AI. Dokładność, przychody i klienci wymagają osobnego potwierdzenia."
+      ]
+    },
+    {
+      "id": "next",
+      "title": "Co można ocenić",
+      "paragraphs": [
+        "Zapoznaj się z architekturą, przykładami, ograniczeniami i planowanymi eksperymentami, a potem poproś o aktualne materiały."
+      ]
+    }
+  ],
+  "related": [
+    "projects",
+    "contact"
+  ],
+  "stage": "Local draft · source context October 2026",
+  "pageType": "company",
+  "sourceReferences": [
+    "HP-1.1 project-context 2026-10-09"
+  ],
+  "sourceRevision": "2026-10-09",
+  "editorialState": "draft",
+  "modifiedAt": "2026-10-10"
+}

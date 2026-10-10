@@ -1,0 +1,18 @@
+Artifactory preview: http://127.0.0.1:4601
+10:43:06 [@astrojs/node] Server listening on http://127.0.0.1:4602
+node:internal/url:895
+      href = bindingUrl.parse(input, base, true);
+                        ^
+
+TypeError: Invalid URL
+    at new URL (node:internal/url:895:25)
+    at Server.<anonymous> (file:///Users/michal.lukasiewicz/Programming/website-development-experiment/evaluation/results/2026-10-09-pair-01/guidelines/fixtures/pass-02/A/scripts/runtime/launch.mjs:16:15)
+    at Server.emit (node:events:514:28)
+    at parserOnIncoming (node:_http_server:1293:12)
+    at HTTPParser.parserOnHeadersComplete (node:_http_common:125:17) {
+  code: 'ERR_INVALID_URL',
+  input: 'http://[',
+  base: 'http://127.0.0.1:4601'
+}
+
+Node.js v24.21.0

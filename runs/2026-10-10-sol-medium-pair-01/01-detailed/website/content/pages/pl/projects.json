@@ -1,0 +1,43 @@
+{
+  "id": "projects",
+  "locale": "pl",
+  "title": "Dwa projekty, wspólna dyscyplina oceny",
+  "description": "Poznaj problem pomiarowy ArtiSense i proces inżynierski AIFIELD. Związek między nimi pomaga w projektowaniu, lecz wynik jednego projektu nie potwierdza automatycznie drugiego.",
+  "eyebrow": "Artifactory",
+  "lead": "Poznaj problem pomiarowy ArtiSense i proces inżynierski AIFIELD. Związek między nimi pomaga w projektowaniu, lecz wynik jednego projektu nie potwierdza automatycznie drugiego.",
+  "sections": [
+    {
+      "id": "section-1",
+      "heading": "ArtiSense: pomiar optyczny",
+      "body": [
+        "Proponowany układ obejmuje oświetlenie próbki, jej odpowiedź optyczną, detekcję i interpretację. Fotoniczny pomiar glukozy jest przykładem badawczym. Dostępne źródła nie potwierdzają pomiaru gotowym urządzeniem ani dokładności klinicznej."
+      ]
+    },
+    {
+      "id": "section-2",
+      "heading": "AIFIELD: projektowanie i symulacja",
+      "body": [
+        "Materiały z września 2026 roku opisują prace nad środowiskiem CAD i symulacjami fotonicznymi, obejmującymi mody, obwody, pola i efekty cieplne. Projekt układu związany z glukozą jest przykładem wewnętrznej pracy inżynierskiej."
+      ]
+    },
+    {
+      "id": "section-3",
+      "heading": "Dowody we właściwym kontekście",
+      "body": [
+        "W obu projektach odróżniamy opisane prace od następnych potrzebnych testów. Wyniki projektowe AIFIELD mogą wspierać koncepcję ArtiSense, ale symulacja nie zastępuje wykonania układu, kalibracji ani pomiaru."
+      ]
+    }
+  ],
+  "related": [
+    "artisense",
+    "aifield",
+    "investors"
+  ],
+  "editorialState": "draft",
+  "sourceRevision": "HP-1.1; context 2026-10-09",
+  "modified": "2026-10-10",
+  "sourceRefs": [
+    "inputs/content/project-context.md (summary, 2026-10-09)",
+    "inputs/docs/sitemap.md (SM-0.3)"
+  ]
+}

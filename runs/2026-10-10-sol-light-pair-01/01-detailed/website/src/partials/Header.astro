@@ -1,0 +1,24 @@
+---
+import { routeFor, contactHref, type Locale, type PageId } from '../navigation';
+const {locale,id} = Astro.props as {locale:Locale;id:PageId};
+const labels = locale==='en'?{projects:'Projects',all:'All projects',investors:'Investors',approach:'Approach',about:'About',partnerships:'Partnerships',cta:'Discuss an investment',menu:'Menu'}:{projects:'Projekty',all:'Wszystkie projekty',investors:'Inwestorzy',approach:'Jak pracujemy',about:'O nas',partnerships:'Współpraca',cta:'Porozmawiajmy o inwestycji',menu:'Menu'};
+---
+<header><div class="head container">
+  <a class="brand" href={routeFor('home',locale)} aria-label="Artifactory home">Arti<span>factory</span></a>
+  <button class="menu-button" type="button" aria-controls="main-navigation" aria-expanded="false">{labels.menu} <span aria-hidden="true">☰</span></button>
+  <nav class="nav" id="main-navigation" aria-label={locale==='en'?'Main':'Główna'}>
+    <details class="projects-disclosure"><summary>{labels.projects}</summary><div class="projects-menu"><a href={routeFor('projects',locale)} aria-current={id==='projects'?'page':undefined}>{labels.all}</a><a href={routeFor('artisense',locale)}>ArtiSense</a><a href={routeFor('aifield',locale)}>AIFIELD</a></div></details>
+    <a href={routeFor('investors',locale)} aria-current={id==='investors'?'page':undefined}>{labels.investors}</a>
+    <a href={routeFor('approach',locale)} aria-current={id==='approach'?'page':undefined}>{labels.approach}</a>
+    <a href={routeFor('about',locale)} aria-current={id==='about'?'page':undefined}>{labels.about}</a>
+    <a href={routeFor('partnerships',locale)} aria-current={id==='partnerships'?'page':undefined}>{labels.partnerships}</a>
+    <a class="button" href={contactHref(locale,'investment')}>{labels.cta}</a>
+  </nav>
+  <div class="lang" aria-label="Language"><a lang="en" href={routeFor(id,'en')} aria-current={locale==='en'?'page':undefined}>EN</a><a lang="pl" href={routeFor(id,'pl')} aria-current={locale==='pl'?'page':undefined}>PL</a></div>
+</div></header>
+<script>
+const currentLanguage=document.querySelector<HTMLAnchorElement>('.lang a:not([aria-current])');
+if(currentLanguage){const base=currentLanguage.getAttribute('href')!;const sync=()=>{currentLanguage.href=base+(['#focus','#evidence','#next'].includes(location.hash)?location.hash:'')};sync();window.addEventListener('hashchange',sync)}
+const menu=document.querySelector<HTMLButtonElement>('.menu-button');const nav=document.querySelector<HTMLElement>('#main-navigation');const projects=document.querySelector<HTMLDetailsElement>('.projects-disclosure');
+if(menu&&nav){const close=()=>{menu.setAttribute('aria-expanded','false');nav.dataset.open='false';if(projects)projects.open=false};menu.addEventListener('click',()=>{const open=menu.getAttribute('aria-expanded')!=='true';menu.setAttribute('aria-expanded',String(open));nav.dataset.open=String(open)});document.addEventListener('keydown',e=>{if(e.key==='Escape'){if(projects?.open){projects.open=false;(projects.querySelector('summary') as HTMLElement)?.focus()}else if(menu.getAttribute('aria-expanded')==='true'){close();menu.focus()}}});window.matchMedia('(min-width: 901px)').addEventListener('change',close)}
+</script>

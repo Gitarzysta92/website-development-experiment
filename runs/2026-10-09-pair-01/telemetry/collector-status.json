@@ -1,0 +1,14 @@
+{
+  "sessions": [
+    {
+      "variant": "01-detailed",
+      "status": "recording unavailable or ambiguous",
+      "matches": 0
+    },
+    {
+      "variant": "02-inputs-only",
+      "status": "recording unavailable or ambiguous",
+      "matches": 0
+    }
+  ]
+}

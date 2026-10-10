@@ -1,0 +1,12 @@
+---
+import type {PageView} from '../../content/index';
+import PageIntro from '../../partials/PageIntro.astro';
+import ProjectClosing from '../../partials/ProjectClosing.astro';
+import ProjectFrame from '../../layouts/ProjectFrame.astro';
+import FlowDiagram from '../../components/ui/FlowDiagram.astro';
+import Sections from '../Sections.astro';
+import diagram from './diagram.json';
+interface Props{page:PageView;}const {page}=Astro.props;const pl=page.locale==='pl';
+---
+<PageIntro page={page}/><ProjectFrame page={page}><FlowDiagram steps={diagram[page.locale]} caption={pl?'Diagram objaśniający koncepcję, nie interfejs programu ani wynik eksperymentu.':'Explanatory concept diagram, not a software interface or experimental result.'}/><Sections page={page}/></ProjectFrame><ProjectClosing page={page}/>
+<style>.research-visual{margin-bottom:40px}.research-visual figcaption{font-size:16px;color:var(--af-muted);margin-top:16px}</style>

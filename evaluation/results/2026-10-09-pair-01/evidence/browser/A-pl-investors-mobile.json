@@ -1,0 +1,314 @@
+{
+  "id": "A-pl-investors-mobile",
+  "label": "A",
+  "locale": "pl",
+  "pageId": "investors",
+  "view": "mobile",
+  "url": "http://127.0.0.1:4501/pl/inwestorzy/",
+  "status": 200,
+  "errors": [],
+  "title": "Poznaj Artifactory jako firmę. | Artifactory",
+  "language": "pl",
+  "h1": [
+    "Poznaj Artifactory jako firmę."
+  ],
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Poznaj Artifactory jako firmę."
+    },
+    {
+      "level": "H2",
+      "text": "Technologia pomiarowa i narzędzia do jej projektowania."
+    },
+    {
+      "level": "H2",
+      "text": "Dwie ścieżki dowodów, różne granice."
+    },
+    {
+      "level": "H2",
+      "text": "Co powinna wyjaśnić rozmowa inwestycyjna."
+    },
+    {
+      "level": "H2",
+      "text": "Potencjalny etap powinien zmniejszać określoną niepewność."
+    },
+    {
+      "level": "H2",
+      "text": "Zacznijmy od konkretnej rozmowy."
+    },
+    {
+      "level": "H2",
+      "text": "Firma"
+    },
+    {
+      "level": "H2",
+      "text": "Projekty"
+    },
+    {
+      "level": "H2",
+      "text": "Porozmawiajmy"
+    }
+  ],
+  "text": "Przejdź do treści\nWersja lokalna · Badania w toku\na·\nartifactory\nMenu\n☰\nStrona główna\nDla inwestorów\n\nARTIFACTORY / FIRMA\n\nPoznaj Artifactory jako firmę.\n\nDwa powiązane kierunki techniczne. Propozycja firmy do oceny przez pryzmat prac, ich ograniczeń i kolejnych potrzebnych dowodów.\n\nArtifactory\n\nArtiSense\n\nCel pomiarowy\n\nAIFIELD\n\nNarzędzia projektowania\n\nKoncepcyjne powiązanie prac. Etap i dowody każdego projektu wymagają osobnej oceny.\nTechnologia pomiarowa i narzędzia do jej projektowania.\n\nArtifactory łączy ArtiSense i AIFIELD w proponowanym pozycjonowaniu wokół pomiarów i inżynierii fotonicznej. Przedmiotem rozmowy inwestycyjnej jest Artifactory jako firma. Ocena tej propozycji wymaga zrozumienia roli i dojrzałości każdego projektu.\n\nWewnętrzny przykład projektowy pokazuje konkretne powiązanie: cel pomiarowy tworzy pytanie projektowe, a narzędzia inżynierskie pomagają zbadać proponowaną strukturę. To uzasadnienie techniczne do analizy, a nie dowód wspólnej własności intelektualnej lub sukcesu komercyjnego.\n\nDwie ścieżki dowodów, różne granice.\n\nArtiSense to proponowany zminiaturyzowany system pomiaru składu chemicznego. Dostarczone prace związane z glukozą dotyczą wykonalności optycznej i projektu chipu; dokładność pomiaru fizycznego oraz zamierzone użycie ubieralne pozostają niezwalidowane.\n\nPodsumowanie AIFIELD z września 2026 opisuje klasyczne projektowanie i symulację, częściowe wsparcie agentowe oraz odrębne badania neuronowych modeli pola. Wewnętrzny przykład uzasadnia rozmowę inżynierską, a bieżący dostęp, gotowość komercyjna i ograniczenia badań wymagają osobnej oceny.\n\nArtiSense\n↗\nAIFIELD\n↗\nCo powinna wyjaśnić rozmowa inwestycyjna.\n\nOcena firmy wymaga aktualnych dowodów wykraczających poza ten opis techniczny. Materiały strony nie potwierdzają bieżącej rundy finansowania, instrumentu, wyceny, przychodów, walidacji rynku ani uzgodnionego pilotażu. Historyczna propozycja finansowania projektu nie jest przedstawiana jako obecna oferta firmy.\n\nKolejna rozmowa może określić dostępne materiały i osoby odpowiedzialne za pytania o strukturę firmy, własność, zasoby rozwojowe oraz założenia komercyjne. Strona nie sugeruje istnienia poufnego pakietu inwestorskiego ani liczbowej analizy rynku.\n\nKtóre ryzyka techniczne najbardziej wpływają na propozycję firmy?\nCo wykazałby odtwarzalny wynik projektowy lub fizyczny?\nKtóre założenia komercyjne wymagają dowodów od klientów?\nO nas\n↗\nPotencjalny etap powinien zmniejszać określoną niepewność.\n\nMożliwe kolejne kroki to możliwy do oceny zapis projektu i symulacji AIFIELD oraz kontrolowane porównanie optyczne ArtiSense. Badania neuronowego pola wymagałyby oceny o jasnych granicach, obejmującej nieudane przypadki i koszt całego procesu.\n\nTo proponowane potrzeby dowodowe, a nie sfinansowane zobowiązania, obiecane daty czy zakończone wyniki. Zapytanie inwestycyjne pozwala rozpocząć rozmowę o firmie, dostępnych dowodach i odpowiednim następnym kroku.\n\nKontakt\n↗\nZacznijmy od konkretnej rozmowy.\nPorozmawiajmy o inwestycji\n↗\nartifactory·\n\nTechnologie pomiarowe i narzędzia do projektowania systemów fotonicznych.\n\ninfo@artifactory.tech\n↗\nFirma\nStrona główna\nProjekty\nDla inwestorów\nJak pracujemy\nO nas\nProjekty\nArtiSense\nAIFIELD\nPorozmawiajmy\nWspółpraca\nKontakt\nPolityka prywatności\nArtifactory\nŚwiatło otwiera nowe możliwości.",
+  "links": [
+    {
+      "text": "Przejdź do treści",
+      "href": "#main",
+      "lang": ""
+    },
+    {
+      "text": "a·\nartifactory",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "Wszystkie projekty↗",
+      "href": "/pl/projekty/",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSense↗",
+      "href": "/pl/projekty/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELD↗",
+      "href": "/pl/projekty/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Dla inwestorów",
+      "href": "/pl/inwestorzy/",
+      "lang": ""
+    },
+    {
+      "text": "Jak pracujemy",
+      "href": "/pl/jak-pracujemy/",
+      "lang": ""
+    },
+    {
+      "text": "O nas",
+      "href": "/pl/o-nas/",
+      "lang": ""
+    },
+    {
+      "text": "Współpraca",
+      "href": "/pl/wspolpraca/",
+      "lang": ""
+    },
+    {
+      "text": "Kontakt",
+      "href": "/pl/kontakt/",
+      "lang": ""
+    },
+    {
+      "text": "EN ↔",
+      "href": "http://127.0.0.1:4501/en/investors/",
+      "lang": "en"
+    },
+    {
+      "text": "Porozmawiajmy↗",
+      "href": "/pl/kontakt/?intent=investment",
+      "lang": ""
+    },
+    {
+      "text": "Strona główna",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "Technologia pomiarowa i narzędzia do jej projektowania.",
+      "href": "#thesis",
+      "lang": ""
+    },
+    {
+      "text": "Dwie ścieżki dowodów, różne granice.",
+      "href": "#projects",
+      "lang": ""
+    },
+    {
+      "text": "Co powinna wyjaśnić rozmowa inwestycyjna.",
+      "href": "#questions",
+      "lang": ""
+    },
+    {
+      "text": "Potencjalny etap powinien zmniejszać określoną niepewność.",
+      "href": "#milestones",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSense\n↗",
+      "href": "/pl/projekty/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELD\n↗",
+      "href": "/pl/projekty/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "O nas\n↗",
+      "href": "/pl/o-nas/",
+      "lang": ""
+    },
+    {
+      "text": "Kontakt\n↗",
+      "href": "/pl/kontakt/",
+      "lang": ""
+    },
+    {
+      "text": "Porozmawiajmy o inwestycji\n↗",
+      "href": "/pl/kontakt/?intent=investment",
+      "lang": ""
+    },
+    {
+      "text": "artifactory·",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "info@artifactory.tech\n↗",
+      "href": "mailto:info@artifactory.tech",
+      "lang": ""
+    },
+    {
+      "text": "Strona główna",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "Projekty",
+      "href": "/pl/projekty/",
+      "lang": ""
+    },
+    {
+      "text": "Dla inwestorów",
+      "href": "/pl/inwestorzy/",
+      "lang": ""
+    },
+    {
+      "text": "Jak pracujemy",
+      "href": "/pl/jak-pracujemy/",
+      "lang": ""
+    },
+    {
+      "text": "O nas",
+      "href": "/pl/o-nas/",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSense",
+      "href": "/pl/projekty/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELD",
+      "href": "/pl/projekty/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Współpraca",
+      "href": "/pl/wspolpraca/",
+      "lang": ""
+    },
+    {
+      "text": "Kontakt",
+      "href": "/pl/kontakt/",
+      "lang": ""
+    },
+    {
+      "text": "Polityka prywatności",
+      "href": "/pl/prywatnosc/",
+      "lang": ""
+    }
+  ],
+  "metadata": [
+    {
+      "name": "viewport",
+      "content": "width=device-width, initial-scale=1"
+    },
+    {
+      "name": "description",
+      "content": "Rozmowa inwestycyjna na poziomie firmy: badania ArtiSense, narzędzia fotoniczne AIFIELD, dostępne dowody i otwarte pytania rozwojowe."
+    },
+    {
+      "name": "robots",
+      "content": "noindex, nofollow"
+    },
+    {
+      "rel": "canonical",
+      "href": "http://127.0.0.1:4501/pl/inwestorzy/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "en",
+      "href": "http://127.0.0.1:4501/en/investors/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "pl",
+      "href": "http://127.0.0.1:4501/pl/inwestorzy/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "x-default",
+      "href": "http://127.0.0.1:4501/en/investors/"
+    },
+    {
+      "property": "og:type",
+      "content": "website"
+    },
+    {
+      "property": "og:site_name",
+      "content": "Artifactory"
+    },
+    {
+      "property": "og:title",
+      "content": "Poznaj Artifactory jako firmę. | Artifactory"
+    },
+    {
+      "property": "og:description",
+      "content": "Rozmowa inwestycyjna na poziomie firmy: badania ArtiSense, narzędzia fotoniczne AIFIELD, dostępne dowody i otwarte pytania rozwojowe."
+    },
+    {
+      "property": "og:url",
+      "content": "http://127.0.0.1:4501/pl/inwestorzy/"
+    },
+    {
+      "property": "og:locale",
+      "content": "pl_PL"
+    },
+    {
+      "property": "og:image",
+      "content": "http://127.0.0.1:4501/brand/share-v1.svg"
+    },
+    {
+      "property": "og:image:width",
+      "content": "1200"
+    },
+    {
+      "property": "og:image:height",
+      "content": "630"
+    }
+  ],
+  "forms": [],
+  "images": [],
+  "viewport": {
+    "width": 390,
+    "height": 844,
+    "scrollWidth": 375
+  },
+  "overflowing": [],
+  "axe": {
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "impact": "serious",
+        "nodeCount": 7
+      }
+    ],
+    "passes": 38
+  }
+}

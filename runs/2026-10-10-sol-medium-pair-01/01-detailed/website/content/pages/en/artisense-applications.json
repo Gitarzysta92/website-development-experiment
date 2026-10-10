@@ -1,0 +1,42 @@
+{
+  "id": "artisense-applications",
+  "locale": "en",
+  "title": "Use cases begin with measurement requirements",
+  "description": "A compact optical sensor could eventually be relevant where repeated chemical information is valuable. Application language remains conditional until the measurement, form factor and intended users have been validated.",
+  "eyebrow": "ArtiSense",
+  "lead": "A compact optical sensor could eventually be relevant where repeated chemical information is valuable. Application language remains conditional until the measurement, form factor and intended users have been validated.",
+  "sections": [
+    {
+      "id": "section-1",
+      "heading": "Glucose as a research example",
+      "body": [
+        "Glucose motivates much of the described photonic work because non-invasive monitoring would be useful if reliable. Optical feasibility and chip design do not show clinical accuracy, a tested wearable, or a substitute for established medical measurements."
+      ]
+    },
+    {
+      "id": "section-2",
+      "heading": "A path toward a wearable",
+      "body": [
+        "A wearable would need stable optical contact, tolerance for motion and temperature, power management, comfortable packaging and clear interpretation for users. These requirements differ from a laboratory optical response and have not been resolved in the supplied summary."
+      ]
+    },
+    {
+      "id": "section-3",
+      "heading": "Choosing a responsible next use",
+      "body": [
+        "Any future application needs a defined target, reference method, error tolerance and evaluation setting. The useful next conversation is about those requirements and possible research collaboration, not an immediate medical or consumer product claim."
+      ]
+    }
+  ],
+  "related": [
+    "artisense-validation",
+    "partnerships"
+  ],
+  "editorialState": "draft",
+  "sourceRevision": "HP-1.1; context 2026-10-09",
+  "modified": "2026-10-10",
+  "sourceRefs": [
+    "inputs/content/project-context.md (summary, 2026-10-09)",
+    "inputs/docs/sitemap.md (SM-0.3)"
+  ]
+}

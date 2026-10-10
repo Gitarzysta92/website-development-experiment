@@ -1,0 +1,379 @@
+{
+  "id": "B-pl-investors-mobile",
+  "label": "B",
+  "locale": "pl",
+  "pageId": "investors",
+  "view": "mobile",
+  "url": "http://127.0.0.1:4511/pl/inwestorzy/",
+  "status": 200,
+  "errors": [],
+  "title": "Dla inwestorów | Artifactory",
+  "language": "pl",
+  "h1": [
+    "Firma.\nNauka.\nMożliwości."
+  ],
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Firma.\nNauka.\nMożliwości."
+    },
+    {
+      "level": "H2",
+      "text": "Dwa projekty.\nJedna rozmowa."
+    },
+    {
+      "level": "H2",
+      "text": "Zrozum potencjał przez prowadzone prace."
+    },
+    {
+      "level": "H2",
+      "text": "Trzy obszary do przeanalizowania."
+    },
+    {
+      "level": "H3",
+      "text": "Co zostało zbadane?"
+    },
+    {
+      "level": "H3",
+      "text": "Co powinien wykazać kolejny etap?"
+    },
+    {
+      "level": "H3",
+      "text": "Jak prace przekładają się na wartość?"
+    },
+    {
+      "level": "H2",
+      "text": "Przejdź bezpośrednio do dowodów."
+    },
+    {
+      "level": "H3",
+      "text": "ArtiSense"
+    },
+    {
+      "level": "H3",
+      "text": "AIFIELD"
+    },
+    {
+      "level": "H3",
+      "text": "Badania modeli pola"
+    },
+    {
+      "level": "H2",
+      "text": "Porozmawiajmy\no kolejnym kroku."
+    },
+    {
+      "level": "H2",
+      "text": "Projekty"
+    },
+    {
+      "level": "H2",
+      "text": "Firma"
+    },
+    {
+      "level": "H2",
+      "text": "Kontakt"
+    }
+  ],
+  "text": "Przejdź do treści\nPodgląd lokalny\nTreści robocze · 9 października 2026\nartifactory.\nMenu\nStrona główna\nDla inwestorów\n\nINWESTYCJA W ARTIFACTORY\n\nFirma.\nNauka.\nMożliwości.\n\nPoznaj firmę rozwijającą technologie pomiarowe i narzędzia do projektowania układów fotonicznych. Zacznij od prac, dowodów i kolejnych etapów.\n\nPorozmawiajmy o inwestycji\nARTIFACTORY / PERSPEKTYWA FIRMY\nDwa projekty.\nJedna rozmowa.\nArtiSense\nCzujniki fotoniczne\nAIFIELD\nInżynieria fotoniczna\n\nPrzedmiotem rozmowy inwestycyjnej jest Artifactory jako firma.\n\nPERSPEKTYWA INWESTYCYJNA\n\nZrozum potencjał przez prowadzone prace.\n\nPomiary i projektowanie fotoniczne dotyczą powiązanych pytań inżynieryjnych. Propozycja firmy łączy te dwa kierunki, zachowując odrębność ryzyka i stopnia rozwoju każdego projektu.\n\nDostarczone materiały nie potwierdzają aktualnych warunków finansowania firmy, praw własności i IP, przychodów, zobowiązań klientów ani alokacji kapitału. Te tematy wymagają rozmowy o firmie opartej na aktualnych danych.\n\nWARTOŚCIOWA ROZMOWA INWESTYCYJNA\n\nTrzy obszary do przeanalizowania.\n01 / TECHNOLOGIA\nCo zostało zbadane?\n\nOddziel prace projektowe i symulacyjne od wyników pomiarów fizycznych. Sprawdź warunki i ograniczenia każdego twierdzenia.\n\n02 / ROZWÓJ\nCo powinien wykazać kolejny etap?\n\nPowiąż proponowane etapy z dowodami, które zmniejszą niepewność. Zakres, terminy i zasoby wymagają potwierdzenia.\n\n03 / FIRMA\nJak prace przekładają się na wartość?\n\nOmów zamierzonych użytkowników, założenia komercyjne, kompetencje zespołu oraz pozycję własnościową i finansowanie.\n\nZACZNIJ ANALIZĘ\n\nPrzejdź bezpośrednio do dowodów.\n01\nArtiSense\n\nBadania i rozwój koncepcji\n\n02\nAIFIELD\n\nRozwój i demonstracje wewnętrzne\n\n03\nBadania modeli pola\n\nWarunki, ograniczenia i otwarte pytania\n\ni\n\nNie przedstawiamy tu aktualnej rundy finansowania, kwoty inwestycji ani stopy zwrotu. Historyczne propozycje projektowe nie określają obecnego zapotrzebowania firmy na kapitał. Udostępnienie materiałów wymaga potwierdzenia zakresu i uprawnień.\n\nKOLEJNA ROZMOWA\n\nPorozmawiajmy\no kolejnym kroku.\n\nPorozmawiajmy o inwestycji w firmę, badaniach i pytaniach, nad którymi warto pracować.\n\nPorozmawiajmy o inwestycji\nPoznaj możliwości współpracy\nartifactory.\n\nProjektujemy ze światłem. Otwieramy możliwości.\n\nTechnologie pomiarowe i narzędzia do projektowania układów fotonicznych.\nProjekty\nWszystkie projekty\nArtiSense\nAIFIELD\nFirma\nStrona główna\nDla inwestorów\nJak pracujemy\nO nas\nWspółpraca\nKontakt\ninfo@artifactory.tech\nKontakt\nPrywatność\nArtifactory · 2026\nLokalna wersja do przeglądu. Treści i polskie tłumaczenia wymagają zatwierdzenia.\nNa górę ↑",
+  "links": [
+    {
+      "text": "Przejdź do treści",
+      "href": "#main",
+      "lang": ""
+    },
+    {
+      "text": "artifactory.",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "Wszystkie projekty",
+      "href": "/pl/projekty/",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSenseCzujniki fotoniczne",
+      "href": "/pl/projekty/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELDInżynieria fotoniczna",
+      "href": "/pl/projekty/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Dla inwestorów",
+      "href": "/pl/inwestorzy/",
+      "lang": ""
+    },
+    {
+      "text": "Jak pracujemy",
+      "href": "/pl/jak-pracujemy/",
+      "lang": ""
+    },
+    {
+      "text": "O nas",
+      "href": "/pl/o-nas/",
+      "lang": ""
+    },
+    {
+      "text": "Współpraca",
+      "href": "/pl/wspolpraca/",
+      "lang": ""
+    },
+    {
+      "text": "Kontakt",
+      "href": "/pl/kontakt/",
+      "lang": ""
+    },
+    {
+      "text": "EN",
+      "href": "/en/investors/",
+      "lang": "en"
+    },
+    {
+      "text": "Porozmawiajmy",
+      "href": "/pl/kontakt/?intent=investment",
+      "lang": ""
+    },
+    {
+      "text": "Strona główna",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "Porozmawiajmy o inwestycji",
+      "href": "/pl/kontakt/?intent=investment",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSense\nCzujniki fotoniczne",
+      "href": "/pl/projekty/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELD\nInżynieria fotoniczna",
+      "href": "/pl/projekty/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "01\nArtiSense\n\nBadania i rozwój koncepcji",
+      "href": "/pl/projekty/artisense/badania-walidacja/",
+      "lang": ""
+    },
+    {
+      "text": "02\nAIFIELD\n\nRozwój i demonstracje wewnętrzne",
+      "href": "/pl/projekty/aifield/przyklady-walidacja/",
+      "lang": ""
+    },
+    {
+      "text": "03\nBadania modeli pola\n\nWarunki, ograniczenia i otwarte pytania",
+      "href": "/pl/projekty/aifield/badania-modeli-pola/",
+      "lang": ""
+    },
+    {
+      "text": "Porozmawiajmy o inwestycji",
+      "href": "/pl/kontakt/?intent=investment",
+      "lang": ""
+    },
+    {
+      "text": "Poznaj możliwości współpracy",
+      "href": "/pl/wspolpraca/",
+      "lang": ""
+    },
+    {
+      "text": "artifactory.",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "Wszystkie projekty",
+      "href": "/pl/projekty/",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSense",
+      "href": "/pl/projekty/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELD",
+      "href": "/pl/projekty/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Strona główna",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "Dla inwestorów",
+      "href": "/pl/inwestorzy/",
+      "lang": ""
+    },
+    {
+      "text": "Jak pracujemy",
+      "href": "/pl/jak-pracujemy/",
+      "lang": ""
+    },
+    {
+      "text": "O nas",
+      "href": "/pl/o-nas/",
+      "lang": ""
+    },
+    {
+      "text": "Współpraca",
+      "href": "/pl/wspolpraca/",
+      "lang": ""
+    },
+    {
+      "text": "info@artifactory.tech",
+      "href": "mailto:info@artifactory.tech",
+      "lang": ""
+    },
+    {
+      "text": "Kontakt",
+      "href": "/pl/kontakt/",
+      "lang": ""
+    },
+    {
+      "text": "Prywatność",
+      "href": "/pl/prywatnosc/",
+      "lang": ""
+    },
+    {
+      "text": "Na górę ↑",
+      "href": "#top",
+      "lang": ""
+    }
+  ],
+  "metadata": [
+    {
+      "name": "viewport",
+      "content": "width=device-width, initial-scale=1"
+    },
+    {
+      "name": "description",
+      "content": "Poznaj Artifactory jako firmę do rozmowy inwestycyjnej: projekty, dowody i proponowane kolejne etapy."
+    },
+    {
+      "name": "robots",
+      "content": "noindex,nofollow"
+    },
+    {
+      "name": "theme-color",
+      "content": "#662483"
+    },
+    {
+      "rel": "canonical",
+      "href": "http://127.0.0.1:4511/pl/inwestorzy/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "en",
+      "href": "http://127.0.0.1:4511/en/investors/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "pl",
+      "href": "http://127.0.0.1:4511/pl/inwestorzy/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "x-default",
+      "href": "http://127.0.0.1:4511/en/investors/"
+    },
+    {
+      "property": "og:type",
+      "content": "website"
+    },
+    {
+      "property": "og:site_name",
+      "content": "Artifactory"
+    },
+    {
+      "property": "og:title",
+      "content": "Dla inwestorów | Artifactory"
+    },
+    {
+      "property": "og:description",
+      "content": "Poznaj Artifactory jako firmę do rozmowy inwestycyjnej: projekty, dowody i proponowane kolejne etapy."
+    },
+    {
+      "property": "og:locale",
+      "content": "pl_PL"
+    },
+    {
+      "property": "og:locale:alternate",
+      "content": "en_GB"
+    },
+    {
+      "property": "og:url",
+      "content": "http://127.0.0.1:4511/pl/inwestorzy/"
+    },
+    {
+      "property": "og:image",
+      "content": "http://127.0.0.1:4511/assets/share-pl.svg"
+    },
+    {
+      "name": "twitter:card",
+      "content": "summary_large_image"
+    }
+  ],
+  "forms": [],
+  "images": [],
+  "viewport": {
+    "width": 390,
+    "height": 844,
+    "scrollWidth": 390
+  },
+  "overflowing": [],
+  "axe": {
+    "violations": [
+      {
+        "id": "region",
+        "impact": "moderate",
+        "tags": [
+          "cat.keyboard",
+          "best-practice",
+          "RGAAv4",
+          "RGAA-9.2.1"
+        ],
+        "description": "Ensure all page content is contained by landmarks",
+        "help": "All page content should be contained by landmarks",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/region?application=playwright",
+        "nodes": [
+          {
+            "any": [
+              {
+                "id": "region",
+                "data": {
+                  "isIframe": false
+                },
+                "relatedNodes": [],
+                "impact": "moderate",
+                "message": "Some page content is not contained by landmarks"
+              }
+            ],
+            "all": [],
+            "none": [],
+            "impact": "moderate",
+            "html": "<div class=\"preview-strip\"><div class=\"container\"><span><i aria-hidden=\"true\"></i>Podgląd lokalny</span><span>Treści robocze · 9 października 2026</span></div></div>",
+            "target": [
+              ".preview-strip"
+            ],
+            "failureSummary": "Fix any of the following:\n  Some page content is not contained by landmarks"
+          }
+        ]
+      }
+    ],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "impact": "serious",
+        "nodeCount": 11
+      }
+    ],
+    "passes": 33
+  }
+}

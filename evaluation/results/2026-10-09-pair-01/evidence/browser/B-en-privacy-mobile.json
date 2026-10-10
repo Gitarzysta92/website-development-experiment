@@ -1,0 +1,318 @@
+{
+  "id": "B-en-privacy-mobile",
+  "label": "B",
+  "locale": "en",
+  "pageId": "privacy",
+  "view": "mobile",
+  "url": "http://127.0.0.1:4511/en/privacy/",
+  "status": 200,
+  "errors": [],
+  "title": "Privacy | Artifactory",
+  "language": "en",
+  "h1": [
+    "A clear account of your data."
+  ],
+  "headings": [
+    {
+      "level": "H1",
+      "text": "A clear account of your data."
+    },
+    {
+      "level": "H2",
+      "text": "Scope of this preview"
+    },
+    {
+      "level": "H2",
+      "text": "Form contents stay in your browser"
+    },
+    {
+      "level": "H2",
+      "text": "Copying and sending an email"
+    },
+    {
+      "level": "H2",
+      "text": "Local assets and no tracking"
+    },
+    {
+      "level": "H2",
+      "text": "What must be defined before publication"
+    },
+    {
+      "level": "H2",
+      "text": "Contact"
+    },
+    {
+      "level": "H2",
+      "text": "Projects"
+    },
+    {
+      "level": "H2",
+      "text": "Company"
+    },
+    {
+      "level": "H2",
+      "text": "Get in touch"
+    }
+  ],
+  "text": "Skip to content\nLocal preview\nDraft content · 9 October 2026\nartifactory.\nMenu\nHome\nPrivacy\n\nPRIVACY / LOCAL PREVIEW\n\nA clear account of your data.\n\nThis preview prepares drafts in your browser. It does not collect or send enquiries. Updated 9 October 2026.\n\nScope of this preview\n\nThis is a local Artifactory website review edition. It has not been published. This notice describes the behavior of this implementation; it is not an approved privacy policy for a future public website.\n\nForm contents stay in your browser\n\nThe form prepares an email from the enquiry type, reply email, message and optional name, organization and project context. Information remains in the current page’s memory. The site does not send it to a server or save it in cookies, localStorage or a database. Navigating away or refreshing may clear the draft.\n\nCopying and sending an email\n\nThe copy button places the prepared text on your device’s clipboard. The email link opens your email app addressed to info@artifactory.tech. Personal information and message contents are not included in page URLs or the email link. Sending happens only in your email app and is subject to its provider’s and the recipient’s handling practices. The mailbox operator and message-retention arrangements need confirmation.\n\nLocal assets and no tracking\n\nFonts, styles, scripts and illustrations are served locally. This implementation has no analytics, third-party embeds, advertising or cookies. The local server does not keep a request log or log form contents. Browser and device-level technical data remain under the control of that software.\n\nWhat must be defined before publication\n\nBefore a form begins transmitting data, the data controller, receiver, service providers, processing purposes, access, retention, deletion and rights-request contact must be confirmed. The chosen hosting practices also need review. This notice must then be updated and approved.\n\nContact\n\nThe brief supplies info@artifactory.tech as the public email address. Its operator has not been verified. Please do not include health data or confidential information in this form or ordinary email.\n\nContact\nartifactory.\n\nEngineering light. Creating possibility.\n\nSensing technology and tools for designing photonic systems.\nProjects\nAll projects\nArtiSense\nAIFIELD\nCompany\nHome\nInvestors\nOur approach\nAbout\nPartnerships\nGet in touch\ninfo@artifactory.tech\nContact\nPrivacy\nArtifactory · 2026\nLocal review edition. Content and Polish translations await owner review.\nBack to top ↑",
+  "links": [
+    {
+      "text": "Skip to content",
+      "href": "#main",
+      "lang": ""
+    },
+    {
+      "text": "artifactory.",
+      "href": "/en/",
+      "lang": ""
+    },
+    {
+      "text": "All projects",
+      "href": "/en/projects/",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSensePhotonic sensing",
+      "href": "/en/projects/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELDPhotonic engineering",
+      "href": "/en/projects/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Investors",
+      "href": "/en/investors/",
+      "lang": ""
+    },
+    {
+      "text": "Our approach",
+      "href": "/en/approach/",
+      "lang": ""
+    },
+    {
+      "text": "About",
+      "href": "/en/about/",
+      "lang": ""
+    },
+    {
+      "text": "Partnerships",
+      "href": "/en/partnerships/",
+      "lang": ""
+    },
+    {
+      "text": "Contact",
+      "href": "/en/contact/",
+      "lang": ""
+    },
+    {
+      "text": "PL",
+      "href": "/pl/prywatnosc/",
+      "lang": "pl"
+    },
+    {
+      "text": "Let’s talk",
+      "href": "/en/contact/?intent=investment",
+      "lang": ""
+    },
+    {
+      "text": "Home",
+      "href": "/en/",
+      "lang": ""
+    },
+    {
+      "text": "Contact",
+      "href": "/en/contact/",
+      "lang": ""
+    },
+    {
+      "text": "artifactory.",
+      "href": "/en/",
+      "lang": ""
+    },
+    {
+      "text": "All projects",
+      "href": "/en/projects/",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSense",
+      "href": "/en/projects/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELD",
+      "href": "/en/projects/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Home",
+      "href": "/en/",
+      "lang": ""
+    },
+    {
+      "text": "Investors",
+      "href": "/en/investors/",
+      "lang": ""
+    },
+    {
+      "text": "Our approach",
+      "href": "/en/approach/",
+      "lang": ""
+    },
+    {
+      "text": "About",
+      "href": "/en/about/",
+      "lang": ""
+    },
+    {
+      "text": "Partnerships",
+      "href": "/en/partnerships/",
+      "lang": ""
+    },
+    {
+      "text": "info@artifactory.tech",
+      "href": "mailto:info@artifactory.tech",
+      "lang": ""
+    },
+    {
+      "text": "Contact",
+      "href": "/en/contact/",
+      "lang": ""
+    },
+    {
+      "text": "Privacy",
+      "href": "/en/privacy/",
+      "lang": ""
+    },
+    {
+      "text": "Back to top ↑",
+      "href": "#top",
+      "lang": ""
+    }
+  ],
+  "metadata": [
+    {
+      "name": "viewport",
+      "content": "width=device-width, initial-scale=1"
+    },
+    {
+      "name": "description",
+      "content": "How the local Artifactory preview handles draft enquiries, clipboard copying, email and technical data."
+    },
+    {
+      "name": "robots",
+      "content": "noindex,nofollow"
+    },
+    {
+      "name": "theme-color",
+      "content": "#662483"
+    },
+    {
+      "rel": "canonical",
+      "href": "http://127.0.0.1:4511/en/privacy/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "en",
+      "href": "http://127.0.0.1:4511/en/privacy/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "pl",
+      "href": "http://127.0.0.1:4511/pl/prywatnosc/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "x-default",
+      "href": "http://127.0.0.1:4511/en/privacy/"
+    },
+    {
+      "property": "og:type",
+      "content": "website"
+    },
+    {
+      "property": "og:site_name",
+      "content": "Artifactory"
+    },
+    {
+      "property": "og:title",
+      "content": "Privacy | Artifactory"
+    },
+    {
+      "property": "og:description",
+      "content": "How the local Artifactory preview handles draft enquiries, clipboard copying, email and technical data."
+    },
+    {
+      "property": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "property": "og:locale:alternate",
+      "content": "pl_PL"
+    },
+    {
+      "property": "og:url",
+      "content": "http://127.0.0.1:4511/en/privacy/"
+    },
+    {
+      "property": "og:image",
+      "content": "http://127.0.0.1:4511/assets/share-en.svg"
+    },
+    {
+      "name": "twitter:card",
+      "content": "summary_large_image"
+    }
+  ],
+  "forms": [],
+  "images": [],
+  "viewport": {
+    "width": 390,
+    "height": 844,
+    "scrollWidth": 390
+  },
+  "overflowing": [],
+  "axe": {
+    "violations": [
+      {
+        "id": "region",
+        "impact": "moderate",
+        "tags": [
+          "cat.keyboard",
+          "best-practice",
+          "RGAAv4",
+          "RGAA-9.2.1"
+        ],
+        "description": "Ensure all page content is contained by landmarks",
+        "help": "All page content should be contained by landmarks",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/region?application=playwright",
+        "nodes": [
+          {
+            "any": [
+              {
+                "id": "region",
+                "data": {
+                  "isIframe": false
+                },
+                "relatedNodes": [],
+                "impact": "moderate",
+                "message": "Some page content is not contained by landmarks"
+              }
+            ],
+            "all": [],
+            "none": [],
+            "impact": "moderate",
+            "html": "<div class=\"preview-strip\"><div class=\"container\"><span><i aria-hidden=\"true\"></i>Local preview</span><span>Draft content · 9 October 2026</span></div></div>",
+            "target": [
+              ".preview-strip"
+            ],
+            "failureSummary": "Fix any of the following:\n  Some page content is not contained by landmarks"
+          }
+        ]
+      }
+    ],
+    "incomplete": [],
+    "passes": 33
+  }
+}

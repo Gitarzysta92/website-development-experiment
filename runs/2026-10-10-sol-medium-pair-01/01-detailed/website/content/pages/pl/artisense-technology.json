@@ -1,0 +1,43 @@
+{
+  "id": "artisense-technology",
+  "locale": "pl",
+  "title": "Od oświetlenia do interpretacji",
+  "description": "Koncepcja ArtiSense składa się z kolejnych etapów fizycznych i obliczeniowych. Założenia każdego etapu trzeba sprawdzić przez kalibrację i integrację, zanim będzie można mówić o praktycznym pomiarze.",
+  "eyebrow": "ArtiSense",
+  "lead": "Koncepcja ArtiSense składa się z kolejnych etapów fizycznych i obliczeniowych. Założenia każdego etapu trzeba sprawdzić przez kalibrację i integrację, zanim będzie można mówić o praktycznym pomiarze.",
+  "sections": [
+    {
+      "id": "section-1",
+      "heading": "Tor optyczny",
+      "body": [
+        "Kontrolowane źródło oświetla badaną próbkę, a oddziaływanie zmienia widmo światła powracającego lub przechodzącego. Struktury fotoniczne mogą prowadzić lub filtrować odpowiedź. Dobór długości fali, światło rozproszone i geometria próbki wpływają na sygnał detektora."
+      ]
+    },
+    {
+      "id": "section-2",
+      "heading": "Detekcja i odniesienie",
+      "body": [
+        "Elektronika zamienia światło na sygnał pomiarowy. Tor odniesienia i procedura kalibracji byłyby potrzebne, by oddzielić zmianę związaną z analitem od dryfu źródła, temperatury, ruchu i różnic między osobami. Dostępny opis nie potwierdza pełnej metody kalibracji."
+      ]
+    },
+    {
+      "id": "section-3",
+      "heading": "Interpretacja i integracja",
+      "body": [
+        "Do interpretacji sygnału zaproponowano rekonfigurowalny analogowy procesor neuromorficzny oraz oprogramowanie i łączność. To odrębny temat od badań AIFIELD nad neuronowym modelem pola optycznego. Zasilanie, obudowa i powtarzalność pozostają wyzwaniami."
+      ]
+    }
+  ],
+  "related": [
+    "artisense-validation",
+    "aifield-design",
+    "partnerships"
+  ],
+  "editorialState": "draft",
+  "sourceRevision": "HP-1.1; context 2026-10-09",
+  "modified": "2026-10-10",
+  "sourceRefs": [
+    "inputs/content/project-context.md (summary, 2026-10-09)",
+    "inputs/docs/sitemap.md (SM-0.3)"
+  ]
+}

@@ -1,0 +1,13 @@
+
+> artifactory-detailed@1.0.0 test
+> vitest run
+
+
+ RUN  v5.0.3 /Users/michal.lukasiewicz/Programming/website-development-experiment/evaluation/results/2026-10-09-pair-01/snapshots/A
+
+
+ Test Files  3 passed (3)
+      Tests  15 passed (15)
+   Start at  01:01:11
+   Duration  167ms (transform 38%, import 31%, tests 29%, worker 2%)
+

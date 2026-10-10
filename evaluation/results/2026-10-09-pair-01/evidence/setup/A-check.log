@@ -1,0 +1,22 @@
+
+> artifactory-detailed@1.0.0 check
+> astro check && node scripts/check-content.mjs && node scripts/check-boundaries.mjs
+
+01:01:08 [@astrojs/node] Enabling sessions with filesystem storage
+01:01:08 [types] Generated 23ms
+01:01:08 [check] Getting diagnostics for Astro files in /Users/michal.lukasiewicz/Programming/website-development-experiment/evaluation/results/2026-10-09-pair-01/snapshots/A...
+Result (80 files): 
+- 0 errors
+- 0 warnings
+- 0 hints
+
+
+ RUN  v5.0.3 /Users/michal.lukasiewicz/Programming/website-development-experiment/evaluation/results/2026-10-09-pair-01/snapshots/A
+
+
+ Test Files  1 passed (1)
+      Tests  7 passed (7)
+   Start at  01:01:10
+   Duration  170ms (tests 39%, import 34%, transform 26%, worker 2%)
+
+Boundary/cycle checks passed: 56 source modules.

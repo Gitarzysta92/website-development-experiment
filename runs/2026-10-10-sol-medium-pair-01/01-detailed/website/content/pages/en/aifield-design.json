@@ -1,0 +1,42 @@
+{
+  "id": "aifield-design",
+  "locale": "en",
+  "title": "From geometry to a testable photonic design",
+  "description": "AIFIELD’s design workflow links layout and process descriptions to several forms of simulation. Each output answers a different engineering question and must be interpreted within its model assumptions.",
+  "eyebrow": "AIFIELD",
+  "lead": "AIFIELD’s design workflow links layout and process descriptions to several forms of simulation. Each output answers a different engineering question and must be interpreted within its model assumptions.",
+  "sections": [
+    {
+      "id": "section-1",
+      "heading": "Design inputs",
+      "body": [
+        "An engineer defines geometry, layers, materials and process constraints. Those inputs set the context for simulations; incomplete fabrication assumptions can make an attractive simulated layout unsuitable for a real process."
+      ]
+    },
+    {
+      "id": "section-2",
+      "heading": "Simulation views",
+      "body": [
+        "Mode analysis examines guided light in a structure; circuit models connect components; field calculations show spatial behavior; thermal analysis examines heating effects. The September 2026 description presents this range of work, while exact support and validated accuracy need current confirmation."
+      ]
+    },
+    {
+      "id": "section-3",
+      "heading": "A glucose-chip design example",
+      "body": [
+        "The internal photonic glucose example shows how a sensing question can guide component design and simulation. It is an engineering design output, not a fabricated chip measurement. Fabrication tolerances and measured agreement are separate validation steps."
+      ]
+    }
+  ],
+  "related": [
+    "aifield-validation",
+    "artisense-validation"
+  ],
+  "editorialState": "draft",
+  "sourceRevision": "HP-1.1; context 2026-10-09",
+  "modified": "2026-10-10",
+  "sourceRefs": [
+    "inputs/content/project-context.md (summary, 2026-10-09)",
+    "inputs/docs/sitemap.md (SM-0.3)"
+  ]
+}

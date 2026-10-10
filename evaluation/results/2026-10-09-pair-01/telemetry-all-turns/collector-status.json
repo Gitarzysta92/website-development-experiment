@@ -1,0 +1,14 @@
+{
+  "sessions": [
+    {
+      "variant": "01-detailed",
+      "status": "collected",
+      "thread_id": "01a1228f-ec94-7483-9a2f-73e39526cbdf"
+    },
+    {
+      "variant": "02-inputs-only",
+      "status": "collected",
+      "thread_id": "01a1228f-ffc2-75e1-bd45-20e80227b9c5"
+    }
+  ]
+}

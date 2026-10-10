@@ -1,0 +1,170 @@
+[
+  {
+    "id": "A-language-home",
+    "status": "pass"
+  },
+  {
+    "id": "A-language-projects",
+    "status": "pass"
+  },
+  {
+    "id": "A-language-artisense",
+    "status": "pass"
+  },
+  {
+    "id": "A-language-artisense-technology",
+    "status": "pass"
+  },
+  {
+    "id": "A-language-artisense-applications",
+    "status": "pass"
+  },
+  {
+    "id": "A-language-artisense-validation",
+    "status": "pass"
+  },
+  {
+    "id": "A-language-aifield",
+    "status": "pass"
+  },
+  {
+    "id": "A-language-aifield-design",
+    "status": "pass"
+  },
+  {
+    "id": "A-language-aifield-ai",
+    "status": "pass"
+  },
+  {
+    "id": "A-language-aifield-neural",
+    "status": "pass"
+  },
+  {
+    "id": "A-language-aifield-validation",
+    "status": "pass"
+  },
+  {
+    "id": "A-language-investors",
+    "status": "pass"
+  },
+  {
+    "id": "A-language-approach",
+    "status": "pass"
+  },
+  {
+    "id": "A-language-about",
+    "status": "pass"
+  },
+  {
+    "id": "A-language-partnerships",
+    "status": "pass"
+  },
+  {
+    "id": "A-language-contact",
+    "status": "pass"
+  },
+  {
+    "id": "A-language-privacy",
+    "status": "pass"
+  },
+  {
+    "id": "B-chromium-en-mobile-menu-keyboard",
+    "status": "pass",
+    "activeElement": "<button class=\"menu-toggle\" aria-expanded=\"false\" aria-controls=\"main-nav\" data-menu-toggle=\"\"><span>Menu</span><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M4 7h16M4 12h16M4 17h16\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"></path></svg></button>"
+  },
+  {
+    "id": "B-chromium-pl-mobile-menu-keyboard",
+    "status": "pass",
+    "activeElement": "<button class=\"menu-toggle\" aria-expanded=\"false\" aria-controls=\"main-nav\" data-menu-toggle=\"\"><span>Menu</span><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M4 7h16M4 12h16M4 17h16\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"></path></svg></button>"
+  },
+  {
+    "id": "A-firefox-en-partner",
+    "status": "pass",
+    "finalUrl": "http://127.0.0.1:4501/en/contact/?intent=partnership"
+  },
+  {
+    "id": "A-firefox-en-demo",
+    "status": "pass",
+    "finalUrl": "http://127.0.0.1:4501/en/contact/?intent=demo&project=aifield"
+  },
+  {
+    "id": "A-firefox-pl-investor",
+    "status": "pass",
+    "finalUrl": "http://127.0.0.1:4501/pl/kontakt/?intent=investment"
+  },
+  {
+    "id": "A-firefox-pl-partner",
+    "status": "pass",
+    "finalUrl": "http://127.0.0.1:4501/pl/kontakt/?intent=partnership"
+  },
+  {
+    "id": "B-firefox-en-mobile-menu-keyboard",
+    "status": "pass",
+    "activeElement": "<button class=\"menu-toggle\" aria-expanded=\"false\" aria-controls=\"main-nav\" data-menu-toggle=\"\"><span>Menu</span><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M4 7h16M4 12h16M4 17h16\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"></path></svg></button>"
+  },
+  {
+    "id": "B-firefox-pl-mobile-menu-keyboard",
+    "status": "pass",
+    "activeElement": "<button class=\"menu-toggle\" aria-expanded=\"false\" aria-controls=\"main-nav\" data-menu-toggle=\"\"><span>Menu</span><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M4 7h16M4 12h16M4 17h16\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"></path></svg></button>"
+  },
+  {
+    "id": "A-webkit-en-investor",
+    "status": "pass",
+    "finalUrl": "http://127.0.0.1:4501/en/contact/?intent=investment"
+  },
+  {
+    "id": "A-webkit-en-partner",
+    "status": "pass",
+    "finalUrl": "http://127.0.0.1:4501/en/contact/?intent=partnership"
+  },
+  {
+    "id": "A-webkit-en-demo",
+    "status": "pass",
+    "finalUrl": "http://127.0.0.1:4501/en/contact/?intent=demo&project=aifield"
+  },
+  {
+    "id": "A-webkit-pl-investor",
+    "status": "pass",
+    "finalUrl": "http://127.0.0.1:4501/pl/kontakt/?intent=investment"
+  },
+  {
+    "id": "A-webkit-pl-partner",
+    "status": "pass",
+    "finalUrl": "http://127.0.0.1:4501/pl/kontakt/?intent=partnership"
+  },
+  {
+    "id": "A-webkit-pl-demo",
+    "status": "pass",
+    "finalUrl": "http://127.0.0.1:4501/pl/kontakt/?intent=demo&project=aifield"
+  },
+  {
+    "id": "B-webkit-en-partner",
+    "status": "pass",
+    "finalUrl": "http://127.0.0.1:4511/en/contact/?intent=partnership&project=artisense"
+  },
+  {
+    "id": "B-webkit-en-demo",
+    "status": "pass",
+    "finalUrl": "http://127.0.0.1:4511/en/contact/?intent=demo&project=aifield"
+  },
+  {
+    "id": "B-webkit-en-mobile-menu-keyboard",
+    "status": "pass",
+    "activeElement": "<button class=\"menu-toggle\" aria-expanded=\"false\" aria-controls=\"main-nav\" data-menu-toggle=\"\"><span>Menu</span><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M4 7h16M4 12h16M4 17h16\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"></path></svg></button>"
+  },
+  {
+    "id": "B-webkit-pl-partner",
+    "status": "pass",
+    "finalUrl": "http://127.0.0.1:4511/pl/kontakt/?intent=partnership&project=artisense"
+  },
+  {
+    "id": "B-webkit-pl-demo",
+    "status": "pass",
+    "finalUrl": "http://127.0.0.1:4511/pl/kontakt/?intent=demo&project=aifield"
+  },
+  {
+    "id": "B-webkit-pl-mobile-menu-keyboard",
+    "status": "pass",
+    "activeElement": "<button class=\"menu-toggle\" aria-expanded=\"false\" aria-controls=\"main-nav\" data-menu-toggle=\"\"><span>Menu</span><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M4 7h16M4 12h16M4 17h16\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"></path></svg></button>"
+  }
+]

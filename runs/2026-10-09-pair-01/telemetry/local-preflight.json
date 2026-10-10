@@ -1,0 +1,16 @@
+{
+  "scope": "Local collector preflight against preparation chat only; no website run",
+  "result": "pass",
+  "incomplete_lines": 0,
+  "observed_usage_records": 103,
+  "observed_tool_calls": 101,
+  "observed_interrupted_turns": 2,
+  "observed_models": [
+    {
+      "model": "gpt-6-astra",
+      "reasoning_effort": "xhigh"
+    }
+  ],
+  "secrets_or_content_exported": false,
+  "gateway_verification": "blocked by automatic approval review; destination authorization required"
+}

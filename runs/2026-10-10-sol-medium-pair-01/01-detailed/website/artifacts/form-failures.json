@@ -1,0 +1,11 @@
+{
+  "findings": [],
+  "states": [
+    "validation",
+    "unavailable",
+    "uncertain",
+    "accepted"
+  ],
+  "sameRetryBytes": true,
+  "timeoutObservedMs": 14222
+}

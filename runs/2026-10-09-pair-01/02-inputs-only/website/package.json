@@ -1,0 +1,27 @@
+{
+  "name": "artifactory-inputs-only",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Artifactory bilingual, locally rendered website",
+  "scripts": {
+    "dev": "node server.mjs --dev",
+    "start": "node server.mjs",
+    "build": "node build.mjs",
+    "test": "node --test tests/site.test.mjs",
+    "test:browser": "playwright test",
+    "format": "prettier --write src public tests *.mjs package.json README.md"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {
+    "@fontsource-variable/manrope": "^5.2.8",
+    "@fontsource/ibm-plex-mono": "^5.2.7"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "^4.10.2",
+    "@playwright/test": "^1.56.0",
+    "prettier": "^3.9.9"
+  }
+}

@@ -1,0 +1,2 @@
+export const prerender=false;
+export function GET(){return Response.redirect('/en/',308)}

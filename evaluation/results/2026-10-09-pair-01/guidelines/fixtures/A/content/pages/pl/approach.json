@@ -1,0 +1,88 @@
+{
+  "id": "approach",
+  "locale": "pl",
+  "type": "company",
+  "title": "Niech dowody wyznaczają kolejne pytanie.",
+  "description": "Proponowane podejście do rozwoju fotoniki oparte na dowodach: rozróżnienie problemu, modelu, projektu, prototypu i pomiaru fizycznego.",
+  "eyebrow": "ARTIFACTORY / FIRMA",
+  "lead": "Jasna kolejność pomaga wyjaśnić, czego się dowiedziano, co pozostaje założeniem i co powinien rozstrzygnąć następny eksperyment.",
+  "sections": [
+    {
+      "id": "progression",
+      "title": "Zachowaj rozróżnienie etapów.",
+      "paragraphs": [
+        "Problem określa pożądany rezultat. Model wyraża założenia o zachowaniu systemu. Projekt zamienia je w proponowaną strukturę. Prototyp jest realizacją fizyczną do zbadania, a pomiar porównuje obserwowane zachowanie z odpowiednim odniesieniem.",
+        "Przejście między etapami nie jest automatyczne. Użyteczny wynik może wymagać poprawienia modelu lub zawężenia pytania przed dalszym rozwojem. To propozycja uporządkowania dostarczonych prac, a nie deklaracja niezależnie audytowanej procedury firmy."
+      ]
+    },
+    {
+      "id": "evidence",
+      "title": "Nazwij rodzaj dowodu.",
+      "paragraphs": [
+        "Słowo „wynik” może ukrywać różne poziomy uzasadnienia. Przy podsumowaniu projektu zachowaj kategorię i jej ograniczenia."
+      ],
+      "rows": [
+        [
+          "Koncepcja",
+          "Opisuje zamierzone zachowanie i architekturę. Wskazuje, co trzeba wykazać."
+        ],
+        [
+          "Symulacja",
+          "Szacuje zachowanie w określonym modelu. Dane, założenia i metoda porównania pozostają niezbędne."
+        ],
+        [
+          "Dowód pomiarowy",
+          "Opisuje obserwacje w określonych warunkach fizycznych. Powtarzalność, odniesienie i niepewność określają jego znaczenie."
+        ]
+      ]
+    },
+    {
+      "id": "example",
+      "title": "Przykład projektowania pomiaru pokazuje tę różnicę.",
+      "paragraphs": [
+        "Zamierzona odpowiedź optyczna motywuje proponowany projekt fotoniczny. Wewnętrzny przykład AIFIELD związany z glukozą dotyczy projektu i symulowanego zachowania. Nie wykazuje, że wykonane urządzenie ArtiSense dokładnie mierzy glukozę.",
+        "Kolejne użyteczne pytanie zależy od luki: najpierw oceń model i porównanie, następnie określ wymagania eksperymentu fizycznego. Postęp projektu nie zamyka automatycznie luki pomiarowej."
+      ],
+      "links": [
+        {
+          "id": "artisense"
+        },
+        {
+          "id": "aifield"
+        }
+      ]
+    },
+    {
+      "id": "decisions",
+      "title": "Zamień niepewność w konkretne pytanie.",
+      "paragraphs": [
+        "Rozmowa staje się użyteczniejsza, gdy nazywa niewiadomą, możliwą obserwację i wiedzę potrzebną do jej interpretacji. Zachowuj nieudane przypadki oraz nieoczekiwane zachowanie obok korzystnych wyników.",
+        "Przy potencjalnej współpracy opisz pytanie, na które możesz pomóc odpowiedzieć, oraz warunki nadające odpowiedzi znaczenie. Tematy mogą obejmować pomiary optyczne, ograniczenia wytwarzania, porównania modeli lub ocenę procesu inżynierskiego."
+      ],
+      "links": [
+        {
+          "id": "partnerships"
+        }
+      ]
+    }
+  ],
+  "relatedIds": [
+    "artisense",
+    "aifield",
+    "partnerships"
+  ],
+  "project": null,
+  "sourceReferences": [
+    "HP-1.1/project-context",
+    "SM-0.3/approach"
+  ],
+  "sourceRevision": "2026-10-09 (AIFIELD snapshot: September 2026)",
+  "editorialState": "published",
+  "modifiedAt": "2026-10-09T21:00:00.000Z",
+  "reviews": {
+    "facts": "e8678eeffb578e9bc4b886eacbda68d0e59f675400282f9aca7ae144275c727c",
+    "language": "e8678eeffb578e9bc4b886eacbda68d0e59f675400282f9aca7ae144275c727c",
+    "assets": "e8678eeffb578e9bc4b886eacbda68d0e59f675400282f9aca7ae144275c727c"
+  },
+  "privateNotes": "Locally authored from supplied summary. Factual, translation and asset owner review pending. Original PDFs were not supplied."
+}

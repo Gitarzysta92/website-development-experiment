@@ -1,0 +1,12 @@
+---
+import type {PageView} from '../../content/index';
+import {contactHref} from '../../navigation/index';
+import PageIntro from '../../partials/PageIntro.astro';
+import ProjectFrame from '../../layouts/ProjectFrame.astro';
+import Button from '../../components/ui/Button.astro';
+import Sections from '../Sections.astro';
+interface Props{page:PageView;}const {page}=Astro.props;const pl=page.locale==='pl';
+---
+<PageIntro page={page}/><ProjectFrame page={page}><figure class="company-map"><p class="map-company">Artifactory</p><div class="map-branches"><div><strong>ArtiSense</strong><p>{pl?'Cel pomiarowy':'Sensing objective'}</p></div><div><strong>AIFIELD</strong><p>{pl?'Narzędzia projektowania':'Design tools'}</p></div></div><figcaption>{pl?'Koncepcyjne powiązanie prac. Etap i dowody każdego projektu wymagają osobnej oceny.':'Conceptual relationship between the work. Each project’s stage and evidence need their own assessment.'}</figcaption></figure><Sections page={page}/></ProjectFrame>
+<section class="closing wash"><div class="container"><h2>{pl?'Zacznijmy od konkretnej rozmowy.':'Start a focused conversation.'}</h2><Button href={contactHref(page.locale,'partnership')}>{pl?'Porozmawiajmy o współpracy':'Discuss a partnership'}</Button></div></section>
+<style>.company-map{margin-bottom:48px;padding:32px;border:1px solid var(--af-line);border-radius:20px;background:radial-gradient(ellipse at top,#6624830b,transparent 70%),var(--af-mist)}.map-company{font-size:32px;font-weight:550;letter-spacing:-.04em;text-align:center;padding-bottom:28px;border-bottom:1px solid var(--af-muted)}.map-branches{display:grid;grid-template-columns:1fr 1fr;gap:24px;padding-block:28px}.map-branches strong{font-size:24px}.map-branches p{font-size:16px;color:var(--af-muted)}figcaption{font-size:16px;color:var(--af-muted);border-top:1px solid var(--af-line);padding-top:20px}@media(max-width:30rem){.map-branches{grid-template-columns:1fr}.company-map{padding:24px}}</style>

@@ -1,0 +1,43 @@
+{
+  "id": "about",
+  "locale": "pl",
+  "title": "Firma stojąca za projektami",
+  "lead": "Artifactory przedstawiamy poprzez dwa skoncentrowane projekty fotoniczne.",
+  "description": "Ten lokalny szkic wyjaśnia ich związek bez dopisywania zespołu, struktury własności ani historii handlowej.",
+  "eyebrow": "Artifactory",
+  "sections": [
+    {
+      "id": "focus",
+      "title": "Obszar działań",
+      "paragraphs": [
+        "ArtiSense bada kompaktową detekcję optyczną. AIFIELD rozwija narzędzia projektowania i symulacji fotonicznej."
+      ]
+    },
+    {
+      "id": "evidence",
+      "title": "Co wymaga potwierdzenia",
+      "paragraphs": [
+        "Dokładne pozycjonowanie spółki, role zespołu, prawa własności intelektualnej i stan komercyjny wymagają weryfikacji przed publikacją."
+      ]
+    },
+    {
+      "id": "next",
+      "title": "Zacznij rozmowę",
+      "paragraphs": [
+        "Inwestorzy i potencjalni partnerzy mogą przejść do stron projektów i skontaktować się z Artifactory."
+      ]
+    }
+  ],
+  "related": [
+    "projects",
+    "contact"
+  ],
+  "stage": "Local draft · source context October 2026",
+  "pageType": "company",
+  "sourceReferences": [
+    "HP-1.1 project-context 2026-10-09"
+  ],
+  "sourceRevision": "2026-10-09",
+  "editorialState": "draft",
+  "modifiedAt": "2026-10-10"
+}

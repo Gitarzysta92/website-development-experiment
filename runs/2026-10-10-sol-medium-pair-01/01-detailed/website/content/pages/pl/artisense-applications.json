@@ -1,0 +1,42 @@
+{
+  "id": "artisense-applications",
+  "locale": "pl",
+  "title": "Zastosowanie zaczyna się od wymagań pomiarowych",
+  "description": "Kompaktowy czujnik optyczny mógłby w przyszłości pomóc tam, gdzie ważna jest powtarzana informacja chemiczna. Opis zastosowań pozostaje warunkowy, dopóki pomiar, forma urządzenia i grupa użytkowników nie zostaną zwalidowane.",
+  "eyebrow": "ArtiSense",
+  "lead": "Kompaktowy czujnik optyczny mógłby w przyszłości pomóc tam, gdzie ważna jest powtarzana informacja chemiczna. Opis zastosowań pozostaje warunkowy, dopóki pomiar, forma urządzenia i grupa użytkowników nie zostaną zwalidowane.",
+  "sections": [
+    {
+      "id": "section-1",
+      "heading": "Glukoza jako przykład badawczy",
+      "body": [
+        "Glukoza motywuje znaczną część opisanych prac fotonicznych, ponieważ wiarygodny pomiar nieinwazyjny byłby użyteczny. Wykonalność optyczna i projekt układu nie dowodzą dokładności klinicznej, przetestowanego urządzenia ubieralnego ani alternatywy dla uznanych pomiarów."
+      ]
+    },
+    {
+      "id": "section-2",
+      "heading": "Droga do urządzenia ubieralnego",
+      "body": [
+        "Takie urządzenie wymagałoby stabilnego kontaktu optycznego, odporności na ruch i temperaturę, kontroli poboru energii, wygodnej obudowy oraz zrozumiałej interpretacji wyników. To inne wymagania niż laboratoryjna odpowiedź optyczna."
+      ]
+    },
+    {
+      "id": "section-3",
+      "heading": "Odpowiedzialny wybór zastosowania",
+      "body": [
+        "Przyszłe zastosowanie wymaga określenia substancji, metody odniesienia, tolerancji błędu i warunków oceny. Warto rozmawiać o tych wymaganiach i możliwej współpracy badawczej, a nie o natychmiastowym wdrożeniu medycznym."
+      ]
+    }
+  ],
+  "related": [
+    "artisense-validation",
+    "partnerships"
+  ],
+  "editorialState": "draft",
+  "sourceRevision": "HP-1.1; context 2026-10-09",
+  "modified": "2026-10-10",
+  "sourceRefs": [
+    "inputs/content/project-context.md (summary, 2026-10-09)",
+    "inputs/docs/sitemap.md (SM-0.3)"
+  ]
+}

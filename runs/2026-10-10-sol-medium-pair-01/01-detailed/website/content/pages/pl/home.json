@@ -1,0 +1,44 @@
+{
+  "id": "home",
+  "locale": "pl",
+  "title": "Idee fotoniczne poddane uważnej ocenie",
+  "description": "Artifactory rozwija kierunek czujników fotonicznych i narzędzi do projektowania układów fotonicznych. Dwa odrębne projekty łączą cel pomiarowy z procesem inżynierskim; przy każdym pokazujemy zarówno dostępne podstawy, jak i kwestie wymagające sprawdzenia.",
+  "eyebrow": "Artifactory",
+  "lead": "Artifactory rozwija kierunek czujników fotonicznych i narzędzi do projektowania układów fotonicznych. Dwa odrębne projekty łączą cel pomiarowy z procesem inżynierskim; przy każdym pokazujemy zarówno dostępne podstawy, jak i kwestie wymagające sprawdzenia.",
+  "sections": [
+    {
+      "id": "section-1",
+      "heading": "Założenie firmy",
+      "body": [
+        "Artifactory przedstawia dwa kierunki prac: ArtiSense bada koncepcję kompaktowego czujnika optycznego, a AIFIELD rozwija narzędzia projektowania i symulacji struktur fotonicznych. Wspólny przykład inżynierski nie dowodzi gotowości rynkowej ani klinicznej żadnego z projektów."
+      ]
+    },
+    {
+      "id": "section-2",
+      "heading": "Dwa projekty, różne pytania",
+      "body": [
+        "ArtiSense sprawdza, czy odpowiedź optyczna może posłużyć do użytecznego pomiaru substancji w rzeczywistych warunkach. AIFIELD dotyczy projektowania i oceny urządzeń fotonicznych oraz osobnego nurtu badań nad przewidywaniem pól. Każdy projekt ma własne ograniczenia i kolejne kroki."
+      ]
+    },
+    {
+      "id": "section-3",
+      "heading": "Zaproszenie do oceny",
+      "body": [
+        "Dostępne materiały opisują koncepcje, prace projektowe i badania według stanu przedstawionego we wrześniu 2026 roku. Inwestorów zapraszamy do oceny zakresu i podstaw przed rozmową o inwestycji w firmę; partnerzy mogą rozpocząć rozmowę od konkretnego zagadnienia."
+      ]
+    }
+  ],
+  "related": [
+    "projects",
+    "investors",
+    "approach",
+    "partnerships"
+  ],
+  "editorialState": "draft",
+  "sourceRevision": "HP-1.1; context 2026-10-09",
+  "modified": "2026-10-10",
+  "sourceRefs": [
+    "inputs/content/project-context.md (summary, 2026-10-09)",
+    "inputs/docs/sitemap.md (SM-0.3)"
+  ]
+}

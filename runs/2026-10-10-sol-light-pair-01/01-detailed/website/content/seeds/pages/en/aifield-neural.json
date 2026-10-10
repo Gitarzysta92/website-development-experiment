@@ -1,0 +1,47 @@
+{
+  "id": "aifield-neural",
+  "locale": "en",
+  "title": "Research into optical-field prediction",
+  "lead": "Neural models are being explored as a possible way to predict photonic fields under specified conditions.",
+  "description": "This research branch is distinct from both classical solvers and the proposed ArtiSense analog interpretation processor.",
+  "eyebrow": "AIFIELD",
+  "sections": [
+    {
+      "id": "focus",
+      "title": "What was explored",
+      "paragraphs": [
+        "The reviewed work reports field-prediction experiments with supplied boundary information. That condition matters when interpreting the result."
+      ]
+    },
+    {
+      "id": "evidence",
+      "title": "Important limits",
+      "paragraphs": [
+        "Prediction from scratch, larger stitched domains and a practical speed advantage remain open questions. A visually plausible field is not enough without error and generalization analysis."
+      ]
+    },
+    {
+      "id": "next",
+      "title": "Next research tests",
+      "paragraphs": [
+        "A useful comparison would hold geometry, boundary conditions, accuracy criteria and compute environment constant against a documented classical baseline."
+      ]
+    }
+  ],
+  "related": [
+    "aifield",
+    "aifield-design",
+    "aifield-ai",
+    "aifield-neural",
+    "aifield-validation",
+    "partnerships"
+  ],
+  "stage": "Local draft · source context October 2026",
+  "pageType": "project",
+  "sourceReferences": [
+    "HP-1.1 project-context 2026-10-09"
+  ],
+  "sourceRevision": "2026-10-09",
+  "editorialState": "draft",
+  "modifiedAt": "2026-10-10"
+}

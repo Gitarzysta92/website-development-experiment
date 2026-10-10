@@ -1,0 +1,68 @@
+
+ RUN  v5.0.3 /Users/michal.lukasiewicz/Programming/website-development-experiment/evaluation/results/2026-10-09-pair-01/guidelines/fixtures/pass-02/A
+
+
+ Test Files  1 passed (1)
+      Tests  7 passed (7)
+   Start at  10:45:52
+   Duration  154ms (tests 42%, transform 28%, import 28%, worker 2%)
+
+Boundary/cycle checks passed: 56 source modules.
+10:45:52 [@astrojs/node] Enabling sessions with filesystem storage
+10:45:52 [types] Generated 19ms
+10:45:52 [build] output: "static"
+10:45:52 [build] mode: "server"
+10:45:52 [build] directory: /Users/michal.lukasiewicz/Programming/website-development-experiment/evaluation/results/2026-10-09-pair-01/guidelines/fixtures/pass-02/A/.dist-candidate/
+10:45:52 [build] adapter: @astrojs/node
+10:45:52 [build] Collecting build info...
+10:45:52 [build] ✓ Completed in 36ms.
+10:45:52 [build] Building server entrypoints...
+10:45:53 [vite] ✓ built in 114ms
+10:45:53 [vite] ✓ built in 53ms
+10:45:53 [vite] ✓ built in 10ms
+
+ prerendering static routes 
+10:45:53   ├─ /robots.txt (+4ms) 
+10:45:53   ├─ /sitemap.xml (+2ms) 
+10:45:53   ├─ /en/about/index.html (+4ms) 
+10:45:53   ├─ /en/projects/aifield/ai-workflows/index.html (+1ms) 
+10:45:53   ├─ /en/projects/aifield/design-simulation/index.html (+1ms) 
+10:45:53   ├─ /en/projects/aifield/neural-field-research/index.html (+1ms) 
+10:45:53   ├─ /en/projects/aifield/examples-validation/index.html (+1ms) 
+10:45:53   ├─ /en/projects/aifield/index.html (+1ms) 
+10:45:53   ├─ /en/approach/index.html (+1ms) 
+10:45:53   ├─ /en/projects/artisense/applications/index.html (+1ms) 
+10:45:53   ├─ /en/projects/artisense/technology/index.html (+1ms) 
+10:45:53   ├─ /en/projects/artisense/research-validation/index.html (+1ms) 
+10:45:53   ├─ /en/projects/artisense/index.html (+1ms) 
+10:45:53   ├─ /en/contact/index.html (+1ms) 
+10:45:53   ├─ /en/index.html (+1ms) 
+10:45:53   ├─ /en/investors/index.html (+1ms) 
+10:45:53   ├─ /en/partnerships/index.html (+1ms) 
+10:45:53   ├─ /en/privacy/index.html (+1ms) 
+10:45:53   ├─ /en/projects/index.html (+1ms) 
+10:45:53   ├─ /pl/o-nas/index.html (+1ms) 
+10:45:53   ├─ /pl/projekty/aifield/praca-z-ai/index.html (+1ms) 
+10:45:53   ├─ /pl/projekty/aifield/projektowanie-symulacja/index.html (+1ms) 
+10:45:53   ├─ /pl/projekty/aifield/badania-modeli-pola/index.html (+1ms) 
+10:45:53   ├─ /pl/projekty/aifield/przyklady-walidacja/index.html (+1ms) 
+10:45:53   ├─ /pl/projekty/aifield/index.html (+1ms) 
+10:45:53   ├─ /pl/jak-pracujemy/index.html (+1ms) 
+10:45:53   ├─ /pl/projekty/artisense/zastosowania/index.html (+1ms) 
+10:45:53   ├─ /pl/projekty/artisense/technologia/index.html (+1ms) 
+10:45:53   ├─ /pl/projekty/artisense/badania-walidacja/index.html (+1ms) 
+10:45:53   ├─ /pl/projekty/artisense/index.html (+1ms) 
+10:45:53   ├─ /pl/kontakt/index.html (+1ms) 
+10:45:53   ├─ /pl/index.html (+1ms) 
+10:45:53   ├─ /pl/inwestorzy/index.html (+1ms) 
+10:45:53   ├─ /pl/wspolpraca/index.html (+1ms) 
+10:45:53   ├─ /pl/prywatnosc/index.html (+1ms) 
+10:45:53   ├─ /pl/projekty/index.html (+1ms) 
+10:45:53 ✓ Completed in 50ms.
+
+10:45:53 [build] Rearranging server assets...
+10:45:53 [build] ✓ Completed in 244ms.
+10:45:53 [build] Server built in 281ms
+10:45:53 [build] Complete!
+Boundary/cycle checks passed: 56 source modules.
+Candidate verified and selected; previous artifact retained in .dist-previous.

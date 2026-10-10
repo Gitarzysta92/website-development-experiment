@@ -1,0 +1,3 @@
+# Footer (IU-FOOTER)
+SiteFooter receives locale and reads company/project public facts and route identities. No address, legal identifiers, people, partner logos or social claims are invented. The email is the supplied candidate, not a verified operator. Never test it by sending real mail in this experiment.
+The footer contains all ten core destinations and two project overviews. Project ordering comes from the shared registry; changed project collections must preserve stable identity. Static columns stack at the shared breakpoints. Inverse focus is white. Edit shared facts once and recheck all consumers and the long Polish footer at narrow/zoom sizes.

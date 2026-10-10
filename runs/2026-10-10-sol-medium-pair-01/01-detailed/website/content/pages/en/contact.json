@@ -1,0 +1,34 @@
+{
+  "id": "contact",
+  "locale": "en",
+  "title": "Start with the question that matters",
+  "description": "Choose the kind of conversation and tell us what you would like to examine. This preview stores a synthetic local test receipt; it does not send an email or reach the company.",
+  "eyebrow": "Artifactory",
+  "lead": "Choose the kind of conversation and tell us what you would like to examine. This preview stores a synthetic local test receipt; it does not send an email or reach the company.",
+  "sections": [
+    {
+      "id": "section-1",
+      "heading": "Choose a conversation",
+      "body": [
+        "Investment concerns Artifactory as a company. Partnership can focus on a technical question in either project. Demo requests for AIFIELD begin a discussion; they do not grant automatic product access. You can change any suggested context before submitting."
+      ]
+    },
+    {
+      "id": "section-2",
+      "heading": "Local test mode",
+      "body": [
+        "A successful submission confirms that this local process received your test enquiry in memory. It is not provider acceptance, mailbox delivery or a promise of a response. Do not enter sensitive or real personal information while testing."
+      ]
+    }
+  ],
+  "related": [
+    "privacy"
+  ],
+  "editorialState": "draft",
+  "sourceRevision": "HP-1.1; context 2026-10-09",
+  "modified": "2026-10-10",
+  "sourceRefs": [
+    "inputs/content/project-context.md (summary, 2026-10-09)",
+    "inputs/docs/sitemap.md (SM-0.3)"
+  ]
+}

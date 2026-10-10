@@ -1,0 +1,86 @@
+{
+  "id": "investors",
+  "locale": "pl",
+  "type": "company",
+  "title": "Poznaj Artifactory jako firmę.",
+  "description": "Rozmowa inwestycyjna na poziomie firmy: badania ArtiSense, narzędzia fotoniczne AIFIELD, dostępne dowody i otwarte pytania rozwojowe.",
+  "eyebrow": "ARTIFACTORY / FIRMA",
+  "lead": "Dwa powiązane kierunki techniczne. Propozycja firmy do oceny przez pryzmat prac, ich ograniczeń i kolejnych potrzebnych dowodów.",
+  "sections": [
+    {
+      "id": "thesis",
+      "title": "Technologia pomiarowa i narzędzia do jej projektowania.",
+      "paragraphs": [
+        "Artifactory łączy ArtiSense i AIFIELD w proponowanym pozycjonowaniu wokół pomiarów i inżynierii fotonicznej. Przedmiotem rozmowy inwestycyjnej jest Artifactory jako firma. Ocena tej propozycji wymaga zrozumienia roli i dojrzałości każdego projektu.",
+        "Wewnętrzny przykład projektowy pokazuje konkretne powiązanie: cel pomiarowy tworzy pytanie projektowe, a narzędzia inżynierskie pomagają zbadać proponowaną strukturę. To uzasadnienie techniczne do analizy, a nie dowód wspólnej własności intelektualnej lub sukcesu komercyjnego."
+      ]
+    },
+    {
+      "id": "projects",
+      "title": "Dwie ścieżki dowodów, różne granice.",
+      "paragraphs": [
+        "ArtiSense to proponowany zminiaturyzowany system pomiaru składu chemicznego. Dostarczone prace związane z glukozą dotyczą wykonalności optycznej i projektu chipu; dokładność pomiaru fizycznego oraz zamierzone użycie ubieralne pozostają niezwalidowane.",
+        "Podsumowanie AIFIELD z września 2026 opisuje klasyczne projektowanie i symulację, częściowe wsparcie agentowe oraz odrębne badania neuronowych modeli pola. Wewnętrzny przykład uzasadnia rozmowę inżynierską, a bieżący dostęp, gotowość komercyjna i ograniczenia badań wymagają osobnej oceny."
+      ],
+      "links": [
+        {
+          "id": "artisense"
+        },
+        {
+          "id": "aifield"
+        }
+      ]
+    },
+    {
+      "id": "questions",
+      "title": "Co powinna wyjaśnić rozmowa inwestycyjna.",
+      "paragraphs": [
+        "Ocena firmy wymaga aktualnych dowodów wykraczających poza ten opis techniczny. Materiały strony nie potwierdzają bieżącej rundy finansowania, instrumentu, wyceny, przychodów, walidacji rynku ani uzgodnionego pilotażu. Historyczna propozycja finansowania projektu nie jest przedstawiana jako obecna oferta firmy.",
+        "Kolejna rozmowa może określić dostępne materiały i osoby odpowiedzialne za pytania o strukturę firmy, własność, zasoby rozwojowe oraz założenia komercyjne. Strona nie sugeruje istnienia poufnego pakietu inwestorskiego ani liczbowej analizy rynku."
+      ],
+      "items": [
+        "Które ryzyka techniczne najbardziej wpływają na propozycję firmy?",
+        "Co wykazałby odtwarzalny wynik projektowy lub fizyczny?",
+        "Które założenia komercyjne wymagają dowodów od klientów?"
+      ],
+      "links": [
+        {
+          "id": "about"
+        }
+      ]
+    },
+    {
+      "id": "milestones",
+      "title": "Potencjalny etap powinien zmniejszać określoną niepewność.",
+      "paragraphs": [
+        "Możliwe kolejne kroki to możliwy do oceny zapis projektu i symulacji AIFIELD oraz kontrolowane porównanie optyczne ArtiSense. Badania neuronowego pola wymagałyby oceny o jasnych granicach, obejmującej nieudane przypadki i koszt całego procesu.",
+        "To proponowane potrzeby dowodowe, a nie sfinansowane zobowiązania, obiecane daty czy zakończone wyniki. Zapytanie inwestycyjne pozwala rozpocząć rozmowę o firmie, dostępnych dowodach i odpowiednim następnym kroku."
+      ],
+      "links": [
+        {
+          "id": "contact"
+        }
+      ]
+    }
+  ],
+  "relatedIds": [
+    "artisense",
+    "aifield",
+    "about",
+    "contact"
+  ],
+  "project": null,
+  "sourceReferences": [
+    "HP-1.1/project-context",
+    "SM-0.3/investors"
+  ],
+  "sourceRevision": "2026-10-09 (AIFIELD snapshot: September 2026)",
+  "editorialState": "draft",
+  "modifiedAt": "2026-10-09T21:00:00.000Z",
+  "reviews": {
+    "facts": null,
+    "language": null,
+    "assets": null
+  },
+  "privateNotes": "Locally authored from supplied summary. Factual, translation and asset owner review pending. Original PDFs were not supplied."
+}

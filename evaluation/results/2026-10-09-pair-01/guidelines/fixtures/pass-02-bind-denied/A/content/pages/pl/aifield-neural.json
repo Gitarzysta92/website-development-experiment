@@ -1,0 +1,97 @@
+{
+  "id": "aifield-neural",
+  "locale": "pl",
+  "type": "detail",
+  "title": "Co może przewidzieć wyuczony model pola?",
+  "description": "Badania neuronowych modeli pola optycznego w AIFIELD: informacja brzegowa, kontekst eksperymentów, generalizacja, łączenie obszarów i czas obliczeń.",
+  "eyebrow": "AIFIELD / INŻYNIERIA FOTONICZNA",
+  "lead": "Pytanie badawcze dotyczące pola optycznego, w którym warunki są równie ważne jak samo przewidywanie.",
+  "sections": [
+    {
+      "id": "question",
+      "title": "Badanie wyuczonego przybliżenia zachowania optycznego.",
+      "paragraphs": [
+        "Kierunek neuronowy bada, czy wyuczony model może oszacować pole optyczne dla określonego problemu. Jest to odrębne badanie względem klasycznego procesu projektowania i symulacji opisanego na innych stronach.",
+        "Obiecujący wynik w wybranych warunkach nie dowodzi istnienia uniwersalnego solvera. Dane wejściowe, kontekst uczenia, oceniane struktury i odniesienie określają, co można wywnioskować z wyniku."
+      ],
+      "links": [
+        {
+          "id": "aifield-design"
+        }
+      ]
+    },
+    {
+      "id": "boundaries",
+      "title": "Informacja brzegowa jest częścią eksperymentu.",
+      "paragraphs": [
+        "Dostarczone podsumowanie badań z września 2026 opisuje wyniki przy warunkach obejmujących dostarczoną informację brzegową. Ogranicza ona problem i musi pozostać widoczna przy interpretacji wyniku oraz porównaniu metod.",
+        "Przewidywania wykorzystującego taką informację nie można przedstawiać jako równoważnego dowodu przewidywania od zera. Pakiet nie zawiera oryginalnych wykresów, pełnych ustawień ani porównań liczbowych, dlatego nie pokazujemy odtworzonego wykresu dokładności."
+      ]
+    },
+    {
+      "id": "limits",
+      "title": "Cztery pytania przed szerszym użyciem.",
+      "paragraphs": [
+        "Badania wymagają oceny wykraczającej poza pojedynczy korzystny przykład. Podsumowanie wskazuje ograniczenia wpływające na praktyczną interpretację."
+      ],
+      "rows": [
+        [
+          "Przewidywanie od zera",
+          "Jakie informacje muszą być wcześniej znane i jaka część problemu fizycznego zostaje rozwiązana przez ich dostarczenie?"
+        ],
+        [
+          "Generalizacja",
+          "Czy metoda pozostaje użyteczna dla struktur i warunków spoza ocenionego kontekstu?"
+        ],
+        [
+          "Łączenie obszarów",
+          "Czy lokalne przewidywania tworzą spójne większe pole bez niedopuszczalnych niezgodności na granicach?"
+        ],
+        [
+          "Praktyczna szybkość",
+          "Czy przewaga utrzymuje się po uwzględnieniu przygotowania, informacji brzegowej, przewidywania i kontroli?"
+        ]
+      ]
+    },
+    {
+      "id": "next",
+      "title": "Kolejne porównanie powinno rozstrzygać węższe pytanie.",
+      "paragraphs": [
+        "Użyteczne badanie określiłoby odniesienie, dane wejściowe, obszar i kryteria oceny przed porównaniem przewidywań. Powinno zachować zarówno udane, jak i nieudane przypadki oraz opisać pracę potrzebną do uzyskania całego wyniku.",
+        "To proponowane pytania badawcze, a nie potwierdzony harmonogram eksperymentów. Podsumowanie nie wykazuje uniwersalnej dokładności ani praktycznej przewagi czasowej. Rozmowa inwestycyjna lub o współpracy powinna uwzględniać tę niepewność."
+      ],
+      "links": [
+        {
+          "id": "aifield-validation"
+        },
+        {
+          "id": "investors"
+        },
+        {
+          "id": "partnerships"
+        }
+      ]
+    }
+  ],
+  "relatedIds": [
+    "aifield-design",
+    "aifield-validation",
+    "investors",
+    "partnerships"
+  ],
+  "project": "aifield",
+  "sourceReferences": [
+    "HP-1.1/project-context",
+    "SM-0.3/aifield-neural"
+  ],
+  "sourceRevision": "2026-10-09 (AIFIELD snapshot: September 2026)",
+  "editorialState": "draft",
+  "modifiedAt": "2026-10-09T21:00:00.000Z",
+  "reviews": {
+    "facts": null,
+    "language": null,
+    "assets": null
+  },
+  "privateNotes": "Locally authored from supplied summary. Factual, translation and asset owner review pending. Original PDFs were not supplied.",
+  "maturity": "Stan opisany we wrześniu 2026 · aktualny dostęp do uzgodnienia"
+}

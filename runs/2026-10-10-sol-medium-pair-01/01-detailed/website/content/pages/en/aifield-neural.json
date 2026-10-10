@@ -1,0 +1,42 @@
+{
+  "id": "aifield-neural",
+  "locale": "en",
+  "title": "Researching learned optical fields",
+  "description": "Neural field prediction is an AIFIELD research direction. It asks whether a trained model can estimate field behavior in specified conditions; it does not replace the classical solver capabilities described elsewhere.",
+  "eyebrow": "AIFIELD",
+  "lead": "Neural field prediction is an AIFIELD research direction. It asks whether a trained model can estimate field behavior in specified conditions; it does not replace the classical solver capabilities described elsewhere.",
+  "sections": [
+    {
+      "id": "section-1",
+      "heading": "The experiment framing",
+      "body": [
+        "A model receives a description of a photonic problem and boundary information, then predicts an optical field. Comparison with classical calculations can reveal where the estimate resembles or departs from the reference under the tested conditions."
+      ]
+    },
+    {
+      "id": "section-2",
+      "heading": "Limits of the current evidence",
+      "body": [
+        "The reviewed results depend on supplied boundary information. From-scratch prediction, larger stitched domains and a practical speed advantage remain open questions. The available summary does not supply a general benchmark with conditions and figures appropriate for a public performance claim."
+      ]
+    },
+    {
+      "id": "section-3",
+      "heading": "A useful next study",
+      "body": [
+        "Further work should define training and test separation, geometry and boundary families, error measures, failure cases, compute cost and comparison conditions. These details would make a claim about generalization or engineering usefulness assessable."
+      ]
+    }
+  ],
+  "related": [
+    "aifield-validation",
+    "aifield-design"
+  ],
+  "editorialState": "draft",
+  "sourceRevision": "HP-1.1; context 2026-10-09",
+  "modified": "2026-10-10",
+  "sourceRefs": [
+    "inputs/content/project-context.md (summary, 2026-10-09)",
+    "inputs/docs/sitemap.md (SM-0.3)"
+  ]
+}

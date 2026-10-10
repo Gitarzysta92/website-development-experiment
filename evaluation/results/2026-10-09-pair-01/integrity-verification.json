@@ -1,0 +1,1107 @@
+{
+  "checked_at": "2026-10-09T23:18:04.949788+00:00",
+  "protocol": [
+    {
+      "path": "evaluation/plan.md",
+      "matches": true
+    },
+    {
+      "path": "evaluation/scorecard-template.json",
+      "matches": true
+    }
+  ],
+  "prepared_sources": [
+    {
+      "path": "prompt-sets/01-detailed/README.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/compiled/README.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/compiled/acceptance-report.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/compiled/compilation-validation.json",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/compiled/decisions.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/compiled/execution-record.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/compiled/implementation-plan.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/compiled/routes.json",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/compiled/rule-coverage.csv",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/compiled/solution-structure.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/compiled/source-lock.json",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/compiled/specification.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/compiled/toolchain.json",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/compiled/unit-manifest.json",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/compiled/units/01-runtime-host.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/compiled/units/02-content-repository.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/compiled/units/03-page-frame.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/compiled/units/04-site-header.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/compiled/units/05-site-footer.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/compiled/units/06-project-navigation.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/compiled/units/07-enquiry-experience.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/compiled/units/08-home.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/compiled/units/09-projects.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/compiled/units/10-artisense.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/compiled/units/11-artisense-technology.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/compiled/units/12-artisense-applications.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/compiled/units/13-artisense-validation.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/compiled/units/14-aifield.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/compiled/units/15-aifield-design.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/compiled/units/16-aifield-ai.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/compiled/units/17-aifield-neural.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/compiled/units/18-aifield-validation.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/compiled/units/19-investors.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/compiled/units/20-approach.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/compiled/units/21-about.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/compiled/units/22-partnerships.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/compiled/units/23-route-recovery.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/compiled/verification.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/inputs/README.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/inputs/content/project-context.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/inputs/design-system/colors.css",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/inputs/design-system/palette.json",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/inputs/design-system/sampled-colors.json",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/inputs/docs/decision-register.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/inputs/docs/project-brief.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/inputs/docs/sitemap.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/inputs/manifest.json",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/inputs/references/guidelines-reference.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/inputs/references/mockup-references.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/inputs/required-items.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/inputs/visuals/mockup-references/design-reference-board.png",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/inputs/visuals/mockup-references/threesixty-case-studies.jpg",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/inputs/visuals/mockup-references/threesixty-hero.jpg",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/inputs/visuals/mockup-references/workos-hero.jpg",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/inputs/visuals/mockup-references/workos-product-section.jpg",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/inputs/visuals/palette-preview.png",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/inputs/visuals/palette-preview.svg",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/knowledge/website-creation-guidelines/AGENTS.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/knowledge/website-creation-guidelines/README.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/knowledge/website-creation-guidelines/capabilities/README.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/knowledge/website-creation-guidelines/capabilities/assistant.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/knowledge/website-creation-guidelines/capabilities/cms.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/knowledge/website-creation-guidelines/capabilities/collections.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/knowledge/website-creation-guidelines/capabilities/extensions.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/knowledge/website-creation-guidelines/capabilities/forms.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/knowledge/website-creation-guidelines/capabilities/languages.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/knowledge/website-creation-guidelines/capabilities/search.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/knowledge/website-creation-guidelines/capabilities/themes.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/knowledge/website-creation-guidelines/compilation/README.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/knowledge/website-creation-guidelines/compilation/compile-implementation-units.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/knowledge/website-creation-guidelines/compilation/implementation-plan.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/knowledge/website-creation-guidelines/compilation/implementation-unit.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/knowledge/website-creation-guidelines/guides/README.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/knowledge/website-creation-guidelines/guides/architecture.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/knowledge/website-creation-guidelines/guides/project-structure.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/knowledge/website-creation-guidelines/guides/requirements-matrix.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/knowledge/website-creation-guidelines/guides/technical-conventions.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/knowledge/website-creation-guidelines/implementation/README.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/knowledge/website-creation-guidelines/implementation/execute-implementation-plan.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/knowledge/website-creation-guidelines/implementation/execution-record.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/knowledge/website-creation-guidelines/rules/README.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/knowledge/website-creation-guidelines/rules/architecture.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/knowledge/website-creation-guidelines/rules/capabilities/assistant.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/knowledge/website-creation-guidelines/rules/capabilities/cms.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/knowledge/website-creation-guidelines/rules/capabilities/collections.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/knowledge/website-creation-guidelines/rules/capabilities/extensions.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/knowledge/website-creation-guidelines/rules/capabilities/forms.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/knowledge/website-creation-guidelines/rules/capabilities/languages.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/knowledge/website-creation-guidelines/rules/capabilities/search.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/knowledge/website-creation-guidelines/rules/capabilities/themes.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/knowledge/website-creation-guidelines/rules/data-privacy-and-security.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/knowledge/website-creation-guidelines/rules/interaction-and-accessibility.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/knowledge/website-creation-guidelines/rules/operations-and-lifecycle.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/knowledge/website-creation-guidelines/rules/performance.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/knowledge/website-creation-guidelines/rules/project-structure.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/knowledge/website-creation-guidelines/rules/purpose-and-content.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/knowledge/website-creation-guidelines/rules/technical-conventions.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/knowledge/website-creation-guidelines/rules/verification.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/knowledge/website-creation-guidelines/rules/visibility-and-discoverability.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/knowledge/website-creation-guidelines/rules/visual-design-and-layout.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/knowledge/website-creation-guidelines/sources/README.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/knowledge/website-creation-guidelines/sources/retrospective.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/knowledge/website-creation-guidelines/sources/wapps.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/knowledge/website-creation-guidelines/templates/README.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/knowledge/website-creation-guidelines/templates/acceptance-report.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/knowledge/website-creation-guidelines/templates/decision-register.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/knowledge/website-creation-guidelines/templates/project-brief.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/knowledge/website-creation-guidelines/workflows/README.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/knowledge/website-creation-guidelines/workflows/add-page-or-feature.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/knowledge/website-creation-guidelines/workflows/create-website.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/knowledge/website-creation-guidelines/workflows/prepare-creation-inputs.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/package-manifest.json",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/prompt.txt",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/01-detailed/revisions/AF-D1-1.0.zip",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/02-inputs-only/inputs/README.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/02-inputs-only/inputs/content/project-context.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/02-inputs-only/inputs/design-system/colors.css",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/02-inputs-only/inputs/design-system/palette.json",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/02-inputs-only/inputs/design-system/sampled-colors.json",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/02-inputs-only/inputs/docs/decision-register.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/02-inputs-only/inputs/docs/project-brief.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/02-inputs-only/inputs/docs/sitemap.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/02-inputs-only/inputs/manifest.json",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/02-inputs-only/inputs/references/mockup-references.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/02-inputs-only/inputs/required-items.md",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/02-inputs-only/inputs/visuals/mockup-references/design-reference-board.png",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/02-inputs-only/inputs/visuals/mockup-references/threesixty-case-studies.jpg",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/02-inputs-only/inputs/visuals/mockup-references/threesixty-hero.jpg",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/02-inputs-only/inputs/visuals/mockup-references/workos-hero.jpg",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/02-inputs-only/inputs/visuals/mockup-references/workos-product-section.jpg",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/02-inputs-only/inputs/visuals/palette-preview.png",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/02-inputs-only/inputs/visuals/palette-preview.svg",
+      "matches": true
+    },
+    {
+      "path": "prompt-sets/02-inputs-only/prompt.txt",
+      "matches": true
+    },
+    {
+      "path": "runs/2026-10-09-pair-01/launch-plan.json",
+      "matches": true
+    },
+    {
+      "path": "telemetry/collect.py",
+      "matches": true
+    }
+  ],
+  "run_inputs": {
+    "01-detailed": [
+      {
+        "path": "README.md",
+        "matches": true
+      },
+      {
+        "path": "compiled/README.md",
+        "matches": true
+      },
+      {
+        "path": "compiled/acceptance-report.md",
+        "matches": true
+      },
+      {
+        "path": "compiled/compilation-validation.json",
+        "matches": true
+      },
+      {
+        "path": "compiled/decisions.md",
+        "matches": true
+      },
+      {
+        "path": "compiled/execution-record.md",
+        "matches": true
+      },
+      {
+        "path": "compiled/implementation-plan.md",
+        "matches": true
+      },
+      {
+        "path": "compiled/routes.json",
+        "matches": true
+      },
+      {
+        "path": "compiled/rule-coverage.csv",
+        "matches": true
+      },
+      {
+        "path": "compiled/solution-structure.md",
+        "matches": true
+      },
+      {
+        "path": "compiled/source-lock.json",
+        "matches": true
+      },
+      {
+        "path": "compiled/specification.md",
+        "matches": true
+      },
+      {
+        "path": "compiled/toolchain.json",
+        "matches": true
+      },
+      {
+        "path": "compiled/unit-manifest.json",
+        "matches": true
+      },
+      {
+        "path": "compiled/units/01-runtime-host.md",
+        "matches": true
+      },
+      {
+        "path": "compiled/units/02-content-repository.md",
+        "matches": true
+      },
+      {
+        "path": "compiled/units/03-page-frame.md",
+        "matches": true
+      },
+      {
+        "path": "compiled/units/04-site-header.md",
+        "matches": true
+      },
+      {
+        "path": "compiled/units/05-site-footer.md",
+        "matches": true
+      },
+      {
+        "path": "compiled/units/06-project-navigation.md",
+        "matches": true
+      },
+      {
+        "path": "compiled/units/07-enquiry-experience.md",
+        "matches": true
+      },
+      {
+        "path": "compiled/units/08-home.md",
+        "matches": true
+      },
+      {
+        "path": "compiled/units/09-projects.md",
+        "matches": true
+      },
+      {
+        "path": "compiled/units/10-artisense.md",
+        "matches": true
+      },
+      {
+        "path": "compiled/units/11-artisense-technology.md",
+        "matches": true
+      },
+      {
+        "path": "compiled/units/12-artisense-applications.md",
+        "matches": true
+      },
+      {
+        "path": "compiled/units/13-artisense-validation.md",
+        "matches": true
+      },
+      {
+        "path": "compiled/units/14-aifield.md",
+        "matches": true
+      },
+      {
+        "path": "compiled/units/15-aifield-design.md",
+        "matches": true
+      },
+      {
+        "path": "compiled/units/16-aifield-ai.md",
+        "matches": true
+      },
+      {
+        "path": "compiled/units/17-aifield-neural.md",
+        "matches": true
+      },
+      {
+        "path": "compiled/units/18-aifield-validation.md",
+        "matches": true
+      },
+      {
+        "path": "compiled/units/19-investors.md",
+        "matches": true
+      },
+      {
+        "path": "compiled/units/20-approach.md",
+        "matches": true
+      },
+      {
+        "path": "compiled/units/21-about.md",
+        "matches": true
+      },
+      {
+        "path": "compiled/units/22-partnerships.md",
+        "matches": true
+      },
+      {
+        "path": "compiled/units/23-route-recovery.md",
+        "matches": true
+      },
+      {
+        "path": "compiled/verification.md",
+        "matches": true
+      },
+      {
+        "path": "inputs/README.md",
+        "matches": true
+      },
+      {
+        "path": "inputs/content/project-context.md",
+        "matches": true
+      },
+      {
+        "path": "inputs/design-system/colors.css",
+        "matches": true
+      },
+      {
+        "path": "inputs/design-system/palette.json",
+        "matches": true
+      },
+      {
+        "path": "inputs/design-system/sampled-colors.json",
+        "matches": true
+      },
+      {
+        "path": "inputs/docs/decision-register.md",
+        "matches": true
+      },
+      {
+        "path": "inputs/docs/project-brief.md",
+        "matches": true
+      },
+      {
+        "path": "inputs/docs/sitemap.md",
+        "matches": true
+      },
+      {
+        "path": "inputs/manifest.json",
+        "matches": true
+      },
+      {
+        "path": "inputs/references/guidelines-reference.md",
+        "matches": true
+      },
+      {
+        "path": "inputs/references/mockup-references.md",
+        "matches": true
+      },
+      {
+        "path": "inputs/required-items.md",
+        "matches": true
+      },
+      {
+        "path": "inputs/visuals/mockup-references/design-reference-board.png",
+        "matches": true
+      },
+      {
+        "path": "inputs/visuals/mockup-references/threesixty-case-studies.jpg",
+        "matches": true
+      },
+      {
+        "path": "inputs/visuals/mockup-references/threesixty-hero.jpg",
+        "matches": true
+      },
+      {
+        "path": "inputs/visuals/mockup-references/workos-hero.jpg",
+        "matches": true
+      },
+      {
+        "path": "inputs/visuals/mockup-references/workos-product-section.jpg",
+        "matches": true
+      },
+      {
+        "path": "inputs/visuals/palette-preview.png",
+        "matches": true
+      },
+      {
+        "path": "inputs/visuals/palette-preview.svg",
+        "matches": true
+      },
+      {
+        "path": "knowledge/website-creation-guidelines/AGENTS.md",
+        "matches": true
+      },
+      {
+        "path": "knowledge/website-creation-guidelines/README.md",
+        "matches": true
+      },
+      {
+        "path": "knowledge/website-creation-guidelines/capabilities/README.md",
+        "matches": true
+      },
+      {
+        "path": "knowledge/website-creation-guidelines/capabilities/assistant.md",
+        "matches": true
+      },
+      {
+        "path": "knowledge/website-creation-guidelines/capabilities/cms.md",
+        "matches": true
+      },
+      {
+        "path": "knowledge/website-creation-guidelines/capabilities/collections.md",
+        "matches": true
+      },
+      {
+        "path": "knowledge/website-creation-guidelines/capabilities/extensions.md",
+        "matches": true
+      },
+      {
+        "path": "knowledge/website-creation-guidelines/capabilities/forms.md",
+        "matches": true
+      },
+      {
+        "path": "knowledge/website-creation-guidelines/capabilities/languages.md",
+        "matches": true
+      },
+      {
+        "path": "knowledge/website-creation-guidelines/capabilities/search.md",
+        "matches": true
+      },
+      {
+        "path": "knowledge/website-creation-guidelines/capabilities/themes.md",
+        "matches": true
+      },
+      {
+        "path": "knowledge/website-creation-guidelines/compilation/README.md",
+        "matches": true
+      },
+      {
+        "path": "knowledge/website-creation-guidelines/compilation/compile-implementation-units.md",
+        "matches": true
+      },
+      {
+        "path": "knowledge/website-creation-guidelines/compilation/implementation-plan.md",
+        "matches": true
+      },
+      {
+        "path": "knowledge/website-creation-guidelines/compilation/implementation-unit.md",
+        "matches": true
+      },
+      {
+        "path": "knowledge/website-creation-guidelines/guides/README.md",
+        "matches": true
+      },
+      {
+        "path": "knowledge/website-creation-guidelines/guides/architecture.md",
+        "matches": true
+      },
+      {
+        "path": "knowledge/website-creation-guidelines/guides/project-structure.md",
+        "matches": true
+      },
+      {
+        "path": "knowledge/website-creation-guidelines/guides/requirements-matrix.md",
+        "matches": true
+      },
+      {
+        "path": "knowledge/website-creation-guidelines/guides/technical-conventions.md",
+        "matches": true
+      },
+      {
+        "path": "knowledge/website-creation-guidelines/implementation/README.md",
+        "matches": true
+      },
+      {
+        "path": "knowledge/website-creation-guidelines/implementation/execute-implementation-plan.md",
+        "matches": true
+      },
+      {
+        "path": "knowledge/website-creation-guidelines/implementation/execution-record.md",
+        "matches": true
+      },
+      {
+        "path": "knowledge/website-creation-guidelines/rules/README.md",
+        "matches": true
+      },
+      {
+        "path": "knowledge/website-creation-guidelines/rules/architecture.md",
+        "matches": true
+      },
+      {
+        "path": "knowledge/website-creation-guidelines/rules/capabilities/assistant.md",
+        "matches": true
+      },
+      {
+        "path": "knowledge/website-creation-guidelines/rules/capabilities/cms.md",
+        "matches": true
+      },
+      {
+        "path": "knowledge/website-creation-guidelines/rules/capabilities/collections.md",
+        "matches": true
+      },
+      {
+        "path": "knowledge/website-creation-guidelines/rules/capabilities/extensions.md",
+        "matches": true
+      },
+      {
+        "path": "knowledge/website-creation-guidelines/rules/capabilities/forms.md",
+        "matches": true
+      },
+      {
+        "path": "knowledge/website-creation-guidelines/rules/capabilities/languages.md",
+        "matches": true
+      },
+      {
+        "path": "knowledge/website-creation-guidelines/rules/capabilities/search.md",
+        "matches": true
+      },
+      {
+        "path": "knowledge/website-creation-guidelines/rules/capabilities/themes.md",
+        "matches": true
+      },
+      {
+        "path": "knowledge/website-creation-guidelines/rules/data-privacy-and-security.md",
+        "matches": true
+      },
+      {
+        "path": "knowledge/website-creation-guidelines/rules/interaction-and-accessibility.md",
+        "matches": true
+      },
+      {
+        "path": "knowledge/website-creation-guidelines/rules/operations-and-lifecycle.md",
+        "matches": true
+      },
+      {
+        "path": "knowledge/website-creation-guidelines/rules/performance.md",
+        "matches": true
+      },
+      {
+        "path": "knowledge/website-creation-guidelines/rules/project-structure.md",
+        "matches": true
+      },
+      {
+        "path": "knowledge/website-creation-guidelines/rules/purpose-and-content.md",
+        "matches": true
+      },
+      {
+        "path": "knowledge/website-creation-guidelines/rules/technical-conventions.md",
+        "matches": true
+      },
+      {
+        "path": "knowledge/website-creation-guidelines/rules/verification.md",
+        "matches": true
+      },
+      {
+        "path": "knowledge/website-creation-guidelines/rules/visibility-and-discoverability.md",
+        "matches": true
+      },
+      {
+        "path": "knowledge/website-creation-guidelines/rules/visual-design-and-layout.md",
+        "matches": true
+      },
+      {
+        "path": "knowledge/website-creation-guidelines/sources/README.md",
+        "matches": true
+      },
+      {
+        "path": "knowledge/website-creation-guidelines/sources/retrospective.md",
+        "matches": true
+      },
+      {
+        "path": "knowledge/website-creation-guidelines/sources/wapps.md",
+        "matches": true
+      },
+      {
+        "path": "knowledge/website-creation-guidelines/templates/README.md",
+        "matches": true
+      },
+      {
+        "path": "knowledge/website-creation-guidelines/templates/acceptance-report.md",
+        "matches": true
+      },
+      {
+        "path": "knowledge/website-creation-guidelines/templates/decision-register.md",
+        "matches": true
+      },
+      {
+        "path": "knowledge/website-creation-guidelines/templates/project-brief.md",
+        "matches": true
+      },
+      {
+        "path": "knowledge/website-creation-guidelines/workflows/README.md",
+        "matches": true
+      },
+      {
+        "path": "knowledge/website-creation-guidelines/workflows/add-page-or-feature.md",
+        "matches": true
+      },
+      {
+        "path": "knowledge/website-creation-guidelines/workflows/create-website.md",
+        "matches": true
+      },
+      {
+        "path": "knowledge/website-creation-guidelines/workflows/prepare-creation-inputs.md",
+        "matches": true
+      },
+      {
+        "path": "package-manifest.json",
+        "matches": true
+      },
+      {
+        "path": "prompt.txt",
+        "matches": true
+      },
+      {
+        "path": "revisions/AF-D1-1.0.zip",
+        "matches": true
+      }
+    ],
+    "02-inputs-only": [
+      {
+        "path": "inputs/README.md",
+        "matches": true
+      },
+      {
+        "path": "inputs/content/project-context.md",
+        "matches": true
+      },
+      {
+        "path": "inputs/design-system/colors.css",
+        "matches": true
+      },
+      {
+        "path": "inputs/design-system/palette.json",
+        "matches": true
+      },
+      {
+        "path": "inputs/design-system/sampled-colors.json",
+        "matches": true
+      },
+      {
+        "path": "inputs/docs/decision-register.md",
+        "matches": true
+      },
+      {
+        "path": "inputs/docs/project-brief.md",
+        "matches": true
+      },
+      {
+        "path": "inputs/docs/sitemap.md",
+        "matches": true
+      },
+      {
+        "path": "inputs/manifest.json",
+        "matches": true
+      },
+      {
+        "path": "inputs/references/mockup-references.md",
+        "matches": true
+      },
+      {
+        "path": "inputs/required-items.md",
+        "matches": true
+      },
+      {
+        "path": "inputs/visuals/mockup-references/design-reference-board.png",
+        "matches": true
+      },
+      {
+        "path": "inputs/visuals/mockup-references/threesixty-case-studies.jpg",
+        "matches": true
+      },
+      {
+        "path": "inputs/visuals/mockup-references/threesixty-hero.jpg",
+        "matches": true
+      },
+      {
+        "path": "inputs/visuals/mockup-references/workos-hero.jpg",
+        "matches": true
+      },
+      {
+        "path": "inputs/visuals/mockup-references/workos-product-section.jpg",
+        "matches": true
+      },
+      {
+        "path": "inputs/visuals/palette-preview.png",
+        "matches": true
+      },
+      {
+        "path": "inputs/visuals/palette-preview.svg",
+        "matches": true
+      },
+      {
+        "path": "prompt.txt",
+        "matches": true
+      }
+    ]
+  },
+  "websites": {
+    "A": {
+      "authored_files_checked": 173,
+      "changed": [],
+      "generated_dist_excluded": true
+    },
+    "B": {
+      "authored_files_checked": 14,
+      "changed": [],
+      "generated_dist_excluded": true
+    }
+  },
+  "protocol_copies_match": true,
+  "passed": true
+}

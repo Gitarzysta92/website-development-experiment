@@ -1,0 +1,400 @@
+{
+  "id": "AF-TOOLS-1.1",
+  "checked_at": "2026-10-09",
+  "runtime": {
+    "node": "24.21.0",
+    "npm": "11.19.0",
+    "source": "https://nodejs.org/dist/index.json"
+  },
+  "status": "Registry engines and peer metadata inspected; not installed or build-tested during compilation.",
+  "typescript_decision": "Use 6.0.3 because @astrojs/check 0.9.10 permits TypeScript 5 or 6; do not substitute the latest major.",
+  "lockfile_contract": "IU-RUNTIME installs exact direct versions, creates package-lock.json and verifies npm ci; CP-SITE confirms reproducibility of the final project. Transitive packages are not installed during compilation.",
+  "packages": [
+    {
+      "name": "astro",
+      "version": "7.3.8",
+      "source": "https://registry.npmjs.org/astro/7.3.8",
+      "engines": {
+        "npm": ">=9.6.5",
+        "node": ">=22.12.0",
+        "pnpm": ">=7.1.0"
+      },
+      "peerDependencies": {
+        "@astrojs/markdown-remark": "^7.3.0"
+      },
+      "peerDependenciesMeta": {
+        "@astrojs/markdown-remark": {
+          "optional": true
+        }
+      },
+      "integrity": "sha512-LHzDHSaV+YzZiR3EFndDYTLLeNeuMtP1qX1FLcCNUUHOCqTTIWPczy2UV3zpA5VqvJe5cWZolqM9Z8JFqR2i9w==",
+      "dependencies": {
+        "zod": "^4.6.5",
+        "clsx": "^2.1.1",
+        "diff": "^9.0.0",
+        "dset": "^3.1.4",
+        "obug": "^3.0.0",
+        "svgo": "^4.1.0",
+        "vite": "^8.3.1",
+        "shiki": "^4.4.3",
+        "cookie": "^2.0.1",
+        "mrmime": "^2.0.1",
+        "verkit": "^0.5.0",
+        "vitefu": "^1.1.3",
+        "ci-info": "^4.4.0",
+        "devalue": "^5.9.4",
+        "flattie": "^1.1.1",
+        "fontace": "~0.4.1",
+        "p-limit": "^7.3.3",
+        "p-queue": "^9.3.3",
+        "unifont": "~0.7.5",
+        "magicast": "^0.5.5",
+        "rolldown": "^1.2.11",
+        "tinyclip": "^1.0.3",
+        "tinyexec": "^1.3.1",
+        "find-proc": "0.2.0",
+        "piccolore": "^0.1.3",
+        "picomatch": "^4.0.7",
+        "smol-toml": "^1.9.0",
+        "ultrahtml": "^1.7.0",
+        "unstorage": "^1.17.5",
+        "aria-query": "^5.3.2",
+        "tinyglobby": "^0.2.17",
+        "am-i-vibing": "^0.5.0",
+        "neotraverse": "^1.0.1",
+        "xxhash-wasm": "^1.1.0",
+        "get-tsconfig": "5.0.0-beta.6",
+        "html-escaper": "3.0.3",
+        "jsonc-parser": "^3.3.1",
+        "magic-string": "^1.4.2",
+        "yargs-parser": "^22.0.0",
+        "@clack/prompts": "^1.8.1",
+        "axobject-query": "^4.1.0",
+        "github-slugger": "^2.0.0",
+        "es-module-lexer": "^3.0.2",
+        "@oslojs/encoding": "^1.1.0",
+        "@astrojs/telemetry": "3.3.3",
+        "@capsizecss/unpack": "^4.0.1",
+        "@astrojs/compiler-rs": "^0.5.1",
+        "common-ancestor-path": "^2.0.0",
+        "http-cache-semantics": "^4.2.0",
+        "package-manager-detector": "^1.8.0",
+        "@astrojs/internal-helpers": "0.12.0",
+        "@astrojs/markdown-satteri": "0.4.3"
+      }
+    },
+    {
+      "name": "@astrojs/node",
+      "version": "11.1.7",
+      "source": "https://registry.npmjs.org/@astrojs/node/11.1.7",
+      "engines": {},
+      "peerDependencies": {
+        "astro": "^7.2.1"
+      },
+      "peerDependenciesMeta": {},
+      "integrity": "sha512-IXmBthgAMuYSTcOeIM20CpHrUkYxYhI3uJW0b9jOiaZtCXquFinstQ0WWZnYaA1kzCfgSkjmISKkEH6fwDPmbg==",
+      "dependencies": {
+        "send": "^1.2.1",
+        "server-destroy": "^1.0.1",
+        "@astrojs/internal-helpers": "0.12.0"
+      }
+    },
+    {
+      "name": "@astrojs/check",
+      "version": "0.9.10",
+      "source": "https://registry.npmjs.org/@astrojs/check/0.9.10",
+      "engines": {},
+      "peerDependencies": {
+        "typescript": "^5.0.0 || ^6.0.0"
+      },
+      "peerDependenciesMeta": {},
+      "integrity": "sha512-zgx/UQMozdjOa3bOxjgeCFdtpE3c9rRX6xHwa+2QXvy8z8Akifu2AtubHyv/zzC2znO8dl8fFWL4K+Ba9kS8HQ==",
+      "dependencies": {
+        "kleur": "^4.1.5",
+        "yargs": "^18.0.0",
+        "chokidar": "^4.0.3",
+        "@astrojs/language-server": "^2.16.7"
+      }
+    },
+    {
+      "name": "vitest",
+      "version": "5.0.3",
+      "source": "https://registry.npmjs.org/vitest/5.0.3",
+      "engines": {
+        "node": "^22.12.0 || ^24.0.0 || >=26.0.0"
+      },
+      "peerDependencies": {
+        "vite": "^6.4.0 || ^7.0.0 || ^8.0.0",
+        "jsdom": "*",
+        "happy-dom": "*",
+        "@vitest/ui": "5.0.3",
+        "@types/node": "^22.0.0 || >=24.0.0",
+        "@edge-runtime/vm": "*",
+        "@opentelemetry/api": "^1.9.0",
+        "@vitest/coverage-v8": "5.0.3",
+        "@vitest/browser-preview": "5.0.3",
+        "@vitest/coverage-istanbul": "5.0.3",
+        "@vitest/browser-playwright": "5.0.3",
+        "@vitest/browser-webdriverio": "^5.0.0-beta.5 || >=5.0.0"
+      },
+      "peerDependenciesMeta": {
+        "vite": {
+          "optional": false
+        },
+        "jsdom": {
+          "optional": true
+        },
+        "happy-dom": {
+          "optional": true
+        },
+        "@vitest/ui": {
+          "optional": true
+        },
+        "@types/node": {
+          "optional": true
+        },
+        "@edge-runtime/vm": {
+          "optional": true
+        },
+        "@opentelemetry/api": {
+          "optional": true
+        },
+        "@vitest/coverage-v8": {
+          "optional": true
+        },
+        "@vitest/browser-preview": {
+          "optional": true
+        },
+        "@vitest/coverage-istanbul": {
+          "optional": true
+        },
+        "@vitest/browser-playwright": {
+          "optional": true
+        },
+        "@vitest/browser-webdriverio": {
+          "optional": true
+        }
+      },
+      "integrity": "sha512-xMw97S3rjdtj5dkVat7jCsqWBpvchs3RlpQctUqwJD0KkERk40vz2fJ77lDwW/Vzh/pk18eItYAzkodhSes3jQ==",
+      "dependencies": {
+        "chai": "^6.2.2",
+        "obug": "^2.1.4",
+        "std-env": "^4.2.0",
+        "tinyexec": "^1.3.0",
+        "picomatch": "^4.0.7",
+        "tinybench": "^6.1.4",
+        "tinyglobby": "^0.2.17",
+        "@types/chai": "^5.2.2",
+        "expect-type": "^1.4.0",
+        "magic-string": "^1.2.3",
+        "@vitest/mocker": "5.0.3",
+        "es-module-lexer": "^2.3.2",
+        "why-is-node-running": "3.2.1"
+      }
+    },
+    {
+      "name": "@playwright/test",
+      "version": "1.64.0",
+      "source": "https://registry.npmjs.org/@playwright/test/1.64.0",
+      "engines": {
+        "node": ">=20"
+      },
+      "peerDependencies": {},
+      "peerDependenciesMeta": {},
+      "integrity": "sha512-oTN9FNYuN6bqQMwiho6jJKLCG2/QOYCixGXuCjRmzOq23eODeukuY2XiAVoVpAECbuezMt1MHQjAiQxK8F+Y+g==",
+      "dependencies": {
+        "playwright": "1.64.0"
+      }
+    },
+    {
+      "name": "@axe-core/playwright",
+      "version": "4.13.0",
+      "source": "https://registry.npmjs.org/@axe-core/playwright/4.13.0",
+      "engines": {},
+      "peerDependencies": {
+        "playwright-core": ">= 1.0.0"
+      },
+      "peerDependenciesMeta": {},
+      "integrity": "sha512-6YLx+kxXu5GJceG4ozFg+33a2EMTdjYwWGloJ3sb9Kta5pp+ZNS53uxGVog5JetIY8s++P5UrtX+cri+u0VAVg==",
+      "dependencies": {
+        "axe-core": "~4.13.0"
+      }
+    },
+    {
+      "name": "lighthouse",
+      "version": "13.5.0",
+      "source": "https://registry.npmjs.org/lighthouse/13.5.0",
+      "engines": {
+        "node": ">=22.19"
+      },
+      "peerDependencies": {},
+      "peerDependenciesMeta": {},
+      "integrity": "sha512-w/yYIwg7mP9pCwkcbAXRztnvKHua2dJnZaNptPLa1cEw+akr6lbsIDiUOLsQwvaiAUr0xvxdmwvAzl3pj3Np0A==",
+      "dependencies": {
+        "ws": "^7.0.0",
+        "ajv": "^8.20.0",
+        "open": "^8.4.0",
+        "yargs": "^17.3.1",
+        "jpeg-js": "^0.4.4",
+        "axe-core": "^4.13.0",
+        "enquirer": "^2.3.6",
+        "lodash-es": "^4.17.21",
+        "ajv-formats": "^3.0.1",
+        "configstore": "^7.0.0",
+        "tldts-icann": "^7.4.13",
+        "@sentry/node": "^10.0.0",
+        "web-features": "^3.39.0",
+        "yargs-parser": "^21.0.0",
+        "csp_evaluator": "1.1.8",
+        "robots-parser": "^3.0.1",
+        "puppeteer-core": "^25.9.0",
+        "speedline-core": "^1.4.3",
+        "chrome-launcher": "^1.2.1",
+        "third-party-web": "^0.30.0",
+        "http-link-header": "^1.1.1",
+        "devtools-protocol": "0.0.1687809",
+        "lighthouse-logger": "^2.0.2",
+        "intl-messageformat": "^10.5.3",
+        "js-library-detector": "^6.7.0",
+        "lookup-closest-locale": "6.2.0",
+        "lighthouse-stack-packs": "1.12.3",
+        "@paulirish/trace_engine": "0.0.65"
+      }
+    },
+    {
+      "name": "zod",
+      "version": "4.6.5",
+      "source": "https://registry.npmjs.org/zod/4.6.5",
+      "engines": {},
+      "peerDependencies": {},
+      "peerDependenciesMeta": {},
+      "integrity": "sha512-v5l/aFXZQeai4awLbOpSoHecE9UiMrnfx75tEXLjNonXVARxQ5mOeipTjROUchszUNCqnE+hqAMujRsRHsut2Q==",
+      "dependencies": {}
+    },
+    {
+      "name": "typescript",
+      "version": "6.0.3",
+      "source": "https://registry.npmjs.org/typescript/6.0.3",
+      "engines": {
+        "node": ">=14.17"
+      },
+      "peerDependencies": {},
+      "peerDependenciesMeta": {},
+      "integrity": "sha512-y2TvuxSZPDyQakkFRPZHKFm+KKVqIisdg9/CZwm9ftvKXLP8NRWj38/ODjNbr43SsoXqNuAisEf1GdCxqWcdBw==",
+      "dependencies": {}
+    },
+    {
+      "name": "vite",
+      "version": "8.3.4",
+      "source": "https://registry.npmjs.org/vite/8.3.4",
+      "engines": {
+        "node": "^20.19.0 || >=22.12.0"
+      },
+      "peerDependencies": {
+        "tsx": "^4.8.1",
+        "jiti": ">=1.21.0",
+        "less": "^4.0.0",
+        "sass": "^1.70.0",
+        "yaml": "^2.4.2",
+        "stylus": ">=0.54.8",
+        "terser": "^5.16.0",
+        "esbuild": "^0.27.0 || ^0.28.0",
+        "sugarss": "^5.0.0",
+        "@types/node": "^20.19.0 || >=22.12.0",
+        "sass-embedded": "^1.70.0",
+        "@vitejs/devtools": "^0.7.1"
+      },
+      "peerDependenciesMeta": {
+        "tsx": {
+          "optional": true
+        },
+        "jiti": {
+          "optional": true
+        },
+        "less": {
+          "optional": true
+        },
+        "sass": {
+          "optional": true
+        },
+        "yaml": {
+          "optional": true
+        },
+        "stylus": {
+          "optional": true
+        },
+        "terser": {
+          "optional": true
+        },
+        "esbuild": {
+          "optional": true
+        },
+        "sugarss": {
+          "optional": true
+        },
+        "@types/node": {
+          "optional": true
+        },
+        "sass-embedded": {
+          "optional": true
+        },
+        "@vitejs/devtools": {
+          "optional": true
+        }
+      },
+      "integrity": "sha512-IftLE8phJhdNRIGNEV4JCCvfNScoZQVfcXaN8TQropWGJtOHcu+iAB9pHcuGvmEb/kddw0LBe/jS8ztdC6xdiQ==",
+      "dependencies": {
+        "postcss": "^8.5.29",
+        "rolldown": "~1.2.12",
+        "picomatch": "^4.0.7",
+        "tinyglobby": "^0.2.17",
+        "lightningcss": "^1.33.0"
+      }
+    },
+    {
+      "name": "@types/node",
+      "version": "24.19.2",
+      "source": "https://registry.npmjs.org/@types/node/24.19.2",
+      "engines": {},
+      "peerDependencies": {},
+      "peerDependenciesMeta": {},
+      "integrity": "sha512-93d49wCWJkCyN87MxLpNN6KXPCwFw7bVUg79mGUV1OS40JGWwVCr8n61DXCSqz7CV6/VfPkb7xec7uP2M+QHWQ==",
+      "dependencies": {
+        "undici-types": ">=7.24.0 <7.24.7"
+      }
+    },
+    {
+      "name": "@astrojs/markdown-remark",
+      "version": "7.3.2",
+      "source": "https://registry.npmjs.org/@astrojs/markdown-remark/7.3.2",
+      "engines": {},
+      "peerDependencies": {},
+      "peerDependenciesMeta": {},
+      "integrity": "sha512-ubszw8SVEI4OHR5Y+0jTbkmzG8xatrW47iAkQNqH7wUM1bky7DOnr51FGgoUdXt/fmKpUl7sRRX9talmU64Y+g==",
+      "dependencies": {
+        "acorn": "^8.16.0",
+        "vfile": "^6.0.3",
+        "unified": "^11.0.5",
+        "rehype-raw": "^7.0.0",
+        "remark-gfm": "^4.0.1",
+        "source-map": "^0.7.6",
+        "@mdx-js/mdx": "^3.1.1",
+        "remark-parse": "^11.0.0",
+        "remark-rehype": "^11.1.2",
+        "@astrojs/prism": "4.0.2",
+        "github-slugger": "^2.0.0",
+        "rehype-stringify": "^10.0.1",
+        "unist-util-visit": "^5.1.0",
+        "estree-util-visit": "^2.0.0",
+        "hast-util-to-html": "^9.0.5",
+        "hast-util-to-text": "^4.0.2",
+        "remark-smartypants": "^3.0.2",
+        "hast-util-from-html": "^2.0.3",
+        "mdast-util-definitions": "^6.0.0",
+        "unist-util-visit-parents": "^6.0.2",
+        "@astrojs/internal-helpers": "0.12.0",
+        "unist-util-remove-position": "^5.0.0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "about",
+  "locale": "en",
+  "title": "The company behind the work",
+  "lead": "Artifactory is presented here through two focused photonic projects.",
+  "description": "This local draft explains the relationship between the projects without inventing a team roster, ownership structure or commercial history.",
+  "eyebrow": "Artifactory",
+  "sections": [
+    {
+      "id": "focus",
+      "title": "The focus",
+      "paragraphs": [
+        "ArtiSense examines a compact optical sensing concept. AIFIELD explores design and simulation tools for photonic engineering. Together they point to a possible path from design questions to measurement experiments."
+      ]
+    },
+    {
+      "id": "evidence",
+      "title": "What is still being established",
+      "paragraphs": [
+        "The company’s exact positioning, team roles, intellectual-property rights and present commercial status need owner review before publication."
+      ]
+    },
+    {
+      "id": "next",
+      "title": "Start a conversation",
+      "paragraphs": [
+        "Investors and potential technical partners can use the project pages to locate the evidence relevant to their questions and contact Artifactory directly."
+      ]
+    }
+  ],
+  "related": [
+    "projects",
+    "contact"
+  ],
+  "stage": "Local draft · source context October 2026",
+  "pageType": "company",
+  "sourceReferences": [
+    "HP-1.1 project-context 2026-10-09"
+  ],
+  "sourceRevision": "2026-10-09",
+  "editorialState": "draft",
+  "modifiedAt": "2026-10-10"
+}

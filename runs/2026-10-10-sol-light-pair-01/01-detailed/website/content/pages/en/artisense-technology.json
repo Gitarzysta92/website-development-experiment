@@ -1,0 +1,46 @@
+{
+  "id": "artisense-technology",
+  "locale": "en",
+  "title": "How the sensing concept works",
+  "lead": "The proposed chain runs from illumination to optical response, detection and interpretation.",
+  "description": "Each stage has assumptions that need testing before the system can be treated as an integrated device.",
+  "eyebrow": "ArtiSense",
+  "sections": [
+    {
+      "id": "focus",
+      "title": "From sample to signal",
+      "paragraphs": [
+        "Visible or infrared light could interact with a sample. A detector would capture a response for comparison with references; illumination geometry, noise and sample variability matter."
+      ]
+    },
+    {
+      "id": "evidence",
+      "title": "Processing is a separate proposal",
+      "paragraphs": [
+        "A reprogrammable analog neuromorphic processor appears in the described architecture as a possible interpretation component. It is distinct from AIFIELD’s neural field research."
+      ]
+    },
+    {
+      "id": "next",
+      "title": "Integration questions",
+      "paragraphs": [
+        "Calibration, optical packaging, electronics, software and connectivity all influence whether a laboratory idea can work in an intended form factor. Their combined performance is not yet established."
+      ]
+    }
+  ],
+  "related": [
+    "artisense",
+    "artisense-technology",
+    "artisense-applications",
+    "artisense-validation",
+    "partnerships"
+  ],
+  "stage": "Local draft · source context October 2026",
+  "pageType": "project",
+  "sourceReferences": [
+    "HP-1.1 project-context 2026-10-09"
+  ],
+  "sourceRevision": "2026-10-09",
+  "editorialState": "draft",
+  "modifiedAt": "2026-10-10"
+}

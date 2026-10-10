@@ -1,0 +1,6 @@
+---
+interface Props {caption:string;}
+const {caption}=Astro.props;
+---
+<figure><div class="figure-visual"><slot/></div><figcaption>{caption}</figcaption></figure>
+<style>.figure-visual{border-radius:var(--radius-large);overflow:hidden;background:var(--af-mist)}figcaption{font-size:16px;line-height:1.5;color:var(--af-muted);margin-top:16px;max-width:68ch}</style>

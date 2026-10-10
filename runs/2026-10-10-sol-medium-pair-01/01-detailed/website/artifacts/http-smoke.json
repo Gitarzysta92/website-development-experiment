@@ -1,0 +1,247 @@
+[
+  {
+    "name": "route /en/",
+    "pass": true,
+    "detail": 200
+  },
+  {
+    "name": "route /pl/",
+    "pass": true,
+    "detail": 200
+  },
+  {
+    "name": "route /en/projects/",
+    "pass": true,
+    "detail": 200
+  },
+  {
+    "name": "route /pl/projekty/",
+    "pass": true,
+    "detail": 200
+  },
+  {
+    "name": "route /en/projects/artisense/",
+    "pass": true,
+    "detail": 200
+  },
+  {
+    "name": "route /pl/projekty/artisense/",
+    "pass": true,
+    "detail": 200
+  },
+  {
+    "name": "route /en/projects/artisense/technology/",
+    "pass": true,
+    "detail": 200
+  },
+  {
+    "name": "route /pl/projekty/artisense/technologia/",
+    "pass": true,
+    "detail": 200
+  },
+  {
+    "name": "route /en/projects/artisense/applications/",
+    "pass": true,
+    "detail": 200
+  },
+  {
+    "name": "route /pl/projekty/artisense/zastosowania/",
+    "pass": true,
+    "detail": 200
+  },
+  {
+    "name": "route /en/projects/artisense/research-validation/",
+    "pass": true,
+    "detail": 200
+  },
+  {
+    "name": "route /pl/projekty/artisense/badania-walidacja/",
+    "pass": true,
+    "detail": 200
+  },
+  {
+    "name": "route /en/projects/aifield/",
+    "pass": true,
+    "detail": 200
+  },
+  {
+    "name": "route /pl/projekty/aifield/",
+    "pass": true,
+    "detail": 200
+  },
+  {
+    "name": "route /en/projects/aifield/design-simulation/",
+    "pass": true,
+    "detail": 200
+  },
+  {
+    "name": "route /pl/projekty/aifield/projektowanie-symulacja/",
+    "pass": true,
+    "detail": 200
+  },
+  {
+    "name": "route /en/projects/aifield/ai-workflows/",
+    "pass": true,
+    "detail": 200
+  },
+  {
+    "name": "route /pl/projekty/aifield/praca-z-ai/",
+    "pass": true,
+    "detail": 200
+  },
+  {
+    "name": "route /en/projects/aifield/neural-field-research/",
+    "pass": true,
+    "detail": 200
+  },
+  {
+    "name": "route /pl/projekty/aifield/badania-modeli-pola/",
+    "pass": true,
+    "detail": 200
+  },
+  {
+    "name": "route /en/projects/aifield/examples-validation/",
+    "pass": true,
+    "detail": 200
+  },
+  {
+    "name": "route /pl/projekty/aifield/przyklady-walidacja/",
+    "pass": true,
+    "detail": 200
+  },
+  {
+    "name": "route /en/investors/",
+    "pass": true,
+    "detail": 200
+  },
+  {
+    "name": "route /pl/inwestorzy/",
+    "pass": true,
+    "detail": 200
+  },
+  {
+    "name": "route /en/approach/",
+    "pass": true,
+    "detail": 200
+  },
+  {
+    "name": "route /pl/jak-pracujemy/",
+    "pass": true,
+    "detail": 200
+  },
+  {
+    "name": "route /en/about/",
+    "pass": true,
+    "detail": 200
+  },
+  {
+    "name": "route /pl/o-nas/",
+    "pass": true,
+    "detail": 200
+  },
+  {
+    "name": "route /en/partnerships/",
+    "pass": true,
+    "detail": 200
+  },
+  {
+    "name": "route /pl/wspolpraca/",
+    "pass": true,
+    "detail": 200
+  },
+  {
+    "name": "route /en/contact/",
+    "pass": true,
+    "detail": 200
+  },
+  {
+    "name": "route /pl/kontakt/",
+    "pass": true,
+    "detail": 200
+  },
+  {
+    "name": "route /en/privacy/",
+    "pass": true,
+    "detail": 200
+  },
+  {
+    "name": "route /pl/prywatnosc/",
+    "pass": true,
+    "detail": 200
+  },
+  {
+    "name": "redirect /",
+    "pass": true,
+    "detail": "308 /en/"
+  },
+  {
+    "name": "redirect /artisense-module/",
+    "pass": true,
+    "detail": "308 /pl/projekty/artisense/"
+  },
+  {
+    "name": "redirect /about/",
+    "pass": true,
+    "detail": "308 /pl/o-nas/"
+  },
+  {
+    "name": "redirect /partners/",
+    "pass": true,
+    "detail": "308 /pl/wspolpraca/"
+  },
+  {
+    "name": "redirect /contact/",
+    "pass": true,
+    "detail": "308 /pl/kontakt/"
+  },
+  {
+    "name": "404 /en/not-a-page/",
+    "pass": true,
+    "detail": "<!DOCTYPE html><html lang=\"en\"><head><meta charset=\"utf-8\"><meta name=\"viewport\""
+  },
+  {
+    "name": "404 /pl/nie-ma/",
+    "pass": true,
+    "detail": "<!DOCTYPE html><html lang=\"pl\"><head><meta charset=\"utf-8\"><meta name=\"viewport\""
+  },
+  {
+    "name": "method rejected",
+    "pass": true,
+    "detail": 405
+  },
+  {
+    "name": "media rejected",
+    "pass": true,
+    "detail": 415
+  },
+  {
+    "name": "missing origin rejected",
+    "pass": true,
+    "detail": 403
+  },
+  {
+    "name": "foreign origin rejected",
+    "pass": true,
+    "detail": 403
+  },
+  {
+    "name": "malformed JSON rejected",
+    "pass": true,
+    "detail": 400
+  },
+  {
+    "name": "unknown field rejected",
+    "pass": true,
+    "detail": 422
+  },
+  {
+    "name": "streamed body rejected",
+    "pass": true,
+    "detail": 413
+  },
+  {
+    "name": "rate limited",
+    "pass": true,
+    "detail": 429
+  }
+]

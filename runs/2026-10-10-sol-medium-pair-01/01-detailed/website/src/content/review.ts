@@ -1,0 +1,2 @@
+export function reviewCurrent(state:'pending'|'reviewed',reviewedHash:string|undefined,currentHash:string){return state==='reviewed'&&reviewedHash===currentHash?'reviewed':'pending'}
+export function translationCurrent(state:'pending'|'reviewed',reviewedContentHash:string|undefined,currentContentHash:string,reviewedFactHash:string|undefined,currentFactHash:string){return state==='reviewed'&&reviewedContentHash===currentContentHash&&reviewedFactHash===currentFactHash?'reviewed':'pending'}

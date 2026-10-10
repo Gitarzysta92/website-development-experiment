@@ -1,0 +1,71 @@
+{
+  "id": "privacy",
+  "locale": "en",
+  "type": "privacy",
+  "title": "Privacy in this local preview.",
+  "description": "How the Artifactory local preview handles synthetic enquiries, in-memory receipts, email links and browser data. No live delivery or tracking is enabled.",
+  "eyebrow": "INFORMATION HANDLING",
+  "lead": "This notice describes the local demonstration you are using. It is not a finalized notice for a publicly released service.",
+  "sections": [
+    {
+      "id": "form-data",
+      "title": "What the test form receives",
+      "paragraphs": [
+        "The form accepts an enquiry type, email, message, language and a random submission identifier. Name, organization and project are optional. Only synthetic test information should be entered.",
+        "The receiver runs on this computer. It keeps the request and a test receipt in process memory to verify receipt and prevent duplicate submissions. No email, notification or third-party request is sent by the fixture."
+      ]
+    },
+    {
+      "id": "retention",
+      "title": "When test information disappears",
+      "paragraphs": [
+        "Local test records expire no later than 24 hours after creation. Restarting the server clears them immediately. Cleanup runs when the in-memory receiver is accessed; expired records cannot be retrieved through its test inspection interface.",
+        "The form keeps values and retry information in page memory only. It does not write them to browser storage, cookies or the address. Closing or leaving the page ends that local state."
+      ]
+    },
+    {
+      "id": "email",
+      "title": "Email is a separate channel",
+      "paragraphs": [
+        "The email link opens your own email application. Any message you choose to send then follows your email service and the recipient’s arrangements; it does not pass through this local test receiver.",
+        "The supplied contact address is info@artifactory.tech. Its operator and production handling arrangements have not been verified in this preview."
+      ],
+      "links": [
+        {
+          "id": "contact"
+        }
+      ]
+    },
+    {
+      "id": "tracking",
+      "title": "No tracking or optional cookies",
+      "paragraphs": [
+        "This website does not load analytics, remote fonts, third-party embeds or advertising. There is no visitor account or preference cookie. Ordinary diagnostics must not include enquiry payloads."
+      ]
+    },
+    {
+      "id": "release",
+      "title": "Before a public release",
+      "paragraphs": [
+        "A public service needs an identified operator, approved provider and recipient, reviewed privacy information, retention and deletion procedures, and a confirmed publication scope. Those arrangements remain to be supplied and reviewed. The local fixture is not a substitute for them."
+      ]
+    }
+  ],
+  "relatedIds": [
+    "contact"
+  ],
+  "project": null,
+  "sourceReferences": [
+    "HP-1.1/project-context",
+    "SM-0.3/privacy"
+  ],
+  "sourceRevision": "2026-10-09 (AIFIELD snapshot: September 2026)",
+  "editorialState": "published",
+  "modifiedAt": "2026-10-09T21:00:00.000Z",
+  "reviews": {
+    "facts": "de3b7761b67161a3d983726db7d6afc550eff7448ae4a1cc558fba285b402797",
+    "language": "de3b7761b67161a3d983726db7d6afc550eff7448ae4a1cc558fba285b402797",
+    "assets": "de3b7761b67161a3d983726db7d6afc550eff7448ae4a1cc558fba285b402797"
+  },
+  "privateNotes": "Locally authored from supplied summary. Factual, translation and asset owner review pending. Original PDFs were not supplied."
+}

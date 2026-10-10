@@ -1,0 +1,95 @@
+{
+  "id": "artisense-applications",
+  "locale": "pl",
+  "type": "detail",
+  "title": "Zamierzone użycie zaczyna się od sprawdzalnej potrzeby.",
+  "description": "Badania zastosowań ArtiSense koncentrują się na fotonicznym pomiarze glukozy. Poznaj kierunek nieinwazyjny i ubieralny oraz wymagane dowody.",
+  "eyebrow": "ARTISENSE / ZASTOSOWANIA",
+  "lead": "Zastosowanie jest najpierw pytaniem pomiarowym, a dopiero później produktem. Pomiar glukozy to rozwinięty przykład w dostarczonym opisie badań.",
+  "sections": [
+    {
+      "id": "glucose",
+      "title": "Glukoza: przykład badawczy.",
+      "paragraphs": [
+        "Dostarczone prace dotyczą wykonalności optycznej i przykładu projektu chipu fotonicznego związanego z pomiarem glukozy. Zamierzony cel to uzyskanie użytecznej informacji chemicznej przez oddziaływanie optyczne i interpretację sygnału.",
+        "Dla badacza oceniającego tę ideę użyteczne pytanie brzmi: czy w kontrolowanych warunkach można odróżnić odpowiedź związaną z glukozą od innych zmian? Projekt lub modelowana odpowiedź optyczna nie odpowiadają na całe pytanie pomiarowe.",
+        "Nie dostarczono dokładności wykonanego urządzenia, wyników użycia przez ludzi ani rezultatów klinicznych. Strona opisuje kierunek badań i potrzeby walidacyjne; nie przedstawia urządzenia diagnostycznego ani zaleceń medycznych."
+      ]
+    },
+    {
+      "id": "context",
+      "title": "Nieinwazyjność i forma ubieralna to kierunki badań.",
+      "paragraphs": [
+        "Proponowany system jest zminiaturyzowany, a potencjalne pomiary nieinwazyjne i formy ubieralne omawiane jako zamierzony kierunek. Żadna z tych form nie została wykazana jako dostępny lub zwalidowany produkt.",
+        "Praktyczna forma urządzenia dodaje pytania o sprzężenie optyczne, stabilność, zmienne warunki, zasilanie i integrację. Powinny one stać się jawnymi wymaganiami przed oceną projektu dla konkretnego użytkownika. Nie dostarczono zatwierdzonej formy, protokołu użytkowania ani środowiska pracy."
+      ]
+    },
+    {
+      "id": "requirements",
+      "title": "Co uwiarygodniłoby zamierzone użycie?",
+      "paragraphs": [
+        "Plan walidacji musi łączyć proponowane zastosowanie z obserwowalnym wynikiem. Tabela wymienia pytania do przyszłego badania, a nie zakończone eksperymenty."
+      ],
+      "rows": [
+        [
+          "Odpowiedź swoista dla celu",
+          "Porównać ze znanym odniesieniem i zbadać zakłócenia od innych zmiennych właściwości."
+        ],
+        [
+          "Powtarzalność",
+          "Powtarzać pomiary w określonych warunkach i opisywać zmienność, nie tylko przykładowy przebieg."
+        ],
+        [
+          "Przejście do sprzętu",
+          "Porównać wykonaną strukturę z modelem i udokumentować rozbieżności."
+        ],
+        [
+          "Warunki użycia",
+          "Przed szerszymi deklaracjami określić środowisko, ograniczenia i kryteria akceptacji."
+        ]
+      ],
+      "links": [
+        {
+          "id": "artisense-validation"
+        }
+      ]
+    },
+    {
+      "id": "collaboration",
+      "title": "Zacznijmy od ograniczonego pytania o współpracę.",
+      "paragraphs": [
+        "Potencjalne rozmowy mogą dotyczyć charakteryzacji optycznej, porównań z odniesieniem lub ograniczeń integracji. Użyteczna propozycja wskazuje, co zostanie zbadane, jaka wiedza jest potrzebna i jaki wynik zmieni kolejną decyzję projektową.",
+        "To możliwe tematy rozmów, a nie aktywne zobowiązania partnerskie. Nie wyprowadzamy szerokich rynków pomiarów chemicznych z jednego przykładu projektowego."
+      ],
+      "links": [
+        {
+          "id": "artisense-technology"
+        },
+        {
+          "id": "partnerships"
+        }
+      ]
+    }
+  ],
+  "relatedIds": [
+    "artisense-technology",
+    "artisense-validation",
+    "partnerships"
+  ],
+  "project": "artisense",
+  "sourceReferences": [
+    "HP-1.1/project-context",
+    "SM-0.3/artisense-applications"
+  ],
+  "sourceRevision": "2026-10-09 (AIFIELD snapshot: September 2026)",
+  "editorialState": "draft",
+  "modifiedAt": "2026-10-09T21:00:00.000Z",
+  "reviews": {
+    "facts": null,
+    "language": null,
+    "assets": null
+  },
+  "privateNotes": "Locally authored from supplied summary. Factual, translation and asset owner review pending. Original PDFs were not supplied.",
+  "visual": "sensing",
+  "maturity": "Zamierzone zastosowania · bez deklaracji walidacji klinicznej"
+}

@@ -1,0 +1,286 @@
+{
+  "id": "A-en-projects-desktop",
+  "label": "A",
+  "locale": "en",
+  "pageId": "projects",
+  "view": "desktop",
+  "url": "http://127.0.0.1:4501/en/projects/",
+  "status": 200,
+  "errors": [],
+  "title": "Two projects. Different questions. | Artifactory",
+  "language": "en",
+  "h1": [
+    "Two projects. Different questions."
+  ],
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Two projects. Different questions."
+    },
+    {
+      "level": "H2",
+      "text": "ArtiSense"
+    },
+    {
+      "level": "H2",
+      "text": "AIFIELD"
+    },
+    {
+      "level": "H2",
+      "text": "One example connects the work. Evidence keeps it distinct."
+    },
+    {
+      "level": "H2",
+      "text": "Company"
+    },
+    {
+      "level": "H2",
+      "text": "Projects"
+    },
+    {
+      "level": "H2",
+      "text": "Connect"
+    }
+  ],
+  "text": "Skip to content\nLocal draft · Research in progress\na·\nartifactory\nProjects\n⌄\nInvestors\nOur Approach\nAbout\nPL\n↔\nLet’s talk\n↗\nHome\nProjects\n\nTHE PROJECTS\n\nTwo projects. Different questions.\n\nArtiSense explores how light could reveal chemical information. AIFIELD explores how engineers can design and analyze the photonic systems behind it.\n\n01 / ARTISENSE\nLIGHT → SIGNAL → INTERPRETATION\n↗\nConcept illustration. Not a finished product or measured output.\n\nSENSING THROUGH LIGHT\n\nArtiSense\n\nThe question: can a miniaturized photonic system detect a useful chemical signal and interpret it reliably? The intended users and form factors depend on a measurement task that still needs validation.\n\nAvailable work concerns optical feasibility and chip design, including glucose-related research. The next evidence needed is a controlled physical comparison that separates the target response from other influences.\n\nExplore ArtiSense\n↗\nResearch and Validation\n↗\nQuestion\tProject view\nProblem\tExtract useful chemical information from an optical response.\nIntended context\tResearch toward non-invasive sensing; wearable form is an ambition.\nOutput and stage\tProposed architecture and design/simulation work, not a validated medical product.\n02 / AIFIELD\nGEOMETRY → SIMULATION → INSIGHT\n↗\nConcept illustration. Not a finished product or measured output.\n\nDESIGNING WITH LIGHT\n\nAIFIELD\n\nThe question: how can an engineer move from geometry and process assumptions to interpretable photonic simulations? AIFIELD is aimed at people designing and assessing optical systems.\n\nThe September 2026 snapshot describes design, classical solvers and partial agent assistance. Neural optical-field prediction has its own research constraints. Reproducible comparisons and clear input conditions are the next useful basis for evaluation.\n\nExplore AIFIELD\n↗\nExamples and Validation\n↗\nQuestion\tProject view\nProblem\tConnect layout choices with model-based analysis.\nIntended users\tPhotonic designers and engineers evaluating simulation workflows.\nOutput and stage\tDesigns and simulated results; neural field prediction remains research.\nOne example connects the work. Evidence keeps it distinct.\n\nThe photonic glucose chip-design example links AIFIELD’s engineering workflow to the sensing objective associated with ArtiSense. The design activity belongs to AIFIELD; the question of what can actually be measured belongs to ArtiSense.\n\nA useful simulation can guide the next experiment. It cannot, by itself, validate a sensor, demonstrate clinical accuracy or establish a commercial relationship.\n\nThe company investment perspective ↗\nartifactory·\n\nSensing technology and tools for designing photonic systems.\n\ninfo@artifactory.tech\n↗\nCompany\nHome\nProjects\nInvestors\nOur Approach\nAbout\nProjects\nArtiSense\nAIFIELD\nConnect\nPartnerships\nContact\nPrivacy\nArtifactory\nNew possibilities, through light.",
+  "links": [
+    {
+      "text": "Skip to content",
+      "href": "#main",
+      "lang": ""
+    },
+    {
+      "text": "a·\nartifactory",
+      "href": "/en/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/en/projects/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/en/projects/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/en/projects/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Investors",
+      "href": "/en/investors/",
+      "lang": ""
+    },
+    {
+      "text": "Our Approach",
+      "href": "/en/approach/",
+      "lang": ""
+    },
+    {
+      "text": "About",
+      "href": "/en/about/",
+      "lang": ""
+    },
+    {
+      "text": "Partnerships",
+      "href": "/en/partnerships/",
+      "lang": ""
+    },
+    {
+      "text": "Contact",
+      "href": "/en/contact/",
+      "lang": ""
+    },
+    {
+      "text": "PL\n↔",
+      "href": "http://127.0.0.1:4501/pl/projekty/",
+      "lang": "pl"
+    },
+    {
+      "text": "Let’s talk\n↗",
+      "href": "/en/contact/?intent=investment",
+      "lang": ""
+    },
+    {
+      "text": "Home",
+      "href": "/en/",
+      "lang": ""
+    },
+    {
+      "text": "Explore ArtiSense\n↗",
+      "href": "/en/projects/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "Research and Validation\n↗",
+      "href": "/en/projects/artisense/research-validation/",
+      "lang": ""
+    },
+    {
+      "text": "Explore AIFIELD\n↗",
+      "href": "/en/projects/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Examples and Validation\n↗",
+      "href": "/en/projects/aifield/examples-validation/",
+      "lang": ""
+    },
+    {
+      "text": "The company investment perspective ↗",
+      "href": "/en/investors/",
+      "lang": ""
+    },
+    {
+      "text": "artifactory·",
+      "href": "/en/",
+      "lang": ""
+    },
+    {
+      "text": "info@artifactory.tech\n↗",
+      "href": "mailto:info@artifactory.tech",
+      "lang": ""
+    },
+    {
+      "text": "Home",
+      "href": "/en/",
+      "lang": ""
+    },
+    {
+      "text": "Projects",
+      "href": "/en/projects/",
+      "lang": ""
+    },
+    {
+      "text": "Investors",
+      "href": "/en/investors/",
+      "lang": ""
+    },
+    {
+      "text": "Our Approach",
+      "href": "/en/approach/",
+      "lang": ""
+    },
+    {
+      "text": "About",
+      "href": "/en/about/",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSense",
+      "href": "/en/projects/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELD",
+      "href": "/en/projects/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Partnerships",
+      "href": "/en/partnerships/",
+      "lang": ""
+    },
+    {
+      "text": "Contact",
+      "href": "/en/contact/",
+      "lang": ""
+    },
+    {
+      "text": "Privacy",
+      "href": "/en/privacy/",
+      "lang": ""
+    }
+  ],
+  "metadata": [
+    {
+      "name": "viewport",
+      "content": "width=device-width, initial-scale=1"
+    },
+    {
+      "name": "description",
+      "content": "Compare ArtiSense sensing research with AIFIELD photonic design and simulation: intended users, outputs, evidence and the next validation questions."
+    },
+    {
+      "name": "robots",
+      "content": "noindex, nofollow"
+    },
+    {
+      "rel": "canonical",
+      "href": "http://127.0.0.1:4501/en/projects/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "en",
+      "href": "http://127.0.0.1:4501/en/projects/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "pl",
+      "href": "http://127.0.0.1:4501/pl/projekty/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "x-default",
+      "href": "http://127.0.0.1:4501/en/projects/"
+    },
+    {
+      "property": "og:type",
+      "content": "website"
+    },
+    {
+      "property": "og:site_name",
+      "content": "Artifactory"
+    },
+    {
+      "property": "og:title",
+      "content": "Two projects. Different questions. | Artifactory"
+    },
+    {
+      "property": "og:description",
+      "content": "Compare ArtiSense sensing research with AIFIELD photonic design and simulation: intended users, outputs, evidence and the next validation questions."
+    },
+    {
+      "property": "og:url",
+      "content": "http://127.0.0.1:4501/en/projects/"
+    },
+    {
+      "property": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "property": "og:image",
+      "content": "http://127.0.0.1:4501/brand/share-v1.svg"
+    },
+    {
+      "property": "og:image:width",
+      "content": "1200"
+    },
+    {
+      "property": "og:image:height",
+      "content": "630"
+    }
+  ],
+  "forms": [],
+  "images": [],
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "scrollWidth": 1425
+  },
+  "overflowing": [],
+  "axe": {
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "impact": "serious",
+        "nodeCount": 5
+      }
+    ],
+    "passes": 45
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "artisense",
+  "locale": "en",
+  "title": "Sensing chemistry with light",
+  "lead": "ArtiSense is a proposed compact photonic system for chemical sensing.",
+  "description": "Its intended path is to illuminate a sample, observe its optical response and interpret the signal. The proposed architecture also considers analog signal processing.",
+  "eyebrow": "ArtiSense",
+  "sections": [
+    {
+      "id": "focus",
+      "title": "The intended system",
+      "paragraphs": [
+        "Optical components, electronics, reference comparison and interpretation would need to operate together. The described architecture is a research direction, not a finished wearable device."
+      ]
+    },
+    {
+      "id": "evidence",
+      "title": "Current evidence",
+      "paragraphs": [
+        "Supplied research discusses optical feasibility and glucose chip design. It does not establish a fabricated device, clinical accuracy or non-invasive performance."
+      ]
+    },
+    {
+      "id": "next",
+      "title": "What comes next",
+      "paragraphs": [
+        "A meaningful next step is to test components and calibration assumptions under controlled conditions, then assess integration and intended-use requirements."
+      ]
+    }
+  ],
+  "related": [
+    "artisense",
+    "artisense-technology",
+    "artisense-applications",
+    "artisense-validation",
+    "partnerships"
+  ],
+  "stage": "Local draft · source context October 2026",
+  "pageType": "project",
+  "sourceReferences": [
+    "HP-1.1 project-context 2026-10-09"
+  ],
+  "sourceRevision": "2026-10-09",
+  "editorialState": "draft",
+  "modifiedAt": "2026-10-10"
+}

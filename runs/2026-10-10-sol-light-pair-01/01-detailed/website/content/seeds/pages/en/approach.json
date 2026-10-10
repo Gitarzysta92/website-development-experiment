@@ -1,0 +1,43 @@
+{
+  "id": "approach",
+  "locale": "en",
+  "title": "Build claims from evidence",
+  "lead": "The proposed approach is to connect design work, controlled tests and explicit limits.",
+  "description": "This page describes a sensible development framework inferred from the supplied work; it is not a claim that every procedure is already formalized at Artifactory.",
+  "eyebrow": "Artifactory",
+  "sections": [
+    {
+      "id": "focus",
+      "title": "Begin with a question",
+      "paragraphs": [
+        "For sensing, specify the measurand and conditions. For design tooling, specify inputs, solver references and decisions a result should support."
+      ]
+    },
+    {
+      "id": "evidence",
+      "title": "Keep stages distinct",
+      "paragraphs": [
+        "A simulation can guide a design; a fabricated component can test a physical hypothesis; an intended-use study addresses another question again. Results should not be promoted across stages without evidence."
+      ]
+    },
+    {
+      "id": "next",
+      "title": "Publish the limits",
+      "paragraphs": [
+        "Dates, configurations, reference methods and failed cases make technical material useful to partners and investors. Review of the exact current process remains with the company."
+      ]
+    }
+  ],
+  "related": [
+    "projects",
+    "contact"
+  ],
+  "stage": "Local draft · source context October 2026",
+  "pageType": "company",
+  "sourceReferences": [
+    "HP-1.1 project-context 2026-10-09"
+  ],
+  "sourceRevision": "2026-10-09",
+  "editorialState": "draft",
+  "modifiedAt": "2026-10-10"
+}

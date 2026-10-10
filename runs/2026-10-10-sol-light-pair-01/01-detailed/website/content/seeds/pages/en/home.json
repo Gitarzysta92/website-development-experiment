@@ -1,0 +1,44 @@
+{
+  "id": "home",
+  "locale": "en",
+  "title": "A clearer path from light to insight",
+  "lead": "Artifactory explores photonic sensing and the tools used to design it.",
+  "description": "Two distinct projects connect a measurement ambition with the engineering work behind photonic systems.",
+  "eyebrow": "Artifactory",
+  "sections": [
+    {
+      "id": "focus",
+      "title": "The company thesis",
+      "paragraphs": [
+        "ArtiSense investigates a compact chemical-sensing concept. AIFIELD develops photonic design and simulation workflows. The connection is useful, but progress in design does not prove a sensing outcome."
+      ]
+    },
+    {
+      "id": "evidence",
+      "title": "Where the work stands",
+      "paragraphs": [
+        "The supplied material describes research and design activity, including a glucose chip-design example. Device performance, clinical accuracy and commercial traction are not established by that material."
+      ]
+    },
+    {
+      "id": "next",
+      "title": "The next conversation",
+      "paragraphs": [
+        "We welcome a company-level investment discussion grounded in the evidence available today and the validation still required."
+      ]
+    }
+  ],
+  "related": [
+    "investors",
+    "projects",
+    "partnerships"
+  ],
+  "stage": "Local draft · source context October 2026",
+  "pageType": "company",
+  "sourceReferences": [
+    "HP-1.1 project-context 2026-10-09"
+  ],
+  "sourceRevision": "2026-10-09",
+  "editorialState": "draft",
+  "modifiedAt": "2026-10-10"
+}

@@ -1,0 +1,123 @@
+
+> artifactory-detailed@0.1.0 build
+> npm run validate:content && astro check && astro build
+
+
+> artifactory-detailed@0.1.0 validate:content
+> node scripts/validate-content.mjs
+
+Validated 34 records, 34 routes, 4 concept assets; reviews remain pending.
+10:00:55 [@astrojs/node] Enabling sessions with filesystem storage
+10:00:55 [types] Generated 30ms
+10:00:55 [check] Getting diagnostics for Astro files in /Users/michal.lukasiewicz/Programming/website-development-experiment/runs/2026-10-10-sol-medium-pair-01/01-detailed/website...
+[96msrc/features/enquiry/domain/index.ts[0m:[93m5[0m:[93m35[0m - [93mwarning[0m[90m ts(6385): [0m'(params?: string | { abort?: boolean | undefined; pattern?: RegExp | undefined; error?: string | $ZodErrorMap<$ZodIssueInvalidStringFormat> | undefined; message?: string | undefined; } | undefined): ZodString' is deprecated.
+
+[7m5[0m  email:z.string().trim().max(254).email().refine(v=>!/[\r\n]/.test(v),'email'),
+[7m [0m [93m                                  ~~~~~[0m
+
+[96mtests/enquiry.test.ts[0m:[93m24[0m:[93m43[0m - [93mwarning[0m[90m ts(6133): [0m'request' is declared but its value is never read.
+
+[7m24[0m   const transport=vi.fn(async(_url:string,request:any)=>new Response(JSON.stringify({id:'provider-123'}),{status:200}));
+[7m  [0m [93m                                          ~~~~~~~[0m
+[96mtests/enquiry.test.ts[0m:[93m3[0m:[93m40[0m - [93mwarning[0m[90m ts(6133): [0m'ReceiverError' is declared but its value is never read.
+
+[7m3[0m import {fixtureReceiver,resendReceiver,ReceiverError,disabledReceiver} from '../src/features/enquiry/server';
+[7m [0m [93m                                       ~~~~~~~~~~~~~[0m
+
+Result (39 files): 
+- 0 errors
+- 0 warnings
+- 3 hints
+
+10:00:57 [@astrojs/node] Enabling sessions with filesystem storage
+10:00:57 [types] Generated 21ms
+10:00:57 [build] output: "static"
+10:00:57 [build] mode: "server"
+10:00:57 [build] directory: /Users/michal.lukasiewicz/Programming/website-development-experiment/runs/2026-10-10-sol-medium-pair-01/01-detailed/website/dist/
+10:00:57 [build] adapter: @astrojs/node
+10:00:57 [build] Collecting build info...
+10:00:57 [build] ✓ Completed in 43ms.
+10:00:57 [build] Building server entrypoints...
+10:00:57 [vite] ✓ built in 92ms
+10:00:57 [vite] ✓ built in 46ms
+10:00:57 [vite] ✓ built in 8ms
+
+ prerendering static routes 
+10:00:57   ├─ /robots.txt10:00:57 [WARN] `Astro.request.headers` was used when rendering the route `src/pages/robots.txt.ts'`. `Astro.request.headers` is not available on prerendered pages. If you need access to request headers, make sure that the page is server-rendered using `export const prerender = false;` or by setting `output` to `"server"` in your Astro config to make all your pages server-rendered by default.
+ (+4ms) 
+10:00:57   ├─ /sitemap.xml10:00:57 [WARN] `Astro.request.headers` was used when rendering the route `src/pages/sitemap.xml.ts'`. `Astro.request.headers` is not available on prerendered pages. If you need access to request headers, make sure that the page is server-rendered using `export const prerender = false;` or by setting `output` to `"server"` in your Astro config to make all your pages server-rendered by default.
+ (+1ms) 
+10:00:57   ├─ /en/index.html10:00:57 [WARN] `Astro.request.headers` was used when rendering the route `src/pages/[...path].astro'`. `Astro.request.headers` is not available on prerendered pages. If you need access to request headers, make sure that the page is server-rendered using `export const prerender = false;` or by setting `output` to `"server"` in your Astro config to make all your pages server-rendered by default.
+ (+3ms) 
+10:00:57   ├─ /pl/index.html10:00:57 [WARN] `Astro.request.headers` was used when rendering the route `src/pages/[...path].astro'`. `Astro.request.headers` is not available on prerendered pages. If you need access to request headers, make sure that the page is server-rendered using `export const prerender = false;` or by setting `output` to `"server"` in your Astro config to make all your pages server-rendered by default.
+ (+1ms) 
+10:00:57   ├─ /en/projects/index.html10:00:57 [WARN] `Astro.request.headers` was used when rendering the route `src/pages/[...path].astro'`. `Astro.request.headers` is not available on prerendered pages. If you need access to request headers, make sure that the page is server-rendered using `export const prerender = false;` or by setting `output` to `"server"` in your Astro config to make all your pages server-rendered by default.
+ (+1ms) 
+10:00:57   ├─ /pl/projekty/index.html10:00:57 [WARN] `Astro.request.headers` was used when rendering the route `src/pages/[...path].astro'`. `Astro.request.headers` is not available on prerendered pages. If you need access to request headers, make sure that the page is server-rendered using `export const prerender = false;` or by setting `output` to `"server"` in your Astro config to make all your pages server-rendered by default.
+ (+1ms) 
+10:00:57   ├─ /en/projects/artisense/index.html10:00:57 [WARN] `Astro.request.headers` was used when rendering the route `src/pages/[...path].astro'`. `Astro.request.headers` is not available on prerendered pages. If you need access to request headers, make sure that the page is server-rendered using `export const prerender = false;` or by setting `output` to `"server"` in your Astro config to make all your pages server-rendered by default.
+ (+1ms) 
+10:00:57   ├─ /pl/projekty/artisense/index.html10:00:57 [WARN] `Astro.request.headers` was used when rendering the route `src/pages/[...path].astro'`. `Astro.request.headers` is not available on prerendered pages. If you need access to request headers, make sure that the page is server-rendered using `export const prerender = false;` or by setting `output` to `"server"` in your Astro config to make all your pages server-rendered by default.
+ (+1ms) 
+10:00:57   ├─ /en/projects/artisense/technology/index.html10:00:57 [WARN] `Astro.request.headers` was used when rendering the route `src/pages/[...path].astro'`. `Astro.request.headers` is not available on prerendered pages. If you need access to request headers, make sure that the page is server-rendered using `export const prerender = false;` or by setting `output` to `"server"` in your Astro config to make all your pages server-rendered by default.
+ (+1ms) 
+10:00:57   ├─ /pl/projekty/artisense/technologia/index.html10:00:57 [WARN] `Astro.request.headers` was used when rendering the route `src/pages/[...path].astro'`. `Astro.request.headers` is not available on prerendered pages. If you need access to request headers, make sure that the page is server-rendered using `export const prerender = false;` or by setting `output` to `"server"` in your Astro config to make all your pages server-rendered by default.
+ (+1ms) 
+10:00:57   ├─ /en/projects/artisense/applications/index.html10:00:57 [WARN] `Astro.request.headers` was used when rendering the route `src/pages/[...path].astro'`. `Astro.request.headers` is not available on prerendered pages. If you need access to request headers, make sure that the page is server-rendered using `export const prerender = false;` or by setting `output` to `"server"` in your Astro config to make all your pages server-rendered by default.
+ (+1ms) 
+10:00:57   ├─ /pl/projekty/artisense/zastosowania/index.html10:00:57 [WARN] `Astro.request.headers` was used when rendering the route `src/pages/[...path].astro'`. `Astro.request.headers` is not available on prerendered pages. If you need access to request headers, make sure that the page is server-rendered using `export const prerender = false;` or by setting `output` to `"server"` in your Astro config to make all your pages server-rendered by default.
+ (+1ms) 
+10:00:57   ├─ /en/projects/artisense/research-validation/index.html10:00:57 [WARN] `Astro.request.headers` was used when rendering the route `src/pages/[...path].astro'`. `Astro.request.headers` is not available on prerendered pages. If you need access to request headers, make sure that the page is server-rendered using `export const prerender = false;` or by setting `output` to `"server"` in your Astro config to make all your pages server-rendered by default.
+ (+1ms) 
+10:00:57   ├─ /pl/projekty/artisense/badania-walidacja/index.html10:00:57 [WARN] `Astro.request.headers` was used when rendering the route `src/pages/[...path].astro'`. `Astro.request.headers` is not available on prerendered pages. If you need access to request headers, make sure that the page is server-rendered using `export const prerender = false;` or by setting `output` to `"server"` in your Astro config to make all your pages server-rendered by default.
+ (+1ms) 
+10:00:57   ├─ /en/projects/aifield/index.html10:00:57 [WARN] `Astro.request.headers` was used when rendering the route `src/pages/[...path].astro'`. `Astro.request.headers` is not available on prerendered pages. If you need access to request headers, make sure that the page is server-rendered using `export const prerender = false;` or by setting `output` to `"server"` in your Astro config to make all your pages server-rendered by default.
+ (+0ms) 
+10:00:57   ├─ /pl/projekty/aifield/index.html10:00:57 [WARN] `Astro.request.headers` was used when rendering the route `src/pages/[...path].astro'`. `Astro.request.headers` is not available on prerendered pages. If you need access to request headers, make sure that the page is server-rendered using `export const prerender = false;` or by setting `output` to `"server"` in your Astro config to make all your pages server-rendered by default.
+ (+0ms) 
+10:00:57   ├─ /en/projects/aifield/design-simulation/index.html10:00:57 [WARN] `Astro.request.headers` was used when rendering the route `src/pages/[...path].astro'`. `Astro.request.headers` is not available on prerendered pages. If you need access to request headers, make sure that the page is server-rendered using `export const prerender = false;` or by setting `output` to `"server"` in your Astro config to make all your pages server-rendered by default.
+ (+0ms) 
+10:00:57   ├─ /pl/projekty/aifield/projektowanie-symulacja/index.html10:00:57 [WARN] `Astro.request.headers` was used when rendering the route `src/pages/[...path].astro'`. `Astro.request.headers` is not available on prerendered pages. If you need access to request headers, make sure that the page is server-rendered using `export const prerender = false;` or by setting `output` to `"server"` in your Astro config to make all your pages server-rendered by default.
+ (+1ms) 
+10:00:57   ├─ /en/projects/aifield/ai-workflows/index.html10:00:57 [WARN] `Astro.request.headers` was used when rendering the route `src/pages/[...path].astro'`. `Astro.request.headers` is not available on prerendered pages. If you need access to request headers, make sure that the page is server-rendered using `export const prerender = false;` or by setting `output` to `"server"` in your Astro config to make all your pages server-rendered by default.
+ (+1ms) 
+10:00:57   ├─ /pl/projekty/aifield/praca-z-ai/index.html10:00:57 [WARN] `Astro.request.headers` was used when rendering the route `src/pages/[...path].astro'`. `Astro.request.headers` is not available on prerendered pages. If you need access to request headers, make sure that the page is server-rendered using `export const prerender = false;` or by setting `output` to `"server"` in your Astro config to make all your pages server-rendered by default.
+ (+1ms) 
+10:00:57   ├─ /en/projects/aifield/neural-field-research/index.html10:00:57 [WARN] `Astro.request.headers` was used when rendering the route `src/pages/[...path].astro'`. `Astro.request.headers` is not available on prerendered pages. If you need access to request headers, make sure that the page is server-rendered using `export const prerender = false;` or by setting `output` to `"server"` in your Astro config to make all your pages server-rendered by default.
+ (+0ms) 
+10:00:57   ├─ /pl/projekty/aifield/badania-modeli-pola/index.html10:00:57 [WARN] `Astro.request.headers` was used when rendering the route `src/pages/[...path].astro'`. `Astro.request.headers` is not available on prerendered pages. If you need access to request headers, make sure that the page is server-rendered using `export const prerender = false;` or by setting `output` to `"server"` in your Astro config to make all your pages server-rendered by default.
+ (+0ms) 
+10:00:57   ├─ /en/projects/aifield/examples-validation/index.html10:00:57 [WARN] `Astro.request.headers` was used when rendering the route `src/pages/[...path].astro'`. `Astro.request.headers` is not available on prerendered pages. If you need access to request headers, make sure that the page is server-rendered using `export const prerender = false;` or by setting `output` to `"server"` in your Astro config to make all your pages server-rendered by default.
+ (+0ms) 
+10:00:57   ├─ /pl/projekty/aifield/przyklady-walidacja/index.html10:00:57 [WARN] `Astro.request.headers` was used when rendering the route `src/pages/[...path].astro'`. `Astro.request.headers` is not available on prerendered pages. If you need access to request headers, make sure that the page is server-rendered using `export const prerender = false;` or by setting `output` to `"server"` in your Astro config to make all your pages server-rendered by default.
+ (+0ms) 
+10:00:57   ├─ /en/investors/index.html10:00:57 [WARN] `Astro.request.headers` was used when rendering the route `src/pages/[...path].astro'`. `Astro.request.headers` is not available on prerendered pages. If you need access to request headers, make sure that the page is server-rendered using `export const prerender = false;` or by setting `output` to `"server"` in your Astro config to make all your pages server-rendered by default.
+ (+0ms) 
+10:00:57   ├─ /pl/inwestorzy/index.html10:00:57 [WARN] `Astro.request.headers` was used when rendering the route `src/pages/[...path].astro'`. `Astro.request.headers` is not available on prerendered pages. If you need access to request headers, make sure that the page is server-rendered using `export const prerender = false;` or by setting `output` to `"server"` in your Astro config to make all your pages server-rendered by default.
+ (+6ms) 
+10:00:57   ├─ /en/approach/index.html10:00:57 [WARN] `Astro.request.headers` was used when rendering the route `src/pages/[...path].astro'`. `Astro.request.headers` is not available on prerendered pages. If you need access to request headers, make sure that the page is server-rendered using `export const prerender = false;` or by setting `output` to `"server"` in your Astro config to make all your pages server-rendered by default.
+ (+1ms) 
+10:00:57   ├─ /pl/jak-pracujemy/index.html10:00:57 [WARN] `Astro.request.headers` was used when rendering the route `src/pages/[...path].astro'`. `Astro.request.headers` is not available on prerendered pages. If you need access to request headers, make sure that the page is server-rendered using `export const prerender = false;` or by setting `output` to `"server"` in your Astro config to make all your pages server-rendered by default.
+ (+0ms) 
+10:00:57   ├─ /en/about/index.html10:00:57 [WARN] `Astro.request.headers` was used when rendering the route `src/pages/[...path].astro'`. `Astro.request.headers` is not available on prerendered pages. If you need access to request headers, make sure that the page is server-rendered using `export const prerender = false;` or by setting `output` to `"server"` in your Astro config to make all your pages server-rendered by default.
+ (+0ms) 
+10:00:57   ├─ /pl/o-nas/index.html10:00:57 [WARN] `Astro.request.headers` was used when rendering the route `src/pages/[...path].astro'`. `Astro.request.headers` is not available on prerendered pages. If you need access to request headers, make sure that the page is server-rendered using `export const prerender = false;` or by setting `output` to `"server"` in your Astro config to make all your pages server-rendered by default.
+ (+0ms) 
+10:00:57   ├─ /en/partnerships/index.html10:00:57 [WARN] `Astro.request.headers` was used when rendering the route `src/pages/[...path].astro'`. `Astro.request.headers` is not available on prerendered pages. If you need access to request headers, make sure that the page is server-rendered using `export const prerender = false;` or by setting `output` to `"server"` in your Astro config to make all your pages server-rendered by default.
+ (+0ms) 
+10:00:57   ├─ /pl/wspolpraca/index.html10:00:57 [WARN] `Astro.request.headers` was used when rendering the route `src/pages/[...path].astro'`. `Astro.request.headers` is not available on prerendered pages. If you need access to request headers, make sure that the page is server-rendered using `export const prerender = false;` or by setting `output` to `"server"` in your Astro config to make all your pages server-rendered by default.
+ (+0ms) 
+10:00:57   ├─ /en/contact/index.html10:00:57 [WARN] `Astro.request.headers` was used when rendering the route `src/pages/[...path].astro'`. `Astro.request.headers` is not available on prerendered pages. If you need access to request headers, make sure that the page is server-rendered using `export const prerender = false;` or by setting `output` to `"server"` in your Astro config to make all your pages server-rendered by default.
+ (+1ms) 
+10:00:57   ├─ /pl/kontakt/index.html10:00:57 [WARN] `Astro.request.headers` was used when rendering the route `src/pages/[...path].astro'`. `Astro.request.headers` is not available on prerendered pages. If you need access to request headers, make sure that the page is server-rendered using `export const prerender = false;` or by setting `output` to `"server"` in your Astro config to make all your pages server-rendered by default.
+ (+1ms) 
+10:00:57   ├─ /en/privacy/index.html10:00:57 [WARN] `Astro.request.headers` was used when rendering the route `src/pages/[...path].astro'`. `Astro.request.headers` is not available on prerendered pages. If you need access to request headers, make sure that the page is server-rendered using `export const prerender = false;` or by setting `output` to `"server"` in your Astro config to make all your pages server-rendered by default.
+ (+0ms) 
+10:00:57   ├─ /pl/prywatnosc/index.html10:00:57 [WARN] `Astro.request.headers` was used when rendering the route `src/pages/[...path].astro'`. `Astro.request.headers` is not available on prerendered pages. If you need access to request headers, make sure that the page is server-rendered using `export const prerender = false;` or by setting `output` to `"server"` in your Astro config to make all your pages server-rendered by default.
+ (+0ms) 
+10:00:57 ✓ Completed in 43ms.
+
+10:00:57 [build] Rearranging server assets...
+10:00:57 [build] ✓ Completed in 206ms.
+10:00:57 [build] Server built in 256ms
+10:00:57 [build] Complete!

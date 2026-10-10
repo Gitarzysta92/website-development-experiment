@@ -1,0 +1,43 @@
+{
+  "id": "artisense-validation",
+  "locale": "en",
+  "title": "What would make an optical signal trustworthy?",
+  "description": "The available summary describes feasibility and design work around photonic glucose sensing. It does not provide a validated device result, clinical study or performance numbers suitable for a claim of measurement accuracy.",
+  "eyebrow": "ArtiSense",
+  "lead": "The available summary describes feasibility and design work around photonic glucose sensing. It does not provide a validated device result, clinical study or performance numbers suitable for a claim of measurement accuracy.",
+  "sections": [
+    {
+      "id": "section-1",
+      "heading": "What the supplied work supports",
+      "body": [
+        "Research considered optical approaches and chip design for a sensing path. That supports explaining a physical hypothesis and design direction. It does not by itself establish selectivity, repeatability or performance in a complete device."
+      ]
+    },
+    {
+      "id": "section-2",
+      "heading": "What remains to be shown",
+      "body": [
+        "A convincing evaluation would specify sample conditions, reference measurements, calibration protocol, confounders and independent repeats. It would report both successes and failures across a defined range, with uncertainty and the conditions under which a result holds."
+      ]
+    },
+    {
+      "id": "section-3",
+      "heading": "Next validation gate",
+      "body": [
+        "The practical next gate is a documented prototype-and-measurement plan: build or integrate the relevant optical path, collect paired reference data, and test whether the response survives real variation. No numeric target is asserted here without an approved source."
+      ]
+    }
+  ],
+  "related": [
+    "aifield-validation",
+    "investors",
+    "partnerships"
+  ],
+  "editorialState": "draft",
+  "sourceRevision": "HP-1.1; context 2026-10-09",
+  "modified": "2026-10-10",
+  "sourceRefs": [
+    "inputs/content/project-context.md (summary, 2026-10-09)",
+    "inputs/docs/sitemap.md (SM-0.3)"
+  ]
+}

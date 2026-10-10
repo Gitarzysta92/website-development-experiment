@@ -1,0 +1,103 @@
+{
+  "id": "projects",
+  "locale": "pl",
+  "type": "projects",
+  "title": "Dwa projekty. Różne pytania.",
+  "description": "Porównaj badania pomiarowe ArtiSense z projektowaniem i symulacją fotoniki w AIFIELD: użytkowników, wyniki, dowody i kolejne pytania walidacyjne.",
+  "eyebrow": "PROJEKTY",
+  "lead": "ArtiSense bada, jak światło mogłoby ujawniać informacje chemiczne. AIFIELD rozwija sposób projektowania i analizy systemów fotonicznych przez inżynierów.",
+  "sections": [
+    {
+      "id": "artisense",
+      "title": "ArtiSense",
+      "paragraphs": [
+        "Pytanie: czy zminiaturyzowany system fotoniczny może wykrywać użyteczny sygnał chemiczny i wiarygodnie go interpretować? Docelowi użytkownicy i forma urządzenia zależą od zadania pomiarowego, które nadal wymaga walidacji.",
+        "Dostępne prace dotyczą wykonalności optycznej i projektu chipu, w tym badań związanych z glukozą. Kolejnym potrzebnym dowodem jest kontrolowane porównanie fizyczne, oddzielające odpowiedź na poszukiwaną substancję od innych wpływów."
+      ],
+      "rows": [
+        [
+          "Problem",
+          "Uzyskanie użytecznej informacji chemicznej z odpowiedzi optycznej."
+        ],
+        [
+          "Zamierzony kontekst",
+          "Badania nad pomiarem nieinwazyjnym; forma ubieralna pozostaje ambicją."
+        ],
+        [
+          "Wynik i etap",
+          "Proponowana architektura oraz projekt i symulacja, nie zwalidowany produkt medyczny."
+        ]
+      ],
+      "links": [
+        {
+          "id": "artisense"
+        },
+        {
+          "id": "artisense-validation"
+        }
+      ]
+    },
+    {
+      "id": "aifield",
+      "title": "AIFIELD",
+      "paragraphs": [
+        "Pytanie: jak przejść od geometrii i założeń procesu do zrozumiałych symulacji fotonicznych? AIFIELD jest kierowany do osób projektujących i oceniających systemy optyczne.",
+        "Stan z września 2026 obejmuje projektowanie, klasyczne solwery i częściową pomoc agentów. Neuronowe przewidywanie pola optycznego ma osobne ograniczenia badawcze. Powtarzalne porównania i jawne warunki wejściowe są kolejną podstawą oceny."
+      ],
+      "rows": [
+        [
+          "Problem",
+          "Połączenie decyzji projektowych z analizą opartą na modelach."
+        ],
+        [
+          "Zamierzeni użytkownicy",
+          "Projektanci fotoniki i inżynierowie oceniający procesy symulacyjne."
+        ],
+        [
+          "Wynik i etap",
+          "Projekty i wyniki symulowane; neuronowe przewidywanie pola pozostaje badaniem."
+        ]
+      ],
+      "links": [
+        {
+          "id": "aifield"
+        },
+        {
+          "id": "aifield-validation"
+        }
+      ]
+    },
+    {
+      "id": "relationship",
+      "title": "Wspólny przykład. Odrębne dowody.",
+      "paragraphs": [
+        "Przykład projektu chipu fotonicznego do badań nad glukozą łączy proces inżynierski AIFIELD z celem pomiarowym związanym z ArtiSense. Projektowanie należy do AIFIELD; pytanie o to, co rzeczywiście da się zmierzyć, należy do ArtiSense.",
+        "Użyteczna symulacja może wskazać kolejny eksperyment. Sama nie waliduje czujnika, nie potwierdza dokładności klinicznej i nie ustanawia relacji komercyjnej."
+      ],
+      "links": [
+        {
+          "id": "investors"
+        }
+      ]
+    }
+  ],
+  "relatedIds": [
+    "artisense",
+    "aifield",
+    "investors"
+  ],
+  "project": null,
+  "sourceReferences": [
+    "HP-1.1/project-context",
+    "SM-0.3/projects"
+  ],
+  "sourceRevision": "2026-10-09 (AIFIELD snapshot: September 2026)",
+  "editorialState": "published",
+  "modifiedAt": "2026-10-09T21:00:00.000Z",
+  "reviews": {
+    "facts": "c6e8cf0d2f735fb9dfe273ac485702ee6fcb7f88e14a07dd8b7fd548f8221a0f",
+    "language": "c6e8cf0d2f735fb9dfe273ac485702ee6fcb7f88e14a07dd8b7fd548f8221a0f",
+    "assets": "c6e8cf0d2f735fb9dfe273ac485702ee6fcb7f88e14a07dd8b7fd548f8221a0f"
+  },
+  "privateNotes": "Locally authored from supplied summary. Factual, translation and asset owner review pending. Original PDFs were not supplied."
+}

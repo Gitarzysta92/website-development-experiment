@@ -1,0 +1,378 @@
+{
+  "id": "A-pl-aifield-desktop",
+  "label": "A",
+  "locale": "pl",
+  "pageId": "aifield",
+  "view": "desktop",
+  "url": "http://127.0.0.1:4501/pl/projekty/aifield/",
+  "status": 200,
+  "errors": [],
+  "title": "Od pomysłu fotonicznego do projektu, który można ocenić. | Artifactory",
+  "language": "pl",
+  "h1": [
+    "Od pomysłu fotonicznego do projektu, który można ocenić."
+  ],
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Od pomysłu fotonicznego do projektu, który można ocenić."
+    },
+    {
+      "level": "H2",
+      "text": "Kontekst pracy nad fotoniką."
+    },
+    {
+      "level": "H2",
+      "text": "Klasyczne narzędzia według opisu z września 2026."
+    },
+    {
+      "level": "H2",
+      "text": "Odrębne pytanie: czy sieć może przewidzieć pole?"
+    },
+    {
+      "level": "H2",
+      "text": "Jeden wewnętrzny przykład. Dwa różne pytania."
+    },
+    {
+      "level": "H2",
+      "text": "Zacznij od pytania inżynierskiego."
+    },
+    {
+      "level": "H2",
+      "text": "Przyjrzyjmy się temu razem."
+    },
+    {
+      "level": "H2",
+      "text": "Firma"
+    },
+    {
+      "level": "H2",
+      "text": "Projekty"
+    },
+    {
+      "level": "H2",
+      "text": "Porozmawiajmy"
+    }
+  ],
+  "text": "Przejdź do treści\nWersja lokalna · Badania w toku\na·\nartifactory\nProjekty\n⌄\nDla inwestorów\nJak pracujemy\nO nas\nEN\n↔\nPorozmawiajmy\n↗\nStrona główna\nProjekty\nAIFIELD\n\nAIFIELD / INŻYNIERIA FOTONICZNA\n\nOd pomysłu fotonicznego do projektu, który można ocenić.\n\nNarzędzia dla inżynierów, którzy potrzebują powiązać strukturę fotoniczną, jej założenia i zachowanie przewidywane przez model.\n\nStan opisany we wrześniu 2026 · aktualny dostęp do uzgodnienia\n\nAIFIELD\n\nPrzegląd\nProjektowanie i symulacja\nPraca z AI\nBadania neuronowych modeli pola\nPrzykłady i walidacja\n\nNa tej stronie\n\nKontekst pracy nad fotoniką.\nKlasyczne narzędzia według opisu z września 2026.\nOdrębne pytanie: czy sieć może przewidzieć pole?\nJeden wewnętrzny przykład. Dwa różne pytania.\nZacznij od pytania inżynierskiego.\n01\nOkreśl\n\nGeometria, warstwy i pytanie inżynierskie\n\n↓\n02\nSymuluj\n\nKlasyczny model z określonymi założeniami\n\n↓\n03\nOceń\n\nWynik powiązany z danymi wejściowymi\n\nDiagram objaśniający koncepcję, nie interfejs programu ani wynik eksperymentu.\nKontekst pracy nad fotoniką.\n\nProjektowanie elementu optycznego wymaga więcej niż narysowania jego obrysu. Geometria, materiały, warstwy i planowany proces określają pytanie, na które może odpowiedzieć symulacja. AIFIELD jest przedstawiany jako środowisko łączące projekt z badaniem modelowym.\n\nDocelowi użytkownicy to projektanci fotoniki i badacze oceniający proponowane struktury. Użytecznym wynikiem jest projekt inżynierski oraz rezultat symulacji, którego kontekst pozwala zrozumieć, co zamodelowano.\n\nProjektowanie i symulacja\n↗\nKlasyczne narzędzia według opisu z września 2026.\n\nDostarczone podsumowanie demonstracji opisuje obsługę geometrii, warstw i procesów oraz prace nad symulacją modów, obwodów, pola i zjawisk cieplnych. Są to opisy możliwości z określonego momentu, które nie potwierdzają dzisiejszej dostępności ani wsparcia każdej funkcji.\n\nProces prowadzi od pytania projektowego przez przygotowanie i wykonanie obliczeń do oceny wyniku. Agent może pomagać w wybranych działaniach, a człowiek odpowiada za zastosowanie i sprawdzenie proponowanych zmian.\n\nProjektowanie i symulacja\n↗\nPraca z AI\n↗\nOdrębne pytanie: czy sieć może przewidzieć pole?\n\nNeuronowe przewidywanie pola optycznego bada możliwość uzyskiwania użytecznych oszacowań przez wyuczony model. Opisane badania zależą od warunków, w tym dostarczonej informacji brzegowej. Generalizacja, większe łączone obszary i praktyczna przewaga czasowa pozostają otwarte.\n\nTo kierunek odrębny od klasycznych narzędzi projektowych i proponowanego analogowego procesora interpretacji sygnałów ArtiSense.\n\nBadania neuronowych modeli pola\n↗\nJeden wewnętrzny przykład. Dwa różne pytania.\n\nPrzykład projektu fotonicznego chipu do badań nad pomiarem glukozy łączy oba projekty. AIFIELD dotyczy geometrii, procesu projektowania i symulowanego zachowania. ArtiSense dotyczy zamierzonego pomiaru i wymagań jego walidacji.\n\nWewnętrzna praca projektowa jest użytecznym dowodem działania inżynierskiego. Nie stanowi wdrożenia u klienta, pomiaru wykonanego chipu ani walidacji dokładności pomiaru glukozy.\n\nPrzykłady i walidacja\n↗\nArtiSense\n↗\nZacznij od pytania inżynierskiego.\n\nProśba o demo rozpoczyna rozmowę o zadaniu, dostępnych narzędziach i ograniczeniach. Nie tworzy konta ani nie daje natychmiastowego dostępu do programu. Opisz badaną strukturę i potrzebny wynik; w pierwszym zapytaniu nie przesyłaj poufnych plików projektowych.\n\nDla inwestorów\n↗\nWspółpraca\n↗\n\nZACZNIJMY OD PYTANIA\n\nPrzyjrzyjmy się temu razem.\nPoproś o demo\n↗\nMożliwości współpracy ↗\nartifactory·\n\nTechnologie pomiarowe i narzędzia do projektowania systemów fotonicznych.\n\ninfo@artifactory.tech\n↗\nFirma\nStrona główna\nProjekty\nDla inwestorów\nJak pracujemy\nO nas\nProjekty\nArtiSense\nAIFIELD\nPorozmawiajmy\nWspółpraca\nKontakt\nPolityka prywatności\nArtifactory\nŚwiatło otwiera nowe możliwości.",
+  "links": [
+    {
+      "text": "Przejdź do treści",
+      "href": "#main",
+      "lang": ""
+    },
+    {
+      "text": "a·\nartifactory",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/pl/projekty/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/pl/projekty/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/pl/projekty/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Dla inwestorów",
+      "href": "/pl/inwestorzy/",
+      "lang": ""
+    },
+    {
+      "text": "Jak pracujemy",
+      "href": "/pl/jak-pracujemy/",
+      "lang": ""
+    },
+    {
+      "text": "O nas",
+      "href": "/pl/o-nas/",
+      "lang": ""
+    },
+    {
+      "text": "Współpraca",
+      "href": "/pl/wspolpraca/",
+      "lang": ""
+    },
+    {
+      "text": "Kontakt",
+      "href": "/pl/kontakt/",
+      "lang": ""
+    },
+    {
+      "text": "EN\n↔",
+      "href": "http://127.0.0.1:4501/en/projects/aifield/",
+      "lang": "en"
+    },
+    {
+      "text": "Porozmawiajmy\n↗",
+      "href": "/pl/kontakt/?intent=investment",
+      "lang": ""
+    },
+    {
+      "text": "Strona główna",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "Projekty",
+      "href": "/pl/projekty/",
+      "lang": ""
+    },
+    {
+      "text": "Przegląd",
+      "href": "/pl/projekty/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Projektowanie i symulacja",
+      "href": "/pl/projekty/aifield/projektowanie-symulacja/",
+      "lang": ""
+    },
+    {
+      "text": "Praca z AI",
+      "href": "/pl/projekty/aifield/praca-z-ai/",
+      "lang": ""
+    },
+    {
+      "text": "Badania neuronowych modeli pola",
+      "href": "/pl/projekty/aifield/badania-modeli-pola/",
+      "lang": ""
+    },
+    {
+      "text": "Przykłady i walidacja",
+      "href": "/pl/projekty/aifield/przyklady-walidacja/",
+      "lang": ""
+    },
+    {
+      "text": "Kontekst pracy nad fotoniką.",
+      "href": "#users",
+      "lang": ""
+    },
+    {
+      "text": "Klasyczne narzędzia według opisu z września 2026.",
+      "href": "#classical",
+      "lang": ""
+    },
+    {
+      "text": "Odrębne pytanie: czy sieć może przewidzieć pole?",
+      "href": "#research",
+      "lang": ""
+    },
+    {
+      "text": "Jeden wewnętrzny przykład. Dwa różne pytania.",
+      "href": "#example",
+      "lang": ""
+    },
+    {
+      "text": "Zacznij od pytania inżynierskiego.",
+      "href": "#access",
+      "lang": ""
+    },
+    {
+      "text": "Projektowanie i symulacja\n↗",
+      "href": "/pl/projekty/aifield/projektowanie-symulacja/",
+      "lang": ""
+    },
+    {
+      "text": "Projektowanie i symulacja\n↗",
+      "href": "/pl/projekty/aifield/projektowanie-symulacja/",
+      "lang": ""
+    },
+    {
+      "text": "Praca z AI\n↗",
+      "href": "/pl/projekty/aifield/praca-z-ai/",
+      "lang": ""
+    },
+    {
+      "text": "Badania neuronowych modeli pola\n↗",
+      "href": "/pl/projekty/aifield/badania-modeli-pola/",
+      "lang": ""
+    },
+    {
+      "text": "Przykłady i walidacja\n↗",
+      "href": "/pl/projekty/aifield/przyklady-walidacja/",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSense\n↗",
+      "href": "/pl/projekty/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "Dla inwestorów\n↗",
+      "href": "/pl/inwestorzy/",
+      "lang": ""
+    },
+    {
+      "text": "Współpraca\n↗",
+      "href": "/pl/wspolpraca/",
+      "lang": ""
+    },
+    {
+      "text": "Poproś o demo\n↗",
+      "href": "/pl/kontakt/?intent=demo&project=aifield",
+      "lang": ""
+    },
+    {
+      "text": "Możliwości współpracy ↗",
+      "href": "/pl/wspolpraca/",
+      "lang": ""
+    },
+    {
+      "text": "artifactory·",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "info@artifactory.tech\n↗",
+      "href": "mailto:info@artifactory.tech",
+      "lang": ""
+    },
+    {
+      "text": "Strona główna",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "Projekty",
+      "href": "/pl/projekty/",
+      "lang": ""
+    },
+    {
+      "text": "Dla inwestorów",
+      "href": "/pl/inwestorzy/",
+      "lang": ""
+    },
+    {
+      "text": "Jak pracujemy",
+      "href": "/pl/jak-pracujemy/",
+      "lang": ""
+    },
+    {
+      "text": "O nas",
+      "href": "/pl/o-nas/",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSense",
+      "href": "/pl/projekty/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELD",
+      "href": "/pl/projekty/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Współpraca",
+      "href": "/pl/wspolpraca/",
+      "lang": ""
+    },
+    {
+      "text": "Kontakt",
+      "href": "/pl/kontakt/",
+      "lang": ""
+    },
+    {
+      "text": "Polityka prywatności",
+      "href": "/pl/prywatnosc/",
+      "lang": ""
+    }
+  ],
+  "metadata": [
+    {
+      "name": "viewport",
+      "content": "width=device-width, initial-scale=1"
+    },
+    {
+      "name": "description",
+      "content": "AIFIELD łączy projektowanie fotoniki i klasyczne symulacje z częściowym wsparciem AI oraz odrębnymi badaniami neuronowych modeli pola."
+    },
+    {
+      "name": "robots",
+      "content": "noindex, nofollow"
+    },
+    {
+      "rel": "canonical",
+      "href": "http://127.0.0.1:4501/pl/projekty/aifield/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "en",
+      "href": "http://127.0.0.1:4501/en/projects/aifield/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "pl",
+      "href": "http://127.0.0.1:4501/pl/projekty/aifield/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "x-default",
+      "href": "http://127.0.0.1:4501/en/projects/aifield/"
+    },
+    {
+      "property": "og:type",
+      "content": "website"
+    },
+    {
+      "property": "og:site_name",
+      "content": "Artifactory"
+    },
+    {
+      "property": "og:title",
+      "content": "Od pomysłu fotonicznego do projektu, który można ocenić. | Artifactory"
+    },
+    {
+      "property": "og:description",
+      "content": "AIFIELD łączy projektowanie fotoniki i klasyczne symulacje z częściowym wsparciem AI oraz odrębnymi badaniami neuronowych modeli pola."
+    },
+    {
+      "property": "og:url",
+      "content": "http://127.0.0.1:4501/pl/projekty/aifield/"
+    },
+    {
+      "property": "og:locale",
+      "content": "pl_PL"
+    },
+    {
+      "property": "og:image",
+      "content": "http://127.0.0.1:4501/brand/share-v1.svg"
+    },
+    {
+      "property": "og:image:width",
+      "content": "1200"
+    },
+    {
+      "property": "og:image:height",
+      "content": "630"
+    }
+  ],
+  "forms": [],
+  "images": [],
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "scrollWidth": 1425
+  },
+  "overflowing": [],
+  "axe": {
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "impact": "serious",
+        "nodeCount": 3
+      }
+    ],
+    "passes": 39
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "en": [
+    {
+      "title": "Set up the design",
+      "description": "Choose geometry, materials and process assumptions."
+    },
+    {
+      "title": "Select the model",
+      "description": "Match mode, circuit, field or thermal work to the question."
+    },
+    {
+      "title": "Run and retain context",
+      "description": "Keep parameters with the generated output."
+    },
+    {
+      "title": "Compare and revise",
+      "description": "Review behavior before accepting a design change."
+    }
+  ],
+  "pl": [
+    {
+      "title": "Przygotuj projekt",
+      "description": "Określ geometrię, materiały i założenia procesu."
+    },
+    {
+      "title": "Wybierz model",
+      "description": "Dobierz symulację modów, obwodu, pola lub zjawisk cieplnych."
+    },
+    {
+      "title": "Oblicz i zachowaj kontekst",
+      "description": "Powiąż parametry z uzyskanym wynikiem."
+    },
+    {
+      "title": "Porównaj i popraw",
+      "description": "Oceń zachowanie przed przyjęciem zmiany projektu."
+    }
+  ]
+}

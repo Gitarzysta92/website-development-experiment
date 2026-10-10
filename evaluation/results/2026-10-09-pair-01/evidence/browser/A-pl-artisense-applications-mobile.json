@@ -1,0 +1,415 @@
+{
+  "id": "A-pl-artisense-applications-mobile",
+  "label": "A",
+  "locale": "pl",
+  "pageId": "artisense-applications",
+  "view": "mobile",
+  "url": "http://127.0.0.1:4501/pl/projekty/artisense/zastosowania/",
+  "status": 200,
+  "errors": [],
+  "title": "Zamierzone użycie zaczyna się od sprawdzalnej potrzeby. | Artifactory",
+  "language": "pl",
+  "h1": [
+    "Zamierzone użycie zaczyna się od sprawdzalnej potrzeby."
+  ],
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Zamierzone użycie zaczyna się od sprawdzalnej potrzeby."
+    },
+    {
+      "level": "H2",
+      "text": "Glukoza: przykład badawczy."
+    },
+    {
+      "level": "H2",
+      "text": "Nieinwazyjność i forma ubieralna to kierunki badań."
+    },
+    {
+      "level": "H2",
+      "text": "Co uwiarygodniłoby zamierzone użycie?"
+    },
+    {
+      "level": "H2",
+      "text": "Zacznijmy od ograniczonego pytania o współpracę."
+    },
+    {
+      "level": "H2",
+      "text": "Przyjrzyjmy się temu razem."
+    },
+    {
+      "level": "H2",
+      "text": "Firma"
+    },
+    {
+      "level": "H2",
+      "text": "Projekty"
+    },
+    {
+      "level": "H2",
+      "text": "Porozmawiajmy"
+    }
+  ],
+  "text": "Przejdź do treści\nWersja lokalna · Badania w toku\na·\nartifactory\nMenu\n☰\nStrona główna\nProjekty\nArtiSense\nZastosowania\n\nARTISENSE / ZASTOSOWANIA\n\nZamierzone użycie zaczyna się od sprawdzalnej potrzeby.\n\nZastosowanie jest najpierw pytaniem pomiarowym, a dopiero później produktem. Pomiar glukozy to rozwinięty przykład w dostarczonym opisie badań.\n\nZamierzone zastosowania · bez deklaracji walidacji klinicznej\nArtiSense — na tej stronie\n⌄\n\nCzęść projektu ArtiSense firmy Artifactory.\n\nZAMIERZONY KONTEKST\n\nOdpowiedź optyczna + odniesienie + określone warunki\n\nKoncepcja badania, nie urządzenie do użytku medycznego.\nGlukoza: przykład badawczy.\n\nDostarczone prace dotyczą wykonalności optycznej i przykładu projektu chipu fotonicznego związanego z pomiarem glukozy. Zamierzony cel to uzyskanie użytecznej informacji chemicznej przez oddziaływanie optyczne i interpretację sygnału.\n\nDla badacza oceniającego tę ideę użyteczne pytanie brzmi: czy w kontrolowanych warunkach można odróżnić odpowiedź związaną z glukozą od innych zmian? Projekt lub modelowana odpowiedź optyczna nie odpowiadają na całe pytanie pomiarowe.\n\nNie dostarczono dokładności wykonanego urządzenia, wyników użycia przez ludzi ani rezultatów klinicznych. Strona opisuje kierunek badań i potrzeby walidacyjne; nie przedstawia urządzenia diagnostycznego ani zaleceń medycznych.\n\nNieinwazyjność i forma ubieralna to kierunki badań.\n\nProponowany system jest zminiaturyzowany, a potencjalne pomiary nieinwazyjne i formy ubieralne omawiane jako zamierzony kierunek. Żadna z tych form nie została wykazana jako dostępny lub zwalidowany produkt.\n\nPraktyczna forma urządzenia dodaje pytania o sprzężenie optyczne, stabilność, zmienne warunki, zasilanie i integrację. Powinny one stać się jawnymi wymaganiami przed oceną projektu dla konkretnego użytkownika. Nie dostarczono zatwierdzonej formy, protokołu użytkowania ani środowiska pracy.\n\nCo uwiarygodniłoby zamierzone użycie?\n\nPlan walidacji musi łączyć proponowane zastosowanie z obserwowalnym wynikiem. Tabela wymienia pytania do przyszłego badania, a nie zakończone eksperymenty.\n\nObszar\tZakres i ograniczenia\nOdpowiedź swoista dla celu\tPorównać ze znanym odniesieniem i zbadać zakłócenia od innych zmiennych właściwości.\nPowtarzalność\tPowtarzać pomiary w określonych warunkach i opisywać zmienność, nie tylko przykładowy przebieg.\nPrzejście do sprzętu\tPorównać wykonaną strukturę z modelem i udokumentować rozbieżności.\nWarunki użycia\tPrzed szerszymi deklaracjami określić środowisko, ograniczenia i kryteria akceptacji.\nBadania i walidacja\n↗\nZacznijmy od ograniczonego pytania o współpracę.\n\nPotencjalne rozmowy mogą dotyczyć charakteryzacji optycznej, porównań z odniesieniem lub ograniczeń integracji. Użyteczna propozycja wskazuje, co zostanie zbadane, jaka wiedza jest potrzebna i jaki wynik zmieni kolejną decyzję projektową.\n\nTo możliwe tematy rozmów, a nie aktywne zobowiązania partnerskie. Nie wyprowadzamy szerokich rynków pomiarów chemicznych z jednego przykładu projektowego.\n\nTechnologia\n↗\nWspółpraca\n↗\n\nZACZNIJMY OD PYTANIA\n\nPrzyjrzyjmy się temu razem.\nPorozmawiajmy o inwestycji\n↗\nMożliwości współpracy ↗\nartifactory·\n\nTechnologie pomiarowe i narzędzia do projektowania systemów fotonicznych.\n\ninfo@artifactory.tech\n↗\nFirma\nStrona główna\nProjekty\nDla inwestorów\nJak pracujemy\nO nas\nProjekty\nArtiSense\nAIFIELD\nPorozmawiajmy\nWspółpraca\nKontakt\nPolityka prywatności\nArtifactory\nŚwiatło otwiera nowe możliwości.",
+  "links": [
+    {
+      "text": "Przejdź do treści",
+      "href": "#main",
+      "lang": ""
+    },
+    {
+      "text": "a·\nartifactory",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "Wszystkie projekty↗",
+      "href": "/pl/projekty/",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSense↗",
+      "href": "/pl/projekty/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELD↗",
+      "href": "/pl/projekty/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Dla inwestorów",
+      "href": "/pl/inwestorzy/",
+      "lang": ""
+    },
+    {
+      "text": "Jak pracujemy",
+      "href": "/pl/jak-pracujemy/",
+      "lang": ""
+    },
+    {
+      "text": "O nas",
+      "href": "/pl/o-nas/",
+      "lang": ""
+    },
+    {
+      "text": "Współpraca",
+      "href": "/pl/wspolpraca/",
+      "lang": ""
+    },
+    {
+      "text": "Kontakt",
+      "href": "/pl/kontakt/",
+      "lang": ""
+    },
+    {
+      "text": "EN ↔",
+      "href": "http://127.0.0.1:4501/en/projects/artisense/applications/",
+      "lang": "en"
+    },
+    {
+      "text": "Porozmawiajmy↗",
+      "href": "/pl/kontakt/?intent=investment",
+      "lang": ""
+    },
+    {
+      "text": "Strona główna",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "Projekty",
+      "href": "/pl/projekty/",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSense",
+      "href": "/pl/projekty/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "Przegląd",
+      "href": "/pl/projekty/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "Technologia",
+      "href": "/pl/projekty/artisense/technologia/",
+      "lang": ""
+    },
+    {
+      "text": "Zastosowania",
+      "href": "/pl/projekty/artisense/zastosowania/",
+      "lang": ""
+    },
+    {
+      "text": "Badania i walidacja",
+      "href": "/pl/projekty/artisense/badania-walidacja/",
+      "lang": ""
+    },
+    {
+      "text": "Glukoza: przykład badawczy.",
+      "href": "#glucose",
+      "lang": ""
+    },
+    {
+      "text": "Nieinwazyjność i forma ubieralna to kierunki badań.",
+      "href": "#context",
+      "lang": ""
+    },
+    {
+      "text": "Co uwiarygodniłoby zamierzone użycie?",
+      "href": "#requirements",
+      "lang": ""
+    },
+    {
+      "text": "Zacznijmy od ograniczonego pytania o współpracę.",
+      "href": "#collaboration",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSense",
+      "href": "/pl/projekty/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "Badania i walidacja\n↗",
+      "href": "/pl/projekty/artisense/badania-walidacja/",
+      "lang": ""
+    },
+    {
+      "text": "Technologia\n↗",
+      "href": "/pl/projekty/artisense/technologia/",
+      "lang": ""
+    },
+    {
+      "text": "Współpraca\n↗",
+      "href": "/pl/wspolpraca/",
+      "lang": ""
+    },
+    {
+      "text": "Porozmawiajmy o inwestycji\n↗",
+      "href": "/pl/kontakt/?intent=investment&project=artisense",
+      "lang": ""
+    },
+    {
+      "text": "Możliwości współpracy ↗",
+      "href": "/pl/wspolpraca/",
+      "lang": ""
+    },
+    {
+      "text": "artifactory·",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "info@artifactory.tech\n↗",
+      "href": "mailto:info@artifactory.tech",
+      "lang": ""
+    },
+    {
+      "text": "Strona główna",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "Projekty",
+      "href": "/pl/projekty/",
+      "lang": ""
+    },
+    {
+      "text": "Dla inwestorów",
+      "href": "/pl/inwestorzy/",
+      "lang": ""
+    },
+    {
+      "text": "Jak pracujemy",
+      "href": "/pl/jak-pracujemy/",
+      "lang": ""
+    },
+    {
+      "text": "O nas",
+      "href": "/pl/o-nas/",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSense",
+      "href": "/pl/projekty/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELD",
+      "href": "/pl/projekty/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Współpraca",
+      "href": "/pl/wspolpraca/",
+      "lang": ""
+    },
+    {
+      "text": "Kontakt",
+      "href": "/pl/kontakt/",
+      "lang": ""
+    },
+    {
+      "text": "Polityka prywatności",
+      "href": "/pl/prywatnosc/",
+      "lang": ""
+    }
+  ],
+  "metadata": [
+    {
+      "name": "viewport",
+      "content": "width=device-width, initial-scale=1"
+    },
+    {
+      "name": "description",
+      "content": "Badania zastosowań ArtiSense koncentrują się na fotonicznym pomiarze glukozy. Poznaj kierunek nieinwazyjny i ubieralny oraz wymagane dowody."
+    },
+    {
+      "name": "robots",
+      "content": "noindex, nofollow"
+    },
+    {
+      "rel": "canonical",
+      "href": "http://127.0.0.1:4501/pl/projekty/artisense/zastosowania/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "en",
+      "href": "http://127.0.0.1:4501/en/projects/artisense/applications/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "pl",
+      "href": "http://127.0.0.1:4501/pl/projekty/artisense/zastosowania/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "x-default",
+      "href": "http://127.0.0.1:4501/en/projects/artisense/applications/"
+    },
+    {
+      "property": "og:type",
+      "content": "website"
+    },
+    {
+      "property": "og:site_name",
+      "content": "Artifactory"
+    },
+    {
+      "property": "og:title",
+      "content": "Zamierzone użycie zaczyna się od sprawdzalnej potrzeby. | Artifactory"
+    },
+    {
+      "property": "og:description",
+      "content": "Badania zastosowań ArtiSense koncentrują się na fotonicznym pomiarze glukozy. Poznaj kierunek nieinwazyjny i ubieralny oraz wymagane dowody."
+    },
+    {
+      "property": "og:url",
+      "content": "http://127.0.0.1:4501/pl/projekty/artisense/zastosowania/"
+    },
+    {
+      "property": "og:locale",
+      "content": "pl_PL"
+    },
+    {
+      "property": "og:image",
+      "content": "http://127.0.0.1:4501/brand/share-v1.svg"
+    },
+    {
+      "property": "og:image:width",
+      "content": "1200"
+    },
+    {
+      "property": "og:image:height",
+      "content": "630"
+    }
+  ],
+  "forms": [],
+  "images": [],
+  "viewport": {
+    "width": 390,
+    "height": 844,
+    "scrollWidth": 375
+  },
+  "overflowing": [
+    {
+      "tag": "TABLE",
+      "class": "",
+      "text": "Obszar\tZakres i ograniczenia\nOdpowiedź swoista dla celu\tPorównać ze znanym odniesieniem i zbadać zak"
+    },
+    {
+      "tag": "THEAD",
+      "class": "",
+      "text": "Obszar\tZakres i ograniczenia\n"
+    },
+    {
+      "tag": "TR",
+      "class": "",
+      "text": "Obszar\tZakres i ograniczenia"
+    },
+    {
+      "tag": "TH",
+      "class": "",
+      "text": "Zakres i ograniczenia"
+    },
+    {
+      "tag": "TBODY",
+      "class": "",
+      "text": "Odpowiedź swoista dla celu\tPorównać ze znanym odniesieniem i zbadać zakłócenia od innych zmiennych w"
+    },
+    {
+      "tag": "TR",
+      "class": "",
+      "text": "Odpowiedź swoista dla celu\tPorównać ze znanym odniesieniem i zbadać zakłócenia od innych zmiennych w"
+    },
+    {
+      "tag": "TD",
+      "class": "",
+      "text": "Porównać ze znanym odniesieniem i zbadać zakłócenia od innych zmiennych właściwości."
+    },
+    {
+      "tag": "TR",
+      "class": "",
+      "text": "Powtarzalność\tPowtarzać pomiary w określonych warunkach i opisywać zmienność, nie tylko przykładowy "
+    },
+    {
+      "tag": "TD",
+      "class": "",
+      "text": "Powtarzać pomiary w określonych warunkach i opisywać zmienność, nie tylko przykładowy przebieg."
+    },
+    {
+      "tag": "TR",
+      "class": "",
+      "text": "Przejście do sprzętu\tPorównać wykonaną strukturę z modelem i udokumentować rozbieżności."
+    },
+    {
+      "tag": "TD",
+      "class": "",
+      "text": "Porównać wykonaną strukturę z modelem i udokumentować rozbieżności."
+    },
+    {
+      "tag": "TR",
+      "class": "",
+      "text": "Warunki użycia\tPrzed szerszymi deklaracjami określić środowisko, ograniczenia i kryteria akceptacji."
+    },
+    {
+      "tag": "TD",
+      "class": "",
+      "text": "Przed szerszymi deklaracjami określić środowisko, ograniczenia i kryteria akceptacji."
+    }
+  ],
+  "axe": {
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "impact": "serious",
+        "nodeCount": 6
+      }
+    ],
+    "passes": 45
+  }
+}

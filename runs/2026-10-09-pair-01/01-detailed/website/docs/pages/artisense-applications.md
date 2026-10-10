@@ -1,0 +1,3 @@
+# ArtiSense Applications (IU-AS-APPLICATIONS)
+This page owns the substantive glucose research context, intended non-invasive/wearable direction, operating requirements and evidence gaps. The original CSS concept has equivalent visible text and is explicitly a research concept. It supplies no medical advice or measured accuracy, no market expansion, no product availability and no partnership commitment.
+Content and template live under this identity; page edits invalidate the locale/factual/asset reviews through the shared API. PAGE_IDS=artisense-applications exercises both routes at wide/narrow/small/short sizes and checks project/evidence/partner link identities. Real cross-page journeys follow at CP-ARTISENSE.

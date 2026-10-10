@@ -1,0 +1,18 @@
+---
+import ProjectFrame from '../../layouts/ProjectFrame.astro';
+import SiteFooter from '../../partials/SiteFooter.astro';
+import SiteHeader from '../../partials/SiteHeader.astro';
+import PageFrame from '../../layouts/PageFrame.astro';
+import Button from '../../components/ui/Button.astro';
+import Figure from '../../components/ui/Figure.astro';
+import ConceptVisual from '../../components/ui/ConceptVisual.astro';
+import EvidenceTable from '../../components/ui/EvidenceTable.astro';
+import ProjectCollection from '../../templates/projects/ProjectCollection.astro';
+import {getPageView} from '../../content/index';
+import type { PageView } from '../../content/index';
+export function getStaticPaths(){return process.env.COMPONENT_FIXTURES==='1'?['en','pl'].map(locale=>({params:{locale}})):[];}
+const locale=Astro.params.locale==='pl'?'pl':'en';
+const projects=getPageView('projects',locale)!.sections.filter(s=>['artisense','aifield'].includes(s.id));
+const page:PageView={id:'home',locale,type:'company',title:locale==='en'?'Private component fixture':'Prywatny wzorzec komponentów',description:'Synthetic content exercises the actual components and is omitted from ordinary builds.',eyebrow:'Fixture',lead:'Synthetic component check',sections:[],project:null,relatedIds:[]};
+---
+<PageFrame page={page}><SiteHeader slot="header" id="home" locale={locale} translationAvailable={locale!=='en'}/><div class="container fixture"><h1>{page.title}</h1><p class="lead">{locale==='pl'?'Długa treść kontrolna: projektowanie, symulacja i interpretacja wyników w systemach fotonicznych.':'A private reference of the real presentation components.'}</p><div class="actions"><Button href="#evidence">{locale==='pl'?'Przejdź do opisu warunków badania':'Read the evidence'}</Button><Button href="#evidence" variant="secondary">{locale==='pl'?'Dodatkowy kierunek badań':'Secondary action'}</Button><button class="button" disabled>{locale==='pl'?'Przetwarzanie':'Processing'}</button></div><section class="section"><Figure caption={locale==='pl'?'Ilustracja koncepcyjna. Nie jest wynikiem pomiaru.':'Concept illustration. Not a measured result.'}><ConceptVisual label={locale==='pl'?'Koncepcyjna ścieżka światła przez chip.':'Conceptual light paths through a chip.'}/></Figure></section><ProjectFrame page={{...page,id:"aifield-neural",project:"aifield",sections:[{id:"evidence",title:locale==='pl'?'Warunki i ograniczenia badania':'Research conditions',paragraphs:['Fixture']}]}}><section id="evidence"><h2>{locale==='pl'?'Zakres i ograniczenia':'Scope and limitations'}</h2><EvidenceTable label={locale==='pl'?'Syntetyczne dowody':'Synthetic evidence'} headers={locale==='pl'?['Temat','Stan']:['Subject','Status']} rows={[[locale==='pl'?'Bardzo długa nazwa warunku badawczego':'Long experimental condition',locale==='pl'?'Wyłącznie wzorzec kontrolny':'Synthetic fixture only']]}/><div class="evidence-note"><h3>{locale==='pl'?'Brak opcjonalnego obrazu':'Optional image absent'}</h3><p>{locale==='pl'?'Treść nadal wyjaśnia znaczenie bez dodatkowych materiałów.':'The text retains its meaning without supplementary media.'}</p></div></section></ProjectFrame></div><section class="container fixture"><h2>Collection fixtures</h2>{[[],projects.slice(0,1),[...projects].reverse()].map((entries,i)=><section data-collection={i}><h3>{i===0?'Empty':i===1?'One':'Reordered'}</h3><ProjectCollection sections={entries} locale={locale} prefix={`fixture-${i}-`} showVisual={i!==1}/></section>)}</section><SiteFooter slot="footer" locale={locale}/></PageFrame>

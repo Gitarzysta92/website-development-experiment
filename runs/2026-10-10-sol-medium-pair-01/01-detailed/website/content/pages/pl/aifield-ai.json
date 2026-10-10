@@ -1,0 +1,42 @@
+{
+  "id": "aifield-ai",
+  "locale": "pl",
+  "title": "Pomoc, która zachowuje osąd inżyniera",
+  "description": "AIFIELD bada pracę z wierszem poleceń i protokołem Model Context Protocol przy proponowaniu działań projektowych. Człowiek ocenia i stosuje zmiany; dostępne materiały nie uzasadniają twierdzenia o w pełni autonomicznym projektowaniu chipów.",
+  "eyebrow": "AIFIELD",
+  "lead": "AIFIELD bada pracę z wierszem poleceń i protokołem Model Context Protocol przy proponowaniu działań projektowych. Człowiek ocenia i stosuje zmiany; dostępne materiały nie uzasadniają twierdzenia o w pełni autonomicznym projektowaniu chipów.",
+  "sections": [
+    {
+      "id": "section-1",
+      "heading": "Proces o określonych granicach",
+      "body": [
+        "Asystent może otrzymać pytanie projektowe, przeanalizować dostępny kontekst i zaproponować polecenie lub zmianę. Inżynier ocenia założenia, decyduje o jej zastosowaniu i sprawdza wynik symulacji. Propozycja nie staje się dowodem projektowym bez przeglądu."
+      ]
+    },
+    {
+      "id": "section-2",
+      "heading": "Granice narzędzi i danych",
+      "body": [
+        "Część obliczeń solvera opisano jako lokalną. Przed deklaracją poufności trzeba dokładnie określić, jakie dane trafiają do ewentualnego zewnętrznego asystenta w konkretnym wdrożeniu. Ta strona nie obiecuje, że wszystkie dane pozostają lokalnie."
+      ]
+    },
+    {
+      "id": "section-3",
+      "heading": "Co należy ocenić",
+      "body": [
+        "Użyteczna ocena powinna śledzić ukończenie zadań, błędne propozycje, korekty człowieka i powtarzalność na opisanych przykładach. Kolejnym etapem jest określenie wspieranych działań i porównanie pomocy z pracą bez asystenta."
+      ]
+    }
+  ],
+  "related": [
+    "aifield-validation",
+    "partnerships"
+  ],
+  "editorialState": "draft",
+  "sourceRevision": "HP-1.1; context 2026-10-09",
+  "modified": "2026-10-10",
+  "sourceRefs": [
+    "inputs/content/project-context.md (summary, 2026-10-09)",
+    "inputs/docs/sitemap.md (SM-0.3)"
+  ]
+}

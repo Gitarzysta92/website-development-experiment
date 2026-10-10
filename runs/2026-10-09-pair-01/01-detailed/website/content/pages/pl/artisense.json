@@ -1,0 +1,115 @@
+{
+  "id": "artisense",
+  "locale": "pl",
+  "type": "overview",
+  "title": "ArtiSense. Poznawać świat dzięki światłu.",
+  "description": "Poznaj ArtiSense, proponowany miniaturowy system fotonicznych pomiarów chemicznych: architekturę, projekt glukozowy, ograniczenia i dalszą walidację.",
+  "eyebrow": "ARTISENSE / PRZEGLĄD",
+  "lead": "Kierunek badań nad pomiarem składu chemicznego: oświetlić próbkę, zarejestrować odpowiedź optyczną i sprawdzić, co może powiedzieć nam ten sygnał.",
+  "sections": [
+    {
+      "id": "purpose",
+      "title": "Mniejszy system. Wymagające zadanie pomiarowe.",
+      "paragraphs": [
+        "ArtiSense ma łączyć pomiary fotoniczne z interpretacją sygnału w zminiaturyzowanym systemie. Pomiary nieinwazyjne i formy ubieralne to zamierzone kierunki, a nie wykazane możliwości produktu.",
+        "Główne wyzwanie nie polega jedynie na wykryciu światła. Trzeba pokazać, że odpowiedź wiarygodnie odpowiada badanej substancji w warunkach używania urządzenia. Docelowi użytkownicy i użyteczny zakres pracy muszą wynikać z tych dowodów."
+      ],
+      "links": [
+        {
+          "id": "artisense-applications"
+        }
+      ]
+    },
+    {
+      "id": "system",
+      "title": "Proponowany system w skrócie.",
+      "paragraphs": [
+        "Opisana architektura łączy oświetlenie widzialne lub podczerwone, oddziaływanie z próbką, detekcję odpowiedzi optycznej i porównanie z odniesieniem. Interpretacja miałaby przekształcać informację widmową w znaczący pomiar.",
+        "W proponowanej architekturze pojawia się przeprogramowywalny analogowy procesor neuromorficzny, oprogramowanie i łączność. Sam opis nie dowodzi wykonania i integracji każdego bloku. Analogowy procesor interpretacji jest czymś innym niż badania neuronowego pola optycznego w AIFIELD."
+      ],
+      "links": [
+        {
+          "id": "artisense-technology"
+        }
+      ]
+    },
+    {
+      "id": "stage",
+      "title": "Co potwierdza obecny zakres prac.",
+      "paragraphs": [
+        "Dostarczone podsumowanie badań opisuje wykonalność optyczną i projektowanie fotonicznego chipu związanego z glukozą. AIFIELD stanowi kontekst dla wyjaśnienia tych działań projektowych.",
+        "Projekt i symulacja mogą pomóc wybrać kolejny eksperyment. Nie potwierdzają parametrów wykonanego urządzenia, dokładności pomiaru glukozy, wyników klinicznych ani gotowego rozwiązania ubieralnego."
+      ],
+      "rows": [
+        [
+          "Dostępna podstawa",
+          "Prace nad wykonalnością optyczną i projektem chipu opisane w podsumowaniu badań."
+        ],
+        [
+          "Otwarta walidacja",
+          "Kontrolowana odpowiedź fizyczna, powtarzalność i oddzielenie wpływów zakłócających."
+        ],
+        [
+          "Kolejny użyteczny krok",
+          "Określenie mierzalnej hipotezy i porównania odniesienia potrzebnego do jej sprawdzenia."
+        ]
+      ],
+      "links": [
+        {
+          "id": "artisense-validation"
+        },
+        {
+          "id": "aifield-validation"
+        }
+      ]
+    },
+    {
+      "id": "next",
+      "title": "Poznaj system. Następnie sprawdź dowody.",
+      "paragraphs": [
+        "Technologia wyjaśnia proponowany tor sygnałowy. Zastosowania opisują zamierzony kontekst pomiaru. Badania i walidacja oddzielają to, co wynika z projektu, od potrzebnych eksperymentów.",
+        "Rozmowy inwestycyjne dotyczą Artifactory jako firmy. Potencjalna współpraca techniczna może skupić się na charakteryzacji optycznej, integracji lub precyzyjnie określonym badaniu walidacyjnym."
+      ],
+      "links": [
+        {
+          "id": "artisense-technology"
+        },
+        {
+          "id": "artisense-applications"
+        },
+        {
+          "id": "artisense-validation"
+        },
+        {
+          "id": "investors"
+        },
+        {
+          "id": "partnerships"
+        }
+      ]
+    }
+  ],
+  "relatedIds": [
+    "artisense-technology",
+    "artisense-applications",
+    "artisense-validation",
+    "investors",
+    "partnerships"
+  ],
+  "project": "artisense",
+  "sourceReferences": [
+    "HP-1.1/project-context",
+    "SM-0.3/artisense"
+  ],
+  "sourceRevision": "2026-10-09 (AIFIELD snapshot: September 2026)",
+  "editorialState": "draft",
+  "modifiedAt": "2026-10-09T21:00:00.000Z",
+  "reviews": {
+    "facts": null,
+    "language": null,
+    "assets": null
+  },
+  "privateNotes": "Locally authored from supplied summary. Factual, translation and asset owner review pending. Original PDFs were not supplied.",
+  "visual": "sensing",
+  "maturity": "Proponowany system pomiarowy · badania"
+}

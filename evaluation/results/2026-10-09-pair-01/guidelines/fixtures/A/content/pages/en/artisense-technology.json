@@ -1,0 +1,94 @@
+{
+  "id": "artisense-technology",
+  "locale": "en",
+  "type": "detail",
+  "title": "From optical response to useful information.",
+  "description": "How the proposed ArtiSense architecture connects illumination, sample response, detection and analog interpretation, with calibration and integration limits.",
+  "eyebrow": "ARTISENSE / TECHNOLOGY",
+  "lead": "The proposed signal chain connects an optical interaction to an interpretation. Each connection brings assumptions that need to be tested.",
+  "sections": [
+    {
+      "id": "photonics",
+      "title": "Start with the interaction.",
+      "paragraphs": [
+        "Visible or infrared light is directed toward a sample. Its interaction can alter the response that reaches a detector. The architectural idea is to examine that response against a reference and use spectral information to investigate a chemical property.",
+        "A change in optical response is not automatically a measurement of one substance. The illumination, sample conditions, optical path and detector response must be considered together. The supplied summary does not specify a validated operating range or a finalized component selection."
+      ]
+    },
+    {
+      "id": "electronics",
+      "title": "Detection is only part of interpretation.",
+      "paragraphs": [
+        "The proposed electronic chain receives the detected signal and prepares it for interpretation. The architecture describes a reprogrammable analog neuromorphic processor: an intended approach to processing the signal, rather than proof of an integrated working chip.",
+        "Software support and connectivity are also described. Their role would be to configure and communicate information from the sensing system. No confirmed interface standard, complete hardware implementation or validated system-level performance is supplied.",
+        "This analog interpretation proposal is not AIFIELD’s neural field research. That research investigates predicting optical fields during engineering analysis; it does not establish a sensor’s measurement accuracy."
+      ]
+    },
+    {
+      "id": "calibration",
+      "title": "A reference must remain a meaningful reference.",
+      "paragraphs": [
+        "Calibration would need to relate an optical response to a known comparison under stated conditions. A useful study would keep track of what changes between reference and test, and distinguish the target effect from sources of variation.",
+        "The project’s next architecture decisions therefore depend on a measurement plan. Repeatability, sensitivity to changing conditions and the transfer from a modeled structure to a physical device are open validation questions."
+      ],
+      "rows": [
+        [
+          "Illumination and optical path",
+          "Define the source, reference and interaction conditions before interpreting a response."
+        ],
+        [
+          "Detector and electronics",
+          "Characterize signal quality and the limits introduced by detection and processing."
+        ],
+        [
+          "Interpretation",
+          "Test whether the inferred quantity remains valid beyond the calibration examples."
+        ],
+        [
+          "Integration",
+          "Evaluate the combined system; component descriptions alone do not show end-to-end operation."
+        ]
+      ]
+    },
+    {
+      "id": "design",
+      "title": "Design tools help frame the experiment.",
+      "paragraphs": [
+        "The glucose-related photonic chip-design example provides a way to discuss geometry and simulation using AIFIELD. It supports an engineering conversation about models and candidate structures.",
+        "The sensing question remains separate: what signal would the fabricated structure produce, and how would it compare with a reliable reference? That question belongs in physical validation."
+      ],
+      "links": [
+        {
+          "id": "aifield-design"
+        },
+        {
+          "id": "artisense-validation"
+        },
+        {
+          "id": "artisense-applications"
+        }
+      ]
+    }
+  ],
+  "relatedIds": [
+    "artisense",
+    "artisense-applications",
+    "artisense-validation"
+  ],
+  "project": "artisense",
+  "sourceReferences": [
+    "HP-1.1/project-context",
+    "SM-0.3/artisense-technology"
+  ],
+  "sourceRevision": "2026-10-09 (AIFIELD snapshot: September 2026)",
+  "editorialState": "published",
+  "modifiedAt": "2026-10-09T21:00:00.000Z",
+  "reviews": {
+    "facts": "a583934cb627a2ede8f22f232b546876e2ad2ef446e29df01737ab901f8c4758",
+    "language": "a583934cb627a2ede8f22f232b546876e2ad2ef446e29df01737ab901f8c4758",
+    "assets": "a583934cb627a2ede8f22f232b546876e2ad2ef446e29df01737ab901f8c4758"
+  },
+  "privateNotes": "Locally authored from supplied summary. Factual, translation and asset owner review pending. Original PDFs were not supplied.",
+  "visual": "sensing",
+  "maturity": "Proposed architecture · components require validation"
+}

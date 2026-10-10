@@ -1,0 +1,384 @@
+{
+  "id": "B-en-investors-desktop",
+  "label": "B",
+  "locale": "en",
+  "pageId": "investors",
+  "view": "desktop",
+  "url": "http://127.0.0.1:4511/en/investors/",
+  "status": 200,
+  "errors": [],
+  "title": "Investors | Artifactory",
+  "language": "en",
+  "h1": [
+    "The company.\nThe science.\nThe possibility."
+  ],
+  "headings": [
+    {
+      "level": "H1",
+      "text": "The company.\nThe science.\nThe possibility."
+    },
+    {
+      "level": "H2",
+      "text": "Two projects.\nOne conversation."
+    },
+    {
+      "level": "H2",
+      "text": "Understand the opportunity through the work."
+    },
+    {
+      "level": "H2",
+      "text": "Three areas to examine."
+    },
+    {
+      "level": "H3",
+      "text": "What has been investigated?"
+    },
+    {
+      "level": "H3",
+      "text": "What should the next stage prove?"
+    },
+    {
+      "level": "H3",
+      "text": "How does the work create value?"
+    },
+    {
+      "level": "H2",
+      "text": "Go directly to the evidence."
+    },
+    {
+      "level": "H3",
+      "text": "ArtiSense"
+    },
+    {
+      "level": "H3",
+      "text": "AIFIELD"
+    },
+    {
+      "level": "H3",
+      "text": "Neural field research"
+    },
+    {
+      "level": "H2",
+      "text": "Let’s explore what\ncomes next."
+    },
+    {
+      "level": "H2",
+      "text": "Projects"
+    },
+    {
+      "level": "H2",
+      "text": "Company"
+    },
+    {
+      "level": "H2",
+      "text": "Get in touch"
+    }
+  ],
+  "text": "Skip to content\nLocal preview\nDraft content · 9 October 2026\nartifactory.\nProjects\nInvestors\nOur approach\nAbout\nEN\n/\nPL\nLet’s talk\nHome\nInvestors\n\nINVEST IN ARTIFACTORY\n\nThe company.\nThe science.\nThe possibility.\n\nExplore a company developing sensing technology and the tools to design photonic systems. Start with the work, its evidence and the milestones ahead.\n\nDiscuss an investment\nARTIFACTORY / COMPANY PERSPECTIVE\nTwo projects.\nOne conversation.\nArtiSense\nPhotonic sensing\nAIFIELD\nPhotonic engineering\n\nThe investment conversation concerns Artifactory as a company.\n\nTHE INVESTMENT PERSPECTIVE\n\nUnderstand the opportunity through the work.\n\nSensing and photonic design address connected engineering questions. The company proposition brings these two directions into the same conversation, while preserving the distinct risks and maturity of each project.\n\nCurrent company funding terms, ownership and IP positions, revenue, customer commitments and capital allocation are not established in the supplied material. Those topics belong in a company-level discussion supported by current information.\n\nA USEFUL INVESTMENT CONVERSATION\n\nThree areas to examine.\n01 / TECHNOLOGY\nWhat has been investigated?\n\nSeparate design and simulation work from physical measurement outcomes. Review the conditions and limits of each claim.\n\n02 / DEVELOPMENT\nWhat should the next stage prove?\n\nConnect proposed milestones to evidence that reduces uncertainty. Scope, timing and resources need current confirmation.\n\n03 / COMPANY\nHow does the work create value?\n\nDiscuss intended users, commercial assumptions, team capabilities, ownership positions and financing at company level.\n\nSTART YOUR REVIEW\n\nGo directly to the evidence.\n01\nArtiSense\n\nResearch & concept development\n\n02\nAIFIELD\n\nDevelopment & internal demonstrations\n\n03\nNeural field research\n\nConditions, limitations and open questions\n\ni\n\nNo current funding round, investment amount or return is represented here. Historical project proposals are not the company’s current funding ask. Materials are shared only after their scope and permissions are confirmed.\n\nTHE NEXT CONVERSATION\n\nLet’s explore what\ncomes next.\n\nInvest in the company. Explore the science. Bring a question worth working on.\n\nDiscuss an investment\nExplore partnerships\nartifactory.\n\nEngineering light. Creating possibility.\n\nSensing technology and tools for designing photonic systems.\nProjects\nAll projects\nArtiSense\nAIFIELD\nCompany\nHome\nInvestors\nOur approach\nAbout\nPartnerships\nGet in touch\ninfo@artifactory.tech\nContact\nPrivacy\nArtifactory · 2026\nLocal review edition. Content and Polish translations await owner review.\nBack to top ↑",
+  "links": [
+    {
+      "text": "Skip to content",
+      "href": "#main",
+      "lang": ""
+    },
+    {
+      "text": "artifactory.",
+      "href": "/en/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/en/projects/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/en/projects/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/en/projects/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Investors",
+      "href": "/en/investors/",
+      "lang": ""
+    },
+    {
+      "text": "Our approach",
+      "href": "/en/approach/",
+      "lang": ""
+    },
+    {
+      "text": "About",
+      "href": "/en/about/",
+      "lang": ""
+    },
+    {
+      "text": "Partnerships",
+      "href": "/en/partnerships/",
+      "lang": ""
+    },
+    {
+      "text": "Contact",
+      "href": "/en/contact/",
+      "lang": ""
+    },
+    {
+      "text": "PL",
+      "href": "/pl/inwestorzy/",
+      "lang": "pl"
+    },
+    {
+      "text": "Let’s talk",
+      "href": "/en/contact/?intent=investment",
+      "lang": ""
+    },
+    {
+      "text": "Home",
+      "href": "/en/",
+      "lang": ""
+    },
+    {
+      "text": "Discuss an investment",
+      "href": "/en/contact/?intent=investment",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSense\nPhotonic sensing",
+      "href": "/en/projects/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELD\nPhotonic engineering",
+      "href": "/en/projects/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "01\nArtiSense\n\nResearch & concept development",
+      "href": "/en/projects/artisense/research-validation/",
+      "lang": ""
+    },
+    {
+      "text": "02\nAIFIELD\n\nDevelopment & internal demonstrations",
+      "href": "/en/projects/aifield/examples-validation/",
+      "lang": ""
+    },
+    {
+      "text": "03\nNeural field research\n\nConditions, limitations and open questions",
+      "href": "/en/projects/aifield/neural-field-research/",
+      "lang": ""
+    },
+    {
+      "text": "Discuss an investment",
+      "href": "/en/contact/?intent=investment",
+      "lang": ""
+    },
+    {
+      "text": "Explore partnerships",
+      "href": "/en/partnerships/",
+      "lang": ""
+    },
+    {
+      "text": "artifactory.",
+      "href": "/en/",
+      "lang": ""
+    },
+    {
+      "text": "All projects",
+      "href": "/en/projects/",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSense",
+      "href": "/en/projects/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELD",
+      "href": "/en/projects/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Home",
+      "href": "/en/",
+      "lang": ""
+    },
+    {
+      "text": "Investors",
+      "href": "/en/investors/",
+      "lang": ""
+    },
+    {
+      "text": "Our approach",
+      "href": "/en/approach/",
+      "lang": ""
+    },
+    {
+      "text": "About",
+      "href": "/en/about/",
+      "lang": ""
+    },
+    {
+      "text": "Partnerships",
+      "href": "/en/partnerships/",
+      "lang": ""
+    },
+    {
+      "text": "info@artifactory.tech",
+      "href": "mailto:info@artifactory.tech",
+      "lang": ""
+    },
+    {
+      "text": "Contact",
+      "href": "/en/contact/",
+      "lang": ""
+    },
+    {
+      "text": "Privacy",
+      "href": "/en/privacy/",
+      "lang": ""
+    },
+    {
+      "text": "Back to top ↑",
+      "href": "#top",
+      "lang": ""
+    }
+  ],
+  "metadata": [
+    {
+      "name": "viewport",
+      "content": "width=device-width, initial-scale=1"
+    },
+    {
+      "name": "description",
+      "content": "Explore Artifactory as a company investment opportunity through its projects, evidence and proposed next milestones."
+    },
+    {
+      "name": "robots",
+      "content": "noindex,nofollow"
+    },
+    {
+      "name": "theme-color",
+      "content": "#662483"
+    },
+    {
+      "rel": "canonical",
+      "href": "http://127.0.0.1:4511/en/investors/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "en",
+      "href": "http://127.0.0.1:4511/en/investors/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "pl",
+      "href": "http://127.0.0.1:4511/pl/inwestorzy/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "x-default",
+      "href": "http://127.0.0.1:4511/en/investors/"
+    },
+    {
+      "property": "og:type",
+      "content": "website"
+    },
+    {
+      "property": "og:site_name",
+      "content": "Artifactory"
+    },
+    {
+      "property": "og:title",
+      "content": "Investors | Artifactory"
+    },
+    {
+      "property": "og:description",
+      "content": "Explore Artifactory as a company investment opportunity through its projects, evidence and proposed next milestones."
+    },
+    {
+      "property": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "property": "og:locale:alternate",
+      "content": "pl_PL"
+    },
+    {
+      "property": "og:url",
+      "content": "http://127.0.0.1:4511/en/investors/"
+    },
+    {
+      "property": "og:image",
+      "content": "http://127.0.0.1:4511/assets/share-en.svg"
+    },
+    {
+      "name": "twitter:card",
+      "content": "summary_large_image"
+    }
+  ],
+  "forms": [],
+  "images": [],
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "scrollWidth": 1440
+  },
+  "overflowing": [],
+  "axe": {
+    "violations": [
+      {
+        "id": "region",
+        "impact": "moderate",
+        "tags": [
+          "cat.keyboard",
+          "best-practice",
+          "RGAAv4",
+          "RGAA-9.2.1"
+        ],
+        "description": "Ensure all page content is contained by landmarks",
+        "help": "All page content should be contained by landmarks",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/region?application=playwright",
+        "nodes": [
+          {
+            "any": [
+              {
+                "id": "region",
+                "data": {
+                  "isIframe": false
+                },
+                "relatedNodes": [],
+                "impact": "moderate",
+                "message": "Some page content is not contained by landmarks"
+              }
+            ],
+            "all": [],
+            "none": [],
+            "impact": "moderate",
+            "html": "<div class=\"preview-strip\"><div class=\"container\"><span><i aria-hidden=\"true\"></i>Local preview</span><span>Draft content · 9 October 2026</span></div></div>",
+            "target": [
+              ".preview-strip"
+            ],
+            "failureSummary": "Fix any of the following:\n  Some page content is not contained by landmarks"
+          }
+        ]
+      }
+    ],
+    "incomplete": [
+      {
+        "id": "aria-prohibited-attr",
+        "impact": "serious",
+        "nodeCount": 1
+      },
+      {
+        "id": "color-contrast",
+        "impact": "serious",
+        "nodeCount": 11
+      }
+    ],
+    "passes": 34
+  }
+}

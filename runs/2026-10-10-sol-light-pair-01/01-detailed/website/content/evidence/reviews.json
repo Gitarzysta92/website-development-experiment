@@ -1,0 +1,243 @@
+{
+  "sourceRevision": "HP-1.1 / project-context 2026-10-09",
+  "records": {
+    "home": {
+      "facts": {
+        "state": "draft"
+      },
+      "en": {
+        "state": "draft"
+      },
+      "pl": {
+        "state": "draft"
+      },
+      "assets": {
+        "state": "draft"
+      }
+    },
+    "projects": {
+      "facts": {
+        "state": "draft"
+      },
+      "en": {
+        "state": "draft"
+      },
+      "pl": {
+        "state": "draft"
+      },
+      "assets": {
+        "state": "draft"
+      }
+    },
+    "artisense": {
+      "facts": {
+        "state": "draft"
+      },
+      "en": {
+        "state": "draft"
+      },
+      "pl": {
+        "state": "draft"
+      },
+      "assets": {
+        "state": "draft"
+      }
+    },
+    "artisense-technology": {
+      "facts": {
+        "state": "draft"
+      },
+      "en": {
+        "state": "draft"
+      },
+      "pl": {
+        "state": "draft"
+      },
+      "assets": {
+        "state": "draft"
+      }
+    },
+    "artisense-applications": {
+      "facts": {
+        "state": "draft"
+      },
+      "en": {
+        "state": "draft"
+      },
+      "pl": {
+        "state": "draft"
+      },
+      "assets": {
+        "state": "draft"
+      }
+    },
+    "artisense-validation": {
+      "facts": {
+        "state": "draft"
+      },
+      "en": {
+        "state": "draft"
+      },
+      "pl": {
+        "state": "draft"
+      },
+      "assets": {
+        "state": "draft"
+      }
+    },
+    "aifield": {
+      "facts": {
+        "state": "draft"
+      },
+      "en": {
+        "state": "draft"
+      },
+      "pl": {
+        "state": "draft"
+      },
+      "assets": {
+        "state": "draft"
+      }
+    },
+    "aifield-design": {
+      "facts": {
+        "state": "draft"
+      },
+      "en": {
+        "state": "draft"
+      },
+      "pl": {
+        "state": "draft"
+      },
+      "assets": {
+        "state": "draft"
+      }
+    },
+    "aifield-ai": {
+      "facts": {
+        "state": "draft"
+      },
+      "en": {
+        "state": "draft"
+      },
+      "pl": {
+        "state": "draft"
+      },
+      "assets": {
+        "state": "draft"
+      }
+    },
+    "aifield-neural": {
+      "facts": {
+        "state": "draft"
+      },
+      "en": {
+        "state": "draft"
+      },
+      "pl": {
+        "state": "draft"
+      },
+      "assets": {
+        "state": "draft"
+      }
+    },
+    "aifield-validation": {
+      "facts": {
+        "state": "draft"
+      },
+      "en": {
+        "state": "draft"
+      },
+      "pl": {
+        "state": "draft"
+      },
+      "assets": {
+        "state": "draft"
+      }
+    },
+    "investors": {
+      "facts": {
+        "state": "draft"
+      },
+      "en": {
+        "state": "draft"
+      },
+      "pl": {
+        "state": "draft"
+      },
+      "assets": {
+        "state": "draft"
+      }
+    },
+    "approach": {
+      "facts": {
+        "state": "draft"
+      },
+      "en": {
+        "state": "draft"
+      },
+      "pl": {
+        "state": "draft"
+      },
+      "assets": {
+        "state": "draft"
+      }
+    },
+    "about": {
+      "facts": {
+        "state": "draft"
+      },
+      "en": {
+        "state": "draft"
+      },
+      "pl": {
+        "state": "draft"
+      },
+      "assets": {
+        "state": "draft"
+      }
+    },
+    "partnerships": {
+      "facts": {
+        "state": "draft"
+      },
+      "en": {
+        "state": "draft"
+      },
+      "pl": {
+        "state": "draft"
+      },
+      "assets": {
+        "state": "draft"
+      }
+    },
+    "contact": {
+      "facts": {
+        "state": "draft"
+      },
+      "en": {
+        "state": "draft"
+      },
+      "pl": {
+        "state": "draft"
+      },
+      "assets": {
+        "state": "draft"
+      }
+    },
+    "privacy": {
+      "facts": {
+        "state": "draft"
+      },
+      "en": {
+        "state": "draft"
+      },
+      "pl": {
+        "state": "draft"
+      },
+      "assets": {
+        "state": "draft"
+      }
+    }
+  }
+}

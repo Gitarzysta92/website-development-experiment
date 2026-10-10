@@ -1,0 +1,1372 @@
+{
+  "summary": {
+    "cases": 170,
+    "pass": 166,
+    "inconclusive_css_zoom_proxies": 4,
+    "harness_failures_superseded": 37,
+    "confirmed_app_failures_in_this_harness": 0
+  },
+  "caveat": "A passing draft-generation check does not establish a receiving form. Missing receiver B-01 is assessed separately against the shared brief.",
+  "cases": [
+    {
+      "id": "A-chromium-en-investor",
+      "status": "pass",
+      "finalUrl": "http://127.0.0.1:4501/en/contact/?intent=investment",
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "A-chromium-en-partner",
+      "status": "pass",
+      "finalUrl": "http://127.0.0.1:4501/en/contact/?intent=partnership",
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "A-chromium-en-demo",
+      "status": "pass",
+      "finalUrl": "http://127.0.0.1:4501/en/contact/?intent=demo&project=aifield",
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "A-chromium-en-mobile-menu-keyboard",
+      "status": "pass",
+      "activeElement": "<button class=\"menu-toggle\" aria-expanded=\"false\" aria-controls=\"global-navigation\" data-menu=\"\" data-astro-cid-qzo7jze3=\"\">Menu <span aria-hidden=\"true\" data-astro-cid-qzo7jze3=\"\">\u2630</span></button>",
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "A-chromium-en-form",
+      "status": "pass",
+      "invalid": 2,
+      "requests": 1,
+      "receipt": {
+        "status": "accepted",
+        "receiptId": "local-79d61859-b6aa-4060-8063-9dfe89e89ea8",
+        "mode": "fixture"
+      },
+      "duplicate": {
+        "status": "accepted",
+        "receiptId": "local-79d61859-b6aa-4060-8063-9dfe89e89ea8",
+        "mode": "fixture"
+      },
+      "statusText": "Test enquiry received locally. No email was sent.",
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "A-chromium-pl-investor",
+      "status": "pass",
+      "finalUrl": "http://127.0.0.1:4501/pl/kontakt/?intent=investment",
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "A-chromium-pl-partner",
+      "status": "pass",
+      "finalUrl": "http://127.0.0.1:4501/pl/kontakt/?intent=partnership",
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "A-chromium-pl-demo",
+      "status": "pass",
+      "finalUrl": "http://127.0.0.1:4501/pl/kontakt/?intent=demo&project=aifield",
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "A-chromium-pl-mobile-menu-keyboard",
+      "status": "pass",
+      "activeElement": "<button class=\"menu-toggle\" aria-expanded=\"false\" aria-controls=\"global-navigation\" data-menu=\"\" data-astro-cid-qzo7jze3=\"\">Menu <span aria-hidden=\"true\" data-astro-cid-qzo7jze3=\"\">\u2630</span></button>",
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "A-chromium-pl-form",
+      "status": "pass",
+      "invalid": 2,
+      "requests": 1,
+      "receipt": {
+        "status": "accepted",
+        "receiptId": "local-8a2e0054-babb-4544-a318-e0387246dc21",
+        "mode": "fixture"
+      },
+      "duplicate": {
+        "status": "accepted",
+        "receiptId": "local-8a2e0054-babb-4544-a318-e0387246dc21",
+        "mode": "fixture"
+      },
+      "statusText": "Zapytanie testowe odebrano lokalnie. Nie wys\u0142ano e-maila.",
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "A-language-home",
+      "status": "pass",
+      "original_status": "fail",
+      "source": "evidence/interactions/results.json",
+      "recheck_source": "evidence/interactions/recheck-results.json",
+      "adjudication": "Harness selected relative href although initialized application uses an absolute href. Stable hreflang locator passes."
+    },
+    {
+      "id": "A-language-projects",
+      "status": "pass",
+      "original_status": "fail",
+      "source": "evidence/interactions/results.json",
+      "recheck_source": "evidence/interactions/recheck-results.json",
+      "adjudication": "Harness selected relative href although initialized application uses an absolute href. Stable hreflang locator passes."
+    },
+    {
+      "id": "A-language-artisense",
+      "status": "pass",
+      "original_status": "fail",
+      "source": "evidence/interactions/results.json",
+      "recheck_source": "evidence/interactions/recheck-results.json",
+      "adjudication": "Harness selected relative href although initialized application uses an absolute href. Stable hreflang locator passes."
+    },
+    {
+      "id": "A-language-artisense-technology",
+      "status": "pass",
+      "original_status": "fail",
+      "source": "evidence/interactions/results.json",
+      "recheck_source": "evidence/interactions/recheck-results.json",
+      "adjudication": "Harness selected relative href although initialized application uses an absolute href. Stable hreflang locator passes."
+    },
+    {
+      "id": "A-language-artisense-applications",
+      "status": "pass",
+      "original_status": "fail",
+      "source": "evidence/interactions/results.json",
+      "recheck_source": "evidence/interactions/recheck-results.json",
+      "adjudication": "Harness selected relative href although initialized application uses an absolute href. Stable hreflang locator passes."
+    },
+    {
+      "id": "A-language-artisense-validation",
+      "status": "pass",
+      "original_status": "fail",
+      "source": "evidence/interactions/results.json",
+      "recheck_source": "evidence/interactions/recheck-results.json",
+      "adjudication": "Harness selected relative href although initialized application uses an absolute href. Stable hreflang locator passes."
+    },
+    {
+      "id": "A-language-aifield",
+      "status": "pass",
+      "original_status": "fail",
+      "source": "evidence/interactions/results.json",
+      "recheck_source": "evidence/interactions/recheck-results.json",
+      "adjudication": "Harness selected relative href although initialized application uses an absolute href. Stable hreflang locator passes."
+    },
+    {
+      "id": "A-language-aifield-design",
+      "status": "pass",
+      "original_status": "fail",
+      "source": "evidence/interactions/results.json",
+      "recheck_source": "evidence/interactions/recheck-results.json",
+      "adjudication": "Harness selected relative href although initialized application uses an absolute href. Stable hreflang locator passes."
+    },
+    {
+      "id": "A-language-aifield-ai",
+      "status": "pass",
+      "original_status": "fail",
+      "source": "evidence/interactions/results.json",
+      "recheck_source": "evidence/interactions/recheck-results.json",
+      "adjudication": "Harness selected relative href although initialized application uses an absolute href. Stable hreflang locator passes."
+    },
+    {
+      "id": "A-language-aifield-neural",
+      "status": "pass",
+      "original_status": "fail",
+      "source": "evidence/interactions/results.json",
+      "recheck_source": "evidence/interactions/recheck-results.json",
+      "adjudication": "Harness selected relative href although initialized application uses an absolute href. Stable hreflang locator passes."
+    },
+    {
+      "id": "A-language-aifield-validation",
+      "status": "pass",
+      "original_status": "fail",
+      "source": "evidence/interactions/results.json",
+      "recheck_source": "evidence/interactions/recheck-results.json",
+      "adjudication": "Harness selected relative href although initialized application uses an absolute href. Stable hreflang locator passes."
+    },
+    {
+      "id": "A-language-investors",
+      "status": "pass",
+      "original_status": "fail",
+      "source": "evidence/interactions/results.json",
+      "recheck_source": "evidence/interactions/recheck-results.json",
+      "adjudication": "Harness selected relative href although initialized application uses an absolute href. Stable hreflang locator passes."
+    },
+    {
+      "id": "A-language-approach",
+      "status": "pass",
+      "original_status": "fail",
+      "source": "evidence/interactions/results.json",
+      "recheck_source": "evidence/interactions/recheck-results.json",
+      "adjudication": "Harness selected relative href although initialized application uses an absolute href. Stable hreflang locator passes."
+    },
+    {
+      "id": "A-language-about",
+      "status": "pass",
+      "original_status": "fail",
+      "source": "evidence/interactions/results.json",
+      "recheck_source": "evidence/interactions/recheck-results.json",
+      "adjudication": "Harness selected relative href although initialized application uses an absolute href. Stable hreflang locator passes."
+    },
+    {
+      "id": "A-language-partnerships",
+      "status": "pass",
+      "original_status": "fail",
+      "source": "evidence/interactions/results.json",
+      "recheck_source": "evidence/interactions/recheck-results.json",
+      "adjudication": "Harness selected relative href although initialized application uses an absolute href. Stable hreflang locator passes."
+    },
+    {
+      "id": "A-language-contact",
+      "status": "pass",
+      "original_status": "fail",
+      "source": "evidence/interactions/results.json",
+      "recheck_source": "evidence/interactions/recheck-results.json",
+      "adjudication": "Harness selected relative href although initialized application uses an absolute href. Stable hreflang locator passes."
+    },
+    {
+      "id": "A-language-privacy",
+      "status": "pass",
+      "original_status": "fail",
+      "source": "evidence/interactions/results.json",
+      "recheck_source": "evidence/interactions/recheck-results.json",
+      "adjudication": "Harness selected relative href although initialized application uses an absolute href. Stable hreflang locator passes."
+    },
+    {
+      "id": "A-narrow-home",
+      "status": "pass",
+      "viewport": 320,
+      "page": 305,
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "A-narrow-projects",
+      "status": "pass",
+      "viewport": 320,
+      "page": 305,
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "A-narrow-artisense",
+      "status": "pass",
+      "viewport": 320,
+      "page": 305,
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "A-narrow-artisense-technology",
+      "status": "pass",
+      "viewport": 320,
+      "page": 305,
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "A-narrow-artisense-applications",
+      "status": "pass",
+      "viewport": 320,
+      "page": 305,
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "A-narrow-artisense-validation",
+      "status": "pass",
+      "viewport": 320,
+      "page": 305,
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "A-narrow-aifield",
+      "status": "pass",
+      "viewport": 320,
+      "page": 305,
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "A-narrow-aifield-design",
+      "status": "pass",
+      "viewport": 320,
+      "page": 305,
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "A-narrow-aifield-ai",
+      "status": "pass",
+      "viewport": 320,
+      "page": 305,
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "A-narrow-aifield-neural",
+      "status": "pass",
+      "viewport": 320,
+      "page": 305,
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "A-narrow-aifield-validation",
+      "status": "pass",
+      "viewport": 320,
+      "page": 305,
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "A-narrow-investors",
+      "status": "pass",
+      "viewport": 320,
+      "page": 305,
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "A-narrow-approach",
+      "status": "pass",
+      "viewport": 320,
+      "page": 305,
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "A-narrow-about",
+      "status": "pass",
+      "viewport": 320,
+      "page": 305,
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "A-narrow-partnerships",
+      "status": "pass",
+      "viewport": 320,
+      "page": 305,
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "A-narrow-contact",
+      "status": "pass",
+      "viewport": 320,
+      "page": 305,
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "A-narrow-privacy",
+      "status": "pass",
+      "viewport": 320,
+      "page": 305,
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "A-short-home",
+      "status": "pass",
+      "viewport": 1280,
+      "page": 1265,
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "A-short-projects",
+      "status": "pass",
+      "viewport": 1280,
+      "page": 1265,
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "A-short-artisense",
+      "status": "pass",
+      "viewport": 1280,
+      "page": 1265,
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "A-short-artisense-technology",
+      "status": "pass",
+      "viewport": 1280,
+      "page": 1265,
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "A-short-artisense-applications",
+      "status": "pass",
+      "viewport": 1280,
+      "page": 1265,
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "A-short-artisense-validation",
+      "status": "pass",
+      "viewport": 1280,
+      "page": 1265,
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "A-short-aifield",
+      "status": "pass",
+      "viewport": 1280,
+      "page": 1265,
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "A-short-aifield-design",
+      "status": "pass",
+      "viewport": 1280,
+      "page": 1265,
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "A-short-aifield-ai",
+      "status": "pass",
+      "viewport": 1280,
+      "page": 1265,
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "A-short-aifield-neural",
+      "status": "pass",
+      "viewport": 1280,
+      "page": 1265,
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "A-short-aifield-validation",
+      "status": "pass",
+      "viewport": 1280,
+      "page": 1265,
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "A-short-investors",
+      "status": "pass",
+      "viewport": 1280,
+      "page": 1265,
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "A-short-approach",
+      "status": "pass",
+      "viewport": 1280,
+      "page": 1265,
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "A-short-about",
+      "status": "pass",
+      "viewport": 1280,
+      "page": 1265,
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "A-short-partnerships",
+      "status": "pass",
+      "viewport": 1280,
+      "page": 1265,
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "A-short-contact",
+      "status": "pass",
+      "viewport": 1280,
+      "page": 1265,
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "A-short-privacy",
+      "status": "pass",
+      "viewport": 1280,
+      "page": 1265,
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "A-zoom-home",
+      "status": "pass",
+      "viewport": 1440,
+      "scroll": 1425,
+      "method": "CSS zoom proxy, not native browser zoom",
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "A-zoom-artisense-technology",
+      "status": "pass",
+      "viewport": 1440,
+      "scroll": 1425,
+      "method": "CSS zoom proxy, not native browser zoom",
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "A-zoom-aifield-neural",
+      "status": "pass",
+      "viewport": 1440,
+      "scroll": 1425,
+      "method": "CSS zoom proxy, not native browser zoom",
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "A-zoom-contact",
+      "status": "pass",
+      "viewport": 1440,
+      "scroll": 1425,
+      "method": "CSS zoom proxy, not native browser zoom",
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-chromium-en-investor",
+      "status": "pass",
+      "finalUrl": "http://127.0.0.1:4511/en/contact/?intent=investment",
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-chromium-en-partner",
+      "status": "pass",
+      "finalUrl": "http://127.0.0.1:4511/en/contact/?intent=partnership&project=artisense",
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-chromium-en-demo",
+      "status": "pass",
+      "finalUrl": "http://127.0.0.1:4511/en/contact/?intent=demo&project=aifield",
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-chromium-en-mobile-menu-keyboard",
+      "status": "pass",
+      "original_status": "fail",
+      "source": "evidence/interactions/results.json",
+      "activeElement": "<button class=\"menu-toggle\" aria-expanded=\"false\" aria-controls=\"main-nav\" data-menu-toggle=\"\"><span>Menu</span><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M4 7h16M4 12h16M4 17h16\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"></path></svg></button>",
+      "recheck_source": "evidence/interactions/recheck-results.json",
+      "adjudication": "Harness located the button by its closed accessible name, which changes on opening. Stable data attribute locator passes."
+    },
+    {
+      "id": "B-chromium-en-form",
+      "status": "pass",
+      "invalid": 2,
+      "networkSubmissions": 0,
+      "mailto": "mailto:info@artifactory.tech",
+      "draft": "To: info@artifactory.tech\nSubject: Artifactory \u2014 AIFIELD demo\n\nEnquiry type: AIFIELD demo\nProject: AIFIELD\nReply email: evaluation@example.invalid\n\nSynthetic evaluation message for a local AIFIELD demonstration. No real enquiry.",
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-chromium-pl-investor",
+      "status": "pass",
+      "finalUrl": "http://127.0.0.1:4511/pl/kontakt/?intent=investment",
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-chromium-pl-partner",
+      "status": "pass",
+      "finalUrl": "http://127.0.0.1:4511/pl/kontakt/?intent=partnership&project=artisense",
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-chromium-pl-demo",
+      "status": "pass",
+      "finalUrl": "http://127.0.0.1:4511/pl/kontakt/?intent=demo&project=aifield",
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-chromium-pl-mobile-menu-keyboard",
+      "status": "pass",
+      "original_status": "fail",
+      "source": "evidence/interactions/results.json",
+      "activeElement": "<button class=\"menu-toggle\" aria-expanded=\"false\" aria-controls=\"main-nav\" data-menu-toggle=\"\"><span>Menu</span><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M4 7h16M4 12h16M4 17h16\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"></path></svg></button>",
+      "recheck_source": "evidence/interactions/recheck-results.json",
+      "adjudication": "Harness located the button by its closed accessible name, which changes on opening. Stable data attribute locator passes."
+    },
+    {
+      "id": "B-chromium-pl-form",
+      "status": "pass",
+      "invalid": 2,
+      "networkSubmissions": 0,
+      "mailto": "mailto:info@artifactory.tech",
+      "draft": "Do: info@artifactory.tech\nTemat: Artifactory \u2014 Demo AIFIELD\n\nRodzaj zapytania: Demo AIFIELD\nProjekt: AIFIELD\nE-mail do odpowiedzi: evaluation@example.invalid\n\nSynthetic evaluation message for a local AIFIELD demonstration. No real enquiry.",
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-language-home",
+      "status": "pass",
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-language-projects",
+      "status": "pass",
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-language-artisense",
+      "status": "pass",
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-language-artisense-technology",
+      "status": "pass",
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-language-artisense-applications",
+      "status": "pass",
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-language-artisense-validation",
+      "status": "pass",
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-language-aifield",
+      "status": "pass",
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-language-aifield-design",
+      "status": "pass",
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-language-aifield-ai",
+      "status": "pass",
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-language-aifield-neural",
+      "status": "pass",
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-language-aifield-validation",
+      "status": "pass",
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-language-investors",
+      "status": "pass",
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-language-approach",
+      "status": "pass",
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-language-about",
+      "status": "pass",
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-language-partnerships",
+      "status": "pass",
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-language-contact",
+      "status": "pass",
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-language-privacy",
+      "status": "pass",
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-narrow-home",
+      "status": "pass",
+      "viewport": 320,
+      "page": 320,
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-narrow-projects",
+      "status": "pass",
+      "viewport": 320,
+      "page": 320,
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-narrow-artisense",
+      "status": "pass",
+      "viewport": 320,
+      "page": 320,
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-narrow-artisense-technology",
+      "status": "pass",
+      "viewport": 320,
+      "page": 320,
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-narrow-artisense-applications",
+      "status": "pass",
+      "viewport": 320,
+      "page": 320,
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-narrow-artisense-validation",
+      "status": "pass",
+      "viewport": 320,
+      "page": 320,
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-narrow-aifield",
+      "status": "pass",
+      "viewport": 320,
+      "page": 320,
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-narrow-aifield-design",
+      "status": "pass",
+      "viewport": 320,
+      "page": 320,
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-narrow-aifield-ai",
+      "status": "pass",
+      "viewport": 320,
+      "page": 320,
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-narrow-aifield-neural",
+      "status": "pass",
+      "viewport": 320,
+      "page": 320,
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-narrow-aifield-validation",
+      "status": "pass",
+      "viewport": 320,
+      "page": 320,
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-narrow-investors",
+      "status": "pass",
+      "viewport": 320,
+      "page": 320,
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-narrow-approach",
+      "status": "pass",
+      "viewport": 320,
+      "page": 320,
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-narrow-about",
+      "status": "pass",
+      "viewport": 320,
+      "page": 320,
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-narrow-partnerships",
+      "status": "pass",
+      "viewport": 320,
+      "page": 320,
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-narrow-contact",
+      "status": "pass",
+      "viewport": 320,
+      "page": 320,
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-narrow-privacy",
+      "status": "pass",
+      "viewport": 320,
+      "page": 320,
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-short-home",
+      "status": "pass",
+      "viewport": 1280,
+      "page": 1280,
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-short-projects",
+      "status": "pass",
+      "viewport": 1280,
+      "page": 1280,
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-short-artisense",
+      "status": "pass",
+      "viewport": 1280,
+      "page": 1280,
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-short-artisense-technology",
+      "status": "pass",
+      "viewport": 1280,
+      "page": 1280,
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-short-artisense-applications",
+      "status": "pass",
+      "viewport": 1280,
+      "page": 1280,
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-short-artisense-validation",
+      "status": "pass",
+      "viewport": 1280,
+      "page": 1280,
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-short-aifield",
+      "status": "pass",
+      "viewport": 1280,
+      "page": 1280,
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-short-aifield-design",
+      "status": "pass",
+      "viewport": 1280,
+      "page": 1280,
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-short-aifield-ai",
+      "status": "pass",
+      "viewport": 1280,
+      "page": 1280,
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-short-aifield-neural",
+      "status": "pass",
+      "viewport": 1280,
+      "page": 1280,
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-short-aifield-validation",
+      "status": "pass",
+      "viewport": 1280,
+      "page": 1280,
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-short-investors",
+      "status": "pass",
+      "viewport": 1280,
+      "page": 1280,
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-short-approach",
+      "status": "pass",
+      "viewport": 1280,
+      "page": 1280,
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-short-about",
+      "status": "pass",
+      "viewport": 1280,
+      "page": 1280,
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-short-partnerships",
+      "status": "pass",
+      "viewport": 1280,
+      "page": 1280,
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-short-contact",
+      "status": "pass",
+      "viewport": 1280,
+      "page": 1280,
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-short-privacy",
+      "status": "pass",
+      "viewport": 1280,
+      "page": 1280,
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-zoom-home",
+      "status": "not_tested",
+      "error": "Overflow under 200 percent CSS zoom proxy",
+      "original_status": "fail",
+      "source": "evidence/interactions/results.json",
+      "disposition": "inconclusive_proxy",
+      "adjudication": "CSS zoom overflow is diagnostic only: CSS zoom does not exercise native browser zoom/media-query behavior. Native 200% zoom remains untested on both sites."
+    },
+    {
+      "id": "B-zoom-artisense-technology",
+      "status": "not_tested",
+      "error": "Overflow under 200 percent CSS zoom proxy",
+      "original_status": "fail",
+      "source": "evidence/interactions/results.json",
+      "disposition": "inconclusive_proxy",
+      "adjudication": "CSS zoom overflow is diagnostic only: CSS zoom does not exercise native browser zoom/media-query behavior. Native 200% zoom remains untested on both sites."
+    },
+    {
+      "id": "B-zoom-aifield-neural",
+      "status": "not_tested",
+      "error": "Overflow under 200 percent CSS zoom proxy",
+      "original_status": "fail",
+      "source": "evidence/interactions/results.json",
+      "disposition": "inconclusive_proxy",
+      "adjudication": "CSS zoom overflow is diagnostic only: CSS zoom does not exercise native browser zoom/media-query behavior. Native 200% zoom remains untested on both sites."
+    },
+    {
+      "id": "B-zoom-contact",
+      "status": "not_tested",
+      "error": "Overflow under 200 percent CSS zoom proxy",
+      "original_status": "fail",
+      "source": "evidence/interactions/results.json",
+      "disposition": "inconclusive_proxy",
+      "adjudication": "CSS zoom overflow is diagnostic only: CSS zoom does not exercise native browser zoom/media-query behavior. Native 200% zoom remains untested on both sites."
+    },
+    {
+      "id": "A-firefox-en-investor",
+      "status": "pass",
+      "finalUrl": "http://127.0.0.1:4501/en/contact/?intent=investment",
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "A-firefox-en-partner",
+      "status": "pass",
+      "original_status": "fail",
+      "source": "evidence/interactions/results.json",
+      "finalUrl": "http://127.0.0.1:4501/en/contact/?intent=partnership",
+      "recheck_source": "evidence/interactions/recheck-results.json",
+      "adjudication": "Immediate value assertion raced client initialization. Auto-waiting toHaveValue assertion passes."
+    },
+    {
+      "id": "A-firefox-en-demo",
+      "status": "pass",
+      "original_status": "fail",
+      "source": "evidence/interactions/results.json",
+      "finalUrl": "http://127.0.0.1:4501/en/contact/?intent=demo&project=aifield",
+      "recheck_source": "evidence/interactions/recheck-results.json",
+      "adjudication": "Immediate value assertion raced client initialization. Auto-waiting toHaveValue assertion passes."
+    },
+    {
+      "id": "A-firefox-en-mobile-menu-keyboard",
+      "status": "pass",
+      "activeElement": "<button class=\"menu-toggle\" aria-expanded=\"false\" aria-controls=\"global-navigation\" data-menu=\"\" data-astro-cid-qzo7jze3=\"\">Menu <span aria-hidden=\"true\" data-astro-cid-qzo7jze3=\"\">\u2630</span></button>",
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "A-firefox-en-form",
+      "status": "pass",
+      "invalid": 2,
+      "receipt": "Chromium verifies live fixture; other engines checked form entry and validation",
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "A-firefox-pl-investor",
+      "status": "pass",
+      "original_status": "fail",
+      "source": "evidence/interactions/results.json",
+      "finalUrl": "http://127.0.0.1:4501/pl/kontakt/?intent=investment",
+      "recheck_source": "evidence/interactions/recheck-results.json",
+      "adjudication": "Immediate value assertion raced client initialization. Auto-waiting toHaveValue assertion passes."
+    },
+    {
+      "id": "A-firefox-pl-partner",
+      "status": "pass",
+      "original_status": "fail",
+      "source": "evidence/interactions/results.json",
+      "finalUrl": "http://127.0.0.1:4501/pl/kontakt/?intent=partnership",
+      "recheck_source": "evidence/interactions/recheck-results.json",
+      "adjudication": "Immediate value assertion raced client initialization. Auto-waiting toHaveValue assertion passes."
+    },
+    {
+      "id": "A-firefox-pl-demo",
+      "status": "pass",
+      "finalUrl": "http://127.0.0.1:4501/pl/kontakt/?intent=demo&project=aifield",
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "A-firefox-pl-mobile-menu-keyboard",
+      "status": "pass",
+      "activeElement": "<button class=\"menu-toggle\" aria-expanded=\"false\" aria-controls=\"global-navigation\" data-menu=\"\" data-astro-cid-qzo7jze3=\"\">Menu <span aria-hidden=\"true\" data-astro-cid-qzo7jze3=\"\">\u2630</span></button>",
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "A-firefox-pl-form",
+      "status": "pass",
+      "invalid": 2,
+      "receipt": "Chromium verifies live fixture; other engines checked form entry and validation",
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-firefox-en-investor",
+      "status": "pass",
+      "finalUrl": "http://127.0.0.1:4511/en/contact/?intent=investment",
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-firefox-en-partner",
+      "status": "pass",
+      "finalUrl": "http://127.0.0.1:4511/en/contact/?intent=partnership&project=artisense",
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-firefox-en-demo",
+      "status": "pass",
+      "finalUrl": "http://127.0.0.1:4511/en/contact/?intent=demo&project=aifield",
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-firefox-en-mobile-menu-keyboard",
+      "status": "pass",
+      "original_status": "fail",
+      "source": "evidence/interactions/results.json",
+      "activeElement": "<button class=\"menu-toggle\" aria-expanded=\"false\" aria-controls=\"main-nav\" data-menu-toggle=\"\"><span>Menu</span><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M4 7h16M4 12h16M4 17h16\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"></path></svg></button>",
+      "recheck_source": "evidence/interactions/recheck-results.json",
+      "adjudication": "Harness located the button by its closed accessible name, which changes on opening. Stable data attribute locator passes."
+    },
+    {
+      "id": "B-firefox-en-form",
+      "status": "pass",
+      "invalid": 2,
+      "networkSubmissions": 0,
+      "mailto": "mailto:info@artifactory.tech",
+      "draft": "To: info@artifactory.tech\nSubject: Artifactory \u2014 AIFIELD demo\n\nEnquiry type: AIFIELD demo\nProject: AIFIELD\nReply email: evaluation@example.invalid\n\nSynthetic evaluation message for a local AIFIELD demonstration. No real enquiry.",
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-firefox-pl-investor",
+      "status": "pass",
+      "finalUrl": "http://127.0.0.1:4511/pl/kontakt/?intent=investment",
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-firefox-pl-partner",
+      "status": "pass",
+      "finalUrl": "http://127.0.0.1:4511/pl/kontakt/?intent=partnership&project=artisense",
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-firefox-pl-demo",
+      "status": "pass",
+      "finalUrl": "http://127.0.0.1:4511/pl/kontakt/?intent=demo&project=aifield",
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-firefox-pl-mobile-menu-keyboard",
+      "status": "pass",
+      "original_status": "fail",
+      "source": "evidence/interactions/results.json",
+      "activeElement": "<button class=\"menu-toggle\" aria-expanded=\"false\" aria-controls=\"main-nav\" data-menu-toggle=\"\"><span>Menu</span><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M4 7h16M4 12h16M4 17h16\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"></path></svg></button>",
+      "recheck_source": "evidence/interactions/recheck-results.json",
+      "adjudication": "Harness located the button by its closed accessible name, which changes on opening. Stable data attribute locator passes."
+    },
+    {
+      "id": "B-firefox-pl-form",
+      "status": "pass",
+      "invalid": 2,
+      "networkSubmissions": 0,
+      "mailto": "mailto:info@artifactory.tech",
+      "draft": "Do: info@artifactory.tech\nTemat: Artifactory \u2014 Demo AIFIELD\n\nRodzaj zapytania: Demo AIFIELD\nProjekt: AIFIELD\nE-mail do odpowiedzi: evaluation@example.invalid\n\nSynthetic evaluation message for a local AIFIELD demonstration. No real enquiry.",
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "A-webkit-en-investor",
+      "status": "pass",
+      "original_status": "fail",
+      "source": "evidence/interactions/results.json",
+      "finalUrl": "http://127.0.0.1:4501/en/contact/?intent=investment",
+      "recheck_source": "evidence/interactions/recheck-results.json",
+      "adjudication": "Immediate value assertion raced client initialization. Auto-waiting toHaveValue assertion passes."
+    },
+    {
+      "id": "A-webkit-en-partner",
+      "status": "pass",
+      "original_status": "fail",
+      "source": "evidence/interactions/results.json",
+      "finalUrl": "http://127.0.0.1:4501/en/contact/?intent=partnership",
+      "recheck_source": "evidence/interactions/recheck-results.json",
+      "adjudication": "Immediate value assertion raced client initialization. Auto-waiting toHaveValue assertion passes."
+    },
+    {
+      "id": "A-webkit-en-demo",
+      "status": "pass",
+      "original_status": "fail",
+      "source": "evidence/interactions/results.json",
+      "finalUrl": "http://127.0.0.1:4501/en/contact/?intent=demo&project=aifield",
+      "recheck_source": "evidence/interactions/recheck-results.json",
+      "adjudication": "Immediate value assertion raced client initialization. Auto-waiting toHaveValue assertion passes."
+    },
+    {
+      "id": "A-webkit-en-mobile-menu-keyboard",
+      "status": "pass",
+      "activeElement": "<button class=\"menu-toggle\" aria-expanded=\"false\" aria-controls=\"global-navigation\" data-menu=\"\" data-astro-cid-qzo7jze3=\"\">Menu <span aria-hidden=\"true\" data-astro-cid-qzo7jze3=\"\">\u2630</span></button>",
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "A-webkit-en-form",
+      "status": "pass",
+      "invalid": 2,
+      "receipt": "Chromium verifies live fixture; other engines checked form entry and validation",
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "A-webkit-pl-investor",
+      "status": "pass",
+      "original_status": "fail",
+      "source": "evidence/interactions/results.json",
+      "finalUrl": "http://127.0.0.1:4501/pl/kontakt/?intent=investment",
+      "recheck_source": "evidence/interactions/recheck-results.json",
+      "adjudication": "Immediate value assertion raced client initialization. Auto-waiting toHaveValue assertion passes."
+    },
+    {
+      "id": "A-webkit-pl-partner",
+      "status": "pass",
+      "original_status": "fail",
+      "source": "evidence/interactions/results.json",
+      "finalUrl": "http://127.0.0.1:4501/pl/kontakt/?intent=partnership",
+      "recheck_source": "evidence/interactions/recheck-results.json",
+      "adjudication": "Immediate value assertion raced client initialization. Auto-waiting toHaveValue assertion passes."
+    },
+    {
+      "id": "A-webkit-pl-demo",
+      "status": "pass",
+      "original_status": "fail",
+      "source": "evidence/interactions/results.json",
+      "finalUrl": "http://127.0.0.1:4501/pl/kontakt/?intent=demo&project=aifield",
+      "recheck_source": "evidence/interactions/recheck-results.json",
+      "adjudication": "Immediate value assertion raced client initialization. Auto-waiting toHaveValue assertion passes."
+    },
+    {
+      "id": "A-webkit-pl-mobile-menu-keyboard",
+      "status": "pass",
+      "activeElement": "<button class=\"menu-toggle\" aria-expanded=\"false\" aria-controls=\"global-navigation\" data-menu=\"\" data-astro-cid-qzo7jze3=\"\">Menu <span aria-hidden=\"true\" data-astro-cid-qzo7jze3=\"\">\u2630</span></button>",
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "A-webkit-pl-form",
+      "status": "pass",
+      "invalid": 2,
+      "receipt": "Chromium verifies live fixture; other engines checked form entry and validation",
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-webkit-en-investor",
+      "status": "pass",
+      "finalUrl": "http://127.0.0.1:4511/en/contact/?intent=investment",
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-webkit-en-partner",
+      "status": "pass",
+      "original_status": "fail",
+      "source": "evidence/interactions/results.json",
+      "finalUrl": "http://127.0.0.1:4511/en/contact/?intent=partnership&project=artisense",
+      "recheck_source": "evidence/interactions/recheck-results.json",
+      "adjudication": "Immediate value assertion raced client initialization. Auto-waiting toHaveValue assertion passes."
+    },
+    {
+      "id": "B-webkit-en-demo",
+      "status": "pass",
+      "original_status": "fail",
+      "source": "evidence/interactions/results.json",
+      "finalUrl": "http://127.0.0.1:4511/en/contact/?intent=demo&project=aifield",
+      "recheck_source": "evidence/interactions/recheck-results.json",
+      "adjudication": "Immediate value assertion raced client initialization. Auto-waiting toHaveValue assertion passes."
+    },
+    {
+      "id": "B-webkit-en-mobile-menu-keyboard",
+      "status": "pass",
+      "original_status": "fail",
+      "source": "evidence/interactions/results.json",
+      "activeElement": "<button class=\"menu-toggle\" aria-expanded=\"false\" aria-controls=\"main-nav\" data-menu-toggle=\"\"><span>Menu</span><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M4 7h16M4 12h16M4 17h16\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"></path></svg></button>",
+      "recheck_source": "evidence/interactions/recheck-results.json",
+      "adjudication": "Harness located the button by its closed accessible name, which changes on opening. Stable data attribute locator passes."
+    },
+    {
+      "id": "B-webkit-en-form",
+      "status": "pass",
+      "invalid": 2,
+      "networkSubmissions": 0,
+      "mailto": "mailto:info@artifactory.tech",
+      "draft": "To: info@artifactory.tech\nSubject: Artifactory \u2014 AIFIELD demo\n\nEnquiry type: AIFIELD demo\nProject: AIFIELD\nReply email: evaluation@example.invalid\n\nSynthetic evaluation message for a local AIFIELD demonstration. No real enquiry.",
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-webkit-pl-investor",
+      "status": "pass",
+      "finalUrl": "http://127.0.0.1:4511/pl/kontakt/?intent=investment",
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    },
+    {
+      "id": "B-webkit-pl-partner",
+      "status": "pass",
+      "original_status": "fail",
+      "source": "evidence/interactions/results.json",
+      "finalUrl": "http://127.0.0.1:4511/pl/kontakt/?intent=partnership&project=artisense",
+      "recheck_source": "evidence/interactions/recheck-results.json",
+      "adjudication": "Immediate value assertion raced client initialization. Auto-waiting toHaveValue assertion passes."
+    },
+    {
+      "id": "B-webkit-pl-demo",
+      "status": "pass",
+      "original_status": "fail",
+      "source": "evidence/interactions/results.json",
+      "finalUrl": "http://127.0.0.1:4511/pl/kontakt/?intent=demo&project=aifield",
+      "recheck_source": "evidence/interactions/recheck-results.json",
+      "adjudication": "Immediate value assertion raced client initialization. Auto-waiting toHaveValue assertion passes."
+    },
+    {
+      "id": "B-webkit-pl-mobile-menu-keyboard",
+      "status": "pass",
+      "original_status": "fail",
+      "source": "evidence/interactions/results.json",
+      "activeElement": "<button class=\"menu-toggle\" aria-expanded=\"false\" aria-controls=\"main-nav\" data-menu-toggle=\"\"><span>Menu</span><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M4 7h16M4 12h16M4 17h16\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"></path></svg></button>",
+      "recheck_source": "evidence/interactions/recheck-results.json",
+      "adjudication": "Harness located the button by its closed accessible name, which changes on opening. Stable data attribute locator passes."
+    },
+    {
+      "id": "B-webkit-pl-form",
+      "status": "pass",
+      "invalid": 2,
+      "networkSubmissions": 0,
+      "mailto": "mailto:info@artifactory.tech",
+      "draft": "Do: info@artifactory.tech\nTemat: Artifactory \u2014 Demo AIFIELD\n\nRodzaj zapytania: Demo AIFIELD\nProjekt: AIFIELD\nE-mail do odpowiedzi: evaluation@example.invalid\n\nSynthetic evaluation message for a local AIFIELD demonstration. No real enquiry.",
+      "original_status": "pass",
+      "source": "evidence/interactions/results.json"
+    }
+  ]
+}

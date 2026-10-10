@@ -1,0 +1,7 @@
+---
+import type { Locale } from '../navigation/index';
+interface Props {locale:Locale;sections:{id:string;title:string}[];}
+const {locale,sections}=Astro.props;
+---
+{sections.length>1&&<nav class="contents" aria-label={locale==='pl'?'Spis treści':'On this page'}><p class="contents-title">{locale==='pl'?'Na tej stronie':'On this page'}</p>{sections.map(s=><a href={`#${s.id}`}>{s.title}</a>)}</nav>}
+<style>.contents{margin-top:32px;padding-top:24px;border-top:1px solid var(--af-line)}@media(max-width:48rem){.contents{display:none}}</style>

@@ -1,0 +1,349 @@
+{
+  "id": "B-pl-approach-desktop",
+  "label": "B",
+  "locale": "pl",
+  "pageId": "approach",
+  "view": "desktop",
+  "url": "http://127.0.0.1:4511/pl/jak-pracujemy/",
+  "status": 200,
+  "errors": [],
+  "title": "Jak pracujemy | Artifactory",
+  "language": "pl",
+  "h1": [
+    "Od dobrego pytania do lepszych dowodów."
+  ],
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Od dobrego pytania do lepszych dowodów."
+    },
+    {
+      "level": "H2",
+      "text": "Zacznij od pytania, które można sprawdzić"
+    },
+    {
+      "level": "H2",
+      "text": "Zapisz założenia przed interpretacją"
+    },
+    {
+      "level": "H2",
+      "text": "Analizuj wyniki z kontrolą człowieka"
+    },
+    {
+      "level": "H2",
+      "text": "Dobieraj dowody do twierdzenia"
+    },
+    {
+      "level": "H2",
+      "text": "Jeden projekt. Dwa pytania o dowody."
+    },
+    {
+      "level": "H2",
+      "text": "Porozmawiajmy\no kolejnym kroku."
+    },
+    {
+      "level": "H2",
+      "text": "Projekty"
+    },
+    {
+      "level": "H2",
+      "text": "Firma"
+    },
+    {
+      "level": "H2",
+      "text": "Kontakt"
+    }
+  ],
+  "text": "Przejdź do treści\nPodgląd lokalny\nTreści robocze · 9 października 2026\nartifactory.\nProjekty\nDla inwestorów\nJak pracujemy\nO nas\nPL\n/\nEN\nPorozmawiajmy\nStrona główna\nJak pracujemy\n\nJAK PRACUJEMY\n\nOd dobrego pytania do lepszych dowodów.\n\nPerspektywa inżynieryjna oparta na opisanych pracach: zdefiniuj problem, opracuj model, przeanalizuj wynik i określ, co wymaga testu fizycznego.\n\n01\nPolecenie\n02\nPropozycja\n03\nKontrola\n04\nAnaliza\nCZŁOWIEK KONTROLUJE ZASTOSOWANIE\nIlustracja koncepcyjna · nie przedstawia produktu ani wyników pomiarów\nKażdy wynik powinien pomagać lepiej sformułować kolejne pytanie.\nZacznij od pytania, które można sprawdzić\n\nCel pomiarowy lub projektowy określa, co powinno zostać zbadane. W przykładzie fotonicznego układu do pomiaru glukozy ArtiSense wnosi cel pomiarowy, a AIFIELD proces projektowy.\n\nZapisz założenia przed interpretacją\n\nGeometria, warunki materiałowe, kalibracja i warunki brzegowe kształtują wynik symulacji. Model pomaga analizować pytanie w tych warunkach. Jego wartość zależy od zachowania kontekstu przy przedstawianiu wyniku.\n\nAnalizuj wyniki z kontrolą człowieka\n\nOpisane procesy wspomagane przez AI obejmują propozycje i ocenę człowieka. Założenia i interpretacja inżynieryjna pozostają odpowiedzialnością osoby prowadzącej zadanie.\n\nPraca z AI\nDobieraj dowody do twierdzenia\n\nKoncepcja opisuje kierunek. Symulacja bada model. Prototyp umożliwia badanie sprzętu. Pomiary fizyczne muszą dopiero wykazać zachowanie urządzenia. Kolejny eksperyment powinien odpowiadać na konkretną niepewność.\n\ni\n\nTo robocze ujęcie podejścia oparte na dostarczonych materiałach. Nie stanowi deklaracji certyfikowanego procesu ani ukończenia wszystkich etapów.\n\nPOWIĄZANY PRZYKŁAD\n\nJeden projekt. Dwa pytania o dowody.\n\nJak działa proces projektowy? Czy układ fizyczny może osiągnąć cel pomiarowy? Poznaj każde zagadnienie w jego kontekście.\n\nPrzykłady i walidacja\nBadania i walidacja\n\nKOLEJNA ROZMOWA\n\nPorozmawiajmy\no kolejnym kroku.\n\nPorozmawiajmy o inwestycji w firmę, badaniach i pytaniach, nad którymi warto pracować.\n\nPorozmawiajmy o inwestycji\nPoznaj możliwości współpracy\nartifactory.\n\nProjektujemy ze światłem. Otwieramy możliwości.\n\nTechnologie pomiarowe i narzędzia do projektowania układów fotonicznych.\nProjekty\nWszystkie projekty\nArtiSense\nAIFIELD\nFirma\nStrona główna\nDla inwestorów\nJak pracujemy\nO nas\nWspółpraca\nKontakt\ninfo@artifactory.tech\nKontakt\nPrywatność\nArtifactory · 2026\nLokalna wersja do przeglądu. Treści i polskie tłumaczenia wymagają zatwierdzenia.\nNa górę ↑",
+  "links": [
+    {
+      "text": "Przejdź do treści",
+      "href": "#main",
+      "lang": ""
+    },
+    {
+      "text": "artifactory.",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/pl/projekty/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/pl/projekty/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/pl/projekty/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Dla inwestorów",
+      "href": "/pl/inwestorzy/",
+      "lang": ""
+    },
+    {
+      "text": "Jak pracujemy",
+      "href": "/pl/jak-pracujemy/",
+      "lang": ""
+    },
+    {
+      "text": "O nas",
+      "href": "/pl/o-nas/",
+      "lang": ""
+    },
+    {
+      "text": "Współpraca",
+      "href": "/pl/wspolpraca/",
+      "lang": ""
+    },
+    {
+      "text": "Kontakt",
+      "href": "/pl/kontakt/",
+      "lang": ""
+    },
+    {
+      "text": "EN",
+      "href": "/en/approach/",
+      "lang": "en"
+    },
+    {
+      "text": "Porozmawiajmy",
+      "href": "/pl/kontakt/?intent=investment",
+      "lang": ""
+    },
+    {
+      "text": "Strona główna",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "Praca z AI",
+      "href": "/pl/projekty/aifield/praca-z-ai/",
+      "lang": ""
+    },
+    {
+      "text": "Przykłady i walidacja",
+      "href": "/pl/projekty/aifield/przyklady-walidacja/",
+      "lang": ""
+    },
+    {
+      "text": "Badania i walidacja",
+      "href": "/pl/projekty/artisense/badania-walidacja/",
+      "lang": ""
+    },
+    {
+      "text": "Porozmawiajmy o inwestycji",
+      "href": "/pl/kontakt/?intent=investment",
+      "lang": ""
+    },
+    {
+      "text": "Poznaj możliwości współpracy",
+      "href": "/pl/wspolpraca/",
+      "lang": ""
+    },
+    {
+      "text": "artifactory.",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "Wszystkie projekty",
+      "href": "/pl/projekty/",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSense",
+      "href": "/pl/projekty/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELD",
+      "href": "/pl/projekty/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Strona główna",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "Dla inwestorów",
+      "href": "/pl/inwestorzy/",
+      "lang": ""
+    },
+    {
+      "text": "Jak pracujemy",
+      "href": "/pl/jak-pracujemy/",
+      "lang": ""
+    },
+    {
+      "text": "O nas",
+      "href": "/pl/o-nas/",
+      "lang": ""
+    },
+    {
+      "text": "Współpraca",
+      "href": "/pl/wspolpraca/",
+      "lang": ""
+    },
+    {
+      "text": "info@artifactory.tech",
+      "href": "mailto:info@artifactory.tech",
+      "lang": ""
+    },
+    {
+      "text": "Kontakt",
+      "href": "/pl/kontakt/",
+      "lang": ""
+    },
+    {
+      "text": "Prywatność",
+      "href": "/pl/prywatnosc/",
+      "lang": ""
+    },
+    {
+      "text": "Na górę ↑",
+      "href": "#top",
+      "lang": ""
+    }
+  ],
+  "metadata": [
+    {
+      "name": "viewport",
+      "content": "width=device-width, initial-scale=1"
+    },
+    {
+      "name": "description",
+      "content": "Od pytania inżynieryjnego do modelu, oceny człowieka i walidacji fizycznej: opis podejścia do prac."
+    },
+    {
+      "name": "robots",
+      "content": "noindex,nofollow"
+    },
+    {
+      "name": "theme-color",
+      "content": "#662483"
+    },
+    {
+      "rel": "canonical",
+      "href": "http://127.0.0.1:4511/pl/jak-pracujemy/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "en",
+      "href": "http://127.0.0.1:4511/en/approach/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "pl",
+      "href": "http://127.0.0.1:4511/pl/jak-pracujemy/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "x-default",
+      "href": "http://127.0.0.1:4511/en/approach/"
+    },
+    {
+      "property": "og:type",
+      "content": "website"
+    },
+    {
+      "property": "og:site_name",
+      "content": "Artifactory"
+    },
+    {
+      "property": "og:title",
+      "content": "Jak pracujemy | Artifactory"
+    },
+    {
+      "property": "og:description",
+      "content": "Od pytania inżynieryjnego do modelu, oceny człowieka i walidacji fizycznej: opis podejścia do prac."
+    },
+    {
+      "property": "og:locale",
+      "content": "pl_PL"
+    },
+    {
+      "property": "og:locale:alternate",
+      "content": "en_GB"
+    },
+    {
+      "property": "og:url",
+      "content": "http://127.0.0.1:4511/pl/jak-pracujemy/"
+    },
+    {
+      "property": "og:image",
+      "content": "http://127.0.0.1:4511/assets/share-pl.svg"
+    },
+    {
+      "name": "twitter:card",
+      "content": "summary_large_image"
+    }
+  ],
+  "forms": [],
+  "images": [],
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "scrollWidth": 1440
+  },
+  "overflowing": [],
+  "axe": {
+    "violations": [
+      {
+        "id": "region",
+        "impact": "moderate",
+        "tags": [
+          "cat.keyboard",
+          "best-practice",
+          "RGAAv4",
+          "RGAA-9.2.1"
+        ],
+        "description": "Ensure all page content is contained by landmarks",
+        "help": "All page content should be contained by landmarks",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/region?application=playwright",
+        "nodes": [
+          {
+            "any": [
+              {
+                "id": "region",
+                "data": {
+                  "isIframe": false
+                },
+                "relatedNodes": [],
+                "impact": "moderate",
+                "message": "Some page content is not contained by landmarks"
+              }
+            ],
+            "all": [],
+            "none": [],
+            "impact": "moderate",
+            "html": "<div class=\"preview-strip\"><div class=\"container\"><span><i aria-hidden=\"true\"></i>Podgląd lokalny</span><span>Treści robocze · 9 października 2026</span></div></div>",
+            "target": [
+              ".preview-strip"
+            ],
+            "failureSummary": "Fix any of the following:\n  Some page content is not contained by landmarks"
+          }
+        ]
+      }
+    ],
+    "incomplete": [
+      {
+        "id": "aria-prohibited-attr",
+        "impact": "serious",
+        "nodeCount": 1
+      },
+      {
+        "id": "color-contrast",
+        "impact": "serious",
+        "nodeCount": 13
+      }
+    ],
+    "passes": 39
+  }
+}

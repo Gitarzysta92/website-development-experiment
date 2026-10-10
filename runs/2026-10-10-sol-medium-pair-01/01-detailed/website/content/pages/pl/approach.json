@@ -1,0 +1,42 @@
+{
+  "id": "approach",
+  "locale": "pl",
+  "title": "Pokazuj granicę między pomysłem a dowodem",
+  "description": "Użyteczny opis prac zaczyna się od tezy, metody jej sprawdzenia i ograniczeń obserwacji. Ta strona proponuje sposób czytania dostępnych materiałów; nie opisuje potwierdzonej procedury wewnętrznej firmy.",
+  "eyebrow": "Artifactory",
+  "lead": "Użyteczny opis prac zaczyna się od tezy, metody jej sprawdzenia i ograniczeń obserwacji. Ta strona proponuje sposób czytania dostępnych materiałów; nie opisuje potwierdzonej procedury wewnętrznej firmy.",
+  "sections": [
+    {
+      "id": "section-1",
+      "heading": "Określ pytanie",
+      "body": [
+        "Dla czujnika trzeba nazwać substancję, próbkę, metodę odniesienia i tolerancję. Dla oprogramowania projektowego: dane wejściowe, oczekiwany wynik, metodę porównania i warunki. Jasne pytanie chroni przed wyciąganiem z efektownej wizualizacji zbyt szerokich wniosków."
+      ]
+    },
+    {
+      "id": "section-2",
+      "heading": "Oddziel poziomy dowodów",
+      "body": [
+        "Schemat koncepcji tłumaczy zamiar; symulacja sprawdza model; wykonanie układu testuje realizację; pomiar sprawdza działanie; użycie w praktyce ocenia przydatność. Materiały dotyczące ArtiSense i AIFIELD obejmują różne poziomy, więc jedna etykieta dojrzałości zaciera ważne różnice."
+      ]
+    },
+    {
+      "id": "section-3",
+      "heading": "Publikuj ograniczenia razem z wynikami",
+      "body": [
+        "Przyszłe aktualizacje powinny podawać daty, wersje, metody, reprezentatywne sukcesy i niepowodzenia oraz kolejne otwarte pytanie. Przed przedstawieniem tego podejścia jako przyjętej praktyki Artifactory potrzebna jest ocena właściciela treści."
+      ]
+    }
+  ],
+  "related": [
+    "artisense-validation",
+    "aifield-validation"
+  ],
+  "editorialState": "draft",
+  "sourceRevision": "HP-1.1; context 2026-10-09",
+  "modified": "2026-10-10",
+  "sourceRefs": [
+    "inputs/content/project-context.md (summary, 2026-10-09)",
+    "inputs/docs/sitemap.md (SM-0.3)"
+  ]
+}

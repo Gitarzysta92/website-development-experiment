@@ -1,0 +1,11 @@
+---
+import type {PageView} from '../../content/index';
+import ProjectFrame from '../../layouts/ProjectFrame.astro';
+import PageIntro from '../../partials/PageIntro.astro';
+import ProjectClosing from '../../partials/ProjectClosing.astro';
+import Sections from '../Sections.astro';
+import FlowDiagram from '../../components/ui/FlowDiagram.astro';
+interface Props{page:PageView;}const {page}=Astro.props;const pl=page.locale==='pl';
+const steps=pl?[['Oświetlenie','Światło widzialne lub podczerwone; warunki do określenia.'],['Próbka i odpowiedź','Oddziaływanie optyczne oraz porównanie z odniesieniem.'],['Detekcja','Zamiana odpowiedzi na sygnał wymagający charakteryzacji.'],['Interpretacja','Proponowane przetwarzanie analogowe i wsparcie programowe.']]:[['Illumination','Visible or infrared light; conditions to be specified.'],['Sample and response','Optical interaction and reference comparison.'],['Detection','A signal whose quality and limits need characterization.'],['Interpretation','Proposed analog processing and software support.']];
+---
+<PageIntro page={page}/><ProjectFrame page={page}><FlowDiagram steps={steps.map(([title,description])=>({title,description}))} caption={pl?'Proponowany łańcuch funkcjonalny. Schemat nie potwierdza wykonania ani walidacji bloków.':'Proposed functional chain. This diagram does not establish implementation or validation of the blocks.'}/><Sections page={page}/></ProjectFrame><ProjectClosing page={page}/>

@@ -1,0 +1,22 @@
+{
+  "variant": "02-inputs-only",
+  "model": "gpt-6-astra",
+  "reasoning_effort": "xhigh",
+  "name": "artifactory-inputs-only-astra-xhigh",
+  "origin": "https://artifactory-inputs-only-astra-xhigh.coolify.threesixty.dev",
+  "source_sha256": "314e076283aae126c9b3486c10f85adfbfdae282bcd0dee4deac4b7d6985f929",
+  "source_files": {
+    "package.json": "34fc953a4a6986b40b0bf76f1b013968df444bea052af7959f35e8e804fdac9a",
+    "package-lock.json": "718ee33f71bcbaf3eb304abcce7c3433584876b8545900b87385083baf9ce4ad",
+    "src/content.mjs": "d7050b279bcb4a0f0fe3708f6bbc108a02177b4f3fb4899a2361698aeb3a7ede",
+    "src/render.mjs": "069d35b5de4ac8758b862bdf9f0ea1c58c17a8e6383f0d191afd6a5b811d9e2e",
+    "src/visuals.mjs": "6fa2d72b41896a0aa9d1fa839a54d4e9dd19dcef72f2baa099bb3594889b4b1a",
+    "public/client.js": "29a68b309633854aaa71be7a923fb7d1851db71d2391c0592bc04059299120f2",
+    "public/styles.css": "4d4ed552f3dd8402179fbde75aeb2e5be1443dbb2859436fdac1d68a332e5094",
+    "tests/browser/journeys.spec.mjs": "47ccdd946885691717b49cbcbf20a064e6142bc03319d17dbfb675ecbab40139",
+    "tests/site.test.mjs": "f67777b8947c6ea109828f89514f4a309d8d31d2b18e437551db8ea43534b275",
+    "server.mjs": "77a2eb3b992b99964d36ff5bbd773674a6461cd980497ad6eed0a0b983a6e30b",
+    "build.mjs": "c4dd91a5e64f91f743aedcf7fc33d5e259a2e251cc128abf9357624825803229"
+  },
+  "gateway_sha256": "00abe11586983761ea4975c7e39331a499c506693d0e07ca1adbc0f337fbf6db"
+}

@@ -1,0 +1,459 @@
+{
+  "id": "B-pl-projects-mobile",
+  "label": "B",
+  "locale": "pl",
+  "pageId": "projects",
+  "view": "mobile",
+  "url": "http://127.0.0.1:4511/pl/projekty/",
+  "status": 200,
+  "errors": [],
+  "title": "Projekty | Artifactory",
+  "language": "pl",
+  "h1": [
+    "Dwa projekty. Wspólna ciekawość."
+  ],
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Dwa projekty. Wspólna ciekawość."
+    },
+    {
+      "level": "H3",
+      "text": "ArtiSense"
+    },
+    {
+      "level": "H3",
+      "text": "AIFIELD"
+    },
+    {
+      "level": "H2",
+      "text": "Różne pytania. Powiązane prace."
+    },
+    {
+      "level": "H2",
+      "text": "Porozmawiajmy\no kolejnym kroku."
+    },
+    {
+      "level": "H2",
+      "text": "Projekty"
+    },
+    {
+      "level": "H2",
+      "text": "Firma"
+    },
+    {
+      "level": "H2",
+      "text": "Kontakt"
+    }
+  ],
+  "text": "Przejdź do treści\nPodgląd lokalny\nTreści robocze · 9 października 2026\nartifactory.\nMenu\nStrona główna\nProjekty\n\nNASZE PROJEKTY\n\nDwa projekty. Wspólna ciekawość.\n\nTechnologie pomiarowe i narzędzia inżynierii fotonicznej. Każdy projekt ma własną drogę rozwoju i dowody.\n\nARTISENSE / 01\nFOTONIKA\nSYGNAŁ\nŚWIATŁO\n01 / CZUJNIKI FOTONICZNE\nBadania i rozwój koncepcji\nArtiSense\n\nBadamy, jak światło może ujawniać informacje o składzie chemicznym. Punktem wyjścia jest koncepcja zminiaturyzowanego układu pomiarowego.\n\nPoznaj ArtiSense\nPOLE OPTYCZNE\nILUSTRACJA KONCEPCYJNA\nAIFIELD\n02 / INŻYNIERIA FOTONICZNA\nRozwój i demonstracje wewnętrzne\nAIFIELD\n\nŚrodowisko projektowania i symulacji układów fotonicznych, z procesami wspieranymi przez AI oraz odrębnym kierunkiem badań nad neuronowymi modelami pola.\n\nPoznaj AIFIELD\n\nIlustracja koncepcyjna · nie przedstawia produktu ani wyników pomiarów\n\nW SKRÓCIE\n\nRóżne pytania. Powiązane prace.\nPerspektywa\tArtiSense\tAIFIELD\nObszar\tUkłady pomiarowe\tProjektowanie i symulacja\nDocelowy wynik\tZminiaturyzowany system pomiarów chemicznych\tProces projektowania i symulacji fotonicznej\nEtap opisany w materiałach\tBadania i rozwój koncepcji\tRozwój i demonstracje wewnętrzne\nGranica dowodów\tProjekt nie potwierdza skuteczności pomiarowej\tPorównania symulacji nie potwierdzają wyników wykonanych układów\nBadania i walidacja\nPrzykłady i walidacja\n\nKOLEJNA ROZMOWA\n\nPorozmawiajmy\no kolejnym kroku.\n\nPorozmawiajmy o inwestycji w firmę, badaniach i pytaniach, nad którymi warto pracować.\n\nPorozmawiajmy o inwestycji\nPoznaj możliwości współpracy\nartifactory.\n\nProjektujemy ze światłem. Otwieramy możliwości.\n\nTechnologie pomiarowe i narzędzia do projektowania układów fotonicznych.\nProjekty\nWszystkie projekty\nArtiSense\nAIFIELD\nFirma\nStrona główna\nDla inwestorów\nJak pracujemy\nO nas\nWspółpraca\nKontakt\ninfo@artifactory.tech\nKontakt\nPrywatność\nArtifactory · 2026\nLokalna wersja do przeglądu. Treści i polskie tłumaczenia wymagają zatwierdzenia.\nNa górę ↑",
+  "links": [
+    {
+      "text": "Przejdź do treści",
+      "href": "#main",
+      "lang": ""
+    },
+    {
+      "text": "artifactory.",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "Wszystkie projekty",
+      "href": "/pl/projekty/",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSenseCzujniki fotoniczne",
+      "href": "/pl/projekty/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELDInżynieria fotoniczna",
+      "href": "/pl/projekty/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Dla inwestorów",
+      "href": "/pl/inwestorzy/",
+      "lang": ""
+    },
+    {
+      "text": "Jak pracujemy",
+      "href": "/pl/jak-pracujemy/",
+      "lang": ""
+    },
+    {
+      "text": "O nas",
+      "href": "/pl/o-nas/",
+      "lang": ""
+    },
+    {
+      "text": "Współpraca",
+      "href": "/pl/wspolpraca/",
+      "lang": ""
+    },
+    {
+      "text": "Kontakt",
+      "href": "/pl/kontakt/",
+      "lang": ""
+    },
+    {
+      "text": "EN",
+      "href": "/en/projects/",
+      "lang": "en"
+    },
+    {
+      "text": "Porozmawiajmy",
+      "href": "/pl/kontakt/?intent=investment",
+      "lang": ""
+    },
+    {
+      "text": "Strona główna",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "ARTISENSE / 01\nFOTONIKA\nSYGNAŁ\nŚWIATŁO",
+      "href": "/pl/projekty/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSense",
+      "href": "/pl/projekty/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "Poznaj ArtiSense",
+      "href": "/pl/projekty/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "POLE OPTYCZNE\nILUSTRACJA KONCEPCYJNA\nAIFIELD",
+      "href": "/pl/projekty/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELD",
+      "href": "/pl/projekty/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Poznaj AIFIELD",
+      "href": "/pl/projekty/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Badania i walidacja",
+      "href": "/pl/projekty/artisense/badania-walidacja/",
+      "lang": ""
+    },
+    {
+      "text": "Przykłady i walidacja",
+      "href": "/pl/projekty/aifield/przyklady-walidacja/",
+      "lang": ""
+    },
+    {
+      "text": "Porozmawiajmy o inwestycji",
+      "href": "/pl/kontakt/?intent=investment",
+      "lang": ""
+    },
+    {
+      "text": "Poznaj możliwości współpracy",
+      "href": "/pl/wspolpraca/",
+      "lang": ""
+    },
+    {
+      "text": "artifactory.",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "Wszystkie projekty",
+      "href": "/pl/projekty/",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSense",
+      "href": "/pl/projekty/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELD",
+      "href": "/pl/projekty/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Strona główna",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "Dla inwestorów",
+      "href": "/pl/inwestorzy/",
+      "lang": ""
+    },
+    {
+      "text": "Jak pracujemy",
+      "href": "/pl/jak-pracujemy/",
+      "lang": ""
+    },
+    {
+      "text": "O nas",
+      "href": "/pl/o-nas/",
+      "lang": ""
+    },
+    {
+      "text": "Współpraca",
+      "href": "/pl/wspolpraca/",
+      "lang": ""
+    },
+    {
+      "text": "info@artifactory.tech",
+      "href": "mailto:info@artifactory.tech",
+      "lang": ""
+    },
+    {
+      "text": "Kontakt",
+      "href": "/pl/kontakt/",
+      "lang": ""
+    },
+    {
+      "text": "Prywatność",
+      "href": "/pl/prywatnosc/",
+      "lang": ""
+    },
+    {
+      "text": "Na górę ↑",
+      "href": "#top",
+      "lang": ""
+    }
+  ],
+  "metadata": [
+    {
+      "name": "viewport",
+      "content": "width=device-width, initial-scale=1"
+    },
+    {
+      "name": "description",
+      "content": "Poznaj ArtiSense i AIFIELD: badania pomiarowe i narzędzia projektowania fotonicznego, ich etapy rozwoju i ograniczenia dowodów."
+    },
+    {
+      "name": "robots",
+      "content": "noindex,nofollow"
+    },
+    {
+      "name": "theme-color",
+      "content": "#662483"
+    },
+    {
+      "rel": "canonical",
+      "href": "http://127.0.0.1:4511/pl/projekty/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "en",
+      "href": "http://127.0.0.1:4511/en/projects/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "pl",
+      "href": "http://127.0.0.1:4511/pl/projekty/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "x-default",
+      "href": "http://127.0.0.1:4511/en/projects/"
+    },
+    {
+      "property": "og:type",
+      "content": "website"
+    },
+    {
+      "property": "og:site_name",
+      "content": "Artifactory"
+    },
+    {
+      "property": "og:title",
+      "content": "Projekty | Artifactory"
+    },
+    {
+      "property": "og:description",
+      "content": "Poznaj ArtiSense i AIFIELD: badania pomiarowe i narzędzia projektowania fotonicznego, ich etapy rozwoju i ograniczenia dowodów."
+    },
+    {
+      "property": "og:locale",
+      "content": "pl_PL"
+    },
+    {
+      "property": "og:locale:alternate",
+      "content": "en_GB"
+    },
+    {
+      "property": "og:url",
+      "content": "http://127.0.0.1:4511/pl/projekty/"
+    },
+    {
+      "property": "og:image",
+      "content": "http://127.0.0.1:4511/assets/share-pl.svg"
+    },
+    {
+      "name": "twitter:card",
+      "content": "summary_large_image"
+    }
+  ],
+  "forms": [],
+  "images": [],
+  "viewport": {
+    "width": 390,
+    "height": 844,
+    "scrollWidth": 390
+  },
+  "overflowing": [
+    {
+      "tag": "TABLE",
+      "class": "",
+      "text": "Perspektywa\tArtiSense\tAIFIELD\nObszar\tUkłady pomiarowe\tProjektowanie i symulacja\nDocelowy wynik\tZmini"
+    },
+    {
+      "tag": "THEAD",
+      "class": "",
+      "text": "Perspektywa\tArtiSense\tAIFIELD\n"
+    },
+    {
+      "tag": "TR",
+      "class": "",
+      "text": "Perspektywa\tArtiSense\tAIFIELD"
+    },
+    {
+      "tag": "TH",
+      "class": "",
+      "text": "AIFIELD"
+    },
+    {
+      "tag": "TBODY",
+      "class": "",
+      "text": "Obszar\tUkłady pomiarowe\tProjektowanie i symulacja\nDocelowy wynik\tZminiaturyzowany system pomiarów ch"
+    },
+    {
+      "tag": "TR",
+      "class": "",
+      "text": "Obszar\tUkłady pomiarowe\tProjektowanie i symulacja"
+    },
+    {
+      "tag": "TD",
+      "class": "",
+      "text": "Projektowanie i symulacja"
+    },
+    {
+      "tag": "TR",
+      "class": "",
+      "text": "Docelowy wynik\tZminiaturyzowany system pomiarów chemicznych\tProces projektowania i symulacji fotonic"
+    },
+    {
+      "tag": "TD",
+      "class": "",
+      "text": "Proces projektowania i symulacji fotonicznej"
+    },
+    {
+      "tag": "TR",
+      "class": "",
+      "text": "Etap opisany w materiałach\tBadania i rozwój koncepcji\tRozwój i demonstracje wewnętrzne"
+    },
+    {
+      "tag": "TD",
+      "class": "",
+      "text": "Rozwój i demonstracje wewnętrzne"
+    },
+    {
+      "tag": "TR",
+      "class": "",
+      "text": "Granica dowodów\tProjekt nie potwierdza skuteczności pomiarowej\tPorównania symulacji nie potwierdzają"
+    },
+    {
+      "tag": "TD",
+      "class": "",
+      "text": "Porównania symulacji nie potwierdzają wyników wykonanych układów"
+    }
+  ],
+  "axe": {
+    "violations": [
+      {
+        "id": "heading-order",
+        "impact": "moderate",
+        "tags": [
+          "cat.semantics",
+          "best-practice"
+        ],
+        "description": "Ensure the order of headings is semantically correct",
+        "help": "Heading levels should only increase by one",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/heading-order?application=playwright",
+        "nodes": [
+          {
+            "any": [
+              {
+                "id": "heading-order",
+                "data": null,
+                "relatedNodes": [],
+                "impact": "moderate",
+                "message": "Heading order invalid"
+              }
+            ],
+            "all": [],
+            "none": [],
+            "impact": "moderate",
+            "html": "<h3><a href=\"/pl/projekty/artisense/\">ArtiSense</a></h3>",
+            "target": [
+              "article:nth-child(1) > .project-card-content > h3"
+            ],
+            "failureSummary": "Fix any of the following:\n  Heading order invalid"
+          }
+        ]
+      },
+      {
+        "id": "region",
+        "impact": "moderate",
+        "tags": [
+          "cat.keyboard",
+          "best-practice",
+          "RGAAv4",
+          "RGAA-9.2.1"
+        ],
+        "description": "Ensure all page content is contained by landmarks",
+        "help": "All page content should be contained by landmarks",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/region?application=playwright",
+        "nodes": [
+          {
+            "any": [
+              {
+                "id": "region",
+                "data": {
+                  "isIframe": false
+                },
+                "relatedNodes": [],
+                "impact": "moderate",
+                "message": "Some page content is not contained by landmarks"
+              }
+            ],
+            "all": [],
+            "none": [],
+            "impact": "moderate",
+            "html": "<div class=\"preview-strip\"><div class=\"container\"><span><i aria-hidden=\"true\"></i>Podgląd lokalny</span><span>Treści robocze · 9 października 2026</span></div></div>",
+            "target": [
+              ".preview-strip"
+            ],
+            "failureSummary": "Fix any of the following:\n  Some page content is not contained by landmarks"
+          }
+        ]
+      }
+    ],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "impact": "serious",
+        "nodeCount": 12
+      }
+    ],
+    "passes": 45
+  }
+}

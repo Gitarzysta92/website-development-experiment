@@ -1,0 +1,17 @@
+---
+import Header from '../partials/Header.astro';
+import Footer from '../partials/Footer.astro';
+import { metadata } from '../metadata';
+import '../styles/global.css';
+const {id,locale,page}=Astro.props;
+const meta=metadata(id==='404'?'home':id,locale,page);
+---
+<!doctype html><html lang={locale}><head>
+<meta charset="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/>
+<meta name="robots" content="noindex,nofollow"/><meta name="color-scheme" content="light"/>
+<title>{meta.title}</title><meta name="description" content={meta.description}/>
+<link rel="icon" href="/favicon.svg" type="image/svg+xml"/>
+<link rel="canonical" href={meta.canonical}/>
+<link rel="alternate" hreflang="en" href={meta.en}/><link rel="alternate" hreflang="pl" href={meta.pl}/><link rel="alternate" hreflang="x-default" href={meta.en}/>
+<meta property="og:image:width" content="1200"/><meta property="og:image:height" content="630"/><meta property="og:type" content="website"/><meta property="og:title" content={meta.title}/><meta property="og:description" content={meta.description}/><meta property="og:image" content={meta.share}/>
+</head><body><a class="skip-link" href="#main">{locale==='pl'?'Przejdź do treści':'Skip to content'}</a><Header id={id} locale={locale}/><slot/><Footer locale={locale}/></body></html>

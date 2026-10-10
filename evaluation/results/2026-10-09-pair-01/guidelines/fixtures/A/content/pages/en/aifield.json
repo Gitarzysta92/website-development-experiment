@@ -1,0 +1,107 @@
+{
+  "id": "aifield",
+  "locale": "en",
+  "type": "overview",
+  "title": "From photonic idea to an inspectable design.",
+  "description": "AIFIELD connects photonic design and classical simulation, with partial AI assistance and a separate neural field research direction.",
+  "eyebrow": "AIFIELD / PHOTONIC ENGINEERING",
+  "lead": "Tools for engineers who need to move between a photonic structure, its assumptions and the behavior predicted by a model.",
+  "sections": [
+    {
+      "id": "users",
+      "title": "A working context for photonic engineering.",
+      "paragraphs": [
+        "Designing an optical component involves more than drawing its outline. Geometry, materials, layers and the intended process all shape the question a simulation can answer. AIFIELD is presented as a place to connect that design work with model-based investigation.",
+        "Its intended users include photonic designers and researchers assessing candidate structures. The useful output is an inspectable engineering design and simulation result, with enough context to understand what was modeled."
+      ],
+      "links": [
+        {
+          "id": "aifield-design"
+        }
+      ]
+    },
+    {
+      "id": "classical",
+      "title": "The classical toolchain, as described in September 2026.",
+      "paragraphs": [
+        "The supplied demonstration summary describes geometry, layer and process handling alongside mode, circuit, field and thermal simulation work. These are dated capability descriptions; they do not establish the availability or support status of every function today.",
+        "The workflow moves from a design question through setup and execution to result inspection. Agent assistance can help with parts of that process, while a person remains responsible for applying and reviewing proposed changes."
+      ],
+      "links": [
+        {
+          "id": "aifield-design"
+        },
+        {
+          "id": "aifield-ai"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "title": "A separate question: can a network predict the field?",
+      "paragraphs": [
+        "Neural optical-field prediction explores whether a learned model can provide useful field estimates. The supplied research depends on conditions including boundary information. Generalization, larger stitched domains and practical speed advantage remain open questions.",
+        "This research is distinct from the classical design tools and from ArtiSense’s proposed analog signal-interpretation processor."
+      ],
+      "links": [
+        {
+          "id": "aifield-neural"
+        }
+      ]
+    },
+    {
+      "id": "example",
+      "title": "One internal design example. Two different questions.",
+      "paragraphs": [
+        "The photonic glucose chip-design example connects the projects. AIFIELD concerns the geometry, design workflow and simulated behavior. ArtiSense concerns the intended sensing outcome and what would be needed to validate it.",
+        "Internal design work is useful evidence of an engineering activity. It is not a customer deployment, fabricated-chip measurement or validation of glucose accuracy."
+      ],
+      "links": [
+        {
+          "id": "aifield-validation"
+        },
+        {
+          "id": "artisense"
+        }
+      ]
+    },
+    {
+      "id": "access",
+      "title": "Start with the engineering question.",
+      "paragraphs": [
+        "A demo request starts a conversation about the design task, available workflow and limitations. It does not create an account or grant immediate software access. Describe the structure you want to investigate and the result you need to inspect; avoid sending confidential design files in the initial enquiry."
+      ],
+      "links": [
+        {
+          "id": "investors"
+        },
+        {
+          "id": "partnerships"
+        }
+      ]
+    }
+  ],
+  "relatedIds": [
+    "aifield-design",
+    "aifield-ai",
+    "aifield-neural",
+    "aifield-validation",
+    "artisense",
+    "investors"
+  ],
+  "project": "aifield",
+  "sourceReferences": [
+    "HP-1.1/project-context",
+    "SM-0.3/aifield"
+  ],
+  "sourceRevision": "2026-10-09 (AIFIELD snapshot: September 2026)",
+  "editorialState": "published",
+  "modifiedAt": "2026-10-09T21:00:00.000Z",
+  "reviews": {
+    "facts": "aa8b00867d8826a99ff4e1598047a1cfca6485d296f2776c919e58c9c19a0c71",
+    "language": "aa8b00867d8826a99ff4e1598047a1cfca6485d296f2776c919e58c9c19a0c71",
+    "assets": "aa8b00867d8826a99ff4e1598047a1cfca6485d296f2776c919e58c9c19a0c71"
+  },
+  "privateNotes": "Locally authored from supplied summary. Factual, translation and asset owner review pending. Original PDFs were not supplied.",
+  "maturity": "September 2026 source snapshot · current access by discussion"
+}

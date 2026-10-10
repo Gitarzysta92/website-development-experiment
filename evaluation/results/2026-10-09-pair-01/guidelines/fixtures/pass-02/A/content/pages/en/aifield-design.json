@@ -1,0 +1,93 @@
+{
+  "id": "aifield-design",
+  "locale": "en",
+  "type": "detail",
+  "title": "Connect the structure to the simulation.",
+  "description": "Geometry, layers, process assumptions and classical simulation tasks in the September 2026 AIFIELD design workflow.",
+  "eyebrow": "AIFIELD / PHOTONIC ENGINEERING",
+  "lead": "An engineering result is useful when you can trace it back to the design choices and conditions that produced it.",
+  "sections": [
+    {
+      "id": "setup",
+      "title": "Define the object before asking the solver.",
+      "paragraphs": [
+        "The September 2026 summary describes geometry and layer/process handling. These provide the context for a photonic structure: what is drawn, which materials and layers it represents, and which process assumptions are being used.",
+        "A useful setup also identifies the question: a mode property, circuit response, spatial field or thermal effect. The supplied material does not establish a complete supported-format list, process library or fabrication-ready export guarantee."
+      ]
+    },
+    {
+      "id": "tasks",
+      "title": "Choose a model for the question.",
+      "paragraphs": [
+        "The source describes work in four classical simulation areas. Their outputs answer different engineering questions and should be interpreted within the corresponding inputs and assumptions."
+      ],
+      "rows": [
+        [
+          "Modes",
+          "Study supported optical behavior in a specified structure. Geometry, material and boundary assumptions remain part of the result."
+        ],
+        [
+          "Circuits",
+          "Investigate response at the connected-component level. Component models and their valid range matter."
+        ],
+        [
+          "Fields",
+          "Inspect spatial optical behavior in a modeled domain. Sources, boundaries and discretization affect interpretation."
+        ],
+        [
+          "Thermal work",
+          "Investigate modeled temperature behavior and its engineering context. Thermal inputs and coupling assumptions require review."
+        ]
+      ]
+    },
+    {
+      "id": "sequence",
+      "title": "Carry the inputs through to the result.",
+      "paragraphs": [
+        "Begin with the geometry and model definition. Review the setup before executing the selected tool. Inspect the resulting output alongside its parameters, then change one justified aspect of the design and compare again.",
+        "This explanatory sequence makes the responsibilities visible; it is not a claim that every step is automated or every solver has been independently validated. The engineer must assess whether the chosen model represents the intended physical question."
+      ],
+      "links": [
+        {
+          "id": "aifield-ai"
+        }
+      ]
+    },
+    {
+      "id": "limits",
+      "title": "A model is a conditional answer.",
+      "paragraphs": [
+        "The supplied summary does not include solver settings, convergence records or numerical benchmark tables sufficient for reproduction here. No universal accuracy, runtime or manufacturing compatibility is asserted.",
+        "For a technical discussion, identify the required inputs, expected output and reference comparison. Current format support, access and practical limits must be confirmed for that task."
+      ],
+      "links": [
+        {
+          "id": "aifield-validation"
+        },
+        {
+          "id": "contact"
+        }
+      ]
+    }
+  ],
+  "relatedIds": [
+    "aifield-validation",
+    "aifield-ai",
+    "contact"
+  ],
+  "project": "aifield",
+  "sourceReferences": [
+    "HP-1.1/project-context",
+    "SM-0.3/aifield-design"
+  ],
+  "sourceRevision": "2026-10-09 (AIFIELD snapshot: September 2026)",
+  "editorialState": "draft",
+  "modifiedAt": "2026-10-09T21:00:00.000Z",
+  "reviews": {
+    "facts": null,
+    "language": null,
+    "assets": null
+  },
+  "privateNotes": "Locally authored from supplied summary. Factual, translation and asset owner review pending. Original PDFs were not supplied.",
+  "maturity": "September 2026 source snapshot · current access by discussion"
+}

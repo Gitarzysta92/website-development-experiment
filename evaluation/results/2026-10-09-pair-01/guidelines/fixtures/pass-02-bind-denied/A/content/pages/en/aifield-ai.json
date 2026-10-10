@@ -1,0 +1,76 @@
+{
+  "id": "aifield-ai",
+  "locale": "en",
+  "type": "detail",
+  "title": "Assistance with a human review point.",
+  "description": "How AIFIELD explores command-line and MCP agent assistance: proposed actions, human application, tool execution and result review.",
+  "eyebrow": "AIFIELD / PHOTONIC ENGINEERING",
+  "lead": "An instruction can start a useful engineering action. It does not remove the need to check what the tool changed or what the result means.",
+  "sections": [
+    {
+      "id": "instruction",
+      "title": "Turn an intention into a proposed action.",
+      "paragraphs": [
+        "A person defines the task and relevant design context. An assistant may propose a sequence of changes or tool calls. The September 2026 material describes partial assistance through command-line and Model Context Protocol (MCP) workflows.",
+        "A command-line interface exposes an explicit operation. MCP provides a way for an assistant to call exposed tools. Neither interface establishes that a proposed operation is physically appropriate or safe to accept without review."
+      ]
+    },
+    {
+      "id": "review",
+      "title": "Application and review remain human responsibilities.",
+      "paragraphs": [
+        "The described workflow includes human application and review of proposals. Before accepting a change, inspect its target, parameters and effect on the design. After tool execution, compare the output with the intended engineering question.",
+        "An apparently successful tool call can still use the wrong geometry, boundary condition or interpretation. A failed or incomplete call needs an explicit outcome before further actions build on it. This is not evidence of autonomous end-to-end chip design."
+      ],
+      "links": [
+        {
+          "id": "aifield-design"
+        }
+      ]
+    },
+    {
+      "id": "data",
+      "title": "Know where the information goes.",
+      "paragraphs": [
+        "The local solver and the assistant are separate processing boundaries. Running a solver locally does not establish that every prompt, design excerpt or returned result remains local. The supplied summary does not settle which assistant providers or external processing settings apply to a particular deployment.",
+        "Before sharing sensitive work, confirm which data leaves the machine, which service receives it, retention settings and access permissions. No blanket confidentiality guarantee is made here; the initial enquiry should describe a non-confidential task."
+      ]
+    },
+    {
+      "id": "limits",
+      "title": "Inspect the whole sequence, including failures.",
+      "paragraphs": [
+        "A useful demonstration should show the user instruction, proposed action, accepted changes, executed command and inspected result. It should also show what happens when a tool is unavailable or the output is ambiguous.",
+        "The current source supports partial workflow assistance. Broader automation, unattended reliability and current access remain questions for a scoped demonstration."
+      ],
+      "links": [
+        {
+          "id": "aifield-validation"
+        },
+        {
+          "id": "contact"
+        }
+      ]
+    }
+  ],
+  "relatedIds": [
+    "aifield-design",
+    "aifield-validation",
+    "contact"
+  ],
+  "project": "aifield",
+  "sourceReferences": [
+    "HP-1.1/project-context",
+    "SM-0.3/aifield-ai"
+  ],
+  "sourceRevision": "2026-10-09 (AIFIELD snapshot: September 2026)",
+  "editorialState": "draft",
+  "modifiedAt": "2026-10-09T21:00:00.000Z",
+  "reviews": {
+    "facts": null,
+    "language": null,
+    "assets": null
+  },
+  "privateNotes": "Locally authored from supplied summary. Factual, translation and asset owner review pending. Original PDFs were not supplied.",
+  "maturity": "September 2026 source snapshot · current access by discussion"
+}

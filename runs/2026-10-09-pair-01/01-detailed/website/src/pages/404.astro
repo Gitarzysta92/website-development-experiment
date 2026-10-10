@@ -1,0 +1,15 @@
+---
+import PageFrame from '../layouts/PageFrame.astro';
+import SiteHeader from '../partials/SiteHeader.astro';
+import SiteFooter from '../partials/SiteFooter.astro';
+import Button from '../components/ui/Button.astro';
+import {routeFor,labelFor} from '../navigation/index';
+import type {PageView} from '../content/index';
+import copy from '../../content/shared/recovery/copy.json';
+export const prerender = false;
+Astro.response.status = 404;
+const locale=Astro.url.pathname==='/pl'||Astro.url.pathname.startsWith('/pl/')?'pl':'en';
+const text=copy[locale];
+const page:PageView={id:'home',locale,type:'company',title:text.title,description:text.description,eyebrow:'404',lead:text.description,sections:[],relatedIds:[],project:null};
+---
+<PageFrame page={page} recovery><SiteHeader slot="header" id="home" locale={locale} translationAvailable={false}/><section class="container section"><p class="eyebrow">404</p><h1>{text.title}</h1><p class="lead">{text.description}</p><div class="actions"><Button href={routeFor('home',locale)}>{labelFor('home',locale)}</Button><a class="text-link" href={routeFor('projects',locale)}>{labelFor('projects',locale)}</a><a class="text-link" href={routeFor('contact',locale)}>{labelFor('contact',locale)}</a></div></section><SiteFooter slot="footer" locale={locale}/></PageFrame>

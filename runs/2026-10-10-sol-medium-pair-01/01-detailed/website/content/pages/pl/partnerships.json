@@ -1,0 +1,43 @@
+{
+  "id": "partnerships",
+  "locale": "pl",
+  "title": "Współpraca wokół konkretnego pytania technicznego",
+  "description": "Możliwa współpraca może dotyczyć warunków pomiaru optycznego, procesu projektowania fotoniki lub niezależnej walidacji. Są to propozycje rozmowy, nie potwierdzenie istniejących umów partnerskich.",
+  "eyebrow": "Artifactory",
+  "lead": "Możliwa współpraca może dotyczyć warunków pomiaru optycznego, procesu projektowania fotoniki lub niezależnej walidacji. Są to propozycje rozmowy, nie potwierdzenie istniejących umów partnerskich.",
+  "sections": [
+    {
+      "id": "section-1",
+      "heading": "Dla badaczy pomiaru",
+      "body": [
+        "Warto określić substancję, przygotowanie próbki, metodę odniesienia i źródła zmienności. Wspólna praca wymagałaby jasnego podziału zadań i planu badania przed sformułowaniem deklaracji skuteczności."
+      ]
+    },
+    {
+      "id": "section-2",
+      "heading": "Dla inżynierów fotoniki",
+      "body": [
+        "Rozmowa projektowa może dotyczyć założeń technologicznych, odtwarzalności symulacji i zgodności z niezależnymi wynikami. Przykład układu dla glukozy jest przypadkiem projektowym, nie dowodem wdrożonego ani zmierzonego produktu."
+      ]
+    },
+    {
+      "id": "section-3",
+      "heading": "Zacznij od zakresu i dowodów",
+      "body": [
+        "Opisz pytanie, możliwe do udostępnienia informacje, pożądany wynik i sposób jego sprawdzenia. Formularz w tej wersji tworzy wyłącznie lokalne zgłoszenie testowe; wysłanie go nie kontaktuje się z partnerem."
+      ]
+    }
+  ],
+  "related": [
+    "artisense-validation",
+    "aifield-validation",
+    "contact"
+  ],
+  "editorialState": "draft",
+  "sourceRevision": "HP-1.1; context 2026-10-09",
+  "modified": "2026-10-10",
+  "sourceRefs": [
+    "inputs/content/project-context.md (summary, 2026-10-09)",
+    "inputs/docs/sitemap.md (SM-0.3)"
+  ]
+}

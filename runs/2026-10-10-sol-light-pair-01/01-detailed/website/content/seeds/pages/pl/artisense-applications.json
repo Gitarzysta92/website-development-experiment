@@ -1,0 +1,46 @@
+{
+  "id": "artisense-applications",
+  "locale": "pl",
+  "title": "Od badań do zastosowania",
+  "lead": "Badania nad glukozą pokazują kierunek prac ArtiSense, a nie dostępną funkcję kliniczną.",
+  "description": "Potencjalny pomiar nieinwazyjny i forma noszona na ciele wymagają rzetelnej walidacji.",
+  "eyebrow": "ArtiSense",
+  "sections": [
+    {
+      "id": "focus",
+      "title": "Przykład glukozy",
+      "paragraphs": [
+        "Powtarzalne pomiary mogłyby być cenne. Dostarczone materiały dotyczą jednak możliwości optycznych i projektu, a nie potwierdzonych odczytów glukozy u ludzi."
+      ]
+    },
+    {
+      "id": "evidence",
+      "title": "Warunki użycia",
+      "paragraphs": [
+        "Przyszłe urządzenie musiałoby uwzględniać zmienność skóry i próbki, dryft kalibracji, środowisko, bezpieczeństwo i wygodę."
+      ]
+    },
+    {
+      "id": "next",
+      "title": "Droga do zastosowania",
+      "paragraphs": [
+        "Przed deklaracją zdrowotną niezależne badania musiałyby potwierdzić parametry analityczne oraz przydatność w zamierzonym kontekście."
+      ]
+    }
+  ],
+  "related": [
+    "artisense",
+    "artisense-technology",
+    "artisense-applications",
+    "artisense-validation",
+    "partnerships"
+  ],
+  "stage": "Local draft · source context October 2026",
+  "pageType": "project",
+  "sourceReferences": [
+    "HP-1.1 project-context 2026-10-09"
+  ],
+  "sourceRevision": "2026-10-09",
+  "editorialState": "draft",
+  "modifiedAt": "2026-10-10"
+}

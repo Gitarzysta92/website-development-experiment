@@ -1,0 +1,12 @@
+file:///Users/michal.lukasiewicz/Programming/website-development-experiment/evaluation/results/2026-10-09-pair-01/guidelines/pass-02/fail-promotion.mjs:8
+  const error=new Error('Synthetic evaluation: candidate promotion denied');error.code='EACCES';throw error;
+              ^
+
+Error: Synthetic evaluation: candidate promotion denied
+    at fail (file:///Users/michal.lukasiewicz/Programming/website-development-experiment/evaluation/results/2026-10-09-pair-01/guidelines/pass-02/fail-promotion.mjs:8:15)
+    at fsp.rename (file:///Users/michal.lukasiewicz/Programming/website-development-experiment/evaluation/results/2026-10-09-pair-01/guidelines/pass-02/fail-promotion.mjs:12:65)
+    at file:///Users/michal.lukasiewicz/Programming/website-development-experiment/evaluation/results/2026-10-09-pair-01/guidelines/fixtures/pass-02/B/build.mjs:121:7 {
+  code: 'EACCES'
+}
+
+Node.js v24.21.0

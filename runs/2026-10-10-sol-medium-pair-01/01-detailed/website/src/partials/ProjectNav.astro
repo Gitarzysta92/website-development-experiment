@@ -1,0 +1,6 @@
+---
+import {route,routes,type Locale} from '../navigation';
+const {id,locale,project}=Astro.props as {id:string;locale:Locale;project:'artisense'|'aifield'};
+const pages=routes.filter(r=>r.id===project||r.parent===project);
+---
+<nav class="project-nav" aria-label={locale==='pl'?'Nawigacja projektu':'Project navigation'}><span class="project-nav-title">{project==='artisense'?'ArtiSense':'AIFIELD'} <span> / {locale==='pl'?'Poznaj projekt':'Explore the project'}</span></span><div class="project-nav-links">{pages.map(r=><a href={route(r.id,locale)} aria-current={id===r.id?'page':undefined}>{r.id===project?(locale==='pl'?'Przegląd':'Overview'):r.labels[locale]}</a>)}</div></nav>

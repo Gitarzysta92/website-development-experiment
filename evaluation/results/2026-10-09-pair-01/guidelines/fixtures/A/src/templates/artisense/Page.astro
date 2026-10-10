@@ -1,0 +1,13 @@
+---
+import type {PageView} from '../../content/index';
+import ProjectFrame from '../../layouts/ProjectFrame.astro';
+import PageIntro from '../../partials/PageIntro.astro';
+import ProjectClosing from '../../partials/ProjectClosing.astro';
+import Sections from '../Sections.astro';
+import Figure from '../../components/ui/Figure.astro';
+import ConceptVisual from '../../components/ui/ConceptVisual.astro';
+import {routeFor,legacyAnchors} from '../../navigation/index';
+interface Props{page:PageView;}const {page}=Astro.props;const pl=page.locale==='pl';
+---
+<PageIntro page={page}/><ProjectFrame page={page}><div class="overview-figure"><Figure caption={pl?'Schemat koncepcyjny proponowanego systemu. Nie przedstawia wykonanego urządzenia ani danych pomiarowych.':'Concept diagram of the proposed system. Not a fabricated device or measurement data.'}><ConceptVisual kind="sensing" label={pl?'Koncepcja: światło oddziałuje z próbką, a odpowiedź jest wykrywana i interpretowana.':'Concept: light interacts with a sample; its response is detected and interpreted.'} labels={['ARTISENSE',pl?'ŚWIATŁO → ODPOWIEDŹ → INTERPRETACJA':'LIGHT → RESPONSE → INTERPRETATION']}/></Figure></div><Sections page={page}/>{pl&&<section class="body-section legacy-summary"><h2>Fotoniczny moduł pomiarowy</h2>{legacyAnchors.map((id,i)=><div id={id}><h3>{['O module','Fotonika','Elektronika','Technologie'][i]}</h3><p>{['ArtiSense opisuje proponowany system pomiarów chemicznych, łączący oddziaływanie światła z interpretacją sygnałów.','Widzialne lub podczerwone światło miałoby oddziaływać z próbką. Odpowiedź optyczna wymaga porównania z odniesieniem.','Proponowany analogowy procesor neuromorficzny jest blokiem interpretacji sygnału; nie należy utożsamiać go z neuronowym solwerem AIFIELD.','Architektura obejmuje elementy optyczne, detekcję i przetwarzanie. Ich opis nie potwierdza wykonania zintegrowanego urządzenia.'][i]}</p><a class="text-link" href={routeFor('artisense-technology',page.locale)}>Poznaj proponowaną technologię ↗</a></div>)}</section>}</ProjectFrame><ProjectClosing page={page}/>
+<style>.overview-figure{margin-bottom:48px}.legacy-summary>div{margin-block:28px;scroll-margin-top:120px}.legacy-summary h3{font-size:22px;margin-bottom:12px}</style>

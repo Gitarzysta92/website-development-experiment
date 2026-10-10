@@ -1,0 +1,359 @@
+{
+  "id": "A-en-aifield-neural-desktop",
+  "label": "A",
+  "locale": "en",
+  "pageId": "aifield-neural",
+  "view": "desktop",
+  "url": "http://127.0.0.1:4501/en/projects/aifield/neural-field-research/",
+  "status": 200,
+  "errors": [],
+  "title": "What could a learned field model predict? | Artifactory",
+  "language": "en",
+  "h1": [
+    "What could a learned field model predict?"
+  ],
+  "headings": [
+    {
+      "level": "H1",
+      "text": "What could a learned field model predict?"
+    },
+    {
+      "level": "H2",
+      "text": "Explore a learned approximation of optical behavior."
+    },
+    {
+      "level": "H2",
+      "text": "Boundary information is part of the experiment."
+    },
+    {
+      "level": "H2",
+      "text": "Four questions before broader use."
+    },
+    {
+      "level": "H2",
+      "text": "Make the next comparison answer a narrower question."
+    },
+    {
+      "level": "H2",
+      "text": "Let’s explore what comes next."
+    },
+    {
+      "level": "H2",
+      "text": "Company"
+    },
+    {
+      "level": "H2",
+      "text": "Projects"
+    },
+    {
+      "level": "H2",
+      "text": "Connect"
+    }
+  ],
+  "text": "Skip to content\nLocal draft · Research in progress\na·\nartifactory\nProjects\n⌄\nInvestors\nOur Approach\nAbout\nPL\n↔\nLet’s talk\n↗\nHome\nProjects\nAIFIELD\nNeural Field Research\n\nAIFIELD / PHOTONIC ENGINEERING\n\nWhat could a learned field model predict?\n\nA research question about optical fields, with conditions that matter as much as the prediction itself.\n\nSeptember 2026 source snapshot · current access by discussion\n\nAIFIELD\n\nOverview\nDesign and Simulation\nAI Workflows\nNeural Field Research\nExamples and Validation\n\nOn this page\n\nExplore a learned approximation of optical behavior.\nBoundary information is part of the experiment.\nFour questions before broader use.\nMake the next comparison answer a narrower question.\n\nPart of AIFIELD by Artifactory.\n\nRESEARCH / CONCEPT\nILLUSTRATION WITHOUT MEASUREMENT DATA\n↗\nConcept illustration. Curves are not data or evidence of accuracy.\n01\nKnown information\n\nGeometry and supplied boundary context constrain the problem.\n\n↓\n02\nLearned prediction\n\nEstimate a field within the evaluated research setting.\n\n↓\n03\nReference comparison\n\nInspect discrepancies, transfer and end-to-end cost.\n\nExplanatory concept diagram, not a software interface or experimental result.\nExplore a learned approximation of optical behavior.\n\nThe neural research direction asks whether a learned model can estimate an optical field for a defined problem. It is a separate investigation from the classical design and simulation workflow described elsewhere.\n\nA promising prediction in a selected setting does not establish a general solver. The input information, training context, evaluated structures and reference all determine what the result can support.\n\nDesign and Simulation\n↗\nBoundary information is part of the experiment.\n\nThe supplied September 2026 research summary describes results under conditions that include supplied boundary information. That information constrains the problem. It must remain visible when interpreting a result or comparing the method with another approach.\n\nA prediction using such information cannot be presented as an equivalent demonstration of prediction from scratch. The original plots, complete settings and numerical comparisons are not provided in this package, so no reconstructed accuracy chart is shown.\n\nFour questions before broader use.\n\nThe research needs to be assessed beyond a favorable individual example. The summary identifies limits that affect practical interpretation.\n\nArea\tScope and limitations\nFrom-scratch prediction\tWhat information must already be known, and how much of the physical problem is solved by supplying it?\nGeneralization\tDoes the method remain useful for structures and conditions outside the evaluated context?\nStitched domains\tCan local predictions form a consistent larger field without unacceptable boundary mismatch?\nPractical speed\tDoes an advantage remain after preparation, boundary information, prediction and checking are included?\nMake the next comparison answer a narrower question.\n\nA useful next study would state its reference, input information, domain and acceptance criteria before comparing predictions. It should retain successful and unsuccessful cases, and report the work needed to obtain an end-to-end result.\n\nThese are proposed research questions, not a confirmed experiment schedule. The supplied summary does not establish universal accuracy or a practical speed advantage. An investment or collaboration discussion should keep that uncertainty explicit.\n\nExamples and Validation\n↗\nInvestors\n↗\nPartnerships\n↗\n\nSTART WITH A QUESTION\n\nLet’s explore what comes next.\nRequest a demo\n↗\nPartnership opportunities ↗\nartifactory·\n\nSensing technology and tools for designing photonic systems.\n\ninfo@artifactory.tech\n↗\nCompany\nHome\nProjects\nInvestors\nOur Approach\nAbout\nProjects\nArtiSense\nAIFIELD\nConnect\nPartnerships\nContact\nPrivacy\nArtifactory\nNew possibilities, through light.",
+  "links": [
+    {
+      "text": "Skip to content",
+      "href": "#main",
+      "lang": ""
+    },
+    {
+      "text": "a·\nartifactory",
+      "href": "/en/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/en/projects/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/en/projects/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/en/projects/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Investors",
+      "href": "/en/investors/",
+      "lang": ""
+    },
+    {
+      "text": "Our Approach",
+      "href": "/en/approach/",
+      "lang": ""
+    },
+    {
+      "text": "About",
+      "href": "/en/about/",
+      "lang": ""
+    },
+    {
+      "text": "Partnerships",
+      "href": "/en/partnerships/",
+      "lang": ""
+    },
+    {
+      "text": "Contact",
+      "href": "/en/contact/",
+      "lang": ""
+    },
+    {
+      "text": "PL\n↔",
+      "href": "http://127.0.0.1:4501/pl/projekty/aifield/badania-modeli-pola/",
+      "lang": "pl"
+    },
+    {
+      "text": "Let’s talk\n↗",
+      "href": "/en/contact/?intent=investment",
+      "lang": ""
+    },
+    {
+      "text": "Home",
+      "href": "/en/",
+      "lang": ""
+    },
+    {
+      "text": "Projects",
+      "href": "/en/projects/",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELD",
+      "href": "/en/projects/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Overview",
+      "href": "/en/projects/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Design and Simulation",
+      "href": "/en/projects/aifield/design-simulation/",
+      "lang": ""
+    },
+    {
+      "text": "AI Workflows",
+      "href": "/en/projects/aifield/ai-workflows/",
+      "lang": ""
+    },
+    {
+      "text": "Neural Field Research",
+      "href": "/en/projects/aifield/neural-field-research/",
+      "lang": ""
+    },
+    {
+      "text": "Examples and Validation",
+      "href": "/en/projects/aifield/examples-validation/",
+      "lang": ""
+    },
+    {
+      "text": "Explore a learned approximation of optical behavior.",
+      "href": "#question",
+      "lang": ""
+    },
+    {
+      "text": "Boundary information is part of the experiment.",
+      "href": "#boundaries",
+      "lang": ""
+    },
+    {
+      "text": "Four questions before broader use.",
+      "href": "#limits",
+      "lang": ""
+    },
+    {
+      "text": "Make the next comparison answer a narrower question.",
+      "href": "#next",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELD",
+      "href": "/en/projects/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Design and Simulation\n↗",
+      "href": "/en/projects/aifield/design-simulation/",
+      "lang": ""
+    },
+    {
+      "text": "Examples and Validation\n↗",
+      "href": "/en/projects/aifield/examples-validation/",
+      "lang": ""
+    },
+    {
+      "text": "Investors\n↗",
+      "href": "/en/investors/",
+      "lang": ""
+    },
+    {
+      "text": "Partnerships\n↗",
+      "href": "/en/partnerships/",
+      "lang": ""
+    },
+    {
+      "text": "Request a demo\n↗",
+      "href": "/en/contact/?intent=demo&project=aifield",
+      "lang": ""
+    },
+    {
+      "text": "Partnership opportunities ↗",
+      "href": "/en/partnerships/",
+      "lang": ""
+    },
+    {
+      "text": "artifactory·",
+      "href": "/en/",
+      "lang": ""
+    },
+    {
+      "text": "info@artifactory.tech\n↗",
+      "href": "mailto:info@artifactory.tech",
+      "lang": ""
+    },
+    {
+      "text": "Home",
+      "href": "/en/",
+      "lang": ""
+    },
+    {
+      "text": "Projects",
+      "href": "/en/projects/",
+      "lang": ""
+    },
+    {
+      "text": "Investors",
+      "href": "/en/investors/",
+      "lang": ""
+    },
+    {
+      "text": "Our Approach",
+      "href": "/en/approach/",
+      "lang": ""
+    },
+    {
+      "text": "About",
+      "href": "/en/about/",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSense",
+      "href": "/en/projects/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELD",
+      "href": "/en/projects/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Partnerships",
+      "href": "/en/partnerships/",
+      "lang": ""
+    },
+    {
+      "text": "Contact",
+      "href": "/en/contact/",
+      "lang": ""
+    },
+    {
+      "text": "Privacy",
+      "href": "/en/privacy/",
+      "lang": ""
+    }
+  ],
+  "metadata": [
+    {
+      "name": "viewport",
+      "content": "width=device-width, initial-scale=1"
+    },
+    {
+      "name": "description",
+      "content": "AIFIELD neural optical-field research: supplied boundary information, experimental context, generalization, domain stitching and unresolved speed advantage."
+    },
+    {
+      "name": "robots",
+      "content": "noindex, nofollow"
+    },
+    {
+      "rel": "canonical",
+      "href": "http://127.0.0.1:4501/en/projects/aifield/neural-field-research/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "en",
+      "href": "http://127.0.0.1:4501/en/projects/aifield/neural-field-research/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "pl",
+      "href": "http://127.0.0.1:4501/pl/projekty/aifield/badania-modeli-pola/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "x-default",
+      "href": "http://127.0.0.1:4501/en/projects/aifield/neural-field-research/"
+    },
+    {
+      "property": "og:type",
+      "content": "website"
+    },
+    {
+      "property": "og:site_name",
+      "content": "Artifactory"
+    },
+    {
+      "property": "og:title",
+      "content": "What could a learned field model predict? | Artifactory"
+    },
+    {
+      "property": "og:description",
+      "content": "AIFIELD neural optical-field research: supplied boundary information, experimental context, generalization, domain stitching and unresolved speed advantage."
+    },
+    {
+      "property": "og:url",
+      "content": "http://127.0.0.1:4501/en/projects/aifield/neural-field-research/"
+    },
+    {
+      "property": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "property": "og:image",
+      "content": "http://127.0.0.1:4501/brand/share-v1.svg"
+    },
+    {
+      "property": "og:image:width",
+      "content": "1200"
+    },
+    {
+      "property": "og:image:height",
+      "content": "630"
+    }
+  ],
+  "forms": [],
+  "images": [],
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "scrollWidth": 1425
+  },
+  "overflowing": [],
+  "axe": {
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "impact": "serious",
+        "nodeCount": 5
+      }
+    ],
+    "passes": 46
+  }
+}

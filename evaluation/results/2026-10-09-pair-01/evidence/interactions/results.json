@@ -1,0 +1,957 @@
+[
+  {
+    "id": "A-chromium-en-investor",
+    "status": "pass",
+    "finalUrl": "http://127.0.0.1:4501/en/contact/?intent=investment"
+  },
+  {
+    "id": "A-chromium-en-partner",
+    "status": "pass",
+    "finalUrl": "http://127.0.0.1:4501/en/contact/?intent=partnership"
+  },
+  {
+    "id": "A-chromium-en-demo",
+    "status": "pass",
+    "finalUrl": "http://127.0.0.1:4501/en/contact/?intent=demo&project=aifield"
+  },
+  {
+    "id": "A-chromium-en-mobile-menu-keyboard",
+    "status": "pass",
+    "activeElement": "<button class=\"menu-toggle\" aria-expanded=\"false\" aria-controls=\"global-navigation\" data-menu=\"\" data-astro-cid-qzo7jze3=\"\">Menu <span aria-hidden=\"true\" data-astro-cid-qzo7jze3=\"\">☰</span></button>"
+  },
+  {
+    "id": "A-chromium-en-form",
+    "status": "pass",
+    "invalid": 2,
+    "requests": 1,
+    "receipt": {
+      "status": "accepted",
+      "receiptId": "local-79d61859-b6aa-4060-8063-9dfe89e89ea8",
+      "mode": "fixture"
+    },
+    "duplicate": {
+      "status": "accepted",
+      "receiptId": "local-79d61859-b6aa-4060-8063-9dfe89e89ea8",
+      "mode": "fixture"
+    },
+    "statusText": "Test enquiry received locally. No email was sent."
+  },
+  {
+    "id": "A-chromium-pl-investor",
+    "status": "pass",
+    "finalUrl": "http://127.0.0.1:4501/pl/kontakt/?intent=investment"
+  },
+  {
+    "id": "A-chromium-pl-partner",
+    "status": "pass",
+    "finalUrl": "http://127.0.0.1:4501/pl/kontakt/?intent=partnership"
+  },
+  {
+    "id": "A-chromium-pl-demo",
+    "status": "pass",
+    "finalUrl": "http://127.0.0.1:4501/pl/kontakt/?intent=demo&project=aifield"
+  },
+  {
+    "id": "A-chromium-pl-mobile-menu-keyboard",
+    "status": "pass",
+    "activeElement": "<button class=\"menu-toggle\" aria-expanded=\"false\" aria-controls=\"global-navigation\" data-menu=\"\" data-astro-cid-qzo7jze3=\"\">Menu <span aria-hidden=\"true\" data-astro-cid-qzo7jze3=\"\">☰</span></button>"
+  },
+  {
+    "id": "A-chromium-pl-form",
+    "status": "pass",
+    "invalid": 2,
+    "requests": 1,
+    "receipt": {
+      "status": "accepted",
+      "receiptId": "local-8a2e0054-babb-4544-a318-e0387246dc21",
+      "mode": "fixture"
+    },
+    "duplicate": {
+      "status": "accepted",
+      "receiptId": "local-8a2e0054-babb-4544-a318-e0387246dc21",
+      "mode": "fixture"
+    },
+    "statusText": "Zapytanie testowe odebrano lokalnie. Nie wysłano e-maila."
+  },
+  {
+    "id": "A-language-home",
+    "status": "fail",
+    "error": "locator.click: Timeout 4000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href=\"/pl/\"]').visible().first()\u001b[22m\n"
+  },
+  {
+    "id": "A-language-projects",
+    "status": "fail",
+    "error": "locator.click: Timeout 4000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href=\"/pl/projekty/\"]').visible().first()\u001b[22m\n"
+  },
+  {
+    "id": "A-language-artisense",
+    "status": "fail",
+    "error": "locator.click: Timeout 4000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href=\"/pl/projekty/artisense/\"]').visible().first()\u001b[22m\n"
+  },
+  {
+    "id": "A-language-artisense-technology",
+    "status": "fail",
+    "error": "locator.click: Timeout 4000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href=\"/pl/projekty/artisense/technologia/\"]').visible().first()\u001b[22m\n"
+  },
+  {
+    "id": "A-language-artisense-applications",
+    "status": "fail",
+    "error": "locator.click: Timeout 4000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href=\"/pl/projekty/artisense/zastosowania/\"]').visible().first()\u001b[22m\n"
+  },
+  {
+    "id": "A-language-artisense-validation",
+    "status": "fail",
+    "error": "locator.click: Timeout 4000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href=\"/pl/projekty/artisense/badania-walidacja/\"]').visible().first()\u001b[22m\n"
+  },
+  {
+    "id": "A-language-aifield",
+    "status": "fail",
+    "error": "locator.click: Timeout 4000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href=\"/pl/projekty/aifield/\"]').visible().first()\u001b[22m\n"
+  },
+  {
+    "id": "A-language-aifield-design",
+    "status": "fail",
+    "error": "locator.click: Timeout 4000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href=\"/pl/projekty/aifield/projektowanie-symulacja/\"]').visible().first()\u001b[22m\n"
+  },
+  {
+    "id": "A-language-aifield-ai",
+    "status": "fail",
+    "error": "locator.click: Timeout 4000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href=\"/pl/projekty/aifield/praca-z-ai/\"]').visible().first()\u001b[22m\n"
+  },
+  {
+    "id": "A-language-aifield-neural",
+    "status": "fail",
+    "error": "locator.click: Timeout 4000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href=\"/pl/projekty/aifield/badania-modeli-pola/\"]').visible().first()\u001b[22m\n"
+  },
+  {
+    "id": "A-language-aifield-validation",
+    "status": "fail",
+    "error": "locator.click: Timeout 4000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href=\"/pl/projekty/aifield/przyklady-walidacja/\"]').visible().first()\u001b[22m\n"
+  },
+  {
+    "id": "A-language-investors",
+    "status": "fail",
+    "error": "locator.click: Timeout 4000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href=\"/pl/inwestorzy/\"]').visible().first()\u001b[22m\n"
+  },
+  {
+    "id": "A-language-approach",
+    "status": "fail",
+    "error": "locator.click: Timeout 4000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href=\"/pl/jak-pracujemy/\"]').visible().first()\u001b[22m\n"
+  },
+  {
+    "id": "A-language-about",
+    "status": "fail",
+    "error": "locator.click: Timeout 4000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href=\"/pl/o-nas/\"]').visible().first()\u001b[22m\n"
+  },
+  {
+    "id": "A-language-partnerships",
+    "status": "fail",
+    "error": "locator.click: Timeout 4000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href=\"/pl/wspolpraca/\"]').visible().first()\u001b[22m\n"
+  },
+  {
+    "id": "A-language-contact",
+    "status": "fail",
+    "error": "locator.click: Timeout 4000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href=\"/pl/kontakt/\"]').visible().first()\u001b[22m\n"
+  },
+  {
+    "id": "A-language-privacy",
+    "status": "fail",
+    "error": "locator.click: Timeout 4000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href=\"/pl/prywatnosc/\"]').visible().first()\u001b[22m\n"
+  },
+  {
+    "id": "A-narrow-home",
+    "status": "pass",
+    "viewport": 320,
+    "page": 305
+  },
+  {
+    "id": "A-narrow-projects",
+    "status": "pass",
+    "viewport": 320,
+    "page": 305
+  },
+  {
+    "id": "A-narrow-artisense",
+    "status": "pass",
+    "viewport": 320,
+    "page": 305
+  },
+  {
+    "id": "A-narrow-artisense-technology",
+    "status": "pass",
+    "viewport": 320,
+    "page": 305
+  },
+  {
+    "id": "A-narrow-artisense-applications",
+    "status": "pass",
+    "viewport": 320,
+    "page": 305
+  },
+  {
+    "id": "A-narrow-artisense-validation",
+    "status": "pass",
+    "viewport": 320,
+    "page": 305
+  },
+  {
+    "id": "A-narrow-aifield",
+    "status": "pass",
+    "viewport": 320,
+    "page": 305
+  },
+  {
+    "id": "A-narrow-aifield-design",
+    "status": "pass",
+    "viewport": 320,
+    "page": 305
+  },
+  {
+    "id": "A-narrow-aifield-ai",
+    "status": "pass",
+    "viewport": 320,
+    "page": 305
+  },
+  {
+    "id": "A-narrow-aifield-neural",
+    "status": "pass",
+    "viewport": 320,
+    "page": 305
+  },
+  {
+    "id": "A-narrow-aifield-validation",
+    "status": "pass",
+    "viewport": 320,
+    "page": 305
+  },
+  {
+    "id": "A-narrow-investors",
+    "status": "pass",
+    "viewport": 320,
+    "page": 305
+  },
+  {
+    "id": "A-narrow-approach",
+    "status": "pass",
+    "viewport": 320,
+    "page": 305
+  },
+  {
+    "id": "A-narrow-about",
+    "status": "pass",
+    "viewport": 320,
+    "page": 305
+  },
+  {
+    "id": "A-narrow-partnerships",
+    "status": "pass",
+    "viewport": 320,
+    "page": 305
+  },
+  {
+    "id": "A-narrow-contact",
+    "status": "pass",
+    "viewport": 320,
+    "page": 305
+  },
+  {
+    "id": "A-narrow-privacy",
+    "status": "pass",
+    "viewport": 320,
+    "page": 305
+  },
+  {
+    "id": "A-short-home",
+    "status": "pass",
+    "viewport": 1280,
+    "page": 1265
+  },
+  {
+    "id": "A-short-projects",
+    "status": "pass",
+    "viewport": 1280,
+    "page": 1265
+  },
+  {
+    "id": "A-short-artisense",
+    "status": "pass",
+    "viewport": 1280,
+    "page": 1265
+  },
+  {
+    "id": "A-short-artisense-technology",
+    "status": "pass",
+    "viewport": 1280,
+    "page": 1265
+  },
+  {
+    "id": "A-short-artisense-applications",
+    "status": "pass",
+    "viewport": 1280,
+    "page": 1265
+  },
+  {
+    "id": "A-short-artisense-validation",
+    "status": "pass",
+    "viewport": 1280,
+    "page": 1265
+  },
+  {
+    "id": "A-short-aifield",
+    "status": "pass",
+    "viewport": 1280,
+    "page": 1265
+  },
+  {
+    "id": "A-short-aifield-design",
+    "status": "pass",
+    "viewport": 1280,
+    "page": 1265
+  },
+  {
+    "id": "A-short-aifield-ai",
+    "status": "pass",
+    "viewport": 1280,
+    "page": 1265
+  },
+  {
+    "id": "A-short-aifield-neural",
+    "status": "pass",
+    "viewport": 1280,
+    "page": 1265
+  },
+  {
+    "id": "A-short-aifield-validation",
+    "status": "pass",
+    "viewport": 1280,
+    "page": 1265
+  },
+  {
+    "id": "A-short-investors",
+    "status": "pass",
+    "viewport": 1280,
+    "page": 1265
+  },
+  {
+    "id": "A-short-approach",
+    "status": "pass",
+    "viewport": 1280,
+    "page": 1265
+  },
+  {
+    "id": "A-short-about",
+    "status": "pass",
+    "viewport": 1280,
+    "page": 1265
+  },
+  {
+    "id": "A-short-partnerships",
+    "status": "pass",
+    "viewport": 1280,
+    "page": 1265
+  },
+  {
+    "id": "A-short-contact",
+    "status": "pass",
+    "viewport": 1280,
+    "page": 1265
+  },
+  {
+    "id": "A-short-privacy",
+    "status": "pass",
+    "viewport": 1280,
+    "page": 1265
+  },
+  {
+    "id": "A-zoom-home",
+    "status": "pass",
+    "viewport": 1440,
+    "scroll": 1425,
+    "method": "CSS zoom proxy, not native browser zoom"
+  },
+  {
+    "id": "A-zoom-artisense-technology",
+    "status": "pass",
+    "viewport": 1440,
+    "scroll": 1425,
+    "method": "CSS zoom proxy, not native browser zoom"
+  },
+  {
+    "id": "A-zoom-aifield-neural",
+    "status": "pass",
+    "viewport": 1440,
+    "scroll": 1425,
+    "method": "CSS zoom proxy, not native browser zoom"
+  },
+  {
+    "id": "A-zoom-contact",
+    "status": "pass",
+    "viewport": 1440,
+    "scroll": 1425,
+    "method": "CSS zoom proxy, not native browser zoom"
+  },
+  {
+    "id": "B-chromium-en-investor",
+    "status": "pass",
+    "finalUrl": "http://127.0.0.1:4511/en/contact/?intent=investment"
+  },
+  {
+    "id": "B-chromium-en-partner",
+    "status": "pass",
+    "finalUrl": "http://127.0.0.1:4511/en/contact/?intent=partnership&project=artisense"
+  },
+  {
+    "id": "B-chromium-en-demo",
+    "status": "pass",
+    "finalUrl": "http://127.0.0.1:4511/en/contact/?intent=demo&project=aifield"
+  },
+  {
+    "id": "B-chromium-en-mobile-menu-keyboard",
+    "status": "fail",
+    "error": "locator.getAttribute: Timeout 4000ms exceeded.\nCall log:\n\u001b[2m  - waiting for getByRole('button', { name: /Menu/ }).first()\u001b[22m\n"
+  },
+  {
+    "id": "B-chromium-en-form",
+    "status": "pass",
+    "invalid": 2,
+    "networkSubmissions": 0,
+    "mailto": "mailto:info@artifactory.tech",
+    "draft": "To: info@artifactory.tech\nSubject: Artifactory — AIFIELD demo\n\nEnquiry type: AIFIELD demo\nProject: AIFIELD\nReply email: evaluation@example.invalid\n\nSynthetic evaluation message for a local AIFIELD demonstration. No real enquiry."
+  },
+  {
+    "id": "B-chromium-pl-investor",
+    "status": "pass",
+    "finalUrl": "http://127.0.0.1:4511/pl/kontakt/?intent=investment"
+  },
+  {
+    "id": "B-chromium-pl-partner",
+    "status": "pass",
+    "finalUrl": "http://127.0.0.1:4511/pl/kontakt/?intent=partnership&project=artisense"
+  },
+  {
+    "id": "B-chromium-pl-demo",
+    "status": "pass",
+    "finalUrl": "http://127.0.0.1:4511/pl/kontakt/?intent=demo&project=aifield"
+  },
+  {
+    "id": "B-chromium-pl-mobile-menu-keyboard",
+    "status": "fail",
+    "error": "locator.getAttribute: Timeout 4000ms exceeded.\nCall log:\n\u001b[2m  - waiting for getByRole('button', { name: /Menu/ }).first()\u001b[22m\n"
+  },
+  {
+    "id": "B-chromium-pl-form",
+    "status": "pass",
+    "invalid": 2,
+    "networkSubmissions": 0,
+    "mailto": "mailto:info@artifactory.tech",
+    "draft": "Do: info@artifactory.tech\nTemat: Artifactory — Demo AIFIELD\n\nRodzaj zapytania: Demo AIFIELD\nProjekt: AIFIELD\nE-mail do odpowiedzi: evaluation@example.invalid\n\nSynthetic evaluation message for a local AIFIELD demonstration. No real enquiry."
+  },
+  {
+    "id": "B-language-home",
+    "status": "pass"
+  },
+  {
+    "id": "B-language-projects",
+    "status": "pass"
+  },
+  {
+    "id": "B-language-artisense",
+    "status": "pass"
+  },
+  {
+    "id": "B-language-artisense-technology",
+    "status": "pass"
+  },
+  {
+    "id": "B-language-artisense-applications",
+    "status": "pass"
+  },
+  {
+    "id": "B-language-artisense-validation",
+    "status": "pass"
+  },
+  {
+    "id": "B-language-aifield",
+    "status": "pass"
+  },
+  {
+    "id": "B-language-aifield-design",
+    "status": "pass"
+  },
+  {
+    "id": "B-language-aifield-ai",
+    "status": "pass"
+  },
+  {
+    "id": "B-language-aifield-neural",
+    "status": "pass"
+  },
+  {
+    "id": "B-language-aifield-validation",
+    "status": "pass"
+  },
+  {
+    "id": "B-language-investors",
+    "status": "pass"
+  },
+  {
+    "id": "B-language-approach",
+    "status": "pass"
+  },
+  {
+    "id": "B-language-about",
+    "status": "pass"
+  },
+  {
+    "id": "B-language-partnerships",
+    "status": "pass"
+  },
+  {
+    "id": "B-language-contact",
+    "status": "pass"
+  },
+  {
+    "id": "B-language-privacy",
+    "status": "pass"
+  },
+  {
+    "id": "B-narrow-home",
+    "status": "pass",
+    "viewport": 320,
+    "page": 320
+  },
+  {
+    "id": "B-narrow-projects",
+    "status": "pass",
+    "viewport": 320,
+    "page": 320
+  },
+  {
+    "id": "B-narrow-artisense",
+    "status": "pass",
+    "viewport": 320,
+    "page": 320
+  },
+  {
+    "id": "B-narrow-artisense-technology",
+    "status": "pass",
+    "viewport": 320,
+    "page": 320
+  },
+  {
+    "id": "B-narrow-artisense-applications",
+    "status": "pass",
+    "viewport": 320,
+    "page": 320
+  },
+  {
+    "id": "B-narrow-artisense-validation",
+    "status": "pass",
+    "viewport": 320,
+    "page": 320
+  },
+  {
+    "id": "B-narrow-aifield",
+    "status": "pass",
+    "viewport": 320,
+    "page": 320
+  },
+  {
+    "id": "B-narrow-aifield-design",
+    "status": "pass",
+    "viewport": 320,
+    "page": 320
+  },
+  {
+    "id": "B-narrow-aifield-ai",
+    "status": "pass",
+    "viewport": 320,
+    "page": 320
+  },
+  {
+    "id": "B-narrow-aifield-neural",
+    "status": "pass",
+    "viewport": 320,
+    "page": 320
+  },
+  {
+    "id": "B-narrow-aifield-validation",
+    "status": "pass",
+    "viewport": 320,
+    "page": 320
+  },
+  {
+    "id": "B-narrow-investors",
+    "status": "pass",
+    "viewport": 320,
+    "page": 320
+  },
+  {
+    "id": "B-narrow-approach",
+    "status": "pass",
+    "viewport": 320,
+    "page": 320
+  },
+  {
+    "id": "B-narrow-about",
+    "status": "pass",
+    "viewport": 320,
+    "page": 320
+  },
+  {
+    "id": "B-narrow-partnerships",
+    "status": "pass",
+    "viewport": 320,
+    "page": 320
+  },
+  {
+    "id": "B-narrow-contact",
+    "status": "pass",
+    "viewport": 320,
+    "page": 320
+  },
+  {
+    "id": "B-narrow-privacy",
+    "status": "pass",
+    "viewport": 320,
+    "page": 320
+  },
+  {
+    "id": "B-short-home",
+    "status": "pass",
+    "viewport": 1280,
+    "page": 1280
+  },
+  {
+    "id": "B-short-projects",
+    "status": "pass",
+    "viewport": 1280,
+    "page": 1280
+  },
+  {
+    "id": "B-short-artisense",
+    "status": "pass",
+    "viewport": 1280,
+    "page": 1280
+  },
+  {
+    "id": "B-short-artisense-technology",
+    "status": "pass",
+    "viewport": 1280,
+    "page": 1280
+  },
+  {
+    "id": "B-short-artisense-applications",
+    "status": "pass",
+    "viewport": 1280,
+    "page": 1280
+  },
+  {
+    "id": "B-short-artisense-validation",
+    "status": "pass",
+    "viewport": 1280,
+    "page": 1280
+  },
+  {
+    "id": "B-short-aifield",
+    "status": "pass",
+    "viewport": 1280,
+    "page": 1280
+  },
+  {
+    "id": "B-short-aifield-design",
+    "status": "pass",
+    "viewport": 1280,
+    "page": 1280
+  },
+  {
+    "id": "B-short-aifield-ai",
+    "status": "pass",
+    "viewport": 1280,
+    "page": 1280
+  },
+  {
+    "id": "B-short-aifield-neural",
+    "status": "pass",
+    "viewport": 1280,
+    "page": 1280
+  },
+  {
+    "id": "B-short-aifield-validation",
+    "status": "pass",
+    "viewport": 1280,
+    "page": 1280
+  },
+  {
+    "id": "B-short-investors",
+    "status": "pass",
+    "viewport": 1280,
+    "page": 1280
+  },
+  {
+    "id": "B-short-approach",
+    "status": "pass",
+    "viewport": 1280,
+    "page": 1280
+  },
+  {
+    "id": "B-short-about",
+    "status": "pass",
+    "viewport": 1280,
+    "page": 1280
+  },
+  {
+    "id": "B-short-partnerships",
+    "status": "pass",
+    "viewport": 1280,
+    "page": 1280
+  },
+  {
+    "id": "B-short-contact",
+    "status": "pass",
+    "viewport": 1280,
+    "page": 1280
+  },
+  {
+    "id": "B-short-privacy",
+    "status": "pass",
+    "viewport": 1280,
+    "page": 1280
+  },
+  {
+    "id": "B-zoom-home",
+    "status": "fail",
+    "error": "Overflow under 200 percent CSS zoom proxy"
+  },
+  {
+    "id": "B-zoom-artisense-technology",
+    "status": "fail",
+    "error": "Overflow under 200 percent CSS zoom proxy"
+  },
+  {
+    "id": "B-zoom-aifield-neural",
+    "status": "fail",
+    "error": "Overflow under 200 percent CSS zoom proxy"
+  },
+  {
+    "id": "B-zoom-contact",
+    "status": "fail",
+    "error": "Overflow under 200 percent CSS zoom proxy"
+  },
+  {
+    "id": "A-firefox-en-investor",
+    "status": "pass",
+    "finalUrl": "http://127.0.0.1:4501/en/contact/?intent=investment"
+  },
+  {
+    "id": "A-firefox-en-partner",
+    "status": "fail",
+    "error": "Partnership intent not preserved"
+  },
+  {
+    "id": "A-firefox-en-demo",
+    "status": "fail",
+    "error": "Demo intent not preserved"
+  },
+  {
+    "id": "A-firefox-en-mobile-menu-keyboard",
+    "status": "pass",
+    "activeElement": "<button class=\"menu-toggle\" aria-expanded=\"false\" aria-controls=\"global-navigation\" data-menu=\"\" data-astro-cid-qzo7jze3=\"\">Menu <span aria-hidden=\"true\" data-astro-cid-qzo7jze3=\"\">☰</span></button>"
+  },
+  {
+    "id": "A-firefox-en-form",
+    "status": "pass",
+    "invalid": 2,
+    "receipt": "Chromium verifies live fixture; other engines checked form entry and validation"
+  },
+  {
+    "id": "A-firefox-pl-investor",
+    "status": "fail",
+    "error": "Investment intent not preserved"
+  },
+  {
+    "id": "A-firefox-pl-partner",
+    "status": "fail",
+    "error": "Partnership intent not preserved"
+  },
+  {
+    "id": "A-firefox-pl-demo",
+    "status": "pass",
+    "finalUrl": "http://127.0.0.1:4501/pl/kontakt/?intent=demo&project=aifield"
+  },
+  {
+    "id": "A-firefox-pl-mobile-menu-keyboard",
+    "status": "pass",
+    "activeElement": "<button class=\"menu-toggle\" aria-expanded=\"false\" aria-controls=\"global-navigation\" data-menu=\"\" data-astro-cid-qzo7jze3=\"\">Menu <span aria-hidden=\"true\" data-astro-cid-qzo7jze3=\"\">☰</span></button>"
+  },
+  {
+    "id": "A-firefox-pl-form",
+    "status": "pass",
+    "invalid": 2,
+    "receipt": "Chromium verifies live fixture; other engines checked form entry and validation"
+  },
+  {
+    "id": "B-firefox-en-investor",
+    "status": "pass",
+    "finalUrl": "http://127.0.0.1:4511/en/contact/?intent=investment"
+  },
+  {
+    "id": "B-firefox-en-partner",
+    "status": "pass",
+    "finalUrl": "http://127.0.0.1:4511/en/contact/?intent=partnership&project=artisense"
+  },
+  {
+    "id": "B-firefox-en-demo",
+    "status": "pass",
+    "finalUrl": "http://127.0.0.1:4511/en/contact/?intent=demo&project=aifield"
+  },
+  {
+    "id": "B-firefox-en-mobile-menu-keyboard",
+    "status": "fail",
+    "error": "locator.getAttribute: Timeout 4000ms exceeded.\nCall log:\n\u001b[2m  - waiting for getByRole('button', { name: /Menu/ }).first()\u001b[22m\n"
+  },
+  {
+    "id": "B-firefox-en-form",
+    "status": "pass",
+    "invalid": 2,
+    "networkSubmissions": 0,
+    "mailto": "mailto:info@artifactory.tech",
+    "draft": "To: info@artifactory.tech\nSubject: Artifactory — AIFIELD demo\n\nEnquiry type: AIFIELD demo\nProject: AIFIELD\nReply email: evaluation@example.invalid\n\nSynthetic evaluation message for a local AIFIELD demonstration. No real enquiry."
+  },
+  {
+    "id": "B-firefox-pl-investor",
+    "status": "pass",
+    "finalUrl": "http://127.0.0.1:4511/pl/kontakt/?intent=investment"
+  },
+  {
+    "id": "B-firefox-pl-partner",
+    "status": "pass",
+    "finalUrl": "http://127.0.0.1:4511/pl/kontakt/?intent=partnership&project=artisense"
+  },
+  {
+    "id": "B-firefox-pl-demo",
+    "status": "pass",
+    "finalUrl": "http://127.0.0.1:4511/pl/kontakt/?intent=demo&project=aifield"
+  },
+  {
+    "id": "B-firefox-pl-mobile-menu-keyboard",
+    "status": "fail",
+    "error": "locator.getAttribute: Timeout 4000ms exceeded.\nCall log:\n\u001b[2m  - waiting for getByRole('button', { name: /Menu/ }).first()\u001b[22m\n"
+  },
+  {
+    "id": "B-firefox-pl-form",
+    "status": "pass",
+    "invalid": 2,
+    "networkSubmissions": 0,
+    "mailto": "mailto:info@artifactory.tech",
+    "draft": "Do: info@artifactory.tech\nTemat: Artifactory — Demo AIFIELD\n\nRodzaj zapytania: Demo AIFIELD\nProjekt: AIFIELD\nE-mail do odpowiedzi: evaluation@example.invalid\n\nSynthetic evaluation message for a local AIFIELD demonstration. No real enquiry."
+  },
+  {
+    "id": "A-webkit-en-investor",
+    "status": "fail",
+    "error": "Investment intent not preserved"
+  },
+  {
+    "id": "A-webkit-en-partner",
+    "status": "fail",
+    "error": "Partnership intent not preserved"
+  },
+  {
+    "id": "A-webkit-en-demo",
+    "status": "fail",
+    "error": "Demo intent not preserved"
+  },
+  {
+    "id": "A-webkit-en-mobile-menu-keyboard",
+    "status": "pass",
+    "activeElement": "<button class=\"menu-toggle\" aria-expanded=\"false\" aria-controls=\"global-navigation\" data-menu=\"\" data-astro-cid-qzo7jze3=\"\">Menu <span aria-hidden=\"true\" data-astro-cid-qzo7jze3=\"\">☰</span></button>"
+  },
+  {
+    "id": "A-webkit-en-form",
+    "status": "pass",
+    "invalid": 2,
+    "receipt": "Chromium verifies live fixture; other engines checked form entry and validation"
+  },
+  {
+    "id": "A-webkit-pl-investor",
+    "status": "fail",
+    "error": "Investment intent not preserved"
+  },
+  {
+    "id": "A-webkit-pl-partner",
+    "status": "fail",
+    "error": "Partnership intent not preserved"
+  },
+  {
+    "id": "A-webkit-pl-demo",
+    "status": "fail",
+    "error": "Demo intent not preserved"
+  },
+  {
+    "id": "A-webkit-pl-mobile-menu-keyboard",
+    "status": "pass",
+    "activeElement": "<button class=\"menu-toggle\" aria-expanded=\"false\" aria-controls=\"global-navigation\" data-menu=\"\" data-astro-cid-qzo7jze3=\"\">Menu <span aria-hidden=\"true\" data-astro-cid-qzo7jze3=\"\">☰</span></button>"
+  },
+  {
+    "id": "A-webkit-pl-form",
+    "status": "pass",
+    "invalid": 2,
+    "receipt": "Chromium verifies live fixture; other engines checked form entry and validation"
+  },
+  {
+    "id": "B-webkit-en-investor",
+    "status": "pass",
+    "finalUrl": "http://127.0.0.1:4511/en/contact/?intent=investment"
+  },
+  {
+    "id": "B-webkit-en-partner",
+    "status": "fail",
+    "error": "Partnership intent not preserved"
+  },
+  {
+    "id": "B-webkit-en-demo",
+    "status": "fail",
+    "error": "Demo intent not preserved"
+  },
+  {
+    "id": "B-webkit-en-mobile-menu-keyboard",
+    "status": "fail",
+    "error": "locator.getAttribute: Timeout 4000ms exceeded.\nCall log:\n\u001b[2m  - waiting for getByRole('button', { name: /Menu/ }).first()\u001b[22m\n"
+  },
+  {
+    "id": "B-webkit-en-form",
+    "status": "pass",
+    "invalid": 2,
+    "networkSubmissions": 0,
+    "mailto": "mailto:info@artifactory.tech",
+    "draft": "To: info@artifactory.tech\nSubject: Artifactory — AIFIELD demo\n\nEnquiry type: AIFIELD demo\nProject: AIFIELD\nReply email: evaluation@example.invalid\n\nSynthetic evaluation message for a local AIFIELD demonstration. No real enquiry."
+  },
+  {
+    "id": "B-webkit-pl-investor",
+    "status": "pass",
+    "finalUrl": "http://127.0.0.1:4511/pl/kontakt/?intent=investment"
+  },
+  {
+    "id": "B-webkit-pl-partner",
+    "status": "fail",
+    "error": "Partnership intent not preserved"
+  },
+  {
+    "id": "B-webkit-pl-demo",
+    "status": "fail",
+    "error": "Demo intent not preserved"
+  },
+  {
+    "id": "B-webkit-pl-mobile-menu-keyboard",
+    "status": "fail",
+    "error": "locator.getAttribute: Timeout 4000ms exceeded.\nCall log:\n\u001b[2m  - waiting for getByRole('button', { name: /Menu/ }).first()\u001b[22m\n"
+  },
+  {
+    "id": "B-webkit-pl-form",
+    "status": "pass",
+    "invalid": 2,
+    "networkSubmissions": 0,
+    "mailto": "mailto:info@artifactory.tech",
+    "draft": "Do: info@artifactory.tech\nTemat: Artifactory — Demo AIFIELD\n\nRodzaj zapytania: Demo AIFIELD\nProjekt: AIFIELD\nE-mail do odpowiedzi: evaluation@example.invalid\n\nSynthetic evaluation message for a local AIFIELD demonstration. No real enquiry."
+  }
+]

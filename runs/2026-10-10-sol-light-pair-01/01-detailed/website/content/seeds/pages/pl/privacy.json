@@ -1,0 +1,42 @@
+{
+  "id": "privacy",
+  "locale": "pl",
+  "title": "Prywatność w lokalnym podglądzie",
+  "lead": "Ten podgląd służy do syntetycznych zapytań testowych, a nie do przesyłania prawdziwych danych klientów.",
+  "description": "Lokalny odbiornik nie wysyła e-maili ani nie łączy się z dostawcą. Polityka produkcyjna wymaga zatwierdzenia.",
+  "eyebrow": "Artifactory",
+  "sections": [
+    {
+      "id": "focus",
+      "title": "Obsługa formularza",
+      "paragraphs": [
+        "Udane żądanie testowe pozostaje tylko w pamięci procesu do 24 godzin i znika po restarcie. Tekst formularza nie trafia do URL, plików cookie ani pamięci przeglądarki."
+      ]
+    },
+    {
+      "id": "evidence",
+      "title": "Alternatywa e-mail",
+      "paragraphs": [
+        "Odnośnik otwiera własną aplikację pocztową. Dalsza obsługa zależy od niej i operatora skrzynki, których nie zweryfikowano."
+      ]
+    },
+    {
+      "id": "next",
+      "title": "Bez śledzenia",
+      "paragraphs": [
+        "Lokalna strona nie używa analityki ani zewnętrznych czcionek. Zasady produkcyjne wymagają osobnego przeglądu."
+      ]
+    }
+  ],
+  "related": [
+    "home"
+  ],
+  "stage": "Local draft · source context October 2026",
+  "pageType": "company",
+  "sourceReferences": [
+    "HP-1.1 project-context 2026-10-09"
+  ],
+  "sourceRevision": "2026-10-09",
+  "editorialState": "draft",
+  "modifiedAt": "2026-10-10"
+}

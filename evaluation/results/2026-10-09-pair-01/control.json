@@ -1,0 +1,55 @@
+{
+  "captured_at": "2026-10-10T00:51:47.434078+02:00",
+  "review_type": "single AI reviewer, not blind; status tools exposed detailed-arm final claims",
+  "exclusions": [
+    ".astro",
+    ".dist-previous",
+    ".git",
+    ".npm-cache",
+    ".runtime",
+    "artifacts",
+    "node_modules",
+    "playwright-report",
+    "test-results",
+    "private .env files"
+  ],
+  "sites": [
+    {
+      "label": "A",
+      "variant": "01-detailed",
+      "source": "/Users/michal.lukasiewicz/Programming/website-development-experiment/runs/2026-10-09-pair-01/01-detailed/website",
+      "snapshot": "/Users/michal.lukasiewicz/Programming/website-development-experiment/evaluation/results/2026-10-09-pair-01/snapshots/A",
+      "manifest": "snapshot-A.json",
+      "file_count": 232,
+      "git_status": "?? .gitignore\n?? README.md\n?? compiled/\n?? inputs/\n?? knowledge/\n?? package-manifest.json\n?? prompt.txt\n?? revisions/\n?? website/\n",
+      "port": 4501,
+      "input_integrity": {
+        "checked": 114,
+        "changed": []
+      }
+    },
+    {
+      "label": "B",
+      "variant": "02-inputs-only",
+      "source": "/Users/michal.lukasiewicz/Programming/website-development-experiment/runs/2026-10-09-pair-01/02-inputs-only/website",
+      "snapshot": "/Users/michal.lukasiewicz/Programming/website-development-experiment/evaluation/results/2026-10-09-pair-01/snapshots/B",
+      "manifest": "snapshot-B.json",
+      "file_count": 64,
+      "git_status": "?? .gitignore\n?? inputs/\n?? prompt.txt\n?? website/\n",
+      "port": 4511,
+      "input_integrity": {
+        "checked": 19,
+        "changed": []
+      }
+    }
+  ],
+  "baseline_modified": false,
+  "protocol_version": "1.0",
+  "evaluation_setup_notes": [
+    "Node 24.21.0/npm 11.19.0 supplied using original run-local runtime as an external tool, without modifying it.",
+    "Snapshots exclude ignored dependencies, artifacts and runtime folders. Installs used a cloned npm cache; two missing locked font packages were fetched from the public registry.",
+    "An overlapping failed sandbox npm attempt removed font files from an evaluator copy; a subsequent clean offline npm ci and build passed. This is evaluator setup, not a website defect.",
+    "Local server and browser execution required host permission because the filesystem sandbox denied loopback listen and browser startup.",
+    "The detailed built-metadata check failed on a clean copy because it writes to an absent ignored artifacts directory. No source repair was applied."
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "id": "artisense",
+  "locale": "en",
+  "type": "overview",
+  "title": "ArtiSense. Reading the world through light.",
+  "description": "Explore ArtiSense, a proposed miniaturized photonic chemical-sensing system: architecture, glucose-design research, limitations and the next validation questions.",
+  "eyebrow": "ARTISENSE / OVERVIEW",
+  "lead": "A research direction in chemical sensing: illuminate a sample, observe its optical response, and explore what that signal can tell us.",
+  "sections": [
+    {
+      "id": "purpose",
+      "title": "A smaller system. A demanding measurement problem.",
+      "paragraphs": [
+        "ArtiSense aims to connect photonic sensing with signal interpretation in a miniaturized system. Non-invasive measurement and wearable formats are intended directions, rather than demonstrated product capabilities.",
+        "The central challenge is not just to detect light. It is to show that a response reliably corresponds to the substance of interest under the conditions in which a device would be used. Intended users and useful operating limits must follow that evidence."
+      ],
+      "links": [
+        {
+          "id": "artisense-applications"
+        }
+      ]
+    },
+    {
+      "id": "system",
+      "title": "The proposed system, at a glance.",
+      "paragraphs": [
+        "The described architecture links visible or infrared illumination, interaction with a sample, detection of the optical response, and comparison with a reference. Interpretation would turn the resulting spectral information into a meaningful measurement.",
+        "A reprogrammable analog neuromorphic processor, software support and connectivity appear in the proposed architecture. Their description is not evidence that each block has been built and integrated. The analog interpretation processor is separate from AIFIELD’s neural optical-field research."
+      ],
+      "links": [
+        {
+          "id": "artisense-technology"
+        }
+      ]
+    },
+    {
+      "id": "stage",
+      "title": "What the work currently supports.",
+      "paragraphs": [
+        "The supplied research summary describes optical feasibility and photonic glucose chip-design work. AIFIELD provides a relevant context for explaining that design activity.",
+        "Design and simulation can help choose the next experiment. They do not establish fabricated-device performance, glucose accuracy, clinical outcomes or a ready-to-use wearable."
+      ],
+      "rows": [
+        [
+          "Available basis",
+          "Optical feasibility and chip-design work in the supplied research summary."
+        ],
+        [
+          "Open validation",
+          "A controlled physical response, reproducibility and separation from interfering effects."
+        ],
+        [
+          "Next useful milestone",
+          "Define a measurable hypothesis and the reference comparison needed to test it."
+        ]
+      ],
+      "links": [
+        {
+          "id": "artisense-validation"
+        },
+        {
+          "id": "aifield-validation"
+        }
+      ]
+    },
+    {
+      "id": "next",
+      "title": "Explore the system. Then examine the evidence.",
+      "paragraphs": [
+        "Technology explains the proposed signal chain. Applications explains the intended measurement context. Research and Validation separates what design work supports from the experiments still needed.",
+        "Investment conversations concern Artifactory as a company. Potential technical collaborations can focus on optical characterization, integration or a carefully bounded validation study."
+      ],
+      "links": [
+        {
+          "id": "artisense-technology"
+        },
+        {
+          "id": "artisense-applications"
+        },
+        {
+          "id": "artisense-validation"
+        },
+        {
+          "id": "investors"
+        },
+        {
+          "id": "partnerships"
+        }
+      ]
+    }
+  ],
+  "relatedIds": [
+    "artisense-technology",
+    "artisense-applications",
+    "artisense-validation",
+    "investors",
+    "partnerships"
+  ],
+  "project": "artisense",
+  "sourceReferences": [
+    "HP-1.1/project-context",
+    "SM-0.3/artisense"
+  ],
+  "sourceRevision": "2026-10-09 (AIFIELD snapshot: September 2026)",
+  "editorialState": "published",
+  "modifiedAt": "2026-10-09T21:00:00.000Z",
+  "reviews": {
+    "facts": "adf02529395159136e1fcd28cbf5a0e46234327227d8018b7d93082346a94cee",
+    "language": "adf02529395159136e1fcd28cbf5a0e46234327227d8018b7d93082346a94cee",
+    "assets": "adf02529395159136e1fcd28cbf5a0e46234327227d8018b7d93082346a94cee"
+  },
+  "privateNotes": "Locally authored from supplied summary. Factual, translation and asset owner review pending. Original PDFs were not supplied.",
+  "visual": "sensing",
+  "maturity": "Proposed sensing system · research"
+}

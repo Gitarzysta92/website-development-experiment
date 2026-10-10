@@ -1,0 +1,274 @@
+{
+  "id": "A-en-privacy-mobile",
+  "label": "A",
+  "locale": "en",
+  "pageId": "privacy",
+  "view": "mobile",
+  "url": "http://127.0.0.1:4501/en/privacy/",
+  "status": 200,
+  "errors": [],
+  "title": "Privacy in this local preview. | Artifactory",
+  "language": "en",
+  "h1": [
+    "Privacy in this local preview."
+  ],
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Privacy in this local preview."
+    },
+    {
+      "level": "H2",
+      "text": "What the test form receives"
+    },
+    {
+      "level": "H2",
+      "text": "When test information disappears"
+    },
+    {
+      "level": "H2",
+      "text": "Email is a separate channel"
+    },
+    {
+      "level": "H2",
+      "text": "No tracking or optional cookies"
+    },
+    {
+      "level": "H2",
+      "text": "Before a public release"
+    },
+    {
+      "level": "H2",
+      "text": "Company"
+    },
+    {
+      "level": "H2",
+      "text": "Projects"
+    },
+    {
+      "level": "H2",
+      "text": "Connect"
+    }
+  ],
+  "text": "Skip to content\nLocal draft · Research in progress\na·\nartifactory\nMenu\n☰\nHome\nPrivacy\n\nINFORMATION HANDLING\n\nPrivacy in this local preview.\n\nThis notice describes the local demonstration you are using. It is not a finalized notice for a publicly released service.\n\nWhat the test form receives\n\nThe form accepts an enquiry type, email, message, language and a random submission identifier. Name, organization and project are optional. Only synthetic test information should be entered.\n\nThe receiver runs on this computer. It keeps the request and a test receipt in process memory to verify receipt and prevent duplicate submissions. No email, notification or third-party request is sent by the fixture.\n\nWhen test information disappears\n\nLocal test records expire no later than 24 hours after creation. Restarting the server clears them immediately. Cleanup runs when the in-memory receiver is accessed; expired records cannot be retrieved through its test inspection interface.\n\nThe form keeps values and retry information in page memory only. It does not write them to browser storage, cookies or the address. Closing or leaving the page ends that local state.\n\nEmail is a separate channel\n\nThe email link opens your own email application. Any message you choose to send then follows your email service and the recipient’s arrangements; it does not pass through this local test receiver.\n\nThe supplied contact address is info@artifactory.tech. Its operator and production handling arrangements have not been verified in this preview.\n\nContact\n↗\nNo tracking or optional cookies\n\nThis website does not load analytics, remote fonts, third-party embeds or advertising. There is no visitor account or preference cookie. Ordinary diagnostics must not include enquiry payloads.\n\nBefore a public release\n\nA public service needs an identified operator, approved provider and recipient, reviewed privacy information, retention and deletion procedures, and a confirmed publication scope. Those arrangements remain to be supplied and reviewed. The local fixture is not a substitute for them.\n\nartifactory·\n\nSensing technology and tools for designing photonic systems.\n\ninfo@artifactory.tech\n↗\nCompany\nHome\nProjects\nInvestors\nOur Approach\nAbout\nProjects\nArtiSense\nAIFIELD\nConnect\nPartnerships\nContact\nPrivacy\nArtifactory\nNew possibilities, through light.",
+  "links": [
+    {
+      "text": "Skip to content",
+      "href": "#main",
+      "lang": ""
+    },
+    {
+      "text": "a·\nartifactory",
+      "href": "/en/",
+      "lang": ""
+    },
+    {
+      "text": "All projects↗",
+      "href": "/en/projects/",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSense↗",
+      "href": "/en/projects/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELD↗",
+      "href": "/en/projects/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Investors",
+      "href": "/en/investors/",
+      "lang": ""
+    },
+    {
+      "text": "Our Approach",
+      "href": "/en/approach/",
+      "lang": ""
+    },
+    {
+      "text": "About",
+      "href": "/en/about/",
+      "lang": ""
+    },
+    {
+      "text": "Partnerships",
+      "href": "/en/partnerships/",
+      "lang": ""
+    },
+    {
+      "text": "Contact",
+      "href": "/en/contact/",
+      "lang": ""
+    },
+    {
+      "text": "PL ↔",
+      "href": "http://127.0.0.1:4501/pl/prywatnosc/",
+      "lang": "pl"
+    },
+    {
+      "text": "Let’s talk↗",
+      "href": "/en/contact/?intent=investment",
+      "lang": ""
+    },
+    {
+      "text": "Home",
+      "href": "/en/",
+      "lang": ""
+    },
+    {
+      "text": "Contact\n↗",
+      "href": "/en/contact/",
+      "lang": ""
+    },
+    {
+      "text": "artifactory·",
+      "href": "/en/",
+      "lang": ""
+    },
+    {
+      "text": "info@artifactory.tech\n↗",
+      "href": "mailto:info@artifactory.tech",
+      "lang": ""
+    },
+    {
+      "text": "Home",
+      "href": "/en/",
+      "lang": ""
+    },
+    {
+      "text": "Projects",
+      "href": "/en/projects/",
+      "lang": ""
+    },
+    {
+      "text": "Investors",
+      "href": "/en/investors/",
+      "lang": ""
+    },
+    {
+      "text": "Our Approach",
+      "href": "/en/approach/",
+      "lang": ""
+    },
+    {
+      "text": "About",
+      "href": "/en/about/",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSense",
+      "href": "/en/projects/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELD",
+      "href": "/en/projects/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Partnerships",
+      "href": "/en/partnerships/",
+      "lang": ""
+    },
+    {
+      "text": "Contact",
+      "href": "/en/contact/",
+      "lang": ""
+    },
+    {
+      "text": "Privacy",
+      "href": "/en/privacy/",
+      "lang": ""
+    }
+  ],
+  "metadata": [
+    {
+      "name": "viewport",
+      "content": "width=device-width, initial-scale=1"
+    },
+    {
+      "name": "description",
+      "content": "How the Artifactory local preview handles synthetic enquiries, in-memory receipts, email links and browser data. No live delivery or tracking is enabled."
+    },
+    {
+      "name": "robots",
+      "content": "noindex, nofollow"
+    },
+    {
+      "rel": "canonical",
+      "href": "http://127.0.0.1:4501/en/privacy/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "en",
+      "href": "http://127.0.0.1:4501/en/privacy/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "pl",
+      "href": "http://127.0.0.1:4501/pl/prywatnosc/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "x-default",
+      "href": "http://127.0.0.1:4501/en/privacy/"
+    },
+    {
+      "property": "og:type",
+      "content": "website"
+    },
+    {
+      "property": "og:site_name",
+      "content": "Artifactory"
+    },
+    {
+      "property": "og:title",
+      "content": "Privacy in this local preview. | Artifactory"
+    },
+    {
+      "property": "og:description",
+      "content": "How the Artifactory local preview handles synthetic enquiries, in-memory receipts, email links and browser data. No live delivery or tracking is enabled."
+    },
+    {
+      "property": "og:url",
+      "content": "http://127.0.0.1:4501/en/privacy/"
+    },
+    {
+      "property": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "property": "og:image",
+      "content": "http://127.0.0.1:4501/brand/share-v1.svg"
+    },
+    {
+      "property": "og:image:width",
+      "content": "1200"
+    },
+    {
+      "property": "og:image:height",
+      "content": "630"
+    }
+  ],
+  "forms": [],
+  "images": [],
+  "viewport": {
+    "width": 390,
+    "height": 844,
+    "scrollWidth": 375
+  },
+  "overflowing": [],
+  "axe": {
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "impact": "serious",
+        "nodeCount": 1
+      }
+    ],
+    "passes": 38
+  }
+}

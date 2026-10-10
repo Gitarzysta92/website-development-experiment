@@ -1,0 +1,31 @@
+# Execution record — AF-D1 revision 1.1
+
+Run: 2026-10-10, Europe/Warsaw. Working directory: `website/` in the assigned `01-detailed` repository. Initial `website/` baseline contained only a private minimal `package.json`; supplied `inputs/`, `compiled/` and pinned `knowledge/` remained outside public output. The accepted plan and 23 prewritten unit prompts were inspected; no package revision was made. Local host: macOS arm64, initially Node 22.17.1/npm 10.9.2; the package-pinned Node 24.21.0/npm 11.19.0 was subsequently installed and used for final verification. Exact direct dependencies were installed from local npm cache, generating `package-lock.json`.
+
+## Work and repairs
+
+1. Runtime/content/frame/header/footer/project navigation: created the Astro/Node project, paired route catalogue, bilingual draft view records, shared layout, navigation, responsive style and local build host. Implemented all 34 selected paths. Draft records now live in `content/pages/{en,pl}/`; `src/content/pages.ts` validates and registers their public views. Private review digests and publication preflight were added later, but named human approvals remain absent.
+2. Contact/Privacy: authored both language drafts, form UI, strict request schema, endpoint, process-local fixture, disabled receiver, controlled Resend adapter and duplicate coordination. Browser acceptance proved a local-only receipt. Live delivery was not attempted. Full timeout/fault/expiry HTTP matrix is not yet evidenced.
+3. Home, Projects, both project branches, Investors, Approach, About, Partnerships: authored distinct qualified EN/PL draft sections, relevant links and concept diagrams. These pages share a template. Factual and language owner review remain unavailable; no human approval was recorded.
+4. Recovery: the five known path redirects and true 404 run in the loopback wrapper. All four legacy Polish ArtiSense fragments were checked in Chromium and routed to relevant sections. Full historic URL inventory is not supplied.
+5. The first `astro check` failed on a project type mismatch; the type was corrected and the check passed. The first direct Astro standalone run exited under sandbox socket restrictions; approved loopback startup then exposed that prerendered static responses bypassed Astro middleware. Added the preview wrapper and rechecked actual 200/308/404/security/no-store responses.
+6. An early published build incorrectly succeeded. Added a fail-closed publication gate before the build artifact is touched; a later `build:published` exited 1 as expected. A candidate-build script also restores the previous `dist/` after a build failure.
+7. The first browser suite found blocked inline scripts under CSP and footer/teal contrast issues. Added content-specific CSP hashes and contrast repairs. Reruns passed the route/form/targeted axe suite. An earlier Lighthouse batch overlapped a rebuild and hit a Chrome interstitial; its measurements were discarded and six stable final samples were collected.
+
+## Checkpoints and intervention
+
+CP-COMPONENTS, CP-ARTISENSE, CP-AIFIELD, CP-COMPANY and CP-SITE have partial browser/HTTP evidence but were not closed under the full AF-CHECK-1.1 matrix. No unit is claimed fully accepted under all its compiled concern checks. The local socket and Chromium launches required sandbox escalation; approval was granted automatically. No content, provider, mailbox, deployment or publication authority was requested or assumed.
+
+## Current handoff
+
+Runbook: `website/README.md`, `docs/runtime.md`, `docs/content.md`, `docs/enquiry.md`. Verification outcomes and explicit gaps: `docs/acceptance-report.md`. Raw ignored screenshots and Lighthouse reports: `artifacts/`. Local test receipt only; provider acceptance, mailbox receipt, human review and publication remain separate unresolved states.
+
+Intermediate verification addendum: 9 Vitest tests, 39 Chromium Playwright tests and targeted axe passed at that stage; `check:links` examined 34 routes/1,132 links; `check:boundaries` found no listed private markers. These counts were superseded by later content and browser-suite additions.
+
+Reproducibility addendum: `npm ci --offline --ignore-scripts --no-audit --no-fund` installed 520 packages on the initial Node 22.17.1 host (with EBADENGINE warnings for Lighthouse and undici). A fresh `check`, 9 unit tests, `build`, 34-route/1,132-link scan, boundary scan and resource check then passed. The pinned runtime was subsequently observed.
+
+Pinned runtime addendum: `nvm install 24.21.0` succeeded with checksum match, yielding npm 11.19.0. On that exact runtime, `npm ci --offline` installed 519 packages, `astro check` reported zero diagnostics, 14 Vitest tests passed, 34 routes built, 1,132 local links and client private markers passed, and 39 Chromium browser tests passed. Earlier runtime mismatch is resolved for local reproduction; it is retained as an initial condition.
+
+Content-structure repair: moved the 34 authored views into per-locale structured JSON records, validated by `src/content/pages.ts`; a private source snapshot was retained as `content/evidence/pages-original.txt`. An initial backup with `.ts` extension triggered two Astro type errors and was renamed to private text; check/test/build then passed. Added private review manifest and a controlled synthetic publication-gate fixture. Actual Home copy edit rendered, then source and output were restored to the original fingerprint. One attempted invalid candidate (`<` alone) was accepted by Astro; a frontmatter syntax error was then rejected and the previous built Home hash remained unchanged.
+
+Final built-artifact verification: pinned Node 24.21.0/npm 11.19.0, zero Astro diagnostics, 20 Vitest tests, 34 built EN/PL routes, 1,136 local links, boundary scan, 54/54 Playwright checks, and six stable simulated-mobile Lighthouse runs (all scores 100, LCP about 901 ms, CLS 0). The 113 supplied package-manifest file hashes matched. The implementation fingerprint and method are recorded in `acceptance-report.md`. These local observations do not close the five combined checkpoints or all AF-CHECK-1.1 concern matrices. No real provider send, mailbox receipt, human content approval, or publication occurred.

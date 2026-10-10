@@ -1,0 +1,94 @@
+{
+  "id": "artisense-technology",
+  "locale": "pl",
+  "type": "detail",
+  "title": "Od odpowiedzi optycznej do użytecznej informacji.",
+  "description": "Jak proponowana architektura ArtiSense łączy oświetlenie, odpowiedź próbki, detekcję i interpretację analogową, z ograniczeniami kalibracji i integracji.",
+  "eyebrow": "ARTISENSE / TECHNOLOGIA",
+  "lead": "Proponowany tor sygnałowy łączy oddziaływanie optyczne z interpretacją. Każde połączenie wnosi założenia, które wymagają sprawdzenia.",
+  "sections": [
+    {
+      "id": "photonics",
+      "title": "Punktem wyjścia jest oddziaływanie.",
+      "paragraphs": [
+        "Światło widzialne lub podczerwone jest kierowane na próbkę. Oddziaływanie może zmieniać odpowiedź docierającą do detektora. Założeniem architektury jest analiza tej odpowiedzi względem odniesienia i wykorzystanie informacji widmowej do badania właściwości chemicznej.",
+        "Zmiana odpowiedzi optycznej nie jest automatycznie pomiarem jednej substancji. Trzeba łącznie uwzględnić oświetlenie, warunki próbki, tor optyczny i odpowiedź detektora. Dostarczone podsumowanie nie określa zwalidowanego zakresu pracy ani ostatecznego doboru elementów."
+      ]
+    },
+    {
+      "id": "electronics",
+      "title": "Detekcja to tylko część interpretacji.",
+      "paragraphs": [
+        "Proponowany tor elektroniczny odbiera wykryty sygnał i przygotowuje go do interpretacji. Architektura opisuje przeprogramowywalny analogowy procesor neuromorficzny: zamierzony sposób przetwarzania sygnału, a nie dowód działania zintegrowanego chipu.",
+        "Opisano też wsparcie programowe i łączność. Miałyby one służyć konfiguracji i przekazywaniu informacji z systemu pomiarowego. Nie dostarczono potwierdzonego standardu interfejsu, pełnej realizacji sprzętowej ani zwalidowanych parametrów całego systemu.",
+        "Ta propozycja interpretacji analogowej nie jest neuronowym modelem pola AIFIELD. Tamte badania dotyczą przewidywania pól optycznych w analizie inżynierskiej; nie potwierdzają dokładności pomiaru czujnika."
+      ]
+    },
+    {
+      "id": "calibration",
+      "title": "Odniesienie musi pozostać wiarygodne.",
+      "paragraphs": [
+        "Kalibracja musiałaby powiązać odpowiedź optyczną ze znanym porównaniem w określonych warunkach. Użyteczne badanie powinno kontrolować zmiany między odniesieniem a próbą i oddzielać poszukiwany efekt od źródeł zmienności.",
+        "Kolejne decyzje architektoniczne zależą więc od planu pomiarowego. Powtarzalność, wrażliwość na zmienne warunki i przejście od modelu do fizycznego urządzenia pozostają otwartymi pytaniami walidacyjnymi."
+      ],
+      "rows": [
+        [
+          "Oświetlenie i tor optyczny",
+          "Przed interpretacją określić źródło, odniesienie i warunki oddziaływania."
+        ],
+        [
+          "Detektor i elektronika",
+          "Scharakteryzować jakość sygnału oraz ograniczenia detekcji i przetwarzania."
+        ],
+        [
+          "Interpretacja",
+          "Sprawdzić, czy wyznaczana wielkość pozostaje poprawna poza przykładami kalibracyjnymi."
+        ],
+        [
+          "Integracja",
+          "Ocenić cały system; opisy elementów nie dowodzą działania od początku do końca."
+        ]
+      ]
+    },
+    {
+      "id": "design",
+      "title": "Narzędzia projektowe pomagają określić eksperyment.",
+      "paragraphs": [
+        "Przykład fotonicznego projektu chipu związanego z glukozą pozwala omówić geometrię i symulację w AIFIELD. Jest podstawą rozmowy inżynierskiej o modelach i proponowanych strukturach.",
+        "Pytanie pomiarowe pozostaje odrębne: jaki sygnał wytworzyłaby wykonana struktura i jak wypadałby on względem wiarygodnego odniesienia? To wymaga fizycznej walidacji."
+      ],
+      "links": [
+        {
+          "id": "aifield-design"
+        },
+        {
+          "id": "artisense-validation"
+        },
+        {
+          "id": "artisense-applications"
+        }
+      ]
+    }
+  ],
+  "relatedIds": [
+    "artisense",
+    "artisense-applications",
+    "artisense-validation"
+  ],
+  "project": "artisense",
+  "sourceReferences": [
+    "HP-1.1/project-context",
+    "SM-0.3/artisense-technology"
+  ],
+  "sourceRevision": "2026-10-09 (AIFIELD snapshot: September 2026)",
+  "editorialState": "published",
+  "modifiedAt": "2026-10-09T21:00:00.000Z",
+  "reviews": {
+    "facts": "276c9d34a3fabf6aaed5b689619934f8e4e09c72600c4d48a567ec09fe09c013",
+    "language": "276c9d34a3fabf6aaed5b689619934f8e4e09c72600c4d48a567ec09fe09c013",
+    "assets": "276c9d34a3fabf6aaed5b689619934f8e4e09c72600c4d48a567ec09fe09c013"
+  },
+  "privateNotes": "Locally authored from supplied summary. Factual, translation and asset owner review pending. Original PDFs were not supplied.",
+  "visual": "sensing",
+  "maturity": "Proponowana architektura · elementy wymagają walidacji"
+}

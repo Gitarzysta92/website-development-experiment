@@ -1,0 +1,426 @@
+{
+  "id": "B-pl-aifield-neural-mobile",
+  "label": "B",
+  "locale": "pl",
+  "pageId": "aifield-neural",
+  "view": "mobile",
+  "url": "http://127.0.0.1:4511/pl/projekty/aifield/badania-modeli-pola/",
+  "status": 200,
+  "errors": [],
+  "title": "AIFIELD: Badania modeli pola | Artifactory",
+  "language": "pl",
+  "h1": [
+    "Nowy kierunek badań nad polami optycznymi."
+  ],
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Nowy kierunek badań nad polami optycznymi."
+    },
+    {
+      "level": "H2",
+      "text": "Pytanie badawcze"
+    },
+    {
+      "level": "H2",
+      "text": "Warunki są częścią wyniku"
+    },
+    {
+      "level": "H3",
+      "text": "Informacja brzegowa"
+    },
+    {
+      "level": "H3",
+      "text": "Generalizacja"
+    },
+    {
+      "level": "H3",
+      "text": "Rozmiar domeny"
+    },
+    {
+      "level": "H3",
+      "text": "Szybkość w praktyce"
+    },
+    {
+      "level": "H2",
+      "text": "Co jest potrzebne do wartościowego porównania"
+    },
+    {
+      "level": "H2",
+      "text": "Kolejne pytania badawcze"
+    },
+    {
+      "level": "H2",
+      "text": "Porozmawiajmy\no kolejnym kroku."
+    },
+    {
+      "level": "H2",
+      "text": "Projekty"
+    },
+    {
+      "level": "H2",
+      "text": "Firma"
+    },
+    {
+      "level": "H2",
+      "text": "Kontakt"
+    }
+  ],
+  "text": "Przejdź do treści\nPodgląd lokalny\nTreści robocze · 9 października 2026\nartifactory.\nMenu\nAIFIELD\nBadania modeli pola\nStrona główna\nProjekty\nAIFIELD\nBadania modeli pola\n\nAIFIELD / BADANIA MODELI POLA\n\nNowy kierunek badań nad polami optycznymi.\n\nTen obszar dotyczy neuronowej predykcji pól optycznych. Jest odrębny od klasycznych symulacji AIFIELD i od proponowanego analogowego procesora interpretacyjnego ArtiSense.\n\nNA TEJ STRONIE\n01\nPytanie badawcze\n02\nWarunki są częścią wyniku\n03\nCo jest potrzebne do wartościowego porównania\n04\nKolejne pytania badawcze\nPOLE OPTYCZNE\nILUSTRACJA KONCEPCYJNA\nAIFIELD\nIlustracja koncepcyjna · nie przedstawia produktu ani wyników pomiarów\nPytanie badawcze\n\nCzy wyuczony model może przewidywać zachowanie pola optycznego w sposób przydatny w pracy inżynieryjnej? Materiały opisują eksperymenty w określonych warunkach. Nie potwierdzają uniwersalnego zastąpienia klasycznych solverów.\n\nWarunki są częścią wyniku\nInformacja brzegowa\n\nOpisane wyniki obejmują dostarczoną informację brzegową. Ten warunek musi towarzyszyć każdemu porównaniu.\n\nGeneralizacja\n\nWynik dla jednego układu nie potwierdza wiarygodnej predykcji od podstaw dla innej geometrii.\n\nRozmiar domeny\n\nWiększe, łączone domeny pozostają pytaniem badawczym, a nie potwierdzoną funkcją.\n\nSzybkość w praktyce\n\nOcena szybkości musi uwzględniać przygotowanie, inferencję i warunki porównania. Praktyczna przewaga pozostaje nierozstrzygnięta.\n\nCo jest potrzebne do wartościowego porównania\n\nEksperyment możliwy do oceny powinien określać geometrię, dane wejściowe i brzegowe, rozwiązanie odniesienia, miarę błędu i pełne warunki czasowe. Ważne są przypadki udane i nieudane. Pakiet nie zawiera benchmarku liczbowego ani zatwierdzonego wykresu do publikacji.\n\ni\n\nIlustracja pola wyjaśnia temat badań. Jej kolory i kontury nie przedstawiają wyników symulacji.\n\nKolejne pytania badawcze\n\nProponowane dalsze badania dotyczą predykcji z mniejszą ilością informacji wejściowej, różnych geometrii, większych domen i porównania pełnego czasu obliczeń. To kierunki badań bez potwierdzonego harmonogramu.\n\nPrzykłady i walidacja\nPOZNAJ WIĘCEJ\nProjektowanie i symulacja\nPraca z AI\nPrzykłady i walidacja\nDla inwestorów\n\nKOLEJNA ROZMOWA\n\nPorozmawiajmy\no kolejnym kroku.\n\nPorozmawiajmy o inwestycji w firmę, badaniach i pytaniach, nad którymi warto pracować.\n\nPorozmawiajmy o inwestycji\nPoznaj możliwości współpracy\nartifactory.\n\nProjektujemy ze światłem. Otwieramy możliwości.\n\nTechnologie pomiarowe i narzędzia do projektowania układów fotonicznych.\nProjekty\nWszystkie projekty\nArtiSense\nAIFIELD\nFirma\nStrona główna\nDla inwestorów\nJak pracujemy\nO nas\nWspółpraca\nKontakt\ninfo@artifactory.tech\nKontakt\nPrywatność\nArtifactory · 2026\nLokalna wersja do przeglądu. Treści i polskie tłumaczenia wymagają zatwierdzenia.\nNa górę ↑",
+  "links": [
+    {
+      "text": "Przejdź do treści",
+      "href": "#main",
+      "lang": ""
+    },
+    {
+      "text": "artifactory.",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "Wszystkie projekty",
+      "href": "/pl/projekty/",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSenseCzujniki fotoniczne",
+      "href": "/pl/projekty/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELDInżynieria fotoniczna",
+      "href": "/pl/projekty/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Dla inwestorów",
+      "href": "/pl/inwestorzy/",
+      "lang": ""
+    },
+    {
+      "text": "Jak pracujemy",
+      "href": "/pl/jak-pracujemy/",
+      "lang": ""
+    },
+    {
+      "text": "O nas",
+      "href": "/pl/o-nas/",
+      "lang": ""
+    },
+    {
+      "text": "Współpraca",
+      "href": "/pl/wspolpraca/",
+      "lang": ""
+    },
+    {
+      "text": "Kontakt",
+      "href": "/pl/kontakt/",
+      "lang": ""
+    },
+    {
+      "text": "EN",
+      "href": "/en/projects/aifield/neural-field-research/",
+      "lang": "en"
+    },
+    {
+      "text": "Porozmawiajmy",
+      "href": "/pl/kontakt/?intent=investment",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/pl/projekty/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/pl/projekty/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/pl/projekty/aifield/projektowanie-symulacja/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/pl/projekty/aifield/praca-z-ai/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/pl/projekty/aifield/badania-modeli-pola/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/pl/projekty/aifield/przyklady-walidacja/",
+      "lang": ""
+    },
+    {
+      "text": "Strona główna",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "Projekty",
+      "href": "/pl/projekty/",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELD",
+      "href": "/pl/projekty/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "01\nPytanie badawcze",
+      "href": "#question",
+      "lang": ""
+    },
+    {
+      "text": "02\nWarunki są częścią wyniku",
+      "href": "#conditions",
+      "lang": ""
+    },
+    {
+      "text": "03\nCo jest potrzebne do wartościowego porównania",
+      "href": "#comparison",
+      "lang": ""
+    },
+    {
+      "text": "04\nKolejne pytania badawcze",
+      "href": "#next",
+      "lang": ""
+    },
+    {
+      "text": "Przykłady i walidacja",
+      "href": "/pl/projekty/aifield/przyklady-walidacja/",
+      "lang": ""
+    },
+    {
+      "text": "Projektowanie i symulacja",
+      "href": "/pl/projekty/aifield/projektowanie-symulacja/",
+      "lang": ""
+    },
+    {
+      "text": "Praca z AI",
+      "href": "/pl/projekty/aifield/praca-z-ai/",
+      "lang": ""
+    },
+    {
+      "text": "Przykłady i walidacja",
+      "href": "/pl/projekty/aifield/przyklady-walidacja/",
+      "lang": ""
+    },
+    {
+      "text": "Dla inwestorów",
+      "href": "/pl/inwestorzy/",
+      "lang": ""
+    },
+    {
+      "text": "Porozmawiajmy o inwestycji",
+      "href": "/pl/kontakt/?intent=investment&project=aifield",
+      "lang": ""
+    },
+    {
+      "text": "Poznaj możliwości współpracy",
+      "href": "/pl/wspolpraca/",
+      "lang": ""
+    },
+    {
+      "text": "artifactory.",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "Wszystkie projekty",
+      "href": "/pl/projekty/",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSense",
+      "href": "/pl/projekty/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELD",
+      "href": "/pl/projekty/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Strona główna",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "Dla inwestorów",
+      "href": "/pl/inwestorzy/",
+      "lang": ""
+    },
+    {
+      "text": "Jak pracujemy",
+      "href": "/pl/jak-pracujemy/",
+      "lang": ""
+    },
+    {
+      "text": "O nas",
+      "href": "/pl/o-nas/",
+      "lang": ""
+    },
+    {
+      "text": "Współpraca",
+      "href": "/pl/wspolpraca/",
+      "lang": ""
+    },
+    {
+      "text": "info@artifactory.tech",
+      "href": "mailto:info@artifactory.tech",
+      "lang": ""
+    },
+    {
+      "text": "Kontakt",
+      "href": "/pl/kontakt/",
+      "lang": ""
+    },
+    {
+      "text": "Prywatność",
+      "href": "/pl/prywatnosc/",
+      "lang": ""
+    },
+    {
+      "text": "Na górę ↑",
+      "href": "#top",
+      "lang": ""
+    }
+  ],
+  "metadata": [
+    {
+      "name": "viewport",
+      "content": "width=device-width, initial-scale=1"
+    },
+    {
+      "name": "description",
+      "content": "Poznaj neuronową predykcję pól optycznych jako kierunek badań, z warunkami brzegowymi, generalizacją i otwartym pytaniem o szybkość."
+    },
+    {
+      "name": "robots",
+      "content": "noindex,nofollow"
+    },
+    {
+      "name": "theme-color",
+      "content": "#662483"
+    },
+    {
+      "rel": "canonical",
+      "href": "http://127.0.0.1:4511/pl/projekty/aifield/badania-modeli-pola/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "en",
+      "href": "http://127.0.0.1:4511/en/projects/aifield/neural-field-research/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "pl",
+      "href": "http://127.0.0.1:4511/pl/projekty/aifield/badania-modeli-pola/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "x-default",
+      "href": "http://127.0.0.1:4511/en/projects/aifield/neural-field-research/"
+    },
+    {
+      "property": "og:type",
+      "content": "website"
+    },
+    {
+      "property": "og:site_name",
+      "content": "Artifactory"
+    },
+    {
+      "property": "og:title",
+      "content": "AIFIELD: Badania modeli pola | Artifactory"
+    },
+    {
+      "property": "og:description",
+      "content": "Poznaj neuronową predykcję pól optycznych jako kierunek badań, z warunkami brzegowymi, generalizacją i otwartym pytaniem o szybkość."
+    },
+    {
+      "property": "og:locale",
+      "content": "pl_PL"
+    },
+    {
+      "property": "og:locale:alternate",
+      "content": "en_GB"
+    },
+    {
+      "property": "og:url",
+      "content": "http://127.0.0.1:4511/pl/projekty/aifield/badania-modeli-pola/"
+    },
+    {
+      "property": "og:image",
+      "content": "http://127.0.0.1:4511/assets/share-pl.svg"
+    },
+    {
+      "name": "twitter:card",
+      "content": "summary_large_image"
+    }
+  ],
+  "forms": [],
+  "images": [],
+  "viewport": {
+    "width": 390,
+    "height": 844,
+    "scrollWidth": 390
+  },
+  "overflowing": [],
+  "axe": {
+    "violations": [
+      {
+        "id": "region",
+        "impact": "moderate",
+        "tags": [
+          "cat.keyboard",
+          "best-practice",
+          "RGAAv4",
+          "RGAA-9.2.1"
+        ],
+        "description": "Ensure all page content is contained by landmarks",
+        "help": "All page content should be contained by landmarks",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/region?application=playwright",
+        "nodes": [
+          {
+            "any": [
+              {
+                "id": "region",
+                "data": {
+                  "isIframe": false
+                },
+                "relatedNodes": [],
+                "impact": "moderate",
+                "message": "Some page content is not contained by landmarks"
+              }
+            ],
+            "all": [],
+            "none": [],
+            "impact": "moderate",
+            "html": "<div class=\"preview-strip\"><div class=\"container\"><span><i aria-hidden=\"true\"></i>Podgląd lokalny</span><span>Treści robocze · 9 października 2026</span></div></div>",
+            "target": [
+              ".preview-strip"
+            ],
+            "failureSummary": "Fix any of the following:\n  Some page content is not contained by landmarks"
+          }
+        ]
+      }
+    ],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "impact": "serious",
+        "nodeCount": 7
+      }
+    ],
+    "passes": 39
+  }
+}

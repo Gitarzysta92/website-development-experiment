@@ -1,0 +1,358 @@
+{
+  "id": "A-pl-artisense-validation-desktop",
+  "label": "A",
+  "locale": "pl",
+  "pageId": "artisense-validation",
+  "view": "desktop",
+  "url": "http://127.0.0.1:4501/pl/projekty/artisense/badania-walidacja/",
+  "status": 200,
+  "errors": [],
+  "title": "Co zbadano. Co pozostaje do wykazania. | Artifactory",
+  "language": "pl",
+  "h1": [
+    "Co zbadano. Co pozostaje do wykazania."
+  ],
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Co zbadano. Co pozostaje do wykazania."
+    },
+    {
+      "level": "H2",
+      "text": "Projekt ≠ pomiar"
+    },
+    {
+      "level": "H2",
+      "text": "Wykonalność optyczna i projekt chipu."
+    },
+    {
+      "level": "H2",
+      "text": "Różne dowody odpowiadają na różne pytania."
+    },
+    {
+      "level": "H2",
+      "text": "Porównanie powinno dać się przeanalizować."
+    },
+    {
+      "level": "H2",
+      "text": "Proponowana kolejność pytań walidacyjnych."
+    },
+    {
+      "level": "H2",
+      "text": "Przyjrzyjmy się temu razem."
+    },
+    {
+      "level": "H2",
+      "text": "Firma"
+    },
+    {
+      "level": "H2",
+      "text": "Projekty"
+    },
+    {
+      "level": "H2",
+      "text": "Porozmawiajmy"
+    }
+  ],
+  "text": "Przejdź do treści\nWersja lokalna · Badania w toku\na·\nartifactory\nProjekty\n⌄\nDla inwestorów\nJak pracujemy\nO nas\nEN\n↔\nPorozmawiajmy\n↗\nStrona główna\nProjekty\nArtiSense\nBadania i walidacja\n\nARTISENSE / BADANIA I WALIDACJA\n\nCo zbadano. Co pozostaje do wykazania.\n\nWiarygodny wynik pomiarowy wymaga więcej niż obiecującego projektu. Oto granica między opisanymi pracami a kolejnymi pytaniami eksperymentalnymi.\n\nDowody projektowe i symulacyjne · walidacja fizyczna pozostaje otwarta\n\nArtiSense\n\nPrzegląd\nTechnologia\nZastosowania\nBadania i walidacja\n\nNa tej stronie\n\nWykonalność optyczna i projekt chipu.\nRóżne dowody odpowiadają na różne pytania.\nPorównanie powinno dać się przeanalizować.\nProponowana kolejność pytań walidacyjnych.\n\nCzęść projektu ArtiSense firmy Artifactory.\n\nProjekt ≠ pomiar\n\nDowód ma znaczenie w granicach pytania, metody i warunków, których dotyczy.\n\nWykonalność optyczna i projekt chipu.\n\nDostarczony kontekst, przygotowany w październiku 2026, podsumowuje prace nad wykonalnością optyczną i projektem chipu fotonicznego związane z glukozą. Badają one zasadność dalszego rozwijania rozwiązania optycznego i zachowanie proponowanej struktury w modelu.\n\nPodsumowanie źródłowe nie obejmuje oryginalnych wykresów, pełnych ustawień eksperymentów ani wyników liczbowych. Pozwala zatem na jakościowy opis kierunku badań, a nie odtworzenie tabeli porównawczej lub niezależne potwierdzenie parametrów.\n\nPrzykład projektowy AIFIELD wyjaśnia działania inżynierskie. Nie uzupełnia brakujących dowodów eksperymentalnych dla celu pomiarowego ArtiSense.\n\nPrzykłady i walidacja\n↗\nRóżne dowody odpowiadają na różne pytania.\n\nKoncepcja określa zamierzone działanie systemu. Symulacja szacuje zachowanie w modelu. Eksperyment z wykonanym urządzeniem sprawdza zachowanie fizycznej realizacji. Twierdzenie o użyciu przez ludzi wymagałoby kolejnego, odpowiednio zaprojektowanego zestawu dowodów.\n\nObszar\tZakres i ograniczenia\nWykonalność optyczna\tUzasadnia badanie mechanizmu optycznego przy określonych założeniach; nie potwierdza wiarygodnego pomiaru w użyciu.\nProjekt chipu fotonicznego\tUzasadnia proponowaną geometrię i proces inżynierski; nie dowodzi wytworzenia ani integracji.\nFizyczne parametry pomiaru\tNie zostały wykazane w podsumowaniu. Nie publikujemy tu zmierzonej dokładności pomiaru glukozy.\nUżycie kliniczne lub ubieralne\tNie zostało zwalidowane w dostarczonych materiałach. Zamierzonych form nie należy traktować jako zatwierdzonych zastosowań.\nPorównanie powinno dać się przeanalizować.\n\nAby wynik liczbowy był użyteczny, trzeba określić oświetlenie, próbkę, odniesienie, detektor i warunki przetwarzania. Czytelnik potrzebuje też informacji o powtórzeniach, zmiennych, nieudanych przypadkach i pozostałej niepewności.\n\nNie dostarczono tych szczegółów na poziomie umożliwiającym odtworzenie wyniku liczbowego na tej stronie. Jest to ograniczenie dostępnych dowodów, a nie podstawa do zakładania korzystnego rezultatu. Pomaga też sprecyzować kolejną rozmowę techniczną.\n\nTechnologia\n↗\nProponowana kolejność pytań walidacyjnych.\n\nNajpierw należy określić poszukiwaną odpowiedź i porównanie odniesienia. Następnie ocenić powtarzalność i wpływy zakłócające w kontrolowanym środowisku. Proponowana struktura fizyczna wymagałaby porównania z modelem przed oceną zintegrowanego systemu.\n\nPrzejście do kolejnego kroku powinno zależeć od wyników. Nie deklarujemy potwierdzonych dat eksperymentów, zakończonego wytwarzania ani badania klinicznego. To propozycja uporządkowania potrzeb dowodowych, nie obiecany harmonogram firmy.\n\nJaka obserwacja wsparłaby lub odrzuciła hipotezę optyczną?\nKtóre założenia są najważniejsze przy przejściu od modelu do wykonanej struktury?\nCo musi pozostać stabilne, aby interpretowany sygnał był użyteczny?\nWspółpraca\n↗\nDla inwestorów\n↗\n\nZACZNIJMY OD PYTANIA\n\nPrzyjrzyjmy się temu razem.\nPorozmawiajmy o inwestycji\n↗\nMożliwości współpracy ↗\nartifactory·\n\nTechnologie pomiarowe i narzędzia do projektowania systemów fotonicznych.\n\ninfo@artifactory.tech\n↗\nFirma\nStrona główna\nProjekty\nDla inwestorów\nJak pracujemy\nO nas\nProjekty\nArtiSense\nAIFIELD\nPorozmawiajmy\nWspółpraca\nKontakt\nPolityka prywatności\nArtifactory\nŚwiatło otwiera nowe możliwości.",
+  "links": [
+    {
+      "text": "Przejdź do treści",
+      "href": "#main",
+      "lang": ""
+    },
+    {
+      "text": "a·\nartifactory",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/pl/projekty/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/pl/projekty/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/pl/projekty/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Dla inwestorów",
+      "href": "/pl/inwestorzy/",
+      "lang": ""
+    },
+    {
+      "text": "Jak pracujemy",
+      "href": "/pl/jak-pracujemy/",
+      "lang": ""
+    },
+    {
+      "text": "O nas",
+      "href": "/pl/o-nas/",
+      "lang": ""
+    },
+    {
+      "text": "Współpraca",
+      "href": "/pl/wspolpraca/",
+      "lang": ""
+    },
+    {
+      "text": "Kontakt",
+      "href": "/pl/kontakt/",
+      "lang": ""
+    },
+    {
+      "text": "EN\n↔",
+      "href": "http://127.0.0.1:4501/en/projects/artisense/research-validation/",
+      "lang": "en"
+    },
+    {
+      "text": "Porozmawiajmy\n↗",
+      "href": "/pl/kontakt/?intent=investment",
+      "lang": ""
+    },
+    {
+      "text": "Strona główna",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "Projekty",
+      "href": "/pl/projekty/",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSense",
+      "href": "/pl/projekty/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "Przegląd",
+      "href": "/pl/projekty/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "Technologia",
+      "href": "/pl/projekty/artisense/technologia/",
+      "lang": ""
+    },
+    {
+      "text": "Zastosowania",
+      "href": "/pl/projekty/artisense/zastosowania/",
+      "lang": ""
+    },
+    {
+      "text": "Badania i walidacja",
+      "href": "/pl/projekty/artisense/badania-walidacja/",
+      "lang": ""
+    },
+    {
+      "text": "Wykonalność optyczna i projekt chipu.",
+      "href": "#available",
+      "lang": ""
+    },
+    {
+      "text": "Różne dowody odpowiadają na różne pytania.",
+      "href": "#meaning",
+      "lang": ""
+    },
+    {
+      "text": "Porównanie powinno dać się przeanalizować.",
+      "href": "#conditions",
+      "lang": ""
+    },
+    {
+      "text": "Proponowana kolejność pytań walidacyjnych.",
+      "href": "#next",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSense",
+      "href": "/pl/projekty/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "Przykłady i walidacja\n↗",
+      "href": "/pl/projekty/aifield/przyklady-walidacja/",
+      "lang": ""
+    },
+    {
+      "text": "Technologia\n↗",
+      "href": "/pl/projekty/artisense/technologia/",
+      "lang": ""
+    },
+    {
+      "text": "Współpraca\n↗",
+      "href": "/pl/wspolpraca/",
+      "lang": ""
+    },
+    {
+      "text": "Dla inwestorów\n↗",
+      "href": "/pl/inwestorzy/",
+      "lang": ""
+    },
+    {
+      "text": "Porozmawiajmy o inwestycji\n↗",
+      "href": "/pl/kontakt/?intent=investment&project=artisense",
+      "lang": ""
+    },
+    {
+      "text": "Możliwości współpracy ↗",
+      "href": "/pl/wspolpraca/",
+      "lang": ""
+    },
+    {
+      "text": "artifactory·",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "info@artifactory.tech\n↗",
+      "href": "mailto:info@artifactory.tech",
+      "lang": ""
+    },
+    {
+      "text": "Strona główna",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "Projekty",
+      "href": "/pl/projekty/",
+      "lang": ""
+    },
+    {
+      "text": "Dla inwestorów",
+      "href": "/pl/inwestorzy/",
+      "lang": ""
+    },
+    {
+      "text": "Jak pracujemy",
+      "href": "/pl/jak-pracujemy/",
+      "lang": ""
+    },
+    {
+      "text": "O nas",
+      "href": "/pl/o-nas/",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSense",
+      "href": "/pl/projekty/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELD",
+      "href": "/pl/projekty/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Współpraca",
+      "href": "/pl/wspolpraca/",
+      "lang": ""
+    },
+    {
+      "text": "Kontakt",
+      "href": "/pl/kontakt/",
+      "lang": ""
+    },
+    {
+      "text": "Polityka prywatności",
+      "href": "/pl/prywatnosc/",
+      "lang": ""
+    }
+  ],
+  "metadata": [
+    {
+      "name": "viewport",
+      "content": "width=device-width, initial-scale=1"
+    },
+    {
+      "name": "description",
+      "content": "ArtiSense z perspektywy dowodów: wykonalność optyczna, projekt chipu glukozowego, otwarte pytania oraz rozróżnienie symulacji i fizycznej walidacji."
+    },
+    {
+      "name": "robots",
+      "content": "noindex, nofollow"
+    },
+    {
+      "rel": "canonical",
+      "href": "http://127.0.0.1:4501/pl/projekty/artisense/badania-walidacja/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "en",
+      "href": "http://127.0.0.1:4501/en/projects/artisense/research-validation/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "pl",
+      "href": "http://127.0.0.1:4501/pl/projekty/artisense/badania-walidacja/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "x-default",
+      "href": "http://127.0.0.1:4501/en/projects/artisense/research-validation/"
+    },
+    {
+      "property": "og:type",
+      "content": "website"
+    },
+    {
+      "property": "og:site_name",
+      "content": "Artifactory"
+    },
+    {
+      "property": "og:title",
+      "content": "Co zbadano. Co pozostaje do wykazania. | Artifactory"
+    },
+    {
+      "property": "og:description",
+      "content": "ArtiSense z perspektywy dowodów: wykonalność optyczna, projekt chipu glukozowego, otwarte pytania oraz rozróżnienie symulacji i fizycznej walidacji."
+    },
+    {
+      "property": "og:url",
+      "content": "http://127.0.0.1:4501/pl/projekty/artisense/badania-walidacja/"
+    },
+    {
+      "property": "og:locale",
+      "content": "pl_PL"
+    },
+    {
+      "property": "og:image",
+      "content": "http://127.0.0.1:4501/brand/share-v1.svg"
+    },
+    {
+      "property": "og:image:width",
+      "content": "1200"
+    },
+    {
+      "property": "og:image:height",
+      "content": "630"
+    }
+  ],
+  "forms": [],
+  "images": [],
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "scrollWidth": 1425
+  },
+  "overflowing": [],
+  "axe": {
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "impact": "serious",
+        "nodeCount": 1
+      }
+    ],
+    "passes": 45
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "partnerships",
+  "locale": "en",
+  "title": "Work together around a clear technical question",
+  "description": "Potential collaboration could address optical measurement conditions, photonic design workflows or independent validation. These are discussion topics, not statements that a partner arrangement already exists.",
+  "eyebrow": "Artifactory",
+  "lead": "Potential collaboration could address optical measurement conditions, photonic design workflows or independent validation. These are discussion topics, not statements that a partner arrangement already exists.",
+  "sections": [
+    {
+      "id": "section-1",
+      "heading": "For sensing researchers",
+      "body": [
+        "A useful proposal might define an analyte, sample preparation, reference method and sources of variation. Joint work would need explicit responsibilities and a study design before any performance claim could be made."
+      ]
+    },
+    {
+      "id": "section-2",
+      "heading": "For photonic engineers",
+      "body": [
+        "A design discussion could focus on process assumptions, simulation reproducibility and agreement with independent results. The glucose-chip example is a design case, not evidence of a deployed or measured product."
+      ]
+    },
+    {
+      "id": "section-3",
+      "heading": "Begin with scope and evidence",
+      "body": [
+        "Explain the question, what information can be shared, what outcome would be useful and how success might be tested. The preview form only creates a local test receipt; no external partner is contacted by submitting it here."
+      ]
+    }
+  ],
+  "related": [
+    "artisense-validation",
+    "aifield-validation",
+    "contact"
+  ],
+  "editorialState": "draft",
+  "sourceRevision": "HP-1.1; context 2026-10-09",
+  "modified": "2026-10-10",
+  "sourceRefs": [
+    "inputs/content/project-context.md (summary, 2026-10-09)",
+    "inputs/docs/sitemap.md (SM-0.3)"
+  ]
+}

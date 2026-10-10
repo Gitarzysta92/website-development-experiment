@@ -1,0 +1,472 @@
+{
+  "id": "B-pl-artisense-validation-mobile",
+  "label": "B",
+  "locale": "pl",
+  "pageId": "artisense-validation",
+  "view": "mobile",
+  "url": "http://127.0.0.1:4511/pl/projekty/artisense/badania-walidacja/",
+  "status": 200,
+  "errors": [],
+  "title": "ArtiSense: Badania i walidacja | Artifactory",
+  "language": "pl",
+  "h1": [
+    "Co mówią dostępne dowody."
+  ],
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Co mówią dostępne dowody."
+    },
+    {
+      "level": "H2",
+      "text": "Przegląd dostępnych dowodów"
+    },
+    {
+      "level": "H2",
+      "text": "Proponowana sekwencja walidacji"
+    },
+    {
+      "level": "H3",
+      "text": "Definicja eksperymentu"
+    },
+    {
+      "level": "H3",
+      "text": "Charakterystyka układu fizycznego"
+    },
+    {
+      "level": "H3",
+      "text": "Ocena zachowania pomiarowego"
+    },
+    {
+      "level": "H3",
+      "text": "Ocena zamierzonego użycia"
+    },
+    {
+      "level": "H2",
+      "text": "Pytania wyznaczające kolejny krok"
+    },
+    {
+      "level": "H2",
+      "text": "Kontekst dowodów projektowych"
+    },
+    {
+      "level": "H2",
+      "text": "Porozmawiajmy\no kolejnym kroku."
+    },
+    {
+      "level": "H2",
+      "text": "Projekty"
+    },
+    {
+      "level": "H2",
+      "text": "Firma"
+    },
+    {
+      "level": "H2",
+      "text": "Kontakt"
+    }
+  ],
+  "text": "Przejdź do treści\nPodgląd lokalny\nTreści robocze · 9 października 2026\nartifactory.\nMenu\nArtiSense\nBadania i walidacja\nStrona główna\nProjekty\nArtiSense\nBadania i walidacja\n\nARTISENSE / BADANIA I WALIDACJA\n\nCo mówią dostępne dowody.\n\nMateriały badawcze z września 2026 opisują prace nad wykonalnością optyczną i projektowaniem układu. Ta strona oddziela te dowody inżynieryjne od dalszych pomiarów potrzebnych docelowemu systemowi.\n\nNA TEJ STRONIE\n01\nPrzegląd dostępnych dowodów\n02\nProponowana sekwencja walidacji\n03\nPytania wyznaczające kolejny krok\n04\nKontekst dowodów projektowych\nARTISENSE / 01\nFOTONIKA\nSYGNAŁ\nŚWIATŁO\nIlustracja koncepcyjna · nie przedstawia produktu ani wyników pomiarów\nPrzegląd dostępnych dowodów\nOpisane prace\tCo wspierają\tCzego nie potwierdzają\nWykonalność optyczna\tBadanie potencjalnej metody pomiarowej\tZwalidowanego pomiaru chemicznego\nProjekt układu fotonicznego\tPrzykład projektu i symulacji inżynieryjnej\tWykonanego i przetestowanego czujnika\nPlanowane użycie ubieralne\tKierunek przyszłej integracji\tGotowego lub klinicznie zwalidowanego produktu\ni\n\nNa podstawie dostarczonego kontekstu badawczego, przejrzanego na potrzeby lokalnej wersji 9 października 2026. Pakiet nie zawiera oryginalnych wykresów, warunków eksperymentów ani wyników liczbowych.\n\nProponowana sekwencja walidacji\n01\nDefinicja eksperymentu\n\nOkreślenie hipotezy, układu optycznego, próbki i pomiaru odniesienia.\n\n02\nCharakterystyka układu fizycznego\n\nBadanie wykonanych elementów i dokumentowanie warunków pracy.\n\n03\nOcena zachowania pomiarowego\n\nBadanie kalibracji, powtarzalności i źródeł zakłóceń.\n\n04\nOcena zamierzonego użycia\n\nPlan dalszej walidacji wymaganej dla docelowego zastosowania.\n\nPytania wyznaczające kolejny krok\n\nKtóra odpowiedź optyczna jest wystarczająco stabilna do pomiaru? Jak wynik zależy od warunków próbki? Które założenia kalibracji potwierdzi test fizyczny? Odpowiedzi powinny określić kolejny etap. Nie potwierdzono terminów jego ukończenia.\n\nKontekst dowodów projektowych\n\nPrzykład projektu układu w AIFIELD przedstawia proces inżynieryjny. Nie potwierdza dokładności pomiarowej. Przegląd obu obszarów pozwala odróżnić postęp narzędzi projektowych od rozwoju fizycznego systemu pomiarowego.\n\nPrzykłady i walidacja\nPOZNAJ WIĘCEJ\nTechnologia\nZastosowania\nDla inwestorów\n\nKOLEJNA ROZMOWA\n\nPorozmawiajmy\no kolejnym kroku.\n\nPorozmawiajmy o inwestycji w firmę, badaniach i pytaniach, nad którymi warto pracować.\n\nPorozmawiajmy o inwestycji\nPoznaj możliwości współpracy\nartifactory.\n\nProjektujemy ze światłem. Otwieramy możliwości.\n\nTechnologie pomiarowe i narzędzia do projektowania układów fotonicznych.\nProjekty\nWszystkie projekty\nArtiSense\nAIFIELD\nFirma\nStrona główna\nDla inwestorów\nJak pracujemy\nO nas\nWspółpraca\nKontakt\ninfo@artifactory.tech\nKontakt\nPrywatność\nArtifactory · 2026\nLokalna wersja do przeglądu. Treści i polskie tłumaczenia wymagają zatwierdzenia.\nNa górę ↑",
+  "links": [
+    {
+      "text": "Przejdź do treści",
+      "href": "#main",
+      "lang": ""
+    },
+    {
+      "text": "artifactory.",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "Wszystkie projekty",
+      "href": "/pl/projekty/",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSenseCzujniki fotoniczne",
+      "href": "/pl/projekty/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELDInżynieria fotoniczna",
+      "href": "/pl/projekty/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Dla inwestorów",
+      "href": "/pl/inwestorzy/",
+      "lang": ""
+    },
+    {
+      "text": "Jak pracujemy",
+      "href": "/pl/jak-pracujemy/",
+      "lang": ""
+    },
+    {
+      "text": "O nas",
+      "href": "/pl/o-nas/",
+      "lang": ""
+    },
+    {
+      "text": "Współpraca",
+      "href": "/pl/wspolpraca/",
+      "lang": ""
+    },
+    {
+      "text": "Kontakt",
+      "href": "/pl/kontakt/",
+      "lang": ""
+    },
+    {
+      "text": "EN",
+      "href": "/en/projects/artisense/research-validation/",
+      "lang": "en"
+    },
+    {
+      "text": "Porozmawiajmy",
+      "href": "/pl/kontakt/?intent=investment",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/pl/projekty/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/pl/projekty/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/pl/projekty/artisense/technologia/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/pl/projekty/artisense/zastosowania/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/pl/projekty/artisense/badania-walidacja/",
+      "lang": ""
+    },
+    {
+      "text": "Strona główna",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "Projekty",
+      "href": "/pl/projekty/",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSense",
+      "href": "/pl/projekty/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "01\nPrzegląd dostępnych dowodów",
+      "href": "#evidence",
+      "lang": ""
+    },
+    {
+      "text": "02\nProponowana sekwencja walidacji",
+      "href": "#validation-path",
+      "lang": ""
+    },
+    {
+      "text": "03\nPytania wyznaczające kolejny krok",
+      "href": "#questions",
+      "lang": ""
+    },
+    {
+      "text": "04\nKontekst dowodów projektowych",
+      "href": "#design-evidence",
+      "lang": ""
+    },
+    {
+      "text": "Przykłady i walidacja",
+      "href": "/pl/projekty/aifield/przyklady-walidacja/",
+      "lang": ""
+    },
+    {
+      "text": "Technologia",
+      "href": "/pl/projekty/artisense/technologia/",
+      "lang": ""
+    },
+    {
+      "text": "Zastosowania",
+      "href": "/pl/projekty/artisense/zastosowania/",
+      "lang": ""
+    },
+    {
+      "text": "Dla inwestorów",
+      "href": "/pl/inwestorzy/",
+      "lang": ""
+    },
+    {
+      "text": "Porozmawiajmy o inwestycji",
+      "href": "/pl/kontakt/?intent=investment&project=artisense",
+      "lang": ""
+    },
+    {
+      "text": "Poznaj możliwości współpracy",
+      "href": "/pl/wspolpraca/",
+      "lang": ""
+    },
+    {
+      "text": "artifactory.",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "Wszystkie projekty",
+      "href": "/pl/projekty/",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSense",
+      "href": "/pl/projekty/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELD",
+      "href": "/pl/projekty/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Strona główna",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "Dla inwestorów",
+      "href": "/pl/inwestorzy/",
+      "lang": ""
+    },
+    {
+      "text": "Jak pracujemy",
+      "href": "/pl/jak-pracujemy/",
+      "lang": ""
+    },
+    {
+      "text": "O nas",
+      "href": "/pl/o-nas/",
+      "lang": ""
+    },
+    {
+      "text": "Współpraca",
+      "href": "/pl/wspolpraca/",
+      "lang": ""
+    },
+    {
+      "text": "info@artifactory.tech",
+      "href": "mailto:info@artifactory.tech",
+      "lang": ""
+    },
+    {
+      "text": "Kontakt",
+      "href": "/pl/kontakt/",
+      "lang": ""
+    },
+    {
+      "text": "Prywatność",
+      "href": "/pl/prywatnosc/",
+      "lang": ""
+    },
+    {
+      "text": "Na górę ↑",
+      "href": "#top",
+      "lang": ""
+    }
+  ],
+  "metadata": [
+    {
+      "name": "viewport",
+      "content": "width=device-width, initial-scale=1"
+    },
+    {
+      "name": "description",
+      "content": "Opis prac nad wykonalnością optyczną i projektem ArtiSense oraz różnic między nimi a walidacją fizyczną i kliniczną."
+    },
+    {
+      "name": "robots",
+      "content": "noindex,nofollow"
+    },
+    {
+      "name": "theme-color",
+      "content": "#662483"
+    },
+    {
+      "rel": "canonical",
+      "href": "http://127.0.0.1:4511/pl/projekty/artisense/badania-walidacja/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "en",
+      "href": "http://127.0.0.1:4511/en/projects/artisense/research-validation/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "pl",
+      "href": "http://127.0.0.1:4511/pl/projekty/artisense/badania-walidacja/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "x-default",
+      "href": "http://127.0.0.1:4511/en/projects/artisense/research-validation/"
+    },
+    {
+      "property": "og:type",
+      "content": "website"
+    },
+    {
+      "property": "og:site_name",
+      "content": "Artifactory"
+    },
+    {
+      "property": "og:title",
+      "content": "ArtiSense: Badania i walidacja | Artifactory"
+    },
+    {
+      "property": "og:description",
+      "content": "Opis prac nad wykonalnością optyczną i projektem ArtiSense oraz różnic między nimi a walidacją fizyczną i kliniczną."
+    },
+    {
+      "property": "og:locale",
+      "content": "pl_PL"
+    },
+    {
+      "property": "og:locale:alternate",
+      "content": "en_GB"
+    },
+    {
+      "property": "og:url",
+      "content": "http://127.0.0.1:4511/pl/projekty/artisense/badania-walidacja/"
+    },
+    {
+      "property": "og:image",
+      "content": "http://127.0.0.1:4511/assets/share-pl.svg"
+    },
+    {
+      "name": "twitter:card",
+      "content": "summary_large_image"
+    }
+  ],
+  "forms": [],
+  "images": [],
+  "viewport": {
+    "width": 390,
+    "height": 844,
+    "scrollWidth": 390
+  },
+  "overflowing": [
+    {
+      "tag": "TABLE",
+      "class": "",
+      "text": "Opisane prace\tCo wspierają\tCzego nie potwierdzają\nWykonalność optyczna\tBadanie potencjalnej metody p"
+    },
+    {
+      "tag": "THEAD",
+      "class": "",
+      "text": "Opisane prace\tCo wspierają\tCzego nie potwierdzają\n"
+    },
+    {
+      "tag": "TR",
+      "class": "",
+      "text": "Opisane prace\tCo wspierają\tCzego nie potwierdzają"
+    },
+    {
+      "tag": "TH",
+      "class": "",
+      "text": "Czego nie potwierdzają"
+    },
+    {
+      "tag": "TBODY",
+      "class": "",
+      "text": "Wykonalność optyczna\tBadanie potencjalnej metody pomiarowej\tZwalidowanego pomiaru chemicznego\nProjek"
+    },
+    {
+      "tag": "TR",
+      "class": "",
+      "text": "Wykonalność optyczna\tBadanie potencjalnej metody pomiarowej\tZwalidowanego pomiaru chemicznego"
+    },
+    {
+      "tag": "TD",
+      "class": "",
+      "text": "Zwalidowanego pomiaru chemicznego"
+    },
+    {
+      "tag": "TR",
+      "class": "",
+      "text": "Projekt układu fotonicznego\tPrzykład projektu i symulacji inżynieryjnej\tWykonanego i przetestowanego"
+    },
+    {
+      "tag": "TD",
+      "class": "",
+      "text": "Wykonanego i przetestowanego czujnika"
+    },
+    {
+      "tag": "TR",
+      "class": "",
+      "text": "Planowane użycie ubieralne\tKierunek przyszłej integracji\tGotowego lub klinicznie zwalidowanego produ"
+    },
+    {
+      "tag": "TD",
+      "class": "",
+      "text": "Gotowego lub klinicznie zwalidowanego produktu"
+    }
+  ],
+  "axe": {
+    "violations": [
+      {
+        "id": "region",
+        "impact": "moderate",
+        "tags": [
+          "cat.keyboard",
+          "best-practice",
+          "RGAAv4",
+          "RGAA-9.2.1"
+        ],
+        "description": "Ensure all page content is contained by landmarks",
+        "help": "All page content should be contained by landmarks",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/region?application=playwright",
+        "nodes": [
+          {
+            "any": [
+              {
+                "id": "region",
+                "data": {
+                  "isIframe": false
+                },
+                "relatedNodes": [],
+                "impact": "moderate",
+                "message": "Some page content is not contained by landmarks"
+              }
+            ],
+            "all": [],
+            "none": [],
+            "impact": "moderate",
+            "html": "<div class=\"preview-strip\"><div class=\"container\"><span><i aria-hidden=\"true\"></i>Podgląd lokalny</span><span>Treści robocze · 9 października 2026</span></div></div>",
+            "target": [
+              ".preview-strip"
+            ],
+            "failureSummary": "Fix any of the following:\n  Some page content is not contained by landmarks"
+          }
+        ]
+      }
+    ],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "impact": "serious",
+        "nodeCount": 10
+      }
+    ],
+    "passes": 46
+  }
+}

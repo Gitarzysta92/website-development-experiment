@@ -1,0 +1,43 @@
+{
+  "id": "about",
+  "locale": "en",
+  "title": "A company focused on photonic questions",
+  "description": "Artifactory presents ArtiSense and AIFIELD as two current projects: one investigates sensing, the other supports photonic engineering. This draft describes their focus without inventing a team roster or legal history.",
+  "eyebrow": "Artifactory",
+  "lead": "Artifactory presents ArtiSense and AIFIELD as two current projects: one investigates sensing, the other supports photonic engineering. This draft describes their focus without inventing a team roster or legal history.",
+  "sections": [
+    {
+      "id": "section-1",
+      "heading": "Why these projects sit together",
+      "body": [
+        "A sensing concept needs both an understanding of light interacting with matter and a way to design photonic components. AIFIELD’s engineering workflow may be relevant to ArtiSense designs, but the projects retain separate goals and evidence."
+      ]
+    },
+    {
+      "id": "section-2",
+      "heading": "What we can say today",
+      "body": [
+        "The supplied context identifies the project subjects and a September 2026 research snapshot. It does not confirm biographies, team size, incorporation details, patents, ownership or partnerships. Those facts should be added only after direct owner review."
+      ]
+    },
+    {
+      "id": "section-3",
+      "heading": "How to get in touch",
+      "body": [
+        "Investors can ask about the company-level opportunity and current stage; technical partners can propose a focused discussion. The local form is a preview test channel and the email alternative opens your own mail client."
+      ]
+    }
+  ],
+  "related": [
+    "artisense",
+    "aifield",
+    "contact"
+  ],
+  "editorialState": "draft",
+  "sourceRevision": "HP-1.1; context 2026-10-09",
+  "modified": "2026-10-10",
+  "sourceRefs": [
+    "inputs/content/project-context.md (summary, 2026-10-09)",
+    "inputs/docs/sitemap.md (SM-0.3)"
+  ]
+}

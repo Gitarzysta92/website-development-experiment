@@ -1,0 +1,43 @@
+{
+  "id": "projects",
+  "locale": "en",
+  "title": "Two projects, one demanding discipline",
+  "description": "Explore the measurement question behind ArtiSense and the engineering workflow behind AIFIELD. Their connection is useful for design, but evidence for one does not validate the other.",
+  "eyebrow": "Artifactory",
+  "lead": "Explore the measurement question behind ArtiSense and the engineering workflow behind AIFIELD. Their connection is useful for design, but evidence for one does not validate the other.",
+  "sections": [
+    {
+      "id": "section-1",
+      "heading": "ArtiSense: optical sensing",
+      "body": [
+        "The proposed system combines illumination, a sample-dependent optical response, detection and interpretation. Photonic glucose sensing is a research example. A device-level measurement and clinical accuracy remain outside the supplied evidence."
+      ]
+    },
+    {
+      "id": "section-2",
+      "heading": "AIFIELD: design and simulation",
+      "body": [
+        "The September 2026 materials describe photonic CAD and simulation work, including modes, circuits, fields and thermal effects. A glucose-related chip design is an internal engineering example; it does not establish a fabricated sensor result."
+      ]
+    },
+    {
+      "id": "section-3",
+      "heading": "Read the evidence in context",
+      "body": [
+        "Both branches separate what the source material describes from the next tests required. AIFIELD design outputs can inform an ArtiSense concept, but simulation cannot substitute for fabrication, calibration or measurement."
+      ]
+    }
+  ],
+  "related": [
+    "artisense",
+    "aifield",
+    "investors"
+  ],
+  "editorialState": "draft",
+  "sourceRevision": "HP-1.1; context 2026-10-09",
+  "modified": "2026-10-10",
+  "sourceRefs": [
+    "inputs/content/project-context.md (summary, 2026-10-09)",
+    "inputs/docs/sitemap.md (SM-0.3)"
+  ]
+}

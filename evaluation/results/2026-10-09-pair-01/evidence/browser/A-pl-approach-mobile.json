@@ -1,0 +1,365 @@
+{
+  "id": "A-pl-approach-mobile",
+  "label": "A",
+  "locale": "pl",
+  "pageId": "approach",
+  "view": "mobile",
+  "url": "http://127.0.0.1:4501/pl/jak-pracujemy/",
+  "status": 200,
+  "errors": [],
+  "title": "Niech dowody wyznaczają kolejne pytanie. | Artifactory",
+  "language": "pl",
+  "h1": [
+    "Niech dowody wyznaczają kolejne pytanie."
+  ],
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Niech dowody wyznaczają kolejne pytanie."
+    },
+    {
+      "level": "H2",
+      "text": "Zachowaj rozróżnienie etapów."
+    },
+    {
+      "level": "H2",
+      "text": "Nazwij rodzaj dowodu."
+    },
+    {
+      "level": "H2",
+      "text": "Przykład projektowania pomiaru pokazuje tę różnicę."
+    },
+    {
+      "level": "H2",
+      "text": "Zamień niepewność w konkretne pytanie."
+    },
+    {
+      "level": "H2",
+      "text": "Zacznijmy od konkretnej rozmowy."
+    },
+    {
+      "level": "H2",
+      "text": "Firma"
+    },
+    {
+      "level": "H2",
+      "text": "Projekty"
+    },
+    {
+      "level": "H2",
+      "text": "Porozmawiajmy"
+    }
+  ],
+  "text": "Przejdź do treści\nWersja lokalna · Badania w toku\na·\nartifactory\nMenu\n☰\nStrona główna\nJak pracujemy\n\nARTIFACTORY / FIRMA\n\nNiech dowody wyznaczają kolejne pytanie.\n\nJasna kolejność pomaga wyjaśnić, czego się dowiedziano, co pozostaje założeniem i co powinien rozstrzygnąć następny eksperyment.\n\n01\nProblem\n\nOkreśl potrzebny rezultat.\n\n↓\n02\nModel\n\nUjawnij założenia.\n\n↓\n03\nProjekt\n\nZdefiniuj proponowaną strukturę.\n\n↓\n04\nPrototyp\n\nSprawdź realizację fizyczną.\n\n↓\n05\nPomiar\n\nPorównaj obserwację z odniesieniem.\n\nProponowana sekwencja pytań, nie lista ukończonych etapów.\nZachowaj rozróżnienie etapów.\n\nProblem określa pożądany rezultat. Model wyraża założenia o zachowaniu systemu. Projekt zamienia je w proponowaną strukturę. Prototyp jest realizacją fizyczną do zbadania, a pomiar porównuje obserwowane zachowanie z odpowiednim odniesieniem.\n\nPrzejście między etapami nie jest automatyczne. Użyteczny wynik może wymagać poprawienia modelu lub zawężenia pytania przed dalszym rozwojem. To propozycja uporządkowania dostarczonych prac, a nie deklaracja niezależnie audytowanej procedury firmy.\n\nNazwij rodzaj dowodu.\n\nSłowo „wynik” może ukrywać różne poziomy uzasadnienia. Przy podsumowaniu projektu zachowaj kategorię i jej ograniczenia.\n\nObszar\tZakres i ograniczenia\nKoncepcja\tOpisuje zamierzone zachowanie i architekturę. Wskazuje, co trzeba wykazać.\nSymulacja\tSzacuje zachowanie w określonym modelu. Dane, założenia i metoda porównania pozostają niezbędne.\nDowód pomiarowy\tOpisuje obserwacje w określonych warunkach fizycznych. Powtarzalność, odniesienie i niepewność określają jego znaczenie.\nPrzykład projektowania pomiaru pokazuje tę różnicę.\n\nZamierzona odpowiedź optyczna motywuje proponowany projekt fotoniczny. Wewnętrzny przykład AIFIELD związany z glukozą dotyczy projektu i symulowanego zachowania. Nie wykazuje, że wykonane urządzenie ArtiSense dokładnie mierzy glukozę.\n\nKolejne użyteczne pytanie zależy od luki: najpierw oceń model i porównanie, następnie określ wymagania eksperymentu fizycznego. Postęp projektu nie zamyka automatycznie luki pomiarowej.\n\nArtiSense\n↗\nAIFIELD\n↗\nZamień niepewność w konkretne pytanie.\n\nRozmowa staje się użyteczniejsza, gdy nazywa niewiadomą, możliwą obserwację i wiedzę potrzebną do jej interpretacji. Zachowuj nieudane przypadki oraz nieoczekiwane zachowanie obok korzystnych wyników.\n\nPrzy potencjalnej współpracy opisz pytanie, na które możesz pomóc odpowiedzieć, oraz warunki nadające odpowiedzi znaczenie. Tematy mogą obejmować pomiary optyczne, ograniczenia wytwarzania, porównania modeli lub ocenę procesu inżynierskiego.\n\nWspółpraca\n↗\nZacznijmy od konkretnej rozmowy.\nPorozmawiajmy o inwestycji\n↗\nartifactory·\n\nTechnologie pomiarowe i narzędzia do projektowania systemów fotonicznych.\n\ninfo@artifactory.tech\n↗\nFirma\nStrona główna\nProjekty\nDla inwestorów\nJak pracujemy\nO nas\nProjekty\nArtiSense\nAIFIELD\nPorozmawiajmy\nWspółpraca\nKontakt\nPolityka prywatności\nArtifactory\nŚwiatło otwiera nowe możliwości.",
+  "links": [
+    {
+      "text": "Przejdź do treści",
+      "href": "#main",
+      "lang": ""
+    },
+    {
+      "text": "a·\nartifactory",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "Wszystkie projekty↗",
+      "href": "/pl/projekty/",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSense↗",
+      "href": "/pl/projekty/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELD↗",
+      "href": "/pl/projekty/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Dla inwestorów",
+      "href": "/pl/inwestorzy/",
+      "lang": ""
+    },
+    {
+      "text": "Jak pracujemy",
+      "href": "/pl/jak-pracujemy/",
+      "lang": ""
+    },
+    {
+      "text": "O nas",
+      "href": "/pl/o-nas/",
+      "lang": ""
+    },
+    {
+      "text": "Współpraca",
+      "href": "/pl/wspolpraca/",
+      "lang": ""
+    },
+    {
+      "text": "Kontakt",
+      "href": "/pl/kontakt/",
+      "lang": ""
+    },
+    {
+      "text": "EN ↔",
+      "href": "http://127.0.0.1:4501/en/approach/",
+      "lang": "en"
+    },
+    {
+      "text": "Porozmawiajmy↗",
+      "href": "/pl/kontakt/?intent=investment",
+      "lang": ""
+    },
+    {
+      "text": "Strona główna",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "Zachowaj rozróżnienie etapów.",
+      "href": "#progression",
+      "lang": ""
+    },
+    {
+      "text": "Nazwij rodzaj dowodu.",
+      "href": "#evidence",
+      "lang": ""
+    },
+    {
+      "text": "Przykład projektowania pomiaru pokazuje tę różnicę.",
+      "href": "#example",
+      "lang": ""
+    },
+    {
+      "text": "Zamień niepewność w konkretne pytanie.",
+      "href": "#decisions",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSense\n↗",
+      "href": "/pl/projekty/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELD\n↗",
+      "href": "/pl/projekty/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Współpraca\n↗",
+      "href": "/pl/wspolpraca/",
+      "lang": ""
+    },
+    {
+      "text": "Porozmawiajmy o inwestycji\n↗",
+      "href": "/pl/kontakt/?intent=investment",
+      "lang": ""
+    },
+    {
+      "text": "artifactory·",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "info@artifactory.tech\n↗",
+      "href": "mailto:info@artifactory.tech",
+      "lang": ""
+    },
+    {
+      "text": "Strona główna",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "Projekty",
+      "href": "/pl/projekty/",
+      "lang": ""
+    },
+    {
+      "text": "Dla inwestorów",
+      "href": "/pl/inwestorzy/",
+      "lang": ""
+    },
+    {
+      "text": "Jak pracujemy",
+      "href": "/pl/jak-pracujemy/",
+      "lang": ""
+    },
+    {
+      "text": "O nas",
+      "href": "/pl/o-nas/",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSense",
+      "href": "/pl/projekty/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELD",
+      "href": "/pl/projekty/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Współpraca",
+      "href": "/pl/wspolpraca/",
+      "lang": ""
+    },
+    {
+      "text": "Kontakt",
+      "href": "/pl/kontakt/",
+      "lang": ""
+    },
+    {
+      "text": "Polityka prywatności",
+      "href": "/pl/prywatnosc/",
+      "lang": ""
+    }
+  ],
+  "metadata": [
+    {
+      "name": "viewport",
+      "content": "width=device-width, initial-scale=1"
+    },
+    {
+      "name": "description",
+      "content": "Proponowane podejście do rozwoju fotoniki oparte na dowodach: rozróżnienie problemu, modelu, projektu, prototypu i pomiaru fizycznego."
+    },
+    {
+      "name": "robots",
+      "content": "noindex, nofollow"
+    },
+    {
+      "rel": "canonical",
+      "href": "http://127.0.0.1:4501/pl/jak-pracujemy/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "en",
+      "href": "http://127.0.0.1:4501/en/approach/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "pl",
+      "href": "http://127.0.0.1:4501/pl/jak-pracujemy/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "x-default",
+      "href": "http://127.0.0.1:4501/en/approach/"
+    },
+    {
+      "property": "og:type",
+      "content": "website"
+    },
+    {
+      "property": "og:site_name",
+      "content": "Artifactory"
+    },
+    {
+      "property": "og:title",
+      "content": "Niech dowody wyznaczają kolejne pytanie. | Artifactory"
+    },
+    {
+      "property": "og:description",
+      "content": "Proponowane podejście do rozwoju fotoniki oparte na dowodach: rozróżnienie problemu, modelu, projektu, prototypu i pomiaru fizycznego."
+    },
+    {
+      "property": "og:url",
+      "content": "http://127.0.0.1:4501/pl/jak-pracujemy/"
+    },
+    {
+      "property": "og:locale",
+      "content": "pl_PL"
+    },
+    {
+      "property": "og:image",
+      "content": "http://127.0.0.1:4501/brand/share-v1.svg"
+    },
+    {
+      "property": "og:image:width",
+      "content": "1200"
+    },
+    {
+      "property": "og:image:height",
+      "content": "630"
+    }
+  ],
+  "forms": [],
+  "images": [],
+  "viewport": {
+    "width": 390,
+    "height": 844,
+    "scrollWidth": 375
+  },
+  "overflowing": [
+    {
+      "tag": "TABLE",
+      "class": "",
+      "text": "Obszar\tZakres i ograniczenia\nKoncepcja\tOpisuje zamierzone zachowanie i architekturę. Wskazuje, co tr"
+    },
+    {
+      "tag": "THEAD",
+      "class": "",
+      "text": "Obszar\tZakres i ograniczenia\n"
+    },
+    {
+      "tag": "TR",
+      "class": "",
+      "text": "Obszar\tZakres i ograniczenia"
+    },
+    {
+      "tag": "TH",
+      "class": "",
+      "text": "Zakres i ograniczenia"
+    },
+    {
+      "tag": "TBODY",
+      "class": "",
+      "text": "Koncepcja\tOpisuje zamierzone zachowanie i architekturę. Wskazuje, co trzeba wykazać.\nSymulacja\tSzacu"
+    },
+    {
+      "tag": "TR",
+      "class": "",
+      "text": "Koncepcja\tOpisuje zamierzone zachowanie i architekturę. Wskazuje, co trzeba wykazać."
+    },
+    {
+      "tag": "TD",
+      "class": "",
+      "text": "Opisuje zamierzone zachowanie i architekturę. Wskazuje, co trzeba wykazać."
+    },
+    {
+      "tag": "TR",
+      "class": "",
+      "text": "Symulacja\tSzacuje zachowanie w określonym modelu. Dane, założenia i metoda porównania pozostają niez"
+    },
+    {
+      "tag": "TD",
+      "class": "",
+      "text": "Szacuje zachowanie w określonym modelu. Dane, założenia i metoda porównania pozostają niezbędne."
+    },
+    {
+      "tag": "TR",
+      "class": "",
+      "text": "Dowód pomiarowy\tOpisuje obserwacje w określonych warunkach fizycznych. Powtarzalność, odniesienie i "
+    },
+    {
+      "tag": "TD",
+      "class": "",
+      "text": "Opisuje obserwacje w określonych warunkach fizycznych. Powtarzalność, odniesienie i niepewność okreś"
+    }
+  ],
+  "axe": {
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "impact": "serious",
+        "nodeCount": 8
+      }
+    ],
+    "passes": 44
+  }
+}

@@ -1,0 +1,27 @@
+---
+import {route, type Locale} from '../navigation';
+const {id,locale}=Astro.props as {id:string;locale:Locale};
+const labels=locale==='pl'?{projects:'Projekty',all:'Wszystkie projekty',investors:'Dla inwestorów',approach:'Jak pracujemy',about:'O nas',contact:'Kontakt',invest:'Porozmawiajmy o inwestycji',menu:'Menu'}:{projects:'Projects',all:'All projects',investors:'Investors',approach:'Our approach',about:'About',contact:'Contact',invest:'Discuss an investment',menu:'Menu'};
+---
+<div class="draft-strip"><span>{locale==='pl'?'Lokalny podgląd • szkic bez zatwierdzenia':'Local preview • unreviewed draft'}</span><span class="strip-mark">AF / 2026</span></div>
+<header class="site-header"><div class="header-inner container">
+<a href={route('home',locale)} class="wordmark" aria-label={`Artifactory — ${locale==='pl'?'strona główna':'home'}`}><span class="mark">A<span>·</span></span><span>ARTIFACTORY</span></a>
+<button class="menu-toggle" type="button" aria-expanded="false" aria-controls="site-nav">{labels.menu}<span aria-hidden="true">☰</span></button>
+<nav id="site-nav" class="site-nav" aria-label={locale==='pl'?'Nawigacja główna':'Primary navigation'}>
+<div class="nav-group projects-group"><a href={route('projects',locale)} aria-current={id==='projects'?'page':undefined}>{labels.projects}</a><div class="projects-pop"><a href={route('projects',locale)}>{labels.all}</a><a href={route('artisense',locale)}>ArtiSense</a><a href={route('aifield',locale)}>AIFIELD</a></div></div>
+<a href={route('investors',locale)} aria-current={id==='investors'?'page':undefined}>{labels.investors}</a>
+<a href={route('approach',locale)} aria-current={id==='approach'?'page':undefined}>{labels.approach}</a>
+<a href={route('about',locale)} aria-current={id==='about'?'page':undefined}>{labels.about}</a>
+<a class="mobile-only" href={route('partnerships',locale)}>{locale==='pl'?'Współpraca':'Partnerships'}</a><a class="mobile-only" href={route('contact',locale)}>{labels.contact}</a>
+<div class="language-switch" aria-label={locale==='pl'?'Język':'Language'}><a href={route(id==='404'?'home':id,'en')} lang="en" aria-current={locale==='en'?'page':undefined}>EN</a><span aria-hidden="true">/</span><a href={route(id==='404'?'home':id,'pl')} lang="pl" aria-current={locale==='pl'?'page':undefined}>PL</a></div>
+<a class="header-action" href={`${route('contact',locale)}?intent=investment`}>{labels.invest}<span aria-hidden="true">↗</span></a>
+</nav></div></header>
+<script>
+const toggle=document.querySelector<HTMLButtonElement>('.menu-toggle');const nav=document.querySelector<HTMLElement>('#site-nav');
+const close=()=>{toggle?.setAttribute('aria-expanded','false');nav?.classList.remove('open')};
+toggle?.addEventListener('click',()=>{const open=toggle.getAttribute('aria-expanded')==='true';toggle.setAttribute('aria-expanded',String(!open));nav?.classList.toggle('open',!open)});
+document.addEventListener('keydown',e=>{if(e.key==='Escape'&&nav?.classList.contains('open')){close();toggle?.focus()}});
+matchMedia('(min-width: 72rem)').addEventListener('change',e=>{if(e.matches)close()});
+const syncLanguageAnchor=()=>{const hash=/^#section-[1-9][0-9]*$/.test(location.hash)?location.hash:'';document.querySelectorAll<HTMLAnchorElement>('.language-switch a').forEach(link=>{link.hash=hash})};
+syncLanguageAnchor();window.addEventListener('hashchange',syncLanguageAnchor);
+</script>

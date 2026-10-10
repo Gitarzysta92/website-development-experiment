@@ -1,0 +1,19 @@
+{
+  "variant": "02-inputs-only",
+  "run_group": "2026-10-10-sol-light-pair-01",
+  "name": "artifactory-inputs-only-sol-light",
+  "origin": "https://artifactory-inputs-only-sol-light.coolify.threesixty.dev",
+  "model": "gpt-6-sol",
+  "reasoning_effort": "low",
+  "display_label": "Sol Light",
+  "source_sha256": "652caa681518719528a3e175435ba29980425f14d16786a7862c58061200247b",
+  "source_files": {
+    "website/package.json": "5e5440dcdc6a859678256ab60e36bb7402da20d6e8c92c6f1881f58c7d6bf638",
+    "website/server.js": "441cfcc52fc98083fc4aaba357e5911cf72523199578e05a178f2e98cc0d2868",
+    "website/check.js": "f0a5772abeae409f1f1d6bb9a6f326667be25a91aaf86cf4f7de5959003a1d37",
+    "website/content.js": "15342884e50fd88a998f67aa30f38b472285c3776962ca05ef8a1908075f3bb3",
+    "website/app.js": "4259856ff9d2c9c6aaaaba81e2a275b94731e9514ca5dd372d289c4e4aa8c725",
+    "website/styles.css": "381aaf3fd1181791a65879f6b62902c1aafdc0142d2efc0769d2168eb492d6ac",
+    "website/favicon.svg": "2c5828842b8840d903c34f977858dd7e9db26ae346278a4a82f30984983a72a8"
+  }
+}

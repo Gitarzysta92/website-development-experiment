@@ -1,0 +1,104 @@
+{
+  "id": "aifield-validation",
+  "locale": "en",
+  "type": "detail",
+  "title": "A design example. An evidence boundary.",
+  "description": "The internal photonic glucose chip-design example, classical simulation comparisons and the limits of the available AIFIELD evidence.",
+  "eyebrow": "AIFIELD / PHOTONIC ENGINEERING",
+  "lead": "Follow the engineering activity without confusing a design output with a measured sensing result.",
+  "sections": [
+    {
+      "id": "example",
+      "title": "The internal photonic glucose design.",
+      "paragraphs": [
+        "The September 2026 demonstration material includes an internal photonic glucose chip-design example. It connects an intended sensing question with the work of defining a photonic structure and investigating its modeled behavior.",
+        "This is internal design activity. No external customer, production deployment or fabricated-chip measurement is established by the supplied account. The ArtiSense evidence page owns the separate question of sensing validation."
+      ],
+      "links": [
+        {
+          "id": "artisense-validation"
+        }
+      ]
+    },
+    {
+      "id": "workflow",
+      "title": "Read the example as a sequence of engineering decisions.",
+      "paragraphs": [
+        "The explanatory sequence begins with a sensing objective and candidate optical structure. Geometry and model assumptions define what can be simulated. The resulting design and modeled response can then be inspected to identify what is worth changing or investigating physically.",
+        "The available summary supports describing this activity qualitatively. It does not provide an original layout file or numerical output that can be reproduced here. The diagram on this page explains the sequence; it is not a screenshot or plot from the experiment."
+      ],
+      "links": [
+        {
+          "id": "aifield-design"
+        }
+      ]
+    },
+    {
+      "id": "comparison",
+      "title": "What a simulation comparison needs.",
+      "paragraphs": [
+        "The source refers to internal comparisons. To interpret a comparison, the reader needs the reference method, matching geometry and materials, source and boundary conditions, numerical settings and the quantity being compared.",
+        "The supplied summary does not contain those details at reproduction depth. It also does not quantify successful and unsuccessful cases. Missing numbers are left missing; no benchmark score or blanket agreement claim is inferred."
+      ],
+      "rows": [
+        [
+          "Design workflow",
+          "An internal example is described. This supports discussion of engineering work, not a claim of customer adoption."
+        ],
+        [
+          "Classical comparison",
+          "Internal comparisons are mentioned; reference settings and numerical successes or misses are unavailable here."
+        ],
+        [
+          "Neural prediction",
+          "A separate research line with boundary, generalization and stitching limitations."
+        ],
+        [
+          "Physical measurement",
+          "Fabrication and measured sensing performance are not established by this design example."
+        ]
+      ]
+    },
+    {
+      "id": "next",
+      "title": "Make the next evidence package reproducible.",
+      "paragraphs": [
+        "A proposed next milestone is an inspectable design-and-simulation record: versioned inputs, tool settings, reference conditions, results and known discrepancies. A subsequent physical comparison would need its own fabrication and measurement evidence.",
+        "These are evidence needs, not completed milestones or promised dates. A scoped demo can clarify which parts of the workflow are currently available and what would be needed to evaluate a specific engineering task."
+      ],
+      "links": [
+        {
+          "id": "aifield-neural"
+        },
+        {
+          "id": "investors"
+        },
+        {
+          "id": "contact"
+        }
+      ]
+    }
+  ],
+  "relatedIds": [
+    "aifield-design",
+    "aifield-neural",
+    "artisense-validation",
+    "investors",
+    "contact"
+  ],
+  "project": "aifield",
+  "sourceReferences": [
+    "HP-1.1/project-context",
+    "SM-0.3/aifield-validation"
+  ],
+  "sourceRevision": "2026-10-09 (AIFIELD snapshot: September 2026)",
+  "editorialState": "published",
+  "modifiedAt": "2026-10-09T21:00:00.000Z",
+  "reviews": {
+    "facts": "bd43c6a6cc8c59acb39f56d43f775ea06898d4ee489cff0633162627233c6501",
+    "language": "bd43c6a6cc8c59acb39f56d43f775ea06898d4ee489cff0633162627233c6501",
+    "assets": "bd43c6a6cc8c59acb39f56d43f775ea06898d4ee489cff0633162627233c6501"
+  },
+  "privateNotes": "Locally authored from supplied summary. Factual, translation and asset owner review pending. Original PDFs were not supplied.",
+  "maturity": "September 2026 source snapshot · current access by discussion"
+}

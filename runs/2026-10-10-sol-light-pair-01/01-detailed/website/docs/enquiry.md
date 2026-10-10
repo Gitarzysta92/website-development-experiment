@@ -1,0 +1,7 @@
+# Enquiry operation
+
+The browser form in `src/features/enquiry/presentation/` sends JSON to `/api/enquiries`. Server validation is in `domain/`, duplicate coordination in `application/`, and receiver implementations in `server/`. The local fixture creates process-memory UUID receipts and retains them for up to 24 hours; process restart clears them. The receipt is test-only and proves neither external send nor mailbox delivery. The browser exposes a public email alternative in every form state.
+
+Set `ENQUIRY_MODE=disabled` to show unavailable behavior. `resendReceiver` maps a validated request to the provider's email API with a server-held key, fixed sender/recipient, reply-to, and idempotency key. It is tested with a controlled transport. The local preview does not enable real sending; published startup is blocked. Live activation would require an assigned operator, approved recipient/sender/key, data/retention policy, authorized send test, shared abuse controls for the deployment topology and a package/release review. No real data should be submitted to the fixture.
+
+The endpoint accepts only JSON POST with a matching Origin, a 32 KiB body limit, strict fields and process-local five-per-minute per-peer throttling. A process-local guard coalesces accepted IDs, reports pending/concurrent and conflicting IDs separately, and allows unchanged uncertain retry within 23 hours. Those controls are appropriate to the stated single-process loopback topology, not a distributed public service.

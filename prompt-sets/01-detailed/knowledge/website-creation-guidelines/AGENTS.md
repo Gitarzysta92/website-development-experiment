@@ -1,0 +1,25 @@
+# Working in this repository
+
+This is a repository of reusable website creation guidelines, not a running website or a specific client's specification.
+
+- Read README.md, rules/README.md and capabilities/README.md before substantive changes. Read the affected baseline and capability rule definitions before changing them.
+- For architecture, technical or structure changes, also read the corresponding rules and guides for architecture, project structure and technical conventions, plus sources/wapps.md and guides/requirements-matrix.md. Preserve the distinction between reusable rules, illustrative structures and source-project implementation facts.
+- Organise by role: authoritative numbered definitions in rules/, selectable contracts in capabilities/, explanatory material in guides/, procedures in workflows/, fillable project records in templates/ and provenance in sources/. Use subject groupings where useful; do not create a folder for every matrix intersection.
+- Keep the compilation guide, workflow, unit and plan templates together in compilation/. Keep the execution model, workflow and execution record in implementation/. Reference authoritative rules and shared project records without copying definitions.
+- Preserve the process: prepare inputs, compile the complete agreed scope, then implement. Compilation combines project inputs, knowledge and selected workflows into the chosen solution structure, all implementation units and the plan before execution. Do not introduce routine rolling compilation of the remaining scope.
+- An implementation objective states what has to be implemented. An implementation unit is bounded work that creates, changes, integrates or verifies elements of the solution structure; it is not a website-model element. Do not introduce a separate task abstraction. Preserve the matrix dimensions of subject, library role and implementation objective.
+- Treat execution policy as a versioned project input. Both human_review and autonomous modes require the complete upfront package; policy determines authority and acceptance of initial and revised packages. Ordinary defects stay within contracts; material changes explicitly revise affected units and the plan, validate the whole replacement and follow policy before affected execution. Keep publication authority separate.
+- Separate contract completeness, package acceptance, execution eligibility, progress and verification. A complete unit may wait for a defined dependency output. The plan owns the unit inventory/order, execution records own progress, and the acceptance report owns actual evidence.
+- Preserve concrete, verifiable behaviour. Avoid replacing precise rules with broad phrases such as "good UX" or "optimise performance".
+- Keep business purpose, domains, pages, themes, layouts and tool selection configurable.
+- Keep guidance and templates framework-agnostic. Describe responsibilities, contracts and verification; keep framework-specific profiles, APIs, generators and naming conventions in target projects. Source notes may identify technologies solely for provenance and explain how their conventions were generalised.
+- Do not make a previous project's numerical values, architecture or visual choices universal requirements.
+- Make feature-specific rules conditional on the selected capability. Each capability identifies applicability, inputs, authoritative rule references and verification cases. Mark incomplete extensions explicitly.
+- Distinguish requested requirements, proposed defaults, implementation facts, verification evidence and open decisions.
+- Preserve stable rule IDs and one authoritative definition per rule. If a rule is replaced, document the replacement rather than silently reusing its ID for a different meaning. Other roles link to the definition instead of copying it.
+- Update role indexes, the coverage matrix, related templates and links when changing library structure, workflow or input contracts. Keep provenance scoped to the evidence actually available.
+- Give every workflow explicit inputs and outputs, and do the same for its named stages. Identify conditional inputs, how missing information is handled and where outputs belong in the target project; distinguish expected deliverables from verified completion.
+- Workflows reference rules, capabilities and guides rather than duplicating them. Keep project-specific choices in the brief, decision register or linked target-project documentation; avoid requiring a separate document that duplicates those records.
+- Do not add real client briefs, personal data, production credentials or copied deployment receipts.
+- Do not create or publish a website when asked only to edit these guidelines.
+- For documentation changes, verify local Markdown links and anchors, rule-ID uniqueness and reference validity, and consistency between rules, capabilities, guides, workflows, the brief, decision register and acceptance report. For relocations, verify that rule meanings and workflow contracts are preserved. Automated test infrastructure is unnecessary unless executable tooling is introduced.

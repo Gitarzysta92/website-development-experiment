@@ -1,0 +1,19 @@
+
+> artifactory-detailed@0.1.0 build
+> npm run validate:content && astro check && astro build
+
+
+> artifactory-detailed@0.1.0 validate:content
+> node scripts/validate-content.mjs
+
+file:///Users/michal.lukasiewicz/Programming/website-development-experiment/runs/2026-10-10-sol-medium-pair-01/01-detailed/website/scripts/validate-content.mjs:3
+if(process.env.AF_PROFILE==='published')throw Error('Publication blocked: factual, translation, asset, privacy, origin and receiver prerequisites remain unapproved.');
+                                              ^
+
+Error: Publication blocked: factual, translation, asset, privacy, origin and receiver prerequisites remain unapproved.
+    at file:///Users/michal.lukasiewicz/Programming/website-development-experiment/runs/2026-10-10-sol-medium-pair-01/01-detailed/website/scripts/validate-content.mjs:3:47
+    at ModuleJob.run (node:internal/modules/esm/module_job:561:25)
+    at async node:internal/modules/esm/loader:647:26
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:101:5)
+
+Node.js v24.21.0

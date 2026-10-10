@@ -1,0 +1,34 @@
+{
+  "id": "contact",
+  "locale": "pl",
+  "title": "Zacznij od ważnego pytania",
+  "description": "Wybierz temat rozmowy i opisz, co chcesz ocenić. Ta wersja zapisuje syntetyczne zgłoszenie testowe lokalnie; nie wysyła wiadomości e-mail ani nie kontaktuje firmy.",
+  "eyebrow": "Artifactory",
+  "lead": "Wybierz temat rozmowy i opisz, co chcesz ocenić. Ta wersja zapisuje syntetyczne zgłoszenie testowe lokalnie; nie wysyła wiadomości e-mail ani nie kontaktuje firmy.",
+  "sections": [
+    {
+      "id": "section-1",
+      "heading": "Wybierz temat",
+      "body": [
+        "Inwestycja dotyczy Artifactory jako firmy. Współpraca może skupiać się na pytaniu technicznym jednego z projektów. Prośba o demo AIFIELD rozpoczyna rozmowę i nie daje automatycznego dostępu do produktu. Sugerowany kontekst można zmienić przed wysłaniem."
+      ]
+    },
+    {
+      "id": "section-2",
+      "heading": "Lokalny tryb testowy",
+      "body": [
+        "Pomyślne zgłoszenie potwierdza, że lokalny proces zapisał je w pamięci. Nie oznacza przyjęcia przez dostawcę poczty, dostarczenia do skrzynki ani obietnicy odpowiedzi. Podczas testów nie wpisuj wrażliwych ani prawdziwych danych osobowych."
+      ]
+    }
+  ],
+  "related": [
+    "privacy"
+  ],
+  "editorialState": "draft",
+  "sourceRevision": "HP-1.1; context 2026-10-09",
+  "modified": "2026-10-10",
+  "sourceRefs": [
+    "inputs/content/project-context.md (summary, 2026-10-09)",
+    "inputs/docs/sitemap.md (SM-0.3)"
+  ]
+}

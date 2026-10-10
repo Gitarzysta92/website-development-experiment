@@ -1,0 +1,30 @@
+{
+  "time": "2026-10-10T08:45:55.237Z",
+  "fingerprint": "c6bb76790ff26503483dc189af96624d15509ddb505759b60eb9028f27ee7a37",
+  "baselineArtifact": "b4f494c618ac4f4505daef512335818968c0feed0d08d2e83d59b0247f90ce41",
+  "restoredArtifact": "063897062003858db7e400347493dcec6e4f3c56bb02a5e8869b79169e325f06",
+  "htmlBaseline": "b7ecc140e618f45fe34adf35ee73d611803067c722c311315ca0a12842e98cd1",
+  "events": [
+    {
+      "check": "failed candidate while server running",
+      "result": "pass",
+      "artifactUnchanged": true
+    },
+    {
+      "check": "record and caption edit visible in built preview",
+      "result": "pass"
+    },
+    {
+      "check": "real drafts rejected despite isolated synthetic gate configuration",
+      "result": "pass"
+    },
+    {
+      "check": "source restore rebuild and rendered HTML identity",
+      "result": "pass"
+    },
+    {
+      "check": "previous artifact restore/start and final artifact reselection",
+      "result": "pass"
+    }
+  ]
+}

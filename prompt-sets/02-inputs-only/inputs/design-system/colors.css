@@ -1,0 +1,43 @@
+/* Purple + Teal: selected design direction, 2026-10-09.
+ * palette.json records the active palette and usage rules.
+ * sampled-colors.json preserves the original site's sampled colors.
+ */
+:root {
+  --af-purple: #662483;
+  --af-purple-hover: #541b6e;
+  --af-teal: #087f8c;
+  --af-ink: #202438;
+  --af-muted: #5c6470;
+  --af-white: #ffffff;
+  --af-mist: #f2f7f7;
+  --af-line: #dce5e6;
+
+  --color-brand-primary: var(--af-purple);
+  --color-brand-accent: var(--af-teal);
+  --color-brand-secondary: var(--af-teal);
+
+  --color-background: var(--af-white);
+  --color-surface: var(--af-white);
+  --color-surface-subtle: var(--af-mist);
+  --color-surface-inverse: var(--af-ink);
+  --color-footer-background: var(--af-ink);
+
+  --color-text: var(--af-ink);
+  --color-text-muted: var(--af-muted);
+  --color-text-heading: var(--af-ink);
+  --color-text-brand: var(--af-purple);
+  --color-text-accent: var(--af-teal);
+  --color-text-inverse: var(--af-white);
+
+  /* The light divider is decorative; controls use a stronger border. */
+  --color-border-subtle: var(--af-line);
+  --color-border-control: var(--af-muted);
+
+  --color-action: var(--af-purple);
+  --color-action-hover: var(--af-purple-hover);
+  --color-action-text: var(--af-white);
+  --color-link: var(--af-purple);
+  --color-link-hover: var(--af-purple-hover);
+  --color-focus-ring: var(--af-teal);
+  --color-focus-ring-inverse: var(--af-white);
+}

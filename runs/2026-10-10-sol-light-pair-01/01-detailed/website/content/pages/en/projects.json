@@ -1,0 +1,44 @@
+{
+  "id": "projects",
+  "locale": "en",
+  "title": "Two projects, different questions",
+  "lead": "Explore the sensing objective and the design tools without confusing their evidence.",
+  "description": "ArtiSense asks what a compact optical sensing system could measure. AIFIELD asks how photonic systems can be designed and simulated.",
+  "eyebrow": "Artifactory",
+  "sections": [
+    {
+      "id": "focus",
+      "title": "ArtiSense",
+      "paragraphs": [
+        "The proposed system combines illumination, optical response and interpretation. Glucose sensing is a substantial research example, but validated measurement remains ahead."
+      ]
+    },
+    {
+      "id": "evidence",
+      "title": "AIFIELD",
+      "paragraphs": [
+        "The September 2026 material describes photonic CAD, several simulation tasks and agent-assisted workflows with human review. Neural field prediction remains a separate research direction."
+      ]
+    },
+    {
+      "id": "next",
+      "title": "A useful connection",
+      "paragraphs": [
+        "AIFIELD can help explore sensing chip designs. A simulated design is not a tested sensor, and each project needs its own validation."
+      ]
+    }
+  ],
+  "related": [
+    "artisense",
+    "aifield",
+    "investors"
+  ],
+  "stage": "Local draft · source context October 2026",
+  "pageType": "company",
+  "sourceReferences": [
+    "HP-1.1 project-context 2026-10-09"
+  ],
+  "sourceRevision": "2026-10-09",
+  "editorialState": "draft",
+  "modifiedAt": "2026-10-10"
+}

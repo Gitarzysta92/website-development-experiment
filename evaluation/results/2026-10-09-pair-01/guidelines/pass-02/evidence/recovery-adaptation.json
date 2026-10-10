@@ -1,0 +1,7 @@
+{
+  "source": "/Users/michal.lukasiewicz/Programming/website-development-experiment/evaluation/results/2026-10-09-pair-01/snapshots/A/scripts/verify-recovery.mjs",
+  "sha256": "1f769fa23e37a9ffefb27c59dcb3af07152598fd3b269dc4f74acfe0201a08a1",
+  "fixture": "/Users/michal.lukasiewicz/Programming/website-development-experiment/evaluation/results/2026-10-09-pair-01/guidelines/fixtures/pass-02/A/scripts/eval-pass02-recovery.mjs",
+  "only_script_change": "Replace the hardcoded fetch origin port 4321 with reserved evaluation port 4601. Runtime PORT and SITE_ORIGIN are supplied consistently.",
+  "synthetic_only": true
+}

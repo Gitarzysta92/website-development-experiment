@@ -1,0 +1,107 @@
+{
+  "sampledAt": "2026-10-09",
+  "method": "Read live CSS custom properties and computed element styles in the browser.",
+  "roleMapping": "Suggested design-system roles; color values are sampled, not generated.",
+  "colors": [
+    {
+      "name": "Brand purple",
+      "token": "--af-purple",
+      "hex": "#662483",
+      "role": "Primary buttons, brand headings, links",
+      "sourceUrl": "https://artifactory.tech/",
+      "sourceProperty": "--ast-global-color-0",
+      "observedOn": ".elementor-image-box-title; .elementor-button",
+      "contrastAgainstWhite": 9.79
+    },
+    {
+      "name": "Brand magenta",
+      "token": "--af-magenta",
+      "hex": "#951B81",
+      "role": "Accents and interactive emphasis",
+      "sourceUrl": "https://artifactory.tech/",
+      "sourceProperty": "--ast-global-color-1",
+      "observedOn": ".current-menu-item > .menu-link",
+      "contrastAgainstWhite": 7.63
+    },
+    {
+      "name": "Deep indigo",
+      "token": "--af-indigo",
+      "hex": "#29235C",
+      "role": "Section headings and inverse sections",
+      "sourceUrl": "https://artifactory.tech/artisense-module/",
+      "sourceProperty": "--ar-indigo",
+      "observedOn": ".ar-toolkit; section h2; section h3",
+      "contrastAgainstWhite": 14.10
+    },
+    {
+      "name": "Ink",
+      "token": "--af-ink",
+      "hex": "#302C37",
+      "role": "Primary text",
+      "sourceUrl": "https://artifactory.tech/artisense-module/",
+      "sourceProperty": "--ar-ink",
+      "observedOn": ".ar-product-overview; .ar-tech-copy",
+      "contrastAgainstWhite": 13.63
+    },
+    {
+      "name": "Muted text",
+      "token": "--af-muted",
+      "hex": "#615C68",
+      "role": "Secondary text and captions",
+      "sourceUrl": "https://artifactory.tech/artisense-module/",
+      "sourceProperty": "--ar-body",
+      "observedOn": "figcaption; .ar-nav-label",
+      "contrastAgainstWhite": 6.48
+    },
+    {
+      "name": "Footer navy",
+      "token": "--af-navy",
+      "hex": "#001524",
+      "role": "Footer background",
+      "sourceUrl": "https://artifactory.tech/",
+      "sourceProperty": "--ast-global-color-6",
+      "observedOn": ".site-primary-footer-wrap; .site-below-footer-wrap",
+      "contrastAgainstWhite": 18.54
+    },
+    {
+      "name": "White",
+      "token": "--af-white",
+      "hex": "#FFFFFF",
+      "role": "Page background and text on dark surfaces",
+      "sourceUrl": "https://artifactory.tech/",
+      "sourceProperty": "--ast-global-color-5",
+      "observedOn": "body; .ast-primary-header-bar; .elementor-button"
+    },
+    {
+      "name": "Lavender wash",
+      "token": "--af-lavender",
+      "hex": "#FAF7FC",
+      "role": "Subtle surface background",
+      "sourceUrl": "https://artifactory.tech/artisense-module/",
+      "sourceProperty": "--ar-wash",
+      "observedOn": ".ar-product-visual; .ar-section-number"
+    },
+    {
+      "name": "Lavender line",
+      "token": "--af-line",
+      "hex": "#E9E2ED",
+      "role": "Decorative dividers",
+      "sourceUrl": "https://artifactory.tech/artisense-module/",
+      "sourceProperty": "--ar-line",
+      "observedOn": ".ar-section-nav; .ar-tech-section; .ar-page-end"
+    }
+  ],
+  "additionalHomepageThemeValues": {
+    "heading": "#111111",
+    "bodyText": "#333333",
+    "warmSurfaceDeclaredInTheme": "#F8F6F3",
+    "secondaryGrayDeclaredInTheme": "#424242",
+    "blackDeclaredInTheme": "#000000"
+  },
+  "notes": [
+    "The selected palette uses the ArtiSense page's coordinated text and surface colors alongside the shared brand colors.",
+    "Cookie-plugin colors and generic WordPress preset colors are excluded from the selected palette.",
+    "Suggested hover and focus aliases in colors.css are proposed mappings; they are not a claim about existing hover or focus styles.",
+    "Contrast values are calculated using WCAG relative luminance. They describe solid color pairs, not an accessibility audit of the site."
+  ]
+}

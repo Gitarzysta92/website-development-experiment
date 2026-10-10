@@ -1,0 +1,364 @@
+{
+  "id": "A-pl-home-mobile",
+  "label": "A",
+  "locale": "pl",
+  "pageId": "home",
+  "view": "mobile",
+  "url": "http://127.0.0.1:4501/pl/",
+  "status": 200,
+  "errors": [],
+  "title": "Czytelniejszy sygnał. Nowe możliwości. | Artifactory",
+  "language": "pl",
+  "h1": [
+    "Czytelniejszy sygnał. Nowe możliwości."
+  ],
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Czytelniejszy sygnał. Nowe możliwości."
+    },
+    {
+      "level": "H2",
+      "text": "Od pytania o zjawisko do rozwiązania inżynierskiego."
+    },
+    {
+      "level": "H2",
+      "text": "Od pomiaru do projektu."
+    },
+    {
+      "level": "H2",
+      "text": "ArtiSense"
+    },
+    {
+      "level": "H2",
+      "text": "AIFIELD"
+    },
+    {
+      "level": "H2",
+      "text": "Postęp wymaga precyzyjnego opisu."
+    },
+    {
+      "level": "H2",
+      "text": "Inwestycja zaczyna się od właściwych pytań."
+    },
+    {
+      "level": "H2",
+      "text": "Firma"
+    },
+    {
+      "level": "H2",
+      "text": "Projekty"
+    },
+    {
+      "level": "H2",
+      "text": "Porozmawiajmy"
+    }
+  ],
+  "text": "Przejdź do treści\nWersja lokalna · Badania w toku\na·\nartifactory\nMenu\n☰\n\nPOMIARY × PROJEKTOWANIE FOTONIKI\n\nCzytelniejszy sygnał. Nowe możliwości.\n\nArtifactory bada, co możemy zrozumieć dzięki światłu — i rozwija narzędzia do projektowania kolejnych rozwiązań. Dwa powiązane projekty. Rozmowa o jednej firmie.\n\nPoznaj potencjał inwestycyjny\n↗\nPoznaj projekty\n↓\nARTIFACTORY / FOTONIKA\nPOMIAR. PROJEKTOWANIE. MOŻLIWOŚCI.\n↗\nOd światła do możliwości — ilustracja koncepcyjna.\nOd pytania o zjawisko do rozwiązania inżynierskiego.\n\nPomiary zaczynają się od trudnego pytania: jak przekształcić niewielką odpowiedź optyczną w użyteczną informację? Inżynieria fotoniczna stawia kolejne: jak zaprojektować i sprawdzić system, który tę odpowiedź wytwarza?\n\nArtiSense i AIFIELD podchodzą do tych pytań z różnych stron. Łączy je proces projektowy, który nie zastępuje walidacji eksperymentalnej.\n\nDWA KIERUNKI. WSPÓLNY KONTEKST.\n\nOd pomiaru do projektu.\n\nPoznaj cel, obecny zakres prac i pytania, które wyznaczają kolejny krok każdego projektu.\n\n01 / ARTISENSE\nŚWIATŁO → SYGNAŁ → INTERPRETACJA\n↗\nIlustracja koncepcyjna. Nie przedstawia gotowego produktu ani wyników pomiarów.\n\nPOMIAR PRZEZ ŚWIATŁO\n\nArtiSense\n\nProponowany zminiaturyzowany system pomiaru składu chemicznego, łączący fotonikę z interpretacją sygnałów. Zamierzony kierunek obejmuje pomiary nieinwazyjne i formy ubieralne; pozostają one ambicjami badawczymi.\n\nOpisany przykład dotyczący glukozy obejmuje wykonalność optyczną i projektowanie chipu. Nie potwierdza zmierzonej dokładności pomiaru glukozy ani gotowości klinicznej.\n\nPoznaj ArtiSense\n↗\nBadania i walidacja\n↗\n02 / AIFIELD\nGEOMETRIA → SYMULACJA → ANALIZA\n↗\nIlustracja koncepcyjna. Nie przedstawia gotowego produktu ani wyników pomiarów.\n\nPROJEKTOWANIE ZE ŚWIATŁEM\n\nAIFIELD\n\nNarzędzia CAD i symulacji fotonicznej do analizy geometrii, warstw i zjawisk fizycznych. Materiały z września 2026 opisują klasyczne symulacje oraz częściowo wspomagane procesy inżynierskie.\n\nNeuronowe przewidywanie pola optycznego to odrębny kierunek badawczy. Jego założenia i otwarte pytania pozostają widoczne obok opisu narzędzi inżynierskich.\n\nPoznaj AIFIELD\n↗\nPrzykłady i walidacja\n↗\nPostęp wymaga precyzyjnego opisu.\n\nProjekt odpowiada na pytanie projektowe. Symulacja sprawdza model przy określonych założeniach. Żadne z nich samo w sobie nie pokazuje działania wykonanego urządzenia pomiarowego. Na stronach projektów rozdzielamy te kategorie dowodów.\n\nProjekt i etap\tCo wynika z dostępnych prac\nArtiSense · badania\tPrace nad wykonalnością optyczną i projektem chipu fotonicznego; fizyczna walidacja pomiaru pozostaje do ustalenia.\nAIFIELD · stan z września 2026\tPrzykłady projektowania i klasycznych symulacji; badania neuronowe zachowują ograniczenia warunków brzegowych i uogólniania.\nJak rozumiemy dowody\n↗\n\nKOLEJNY KROK\n\nInwestycja zaczyna się od właściwych pytań.\n\nPoznaj rolę obu projektów, zakres dostępnych dowodów i kamienie milowe, które mogłyby ograniczyć kolejne niewiadome. Rozmowa inwestycyjna dotyczy Artifactory jako firmy.\n\nZ partnerami technicznymi możemy zacząć od tematu eksperymentów pomiarowych, wytwarzania i testów lub oceny procesu projektowania fotoniki.\n\nPorozmawiajmy o inwestycji\n↗\nMożliwości współpracy ↗\nO Artifactory ↗\nartifactory·\n\nTechnologie pomiarowe i narzędzia do projektowania systemów fotonicznych.\n\ninfo@artifactory.tech\n↗\nFirma\nStrona główna\nProjekty\nDla inwestorów\nJak pracujemy\nO nas\nProjekty\nArtiSense\nAIFIELD\nPorozmawiajmy\nWspółpraca\nKontakt\nPolityka prywatności\nArtifactory\nŚwiatło otwiera nowe możliwości.",
+  "links": [
+    {
+      "text": "Przejdź do treści",
+      "href": "#main",
+      "lang": ""
+    },
+    {
+      "text": "a·\nartifactory",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "Wszystkie projekty↗",
+      "href": "/pl/projekty/",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSense↗",
+      "href": "/pl/projekty/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELD↗",
+      "href": "/pl/projekty/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Dla inwestorów",
+      "href": "/pl/inwestorzy/",
+      "lang": ""
+    },
+    {
+      "text": "Jak pracujemy",
+      "href": "/pl/jak-pracujemy/",
+      "lang": ""
+    },
+    {
+      "text": "O nas",
+      "href": "/pl/o-nas/",
+      "lang": ""
+    },
+    {
+      "text": "Współpraca",
+      "href": "/pl/wspolpraca/",
+      "lang": ""
+    },
+    {
+      "text": "Kontakt",
+      "href": "/pl/kontakt/",
+      "lang": ""
+    },
+    {
+      "text": "EN ↔",
+      "href": "http://127.0.0.1:4501/en/",
+      "lang": "en"
+    },
+    {
+      "text": "Porozmawiajmy↗",
+      "href": "/pl/kontakt/?intent=investment",
+      "lang": ""
+    },
+    {
+      "text": "Poznaj potencjał inwestycyjny\n↗",
+      "href": "/pl/inwestorzy/",
+      "lang": ""
+    },
+    {
+      "text": "Poznaj projekty\n↓",
+      "href": "/pl/projekty/",
+      "lang": ""
+    },
+    {
+      "text": "Poznaj ArtiSense\n↗",
+      "href": "/pl/projekty/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "Badania i walidacja\n↗",
+      "href": "/pl/projekty/artisense/badania-walidacja/",
+      "lang": ""
+    },
+    {
+      "text": "Poznaj AIFIELD\n↗",
+      "href": "/pl/projekty/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Przykłady i walidacja\n↗",
+      "href": "/pl/projekty/aifield/przyklady-walidacja/",
+      "lang": ""
+    },
+    {
+      "text": "Jak rozumiemy dowody\n↗",
+      "href": "/pl/jak-pracujemy/",
+      "lang": ""
+    },
+    {
+      "text": "Porozmawiajmy o inwestycji\n↗",
+      "href": "/pl/kontakt/?intent=investment",
+      "lang": ""
+    },
+    {
+      "text": "Możliwości współpracy ↗",
+      "href": "/pl/wspolpraca/",
+      "lang": ""
+    },
+    {
+      "text": "O Artifactory ↗",
+      "href": "/pl/o-nas/",
+      "lang": ""
+    },
+    {
+      "text": "artifactory·",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "info@artifactory.tech\n↗",
+      "href": "mailto:info@artifactory.tech",
+      "lang": ""
+    },
+    {
+      "text": "Strona główna",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "Projekty",
+      "href": "/pl/projekty/",
+      "lang": ""
+    },
+    {
+      "text": "Dla inwestorów",
+      "href": "/pl/inwestorzy/",
+      "lang": ""
+    },
+    {
+      "text": "Jak pracujemy",
+      "href": "/pl/jak-pracujemy/",
+      "lang": ""
+    },
+    {
+      "text": "O nas",
+      "href": "/pl/o-nas/",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSense",
+      "href": "/pl/projekty/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELD",
+      "href": "/pl/projekty/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Współpraca",
+      "href": "/pl/wspolpraca/",
+      "lang": ""
+    },
+    {
+      "text": "Kontakt",
+      "href": "/pl/kontakt/",
+      "lang": ""
+    },
+    {
+      "text": "Polityka prywatności",
+      "href": "/pl/prywatnosc/",
+      "lang": ""
+    }
+  ],
+  "metadata": [
+    {
+      "name": "viewport",
+      "content": "width=device-width, initial-scale=1"
+    },
+    {
+      "name": "description",
+      "content": "Artifactory łączy badania nad pomiarami z narzędziami projektowania fotoniki. Poznaj ArtiSense, AIFIELD i podstawy rozmowy o inwestycji w firmę."
+    },
+    {
+      "name": "robots",
+      "content": "noindex, nofollow"
+    },
+    {
+      "rel": "canonical",
+      "href": "http://127.0.0.1:4501/pl/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "en",
+      "href": "http://127.0.0.1:4501/en/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "pl",
+      "href": "http://127.0.0.1:4501/pl/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "x-default",
+      "href": "http://127.0.0.1:4501/en/"
+    },
+    {
+      "property": "og:type",
+      "content": "website"
+    },
+    {
+      "property": "og:site_name",
+      "content": "Artifactory"
+    },
+    {
+      "property": "og:title",
+      "content": "Czytelniejszy sygnał. Nowe możliwości. | Artifactory"
+    },
+    {
+      "property": "og:description",
+      "content": "Artifactory łączy badania nad pomiarami z narzędziami projektowania fotoniki. Poznaj ArtiSense, AIFIELD i podstawy rozmowy o inwestycji w firmę."
+    },
+    {
+      "property": "og:url",
+      "content": "http://127.0.0.1:4501/pl/"
+    },
+    {
+      "property": "og:locale",
+      "content": "pl_PL"
+    },
+    {
+      "property": "og:image",
+      "content": "http://127.0.0.1:4501/brand/share-v1.svg"
+    },
+    {
+      "property": "og:image:width",
+      "content": "1200"
+    },
+    {
+      "property": "og:image:height",
+      "content": "630"
+    }
+  ],
+  "forms": [],
+  "images": [],
+  "viewport": {
+    "width": 390,
+    "height": 844,
+    "scrollWidth": 375
+  },
+  "overflowing": [
+    {
+      "tag": "TABLE",
+      "class": "",
+      "text": "Projekt i etap\tCo wynika z dostępnych prac\nArtiSense · badania\tPrace nad wykonalnością optyczną i pr"
+    },
+    {
+      "tag": "THEAD",
+      "class": "",
+      "text": "Projekt i etap\tCo wynika z dostępnych prac\n"
+    },
+    {
+      "tag": "TR",
+      "class": "",
+      "text": "Projekt i etap\tCo wynika z dostępnych prac"
+    },
+    {
+      "tag": "TH",
+      "class": "",
+      "text": "Co wynika z dostępnych prac"
+    },
+    {
+      "tag": "TBODY",
+      "class": "",
+      "text": "ArtiSense · badania\tPrace nad wykonalnością optyczną i projektem chipu fotonicznego; fizyczna walida"
+    },
+    {
+      "tag": "TR",
+      "class": "",
+      "text": "ArtiSense · badania\tPrace nad wykonalnością optyczną i projektem chipu fotonicznego; fizyczna walida"
+    },
+    {
+      "tag": "TD",
+      "class": "",
+      "text": "Prace nad wykonalnością optyczną i projektem chipu fotonicznego; fizyczna walidacja pomiaru pozostaj"
+    },
+    {
+      "tag": "TR",
+      "class": "",
+      "text": "AIFIELD · stan z września 2026\tPrzykłady projektowania i klasycznych symulacji; badania neuronowe za"
+    },
+    {
+      "tag": "TD",
+      "class": "",
+      "text": "Przykłady projektowania i klasycznych symulacji; badania neuronowe zachowują ograniczenia warunków b"
+    }
+  ],
+  "axe": {
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "impact": "serious",
+        "nodeCount": 15
+      }
+    ],
+    "passes": 43
+  }
+}

@@ -1,0 +1,1394 @@
+[
+  {
+    "path": ".env.example",
+    "sha256": "67fcae537f7f6e33a0caba79e36c753025b27d68e706a625ab280ad4c874cf1d",
+    "bytes": 197,
+    "source_mtime": 1791584375.107722
+  },
+  {
+    "path": ".gitignore",
+    "sha256": "5986181ad74e9004015adfc50ffd2e682d255e522e55b0e3aa8b1f7e74afcce9",
+    "bytes": 123,
+    "source_mtime": 1791581382.0280168
+  },
+  {
+    "path": ".npmrc",
+    "sha256": "676ee032ad77c0ac6b79cad3d578583ba566dce80c4e0f0555798ad9c167a535",
+    "bytes": 75,
+    "source_mtime": 1791581382.0279477
+  },
+  {
+    "path": ".nvmrc",
+    "sha256": "73fb1b615e2043a933be1c0895cde4358036acc28d785692509b822aa53c761f",
+    "bytes": 8,
+    "source_mtime": 1791581382.0278585
+  },
+  {
+    "path": "README.md",
+    "sha256": "9a32094f4ac25926e0bdbdf7c61eea2cdf63b4e825fe8ee7ac3663b3983c3a8e",
+    "bytes": 5535,
+    "source_mtime": 1791584885.164272
+  },
+  {
+    "path": "astro.config.mjs",
+    "sha256": "a255e7dd84e009cc2a3eccdc52cd1f6934e58f15107c228e848d29bfeb830f4c",
+    "bytes": 414,
+    "source_mtime": 1791582500.6348722
+  },
+  {
+    "path": "content/assets/registry.json",
+    "sha256": "954eca3fea4ac24a6f426573861f2040fd995aab09b8d84f2faeabb353b1c465",
+    "bytes": 5266,
+    "source_mtime": 1791584157.8001645
+  },
+  {
+    "path": "content/pages/en/about.json",
+    "sha256": "0ae83a88681999d8d517d53350f7496dff03a71cea32695f471789711710c367",
+    "bytes": 3617,
+    "source_mtime": 1791583798.9238179
+  },
+  {
+    "path": "content/pages/en/aifield-ai.json",
+    "sha256": "e4687ef7332d61cf7ce6c4a8648afaef2496d8b48b2f975f8a06235dcdae5a9f",
+    "bytes": 3844,
+    "source_mtime": 1791583616.6193373
+  },
+  {
+    "path": "content/pages/en/aifield-design.json",
+    "sha256": "39615dfe5ab05c69f5ea941858966e9e33a913f795d106a7af161a9c516da084",
+    "bytes": 4103,
+    "source_mtime": 1791583616.5887487
+  },
+  {
+    "path": "content/pages/en/aifield-neural.json",
+    "sha256": "92d7f5523c7a775b14bef38429a5223fea3c5e396859aa47253150e29e0b8400",
+    "bytes": 4246,
+    "source_mtime": 1791583616.646357
+  },
+  {
+    "path": "content/pages/en/aifield-validation.json",
+    "sha256": "ffd8108f9dd63e59f71fa512630e0ba412309782c68f53bd7b1d1d5b32a5a192",
+    "bytes": 4683,
+    "source_mtime": 1791583616.6772716
+  },
+  {
+    "path": "content/pages/en/aifield.json",
+    "sha256": "24d5d710421a15cefa14728eb2596ff13219220bdfefe62b9d01d6348ebac956",
+    "bytes": 4555,
+    "source_mtime": 1791583616.5574481
+  },
+  {
+    "path": "content/pages/en/approach.json",
+    "sha256": "f69630b59f9d16d3c0afcb7c309cbd75b372ef55ff837ec7ce29ab1510e48c05",
+    "bytes": 3907,
+    "source_mtime": 1791583798.8974886
+  },
+  {
+    "path": "content/pages/en/artisense-applications.json",
+    "sha256": "9768aa14e9609d5f3a1aafcb1981a0e67e88c07085b3b2ef41a798371e9d4ca3",
+    "bytes": 4471,
+    "source_mtime": 1791583124.835886
+  },
+  {
+    "path": "content/pages/en/artisense-technology.json",
+    "sha256": "c044356cb5b3bd9d7e6b08944728c118e37bd9a77a8773c09d83d639ac974cf8",
+    "bytes": 4763,
+    "source_mtime": 1791583020.8618963
+  },
+  {
+    "path": "content/pages/en/artisense-validation.json",
+    "sha256": "2531ccad380cfdbe49aa92a9de73eb35131c424b596956ca38aa7c01d2851d41",
+    "bytes": 5080,
+    "source_mtime": 1791583193.2930865
+  },
+  {
+    "path": "content/pages/en/artisense.json",
+    "sha256": "d7495c7593b9b82b05fca6dc4e9e1057fd0c34e63f77e03c272648c73c02bdb3",
+    "bytes": 4621,
+    "source_mtime": 1791582924.0430877
+  },
+  {
+    "path": "content/pages/en/contact.json",
+    "sha256": "2a01d2a0bef6bed03dffbbb70dda21108b28186987dea2aa74142364e6ef8310",
+    "bytes": 1604,
+    "source_mtime": 1791582268.2079134
+  },
+  {
+    "path": "content/pages/en/home.json",
+    "sha256": "7f94da9d5632a3b0bbf692ecb43a2f06aab48e28bc5ef6807c6de61865d0fdfa",
+    "bytes": 4396,
+    "source_mtime": 1791585049.3540576
+  },
+  {
+    "path": "content/pages/en/investors.json",
+    "sha256": "6e4d5be7fc7a63509d503c20ce5b547d3b2c9e7298f43d6117e7063ddc59f7ca",
+    "bytes": 4336,
+    "source_mtime": 1791583798.870286
+  },
+  {
+    "path": "content/pages/en/partnerships.json",
+    "sha256": "e38bdcd4b3f2e7a8957c44be41eb7d8825f52234cc8c548762189811be907038",
+    "bytes": 3784,
+    "source_mtime": 1791583798.9499366
+  },
+  {
+    "path": "content/pages/en/privacy.json",
+    "sha256": "09b8df50fadf55426839266243c3e450cc02b17e7f20ad2df0a7ee50a3eb906a",
+    "bytes": 3353,
+    "source_mtime": 1791582268.2085037
+  },
+  {
+    "path": "content/pages/en/projects.json",
+    "sha256": "5452215929ed6363b7ff21b7ff46ffe05e007afda3bf4f3c68fdf13fefc87961",
+    "bytes": 3836,
+    "source_mtime": 1791582829.9977772
+  },
+  {
+    "path": "content/pages/pl/about.json",
+    "sha256": "7a50d7d247b35dc7d78aada795928bcfa299941a0c6b0e2fcd6f8b8c93afa634",
+    "bytes": 3632,
+    "source_mtime": 1791583798.9239848
+  },
+  {
+    "path": "content/pages/pl/aifield-ai.json",
+    "sha256": "74fd2a0f906506dd7750c3ca73f7d54a85b143d6d5b25817b4bf34d5138f718c",
+    "bytes": 3913,
+    "source_mtime": 1791583616.619517
+  },
+  {
+    "path": "content/pages/pl/aifield-design.json",
+    "sha256": "96a79212eb58747428e81df8e1dce7fb2158953cc47b72854995c07dd49e09e6",
+    "bytes": 4158,
+    "source_mtime": 1791583616.588948
+  },
+  {
+    "path": "content/pages/pl/aifield-neural.json",
+    "sha256": "b93d2e7dc9493299104307f5ad97e50da5b7a0fceadd819be92a1bc9c7bac398",
+    "bytes": 4301,
+    "source_mtime": 1791583616.6467137
+  },
+  {
+    "path": "content/pages/pl/aifield-validation.json",
+    "sha256": "0bd4a255a01ccf046a9b12ae73c7167fd1ed9b5543a56125d113fde89762d1c0",
+    "bytes": 4780,
+    "source_mtime": 1791583616.6774714
+  },
+  {
+    "path": "content/pages/pl/aifield.json",
+    "sha256": "9b20d210a8b4e3e00ac36ac68ff7273011b8b29206ce60e438400008808edbaf",
+    "bytes": 4609,
+    "source_mtime": 1791583616.5576909
+  },
+  {
+    "path": "content/pages/pl/approach.json",
+    "sha256": "e3a6de69381f769c27776696b0f2480c7a404a9fc81bd5f1174cf8c9364751e4",
+    "bytes": 3845,
+    "source_mtime": 1791583798.8976681
+  },
+  {
+    "path": "content/pages/pl/artisense-applications.json",
+    "sha256": "d948d103c04cdf79e12d340e16f4b47b2d562e6aea79aba3570caf967af32a46",
+    "bytes": 4518,
+    "source_mtime": 1791583124.8360858
+  },
+  {
+    "path": "content/pages/pl/artisense-technology.json",
+    "sha256": "82a70e6839e3574793670c9e18adb101b01c8732637cdd4421ab5d432d7b3cce",
+    "bytes": 4770,
+    "source_mtime": 1791583020.8620663
+  },
+  {
+    "path": "content/pages/pl/artisense-validation.json",
+    "sha256": "1c27b2aee02b7c559a340c40cfff98ff060defeb840d47dd4e9bf6ac0ddbb100",
+    "bytes": 5130,
+    "source_mtime": 1791583193.2932868
+  },
+  {
+    "path": "content/pages/pl/artisense.json",
+    "sha256": "3b1e56c88ab5da2197dab681ab4753ecdcf87bab5fecead0881c3ff66814e12a",
+    "bytes": 4682,
+    "source_mtime": 1791582924.0432608
+  },
+  {
+    "path": "content/pages/pl/contact.json",
+    "sha256": "b3eabca14a22f74369c8a9b0ad21a960567cc0e6c15fda35ae520eace00832c0",
+    "bytes": 1619,
+    "source_mtime": 1791582268.208249
+  },
+  {
+    "path": "content/pages/pl/home.json",
+    "sha256": "ae589b4fdeb800062f2a7474b2eec422a9bf8ac791866876904e03ce00049035",
+    "bytes": 4498,
+    "source_mtime": 1791584269.8069193
+  },
+  {
+    "path": "content/pages/pl/investors.json",
+    "sha256": "52baa0e4e865dbdb2dee6054ba9ab610cb94a600818d5d3ba179f111d87a85f0",
+    "bytes": 4328,
+    "source_mtime": 1791583798.870505
+  },
+  {
+    "path": "content/pages/pl/partnerships.json",
+    "sha256": "8935d061a15d39cd4fedac98909db37358c451caef4e02e3ec3517e6efa47aa7",
+    "bytes": 3871,
+    "source_mtime": 1791583798.9501026
+  },
+  {
+    "path": "content/pages/pl/privacy.json",
+    "sha256": "4e386c00c40629cf346379c195cf867665223b99e8fe3855aad4e4ecafc78ad2",
+    "bytes": 3516,
+    "source_mtime": 1791582268.2086644
+  },
+  {
+    "path": "content/pages/pl/projects.json",
+    "sha256": "883a3a7032e0100f10fffcd3d66f3e66f0f101edf80ba8f876edfbb4fb425224",
+    "bytes": 3918,
+    "source_mtime": 1791582829.9979637
+  },
+  {
+    "path": "content/shared/page-contracts.json",
+    "sha256": "bbba5c985050dd67cc2c246d3c4ee3a7af32bb2d54cd61f465ee60b72593fcd5",
+    "bytes": 1452,
+    "source_mtime": 1791583901.7275963
+  },
+  {
+    "path": "content/shared/recovery/copy.json",
+    "sha256": "7ffb695bf14cea74efe153bb3a340a3e724e6af640390e4e7166cb8b8a86c82e",
+    "bytes": 391,
+    "source_mtime": 1791583901.6596093
+  },
+  {
+    "path": "content/shared/routes.json",
+    "sha256": "d28f34fbf7922cf6d9cae70e68f8e8bf1cbc19128c00d9d56dbf82b0bdfdd967",
+    "bytes": 5513,
+    "source_mtime": 1791581632.6206682
+  },
+  {
+    "path": "dist/client/_astro/404.C4nlnqUD.css",
+    "sha256": "decc2c67bed19fcde23c7c9d7d164166d7fe2a0665540cdd1077837b739cd85c",
+    "bytes": 14232,
+    "source_mtime": 1791585048.7147071
+  },
+  {
+    "path": "dist/client/_astro/EnquiryForm.astro_astro_type_script_index_0_lang.DggorCY4.js",
+    "sha256": "922fef47c820e71808f69d2d58ac159af789fd74cd7ac44c351862c3040e5eb9",
+    "bytes": 7481,
+    "source_mtime": 1791585048.7274585
+  },
+  {
+    "path": "dist/client/_astro/ProjectFrame.ompgqqEj.css",
+    "sha256": "e674930ec0c5fe41a01ecb85a5a965fc44530d10bce225e4823ce99534523a32",
+    "bytes": 17911,
+    "source_mtime": 1791585048.6607223
+  },
+  {
+    "path": "dist/client/_astro/ProjectNavigation.astro_astro_type_script_index_0_lang.CzpDaEnm.js",
+    "sha256": "8fea559b5a7cc71a6b310f3847637da69908f078de2dc324b776e507692a8228",
+    "bytes": 568,
+    "source_mtime": 1791585048.7275286
+  },
+  {
+    "path": "dist/client/_astro/SiteHeader.astro_astro_type_script_index_0_lang.CdeZ3ikQ.js",
+    "sha256": "27d68a7d7adaf1fb582aed41ff01c454949965c37cfcb7993d3712d94826c73b",
+    "bytes": 925,
+    "source_mtime": 1791585048.7275853
+  },
+  {
+    "path": "dist/client/_astro/_..Dqo8konS.css",
+    "sha256": "934ec24ab4f1eaa8c70464b12cf10a9295181f8d2dd3fb09c9c2878484c8d33d",
+    "bytes": 11530,
+    "source_mtime": 1791585048.660775
+  },
+  {
+    "path": "dist/client/brand/favicon-v1.svg",
+    "sha256": "7c39b10390debcb9da6afbca5ee814dbc5e1cae047a480db07ecaca8bdba0b73",
+    "bytes": 249,
+    "source_mtime": 1791585048.724324
+  },
+  {
+    "path": "dist/client/brand/share-v1.svg",
+    "sha256": "f3c56e8f3cdc45954792d9a14725d27cdbcad3ff1a72dd3b198ab497d01450f1",
+    "bytes": 698,
+    "source_mtime": 1791585048.7244773
+  },
+  {
+    "path": "dist/client/en/about/index.html",
+    "sha256": "1ee388af980e5248c0fab47ea41a69e23cecc952ac806c4af130d0446eb2248e",
+    "bytes": 10369,
+    "source_mtime": 1791585048.7534304
+  },
+  {
+    "path": "dist/client/en/approach/index.html",
+    "sha256": "fe2c39b0fbb3b342fa4fb80f41542e1a806e341e721f5da251d6455788cbdcef",
+    "bytes": 12054,
+    "source_mtime": 1791585048.7599134
+  },
+  {
+    "path": "dist/client/en/contact/index.html",
+    "sha256": "3841475ec0789c9132e39bb209ae506303e2618ba68a54d683786e48ff2056c3",
+    "bytes": 11483,
+    "source_mtime": 1791585048.7634947
+  },
+  {
+    "path": "dist/client/en/index.html",
+    "sha256": "9f84e3f1a0daed4e8f9c79afd5271152a7e3431ddd9828e80b509cd1b46a6222",
+    "bytes": 28281,
+    "source_mtime": 1791585048.7643428
+  },
+  {
+    "path": "dist/client/en/investors/index.html",
+    "sha256": "fb36c381e506c4ee6c47a32c9818f9a5ce016f3783655243ea32bf741d1da4d2",
+    "bytes": 11114,
+    "source_mtime": 1791585048.7648425
+  },
+  {
+    "path": "dist/client/en/partnerships/index.html",
+    "sha256": "b5329f5d361792f67a3429cc15060465828ea8445f425d04d02d10317b975654",
+    "bytes": 10640,
+    "source_mtime": 1791585048.765372
+  },
+  {
+    "path": "dist/client/en/privacy/index.html",
+    "sha256": "420a5f3b86f6637b0941c72a9412d18f77cb5460c3c9aeae9fa71e3479e195ef",
+    "bytes": 8542,
+    "source_mtime": 1791585048.765787
+  },
+  {
+    "path": "dist/client/en/projects/aifield/ai-workflows/index.html",
+    "sha256": "e09ba6c693e7bd64cf13d9be98060ea4ae8be9bd39ec66486ab8142035b97922",
+    "bytes": 13454,
+    "source_mtime": 1791585048.7548008
+  },
+  {
+    "path": "dist/client/en/projects/aifield/design-simulation/index.html",
+    "sha256": "864ea9ce26f6f7acbf845d636e2581ef006b4e22ddaa11c0bada88bed2fc0b97",
+    "bytes": 13514,
+    "source_mtime": 1791585048.755845
+  },
+  {
+    "path": "dist/client/en/projects/aifield/examples-validation/index.html",
+    "sha256": "6f9ea50ddc33f9242c336a5bb7b6b2af7420372d308d5774963f0105732bedbe",
+    "bytes": 14209,
+    "source_mtime": 1791585048.7578557
+  },
+  {
+    "path": "dist/client/en/projects/aifield/index.html",
+    "sha256": "f3acd6daf5c2b4329ca4159b13cc3597018aa490f7e4759cae18243155015b43",
+    "bytes": 13488,
+    "source_mtime": 1791585048.7588959
+  },
+  {
+    "path": "dist/client/en/projects/aifield/neural-field-research/index.html",
+    "sha256": "81105d391831c5a0a84ac7cacd817e8c39db7897b4665de4cfcfd6486d518713",
+    "bytes": 18201,
+    "source_mtime": 1791585048.7568486
+  },
+  {
+    "path": "dist/client/en/projects/artisense/applications/index.html",
+    "sha256": "71363d5409e7aa1a714ad4ff2117a8fdd7de7686532699237da75ea7c6c84a64",
+    "bytes": 12694,
+    "source_mtime": 1791585048.760855
+  },
+  {
+    "path": "dist/client/en/projects/artisense/index.html",
+    "sha256": "3c778133c755c367c2cf168f273d78d944afe18b648fe857074301e637d8d2c0",
+    "bytes": 17637,
+    "source_mtime": 1791585048.7629151
+  },
+  {
+    "path": "dist/client/en/projects/artisense/research-validation/index.html",
+    "sha256": "192112d7ea87acfd6c28825c512b852305d63b87702707d623422861a33ae712",
+    "bytes": 13111,
+    "source_mtime": 1791585048.7622488
+  },
+  {
+    "path": "dist/client/en/projects/artisense/technology/index.html",
+    "sha256": "d88b59472fc9863ea8b8c90b2653879849c75bcf9341eb68bd62b1158b043cb0",
+    "bytes": 14130,
+    "source_mtime": 1791585048.761526
+  },
+  {
+    "path": "dist/client/en/projects/index.html",
+    "sha256": "e1ee6d9d36c9beffd1125b8bf9bb200eb26087f898364252c229846069ce8e62",
+    "bytes": 21251,
+    "source_mtime": 1791585048.7662618
+  },
+  {
+    "path": "dist/client/pl/index.html",
+    "sha256": "95ef93bb85ef4b9a0891cf757daf5723e24c6df5591cb8059af0f123924352aa",
+    "bytes": 28522,
+    "source_mtime": 1791585048.7729738
+  },
+  {
+    "path": "dist/client/pl/inwestorzy/index.html",
+    "sha256": "0bc0e5642587bf7f2f10f519bbe756335269eaa639fb9e121501c7f3d2bdddae",
+    "bytes": 11193,
+    "source_mtime": 1791585048.7734365
+  },
+  {
+    "path": "dist/client/pl/jak-pracujemy/index.html",
+    "sha256": "880ab6c71d0b642a6fea44a2975eabb1d65615f36435a68aefbccba15b0642d6",
+    "bytes": 12088,
+    "source_mtime": 1791585048.7700024
+  },
+  {
+    "path": "dist/client/pl/kontakt/index.html",
+    "sha256": "5a46466707c1bf5a15896409353f399c8d1a2ef9da7b897d5a19485c71a7ea1b",
+    "bytes": 11683,
+    "source_mtime": 1791585048.7725165
+  },
+  {
+    "path": "dist/client/pl/o-nas/index.html",
+    "sha256": "8a44525ddba0a64fa33eabebf79a0abdc0a7905f35d70a184eb79094a1d79c34",
+    "bytes": 10520,
+    "source_mtime": 1791585048.766746
+  },
+  {
+    "path": "dist/client/pl/projekty/aifield/badania-modeli-pola/index.html",
+    "sha256": "05c6cfb8e444d18e133bee324edbeafbe3b9ed979e32dd78088a94ade012459c",
+    "bytes": 18452,
+    "source_mtime": 1791585048.768433
+  },
+  {
+    "path": "dist/client/pl/projekty/aifield/index.html",
+    "sha256": "c39f8b2d1237b2c3d7ebe207b44e34af07f7fea8c2e3c2f4b05d9b51e8b8f4c7",
+    "bytes": 13719,
+    "source_mtime": 1791585048.769544
+  },
+  {
+    "path": "dist/client/pl/projekty/aifield/praca-z-ai/index.html",
+    "sha256": "0099a832b49d0fb69d7b86c54dc73b9152bdf7b6511d6e4cd0e4a2c54543c964",
+    "bytes": 13695,
+    "source_mtime": 1791585048.767452
+  },
+  {
+    "path": "dist/client/pl/projekty/aifield/projektowanie-symulacja/index.html",
+    "sha256": "149ec491028d1df39e98b888fbf7148eff38b6fe9bca22d337de66286a4d17e1",
+    "bytes": 13712,
+    "source_mtime": 1791585048.7679598
+  },
+  {
+    "path": "dist/client/pl/projekty/aifield/przyklady-walidacja/index.html",
+    "sha256": "ace4998734fc57ee35ec832abae8f0abdf1202c452457b84b873825b4e8906af",
+    "bytes": 14496,
+    "source_mtime": 1791585048.7689276
+  },
+  {
+    "path": "dist/client/pl/projekty/artisense/badania-walidacja/index.html",
+    "sha256": "4bc8683eacf8c4536694923a4fb56faa32a1eda4a705b2a8a0e32e0942e05c84",
+    "bytes": 13262,
+    "source_mtime": 1791585048.7717524
+  },
+  {
+    "path": "dist/client/pl/projekty/artisense/index.html",
+    "sha256": "d3762ca74879ff4922f6b9c9970a55168a53d4d4cb69d0ee579019b6081eed82",
+    "bytes": 19498,
+    "source_mtime": 1791585048.7721868
+  },
+  {
+    "path": "dist/client/pl/projekty/artisense/technologia/index.html",
+    "sha256": "dbe77e5a70ee6772331df051807930f927197c80c59c12f661d14764f62950a2",
+    "bytes": 14313,
+    "source_mtime": 1791585048.7711482
+  },
+  {
+    "path": "dist/client/pl/projekty/artisense/zastosowania/index.html",
+    "sha256": "6e10b47acec73c3e602c46641de95b9b05e8cf5b75bcc74a7e828b4d7310f368",
+    "bytes": 12890,
+    "source_mtime": 1791585048.7705524
+  },
+  {
+    "path": "dist/client/pl/projekty/index.html",
+    "sha256": "47cb5e718f2d068855b18896044b53b7a2822b2aa6bf13b7fbfb8bbb2b870ae9",
+    "bytes": 21483,
+    "source_mtime": 1791585048.7810953
+  },
+  {
+    "path": "dist/client/pl/prywatnosc/index.html",
+    "sha256": "aed656e32b01edcf6bebac9924b4890233fa003cd6e53b4f75296eb6de36421a",
+    "bytes": 8832,
+    "source_mtime": 1791585048.774211
+  },
+  {
+    "path": "dist/client/pl/wspolpraca/index.html",
+    "sha256": "2ee09ecd77a3676d48cca7e6247260b60640d3219d7d4810b2925c0ca39a1db0",
+    "bytes": 10813,
+    "source_mtime": 1791585048.7738657
+  },
+  {
+    "path": "dist/client/robots.txt",
+    "sha256": "331ea9090db0c9f6f597bd9840fd5b171830f6e0b3ba1cb24dfa91f0c95aedc1",
+    "bytes": 26,
+    "source_mtime": 1791585048.7473633
+  },
+  {
+    "path": "dist/client/sitemap.xml",
+    "sha256": "68ab08991efaca902bcb8a6518106d8b29964c5651f39abbb7eb7c9713ca2770",
+    "bytes": 107,
+    "source_mtime": 1791585048.7494879
+  },
+  {
+    "path": "dist/profile.json",
+    "sha256": "53ea18c2cf57929729f42beb5fdb1b0d47d646c6c720fe89889b6789fa8854a6",
+    "bytes": 54,
+    "source_mtime": 1791585048.8271985
+  },
+  {
+    "path": "dist/server/chunks/404_DBhzjlOn.mjs",
+    "sha256": "fcb0f7e3c1e76e5e6ce85a9e9bc9e228186167ae0a8736233354ad85851510b5",
+    "bytes": 16018,
+    "source_mtime": 1791585048.7135785
+  },
+  {
+    "path": "dist/server/chunks/_virtual_astro_server-island-manifest_C1Q2srgE.mjs",
+    "sha256": "701223b7e6b831cce52ae1f46dfef5b83aefb2a1f4a8b51cb32c2fd11cb25952",
+    "bytes": 217,
+    "source_mtime": 1791585048.7136505
+  },
+  {
+    "path": "dist/server/chunks/_virtual_astro_session-driver_DS5V7T-N.mjs",
+    "sha256": "1ab93202be0b506645c6688e679953c84a203553530097186d40072ca8b181ed",
+    "bytes": 262,
+    "source_mtime": 1791585048.7137313
+  },
+  {
+    "path": "dist/server/chunks/compiler_CCHC7s6H.mjs",
+    "sha256": "7fcef873f9fa046bacce60a8cc118e6bf3bda9a8fe353b1adab08bef41f691c8",
+    "bytes": 45,
+    "source_mtime": 1791585048.7137961
+  },
+  {
+    "path": "dist/server/chunks/enquiries_CCPVfu4l.mjs",
+    "sha256": "7149d416c911c1f8fddc96e75b0355909d369da5a1792a404e63f24a8447f0aa",
+    "bytes": 10502,
+    "source_mtime": 1791585048.713972
+  },
+  {
+    "path": "dist/server/chunks/errors_BmnKjAiS.mjs",
+    "sha256": "d68ad3cfec9a115931de7d79f1d37dee3625ba65816fdea25b507a9f1b47538d",
+    "bytes": 44350,
+    "source_mtime": 1791585048.7141933
+  },
+  {
+    "path": "dist/server/chunks/navigation_Cn_TqBnD.mjs",
+    "sha256": "34ad832a2efea7dae8fd36e9b319f04de59b41c4ffbf620a9f53a351524d6db1",
+    "bytes": 5649,
+    "source_mtime": 1791585048.714278
+  },
+  {
+    "path": "dist/server/chunks/node_D4-Oa-WI.mjs",
+    "sha256": "ac02c9944afd59e303e286948e0ac6702b2bf16437118573d8083e0cdaac44f8",
+    "bytes": 72453,
+    "source_mtime": 1791585048.7143524
+  },
+  {
+    "path": "dist/server/chunks/noop-entrypoint_Z3zFhrGC.mjs",
+    "sha256": "bd2ec101a0d5a25d65500dc8969837e0e86deff0649acbb1893633559c438253",
+    "bytes": 99,
+    "source_mtime": 1791585048.714404
+  },
+  {
+    "path": "dist/server/chunks/rolldown-runtime_BBjsoOtd.mjs",
+    "sha256": "bc1c4c6b4073846c33e02846e4b262d6747c77fc72ca9f9cc2f23b8ff135c35d",
+    "bytes": 1113,
+    "source_mtime": 1791585048.7144556
+  },
+  {
+    "path": "dist/server/chunks/sequence_B5qjKuCu.mjs",
+    "sha256": "695993982609e1709933a14293640f8c6b33b51a20866de6b1fb1166fec3c125",
+    "bytes": 177601,
+    "source_mtime": 1791585048.7145102
+  },
+  {
+    "path": "dist/server/chunks/sharp_3uzIoYd2.mjs",
+    "sha256": "8b1e609f2105ebd4c2f76abc09d144c27f8a3769fe0ee5c7403bcf89a3411396",
+    "bytes": 5130,
+    "source_mtime": 1791585048.7145936
+  },
+  {
+    "path": "dist/server/entry.mjs",
+    "sha256": "0a95d063f6dbb9aa495f75a3a8156434d17b6fada8fbb82f90abbb6a0a31cf24",
+    "bytes": 202890,
+    "source_mtime": 1791585048.7306662
+  },
+  {
+    "path": "dist/server/virtual_astro_middleware.mjs",
+    "sha256": "57ce8a28f936b9b232f83c08a0b980c15357b5484ae0bcb8838e3299cc400c02",
+    "bytes": 921,
+    "source_mtime": 1791585048.713389
+  },
+  {
+    "path": "docs/acceptance-report.md",
+    "sha256": "465c596b8b9123aab0ad202fdd6db724c9f74b9f3d76c13e4fde5932707f8bef",
+    "bytes": 16781,
+    "source_mtime": 1791585434.3565476
+  },
+  {
+    "path": "docs/content-review.md",
+    "sha256": "ad6144aabaf99dd9785601d1f12c87f68ec5c99839778417328a0e9995783bbb",
+    "bytes": 3316,
+    "source_mtime": 1791585097.6356063
+  },
+  {
+    "path": "docs/content.md",
+    "sha256": "2c084691a75904e85f127cf9841351faa95b9337a6156562e2e4c05e2f25f5d5",
+    "bytes": 1994,
+    "source_mtime": 1791584539.2208505
+  },
+  {
+    "path": "docs/enquiry.md",
+    "sha256": "96949fa888581ff5654cd9e42c5ee248419bc021e99583f37bfb946f3ecf521e",
+    "bytes": 2732,
+    "source_mtime": 1791584539.2226787
+  },
+  {
+    "path": "docs/execution-record.md",
+    "sha256": "04702230fd8409a5c91bf0737cea3267efc24483c9b4c51911182fbfd1ebfe2b",
+    "bytes": 18376,
+    "source_mtime": 1791585434.3570802
+  },
+  {
+    "path": "docs/footer.md",
+    "sha256": "937fb843092f561b4814c3fd0fc50c5d96bbea4917d675b58c7654bfab626a8f",
+    "bytes": 661,
+    "source_mtime": 1791581982.4249883
+  },
+  {
+    "path": "docs/header.md",
+    "sha256": "f932950d9f5e50c5ced92c837f6e8eb5fc433f36ab39d8411d1965b1895e2066",
+    "bytes": 852,
+    "source_mtime": 1791581950.6088712
+  },
+  {
+    "path": "docs/migration.md",
+    "sha256": "ccebf4deb7cdec9627ee53fff8edc11779c93d08000087cdf89d1d045ac3c7ef",
+    "bytes": 874,
+    "source_mtime": 1791583901.7283854
+  },
+  {
+    "path": "docs/pages/about.md",
+    "sha256": "0b393965b64fd3aba55f2d089f104d850409d89907115ff3cb83a11846f36402",
+    "bytes": 684,
+    "source_mtime": 1791583798.926288
+  },
+  {
+    "path": "docs/pages/aifield-ai.md",
+    "sha256": "079bd4c9b378b3f3d6092f32544a5a868d6fea22b16ec0d0757f14dc92a497a0",
+    "bytes": 869,
+    "source_mtime": 1791583616.6222422
+  },
+  {
+    "path": "docs/pages/aifield-design.md",
+    "sha256": "5bc946652168675077a57ad74eac21159bcc94b964e7e334b5069963c66d4458",
+    "bytes": 881,
+    "source_mtime": 1791583616.5917652
+  },
+  {
+    "path": "docs/pages/aifield-neural.md",
+    "sha256": "3441e47576a71d8f9e6ef2fe20edeab1656f8c550b4636d83d210e6fd3cfca8a",
+    "bytes": 881,
+    "source_mtime": 1791583616.6498222
+  },
+  {
+    "path": "docs/pages/aifield-validation.md",
+    "sha256": "9a29a8027459457d7ba5414ca38c5272e03ca234d1b4092176f8affd09dbc2c9",
+    "bytes": 893,
+    "source_mtime": 1791583616.680015
+  },
+  {
+    "path": "docs/pages/aifield.md",
+    "sha256": "85d8e77a2511902ae6adfed49b30cbbecf865c96e420041783d9a929fee110f9",
+    "bytes": 860,
+    "source_mtime": 1791583616.5603812
+  },
+  {
+    "path": "docs/pages/approach.md",
+    "sha256": "6ddbe9278cb9eaeaa30989f7247f1551398b69130f7e2a1a47b37f9a65c350b8",
+    "bytes": 696,
+    "source_mtime": 1791583798.900039
+  },
+  {
+    "path": "docs/pages/artisense-applications.md",
+    "sha256": "4ec27cb1442db10c92f04dfe2810d891c68819bc69264dbbf8c35936fe5ef392",
+    "bytes": 721,
+    "source_mtime": 1791583124.871516
+  },
+  {
+    "path": "docs/pages/artisense-technology.md",
+    "sha256": "6804aaf8ceed3e56ac34d43f093a947700ae2dc4af6a80d9cd749ed32db7d314",
+    "bytes": 793,
+    "source_mtime": 1791583020.8978097
+  },
+  {
+    "path": "docs/pages/artisense-validation.md",
+    "sha256": "4546f98a0ae6e96ec0224ce59b448ffa3a6f7351ff2da7850cde1c1c135afe7e",
+    "bytes": 810,
+    "source_mtime": 1791583193.3271396
+  },
+  {
+    "path": "docs/pages/artisense.md",
+    "sha256": "aa4ca55c5e3eca8b9ac57bb75b1a2326d1ce0ec066420b30055070e0f413399f",
+    "bytes": 782,
+    "source_mtime": 1791582924.0788178
+  },
+  {
+    "path": "docs/pages/home.md",
+    "sha256": "a26a43c88439006617ddc4b03927e8420d7edbfe2ab2e2c7271813d759387bfa",
+    "bytes": 936,
+    "source_mtime": 1791582705.632437
+  },
+  {
+    "path": "docs/pages/investors.md",
+    "sha256": "c43776e8ea1eb611c3d9fbacd31697cd2afff4aebcd44802a4f4a9159a54fc87",
+    "bytes": 700,
+    "source_mtime": 1791583798.8728797
+  },
+  {
+    "path": "docs/pages/partnerships.md",
+    "sha256": "5cc6632c20b7c00a8aac249ed1689ff5f7be18dd4de15f60c4ff4d6a79d95aac",
+    "bytes": 712,
+    "source_mtime": 1791583798.9528103
+  },
+  {
+    "path": "docs/pages/projects.md",
+    "sha256": "f7c90c87568df03af8969eb4cef272ffddbe0b94f60e415dacf4a4249ae6d280",
+    "bytes": 788,
+    "source_mtime": 1791582830.0322492
+  },
+  {
+    "path": "docs/presentation.md",
+    "sha256": "8394d91b6ffe82742cf4839e4031311a74a55a5943e797f9e32b9e055c5c0f62",
+    "bytes": 1147,
+    "source_mtime": 1791581791.680838
+  },
+  {
+    "path": "docs/project-navigation.md",
+    "sha256": "38c3e1f749468eacc1b6a548508cb3207376a193823434a7e7e5f66e08887397",
+    "bytes": 852,
+    "source_mtime": 1791582054.924634
+  },
+  {
+    "path": "docs/runtime.md",
+    "sha256": "ec55add5c3d817dfb20cc3057660a44bc9de527f5b6b64c6bcf3da807602e192",
+    "bytes": 1672,
+    "source_mtime": 1791584539.2185385
+  },
+  {
+    "path": "docs/scoped-evidence.csv",
+    "sha256": "6ad054b28b4f95ec37c946da36688b8ef814d6fff2b140eb522f5f4cb38efbd6",
+    "bytes": 153650,
+    "source_mtime": 1791585434.3561227
+  },
+  {
+    "path": "docs/visual-review.md",
+    "sha256": "f66d1a05c903b8d88870f410b8f1941d66c952200f21d06e8d03f601b0339494",
+    "bytes": 2703,
+    "source_mtime": 1791585097.6335824
+  },
+  {
+    "path": "package-lock.json",
+    "sha256": "1326b306b2ffa7063b522b6ae3e78696000da209f9324f49be77899f44112470",
+    "bytes": 306186,
+    "source_mtime": 1791581432.0284183
+  },
+  {
+    "path": "package.json",
+    "sha256": "254bb61db3921ad1527967430b58c9eb9fc53cf6b6ab6f2ac9fb789a97e05cd8",
+    "bytes": 1225,
+    "source_mtime": 1791581881.8228571
+  },
+  {
+    "path": "playwright.config.ts",
+    "sha256": "9ef031b46d10e75d9cd40e300f775d2e8551725d52b9585242c579aa18b2d855",
+    "bytes": 504,
+    "source_mtime": 1791581382.0283685
+  },
+  {
+    "path": "public/brand/favicon-v1.svg",
+    "sha256": "7c39b10390debcb9da6afbca5ee814dbc5e1cae047a480db07ecaca8bdba0b73",
+    "bytes": 249,
+    "source_mtime": 1791581791.674687
+  },
+  {
+    "path": "public/brand/share-v1.svg",
+    "sha256": "f3c56e8f3cdc45954792d9a14725d27cdbcad3ff1a72dd3b198ab497d01450f1",
+    "bytes": 698,
+    "source_mtime": 1791581791.6768658
+  },
+  {
+    "path": "scripts/author-aifield.py",
+    "sha256": "b93592865057883983c542af8e48b779c586b5121fa2623000a3a52112735c74",
+    "bytes": 30087,
+    "source_mtime": 1791583574.2629886
+  },
+  {
+    "path": "scripts/author-artisense.py",
+    "sha256": "3a84665578c43bafc5707c332186b0aed57f95898cd879d273a35b5beacfa605",
+    "bytes": 6350,
+    "source_mtime": 1791582924.0069704
+  },
+  {
+    "path": "scripts/author-as-applications.py",
+    "sha256": "17a9e48486467ac528b9cf5e8b4dcc77100d54daf290ce62576902d46f5ed63a",
+    "bytes": 6462,
+    "source_mtime": 1791583124.8076878
+  },
+  {
+    "path": "scripts/author-as-technology.py",
+    "sha256": "697fae755a2b44a5d8034cda8398a30259bfea0621c849971ed5d4118d0505d7",
+    "bytes": 7026,
+    "source_mtime": 1791583020.8327703
+  },
+  {
+    "path": "scripts/author-as-validation.py",
+    "sha256": "af0bc3114d1af715ab49353a1cff1b6efeb666ce9084f76272b661c09840d33c",
+    "bytes": 7493,
+    "source_mtime": 1791583193.2667196
+  },
+  {
+    "path": "scripts/author-company.py",
+    "sha256": "819bd9e313a8f487682fbdfa165ec72a23e559206c78e5b6ccf3d427f70b4948",
+    "bytes": 22188,
+    "source_mtime": 1791583771.9459038
+  },
+  {
+    "path": "scripts/author-enquiry.py",
+    "sha256": "08de10706cc8b0edc39b1d391cabe87c4a66bb1d4911f6071bc85a53e8f13f16",
+    "bytes": 6631,
+    "source_mtime": 1791582268.180194
+  },
+  {
+    "path": "scripts/author-home.py",
+    "sha256": "0463652f9a6526937fad4e709e43cbad35f78bfcc8cee73a6a8b760066f04c87",
+    "bytes": 5791,
+    "source_mtime": 1791582543.276001
+  },
+  {
+    "path": "scripts/author-projects.py",
+    "sha256": "9756f3d48444345f40c7c055f5ad8574e73586e0f0ecbe472e963ccf79759521",
+    "bytes": 5047,
+    "source_mtime": 1791582829.9696133
+  },
+  {
+    "path": "scripts/author.py",
+    "sha256": "32517280a73dd31bed7f5f851d343eece2a8372c01fcc2cb5163f91e524d7e83",
+    "bytes": 1193,
+    "source_mtime": 1791582268.1784391
+  },
+  {
+    "path": "scripts/browser-check.mjs",
+    "sha256": "9e17fc8f1bf5185f63677ff5cb74e5dc90911d2e63ee97a92cae66b8e0ae730a",
+    "bytes": 1787,
+    "source_mtime": 1791584375.107605
+  },
+  {
+    "path": "scripts/check-boundaries.mjs",
+    "sha256": "f6d1770e91f6aea9dddfcf1c9607f0d82d473a98f800ab1257adcbd1cd754b78",
+    "bytes": 1726,
+    "source_mtime": 1791583901.7279816
+  },
+  {
+    "path": "scripts/check-built.py",
+    "sha256": "a8374c26bcde6d79079c4c97b244ca40e10da30761fe7e4e036294f6f7a1e545",
+    "bytes": 2561,
+    "source_mtime": 1791584885.1308644
+  },
+  {
+    "path": "scripts/check-content.mjs",
+    "sha256": "2c5a6f0676ac067c7518cbf6c6566bf752cecc39f875f5fd5060460432159d95",
+    "bytes": 1041,
+    "source_mtime": 1791583901.7277153
+  },
+  {
+    "path": "scripts/check-links.mjs",
+    "sha256": "1692de90b4922106277987a2bb1f3c02e6db9ff2ea28d4b588fecd6c39cfb1d1",
+    "bytes": 210,
+    "source_mtime": 1791584030.8980844
+  },
+  {
+    "path": "scripts/fingerprint.mjs",
+    "sha256": "757ddc64b31a118a36a500f270e4cccc885ae6274eba2089cbfb23872d0d13b4",
+    "bytes": 790,
+    "source_mtime": 1791584375.0754316
+  },
+  {
+    "path": "scripts/performance.mjs",
+    "sha256": "2a691ec7d9ea507ff730d51884b5734a81eeaf6075468c4d908264543119e920",
+    "bytes": 3183,
+    "source_mtime": 1791584469.409461
+  },
+  {
+    "path": "scripts/record.mjs",
+    "sha256": "2b6772a5e316783672fdb8e872eb6c8b1b1a5a101a720924c56189b8f1c7b0fc",
+    "bytes": 803,
+    "source_mtime": 1791584375.1074586
+  },
+  {
+    "path": "scripts/runtime/build.mjs",
+    "sha256": "a121166f79f169f9f7ba16c0cb34cf0c826714e4ea793ec6e7871c2b5281b1dc",
+    "bytes": 1365,
+    "source_mtime": 1791584539.2125487
+  },
+  {
+    "path": "scripts/runtime/config.mjs",
+    "sha256": "b04150c0ecc422e7b90385b41c91b8c36a985ba131d7d20f58733e1da394d864",
+    "bytes": 1714,
+    "source_mtime": 1791584539.2124279
+  },
+  {
+    "path": "scripts/runtime/launch.mjs",
+    "sha256": "0b2a4bd598ab25098d971c9ddcfe13cf5be035e38693e90e85f33fbebd2a12b9",
+    "bytes": 2870,
+    "source_mtime": 1791584539.2126534
+  },
+  {
+    "path": "scripts/verify-recovery.mjs",
+    "sha256": "1f769fa23e37a9ffefb27c59dcb3af07152598fd3b269dc4f74acfe0201a08a1",
+    "bytes": 4233,
+    "source_mtime": 1791584375.0784214
+  },
+  {
+    "path": "src/components/ui/Button.astro",
+    "sha256": "fe1f3834839feef86b9ce145cd6ff686a1cbb03d9dc130db19e6dcb816c32eeb",
+    "bytes": 208,
+    "source_mtime": 1791581791.6655326
+  },
+  {
+    "path": "src/components/ui/ConceptVisual.astro",
+    "sha256": "5e1525857eda77d55b94f610cfb0f17a85fd1ec27832ebf968ab0b458b722a0d",
+    "bytes": 4385,
+    "source_mtime": 1791584269.806259
+  },
+  {
+    "path": "src/components/ui/EvidenceTable.astro",
+    "sha256": "945604cc7d9f244fb9af6031906906ac4aa8f9518afc47654ee9add7546f3ab4",
+    "bytes": 372,
+    "source_mtime": 1791581791.6699157
+  },
+  {
+    "path": "src/components/ui/Figure.astro",
+    "sha256": "00007fb1c4a231a20ef524f12be6491990ae2c7f331d8d6a26c424c4902c70f5",
+    "bytes": 365,
+    "source_mtime": 1791581791.6676862
+  },
+  {
+    "path": "src/components/ui/FlowDiagram.astro",
+    "sha256": "f5516b3beedf820e8e206fd943626a5793ab2fc90fcfd52a1cb2dc40e808d24c",
+    "bytes": 1239,
+    "source_mtime": 1791583058.8400402
+  },
+  {
+    "path": "src/config/public.ts",
+    "sha256": "931470ec3d40c9ce0af8442a6406815b5ee09db11980ef27a9dfb9e60e5730c4",
+    "bytes": 225,
+    "source_mtime": 1791581382.0284433
+  },
+  {
+    "path": "src/config/server.ts",
+    "sha256": "102c6db73e285c61ddee9ff63c4f0a6859e7c952ea3e8e2117c87dd205203eeb",
+    "bytes": 929,
+    "source_mtime": 1791582339.1519806
+  },
+  {
+    "path": "src/content/index.ts",
+    "sha256": "634a6297df1c0aeb9bab4e90769b126d2dfa078a57870c379dff0db4f1d884df",
+    "bytes": 5763,
+    "source_mtime": 1791584269.8070471
+  },
+  {
+    "path": "src/content/publication.mjs",
+    "sha256": "43a9f760b991b81a94531d4c77acf236353c03012728b56691d0b84821cfc997",
+    "bytes": 1063,
+    "source_mtime": 1791584469.409308
+  },
+  {
+    "path": "src/features/enquiry/application/index.ts",
+    "sha256": "7e5531405e6f78dfb6b6cdfe6fd3ea9d8b2ae32850afaaa99fdce01dfa7bb52c",
+    "bytes": 2292,
+    "source_mtime": 1791584157.7982554
+  },
+  {
+    "path": "src/features/enquiry/domain/index.ts",
+    "sha256": "0ae36edec987d4b9e05f4e089827e46b6b2fed54d5fe7dd93e9d431fc696f282",
+    "bytes": 1613,
+    "source_mtime": 1791582149.1072507
+  },
+  {
+    "path": "src/features/enquiry/presentation/EnquiryForm.astro",
+    "sha256": "1310d0864ac4a3e1926c4fcab9da892d6b880220f67f5b3537b0e2b60eaedfbd",
+    "bytes": 3818,
+    "source_mtime": 1791582705.5009344
+  },
+  {
+    "path": "src/features/enquiry/presentation/controller.ts",
+    "sha256": "b18b35d2a82688208438499043ab8bad7d10fe5055c40ab235a47a76ff391fd1",
+    "bytes": 4799,
+    "source_mtime": 1791584157.7980964
+  },
+  {
+    "path": "src/features/enquiry/presentation/copy.ts",
+    "sha256": "706ed06cbd982a126cbfaa680c8c8f09523ccd914f4266f2cd02e9e5ef7f1fec",
+    "bytes": 4395,
+    "source_mtime": 1791582268.1718538
+  },
+  {
+    "path": "src/features/enquiry/server/index.ts",
+    "sha256": "4e79bfab3fff9f42604e08118f1eb683f52df5d5d835edf0a1711b9d438ad5b3",
+    "bytes": 3101,
+    "source_mtime": 1791582149.1161437
+  },
+  {
+    "path": "src/features/enquiry/server/receivers.ts",
+    "sha256": "a8291dc94bea5672b6b0bdaa620ddb94c050ead49723d0be9cbd111a2b34ab64",
+    "bytes": 2474,
+    "source_mtime": 1791584157.7983675
+  },
+  {
+    "path": "src/layouts/PageFrame.astro",
+    "sha256": "3aaaff9161d1da67f3e28c89c89a3381440b5f6c1c5a4c2f44187bd544bb437a",
+    "bytes": 1852,
+    "source_mtime": 1791584814.651915
+  },
+  {
+    "path": "src/layouts/ProjectFrame.astro",
+    "sha256": "79719332b444352c626fcf59814ed6bfa22c20de8c15deb66f75498d1fee4e50",
+    "bytes": 923,
+    "source_mtime": 1791582054.9230323
+  },
+  {
+    "path": "src/metadata/index.ts",
+    "sha256": "c08dd5c10e85e034d265eb96fbe21d241c8853e9680e6218a6c64f74f92a4607",
+    "bytes": 894,
+    "source_mtime": 1791581632.627028
+  },
+  {
+    "path": "src/middleware.ts",
+    "sha256": "59dfa9de521d342ff7add088e9ea98a0949291c706ac0a58af8734ee9154aac9",
+    "bytes": 393,
+    "source_mtime": 1791583901.5854902
+  },
+  {
+    "path": "src/navigation/index.ts",
+    "sha256": "064ca185c18276e96284cc1bedf5d0872f4008eb69286beca37795a800d1dfce",
+    "bytes": 2100,
+    "source_mtime": 1791584001.6125314
+  },
+  {
+    "path": "src/navigation/legacy.ts",
+    "sha256": "2381054c4f97df868c5da32d4ae3cfc2b9512f3a24a8d75e93240c9fec7f9f23",
+    "bytes": 408,
+    "source_mtime": 1791583901.564173
+  },
+  {
+    "path": "src/pages/404.astro",
+    "sha256": "7061f888623c7c0185c3f02fcb891f8cf3c0d229f6212a9aaca5f4f6c1df1f06",
+    "bytes": 1313,
+    "source_mtime": 1791583901.6052914
+  },
+  {
+    "path": "src/pages/[...path].astro",
+    "sha256": "eb6b179723e3f35f4b04afae349cc78b90dcd944d48575cc68fd1c50a61717e4",
+    "bytes": 2433,
+    "source_mtime": 1791583798.9529738
+  },
+  {
+    "path": "src/pages/api/enquiries.ts",
+    "sha256": "c92c2d8c9b79ee9587735751938d5efafdb110df2057ccbba0ad74351f05e9df",
+    "bytes": 229,
+    "source_mtime": 1791582149.11815
+  },
+  {
+    "path": "src/pages/checks-components/[locale].astro",
+    "sha256": "a36bda54fd17aa74b18feb9c4b1d279585af064c627ff8b5d71db41ba18d1b38",
+    "bytes": 3551,
+    "source_mtime": 1791584269.807162
+  },
+  {
+    "path": "src/pages/robots.txt.ts",
+    "sha256": "54c1e09613e5e7883539b22c74d5c9fbde6f4a54c390d3bc656e17da7aae9465",
+    "bytes": 310,
+    "source_mtime": 1791581632.629262
+  },
+  {
+    "path": "src/pages/sitemap.xml.ts",
+    "sha256": "b735365984fbb40b9592d243e7c3eb308c79ad75f8fb4e0d9ba40617f67e9470",
+    "bytes": 515,
+    "source_mtime": 1791581632.6312404
+  },
+  {
+    "path": "src/partials/Breadcrumbs.astro",
+    "sha256": "78d0988943e184165e2dd358da681d01cfd103a1beebdfcfd4b216d84ab2471f",
+    "bytes": 452,
+    "source_mtime": 1791582054.9162998
+  },
+  {
+    "path": "src/partials/ContentsNavigation.astro",
+    "sha256": "b657660a28522de38f2f89ccb2a5f90210fa3abb0d937d66c99c041b6103eedb",
+    "bytes": 545,
+    "source_mtime": 1791582054.920484
+  },
+  {
+    "path": "src/partials/PageIntro.astro",
+    "sha256": "033ca4078a868d36b4ec42b753b4d89596c32f93f7f3bfdcef7387b9d65e431f",
+    "bytes": 355,
+    "source_mtime": 1791582924.0472438
+  },
+  {
+    "path": "src/partials/ProjectClosing.astro",
+    "sha256": "5407b370f319da51e7c33643a3c1c4231c8c24190625fe12cda74a5fcd5e1147",
+    "bytes": 886,
+    "source_mtime": 1791582924.0491533
+  },
+  {
+    "path": "src/partials/ProjectNavigation.astro",
+    "sha256": "159d8b333cf8a3df04d4ece1af1e446845f5b47801793572abd943db7ba3465f",
+    "bytes": 2541,
+    "source_mtime": 1791584946.8693867
+  },
+  {
+    "path": "src/partials/SiteFooter.astro",
+    "sha256": "c5348cd3545000cc246725038ef24a99b6657155f3b910a8ef2ecfe3d3b1268b",
+    "bytes": 2654,
+    "source_mtime": 1791581982.397978
+  },
+  {
+    "path": "src/partials/SiteHeader.astro",
+    "sha256": "ad2267ed620f70e4561df22559a00282be34d708a7df38eb4f219aab09062859",
+    "bytes": 5057,
+    "source_mtime": 1791584946.8690856
+  },
+  {
+    "path": "src/partials/site-header.ts",
+    "sha256": "81c98e2c0ec5b0145708bd2685b8bc5771ca574639eadbf9e4b5445f4ef93930",
+    "bytes": 1405,
+    "source_mtime": 1791581950.5774422
+  },
+  {
+    "path": "src/styles/colors.css",
+    "sha256": "1079da91e7d89c913d97469854b891d99eab24eaa2c89fe88ae30214be0950c7",
+    "bytes": 1396,
+    "source_mtime": 1791581791.6575902
+  },
+  {
+    "path": "src/styles/global.css",
+    "sha256": "db8b6eb33f459cb1136bef93b670553454853f1ed5746e5d15c7c60aae0e9d14",
+    "bytes": 7358,
+    "source_mtime": 1791583058.8096182
+  },
+  {
+    "path": "src/templates/ContactPage.astro",
+    "sha256": "ec3b66d128dd9b8a07c16b55df1c2402e633c0c39686cdfeb1a0a7918799f1e8",
+    "bytes": 1658,
+    "source_mtime": 1791582339.1456852
+  },
+  {
+    "path": "src/templates/PrivacyPage.astro",
+    "sha256": "70c3e4257e68575b60e3e580c8aa13339551db7c9e1ff9532ee9d66195c76b5b",
+    "bytes": 378,
+    "source_mtime": 1791582339.147672
+  },
+  {
+    "path": "src/templates/Sections.astro",
+    "sha256": "76206ae320563d8a460ddbd82d3767b48904e84d0fa897bf4b86c9a9541d6a4d",
+    "bytes": 794,
+    "source_mtime": 1791582339.1435602
+  },
+  {
+    "path": "src/templates/about/Page.astro",
+    "sha256": "44436bbf03e495fc5cb3582aee301760ddc2d8d119e8bf7f0942d72f40f8c718",
+    "bytes": 1978,
+    "source_mtime": 1791583798.926202
+  },
+  {
+    "path": "src/templates/aifield/Page.astro",
+    "sha256": "7eb959444811bbb0266febeb7ad3ace2787b30a8d2f0fd97805e24159c0f9df0",
+    "bytes": 943,
+    "source_mtime": 1791583616.5602982
+  },
+  {
+    "path": "src/templates/aifield/diagram.json",
+    "sha256": "012a8b5a780dffd0886dff0730d05cad6f0ff11df3e20a66c62d094b199711f4",
+    "bytes": 648,
+    "source_mtime": 1791583616.5601995
+  },
+  {
+    "path": "src/templates/aifield-ai/Page.astro",
+    "sha256": "7eb959444811bbb0266febeb7ad3ace2787b30a8d2f0fd97805e24159c0f9df0",
+    "bytes": 943,
+    "source_mtime": 1791583616.6221726
+  },
+  {
+    "path": "src/templates/aifield-ai/diagram.json",
+    "sha256": "03b33c6460a9f822111dff744cc50d49ff5d66347b27553f71e403ed398194b8",
+    "bytes": 1288,
+    "source_mtime": 1791583616.6220875
+  },
+  {
+    "path": "src/templates/aifield-design/Page.astro",
+    "sha256": "7eb959444811bbb0266febeb7ad3ace2787b30a8d2f0fd97805e24159c0f9df0",
+    "bytes": 943,
+    "source_mtime": 1791583616.5916882
+  },
+  {
+    "path": "src/templates/aifield-design/diagram.json",
+    "sha256": "2ccef88f9894b1481c0e80b71ac273c2a6ac0e87d785b2a25ee6dad2aa1bbc4c",
+    "bytes": 1033,
+    "source_mtime": 1791583616.5915732
+  },
+  {
+    "path": "src/templates/aifield-neural/Page.astro",
+    "sha256": "c1b2d3cd6c2cc7ed618d1a8d5de73e9dccd568c14872ea6688cfdb397909f9f4",
+    "bytes": 1529,
+    "source_mtime": 1791583616.6497366
+  },
+  {
+    "path": "src/templates/aifield-neural/diagram.json",
+    "sha256": "72ec2d1744864949ca7166460a61eedc750c4554501aa34f714fe17373e63d10",
+    "bytes": 823,
+    "source_mtime": 1791583616.6496284
+  },
+  {
+    "path": "src/templates/aifield-validation/Page.astro",
+    "sha256": "7eb959444811bbb0266febeb7ad3ace2787b30a8d2f0fd97805e24159c0f9df0",
+    "bytes": 943,
+    "source_mtime": 1791583616.6799486
+  },
+  {
+    "path": "src/templates/aifield-validation/diagram.json",
+    "sha256": "5620c69e7833aa4a3a04eee2007111c427ce64c8bf48ef56dccb7927e7c990ff",
+    "bytes": 1042,
+    "source_mtime": 1791583616.6798575
+  },
+  {
+    "path": "src/templates/approach/Page.astro",
+    "sha256": "c9231973aa8fee2c7b2406433d07a5680c6a8ce884b13d41e66428e87b92e0dc",
+    "bytes": 2196,
+    "source_mtime": 1791583798.899911
+  },
+  {
+    "path": "src/templates/artisense/Page.astro",
+    "sha256": "7525c4893cf380c9299d9eea9cff33f9055434ae4426aac2b621c0d3dc2cf1a7",
+    "bytes": 2298,
+    "source_mtime": 1791582924.0510025
+  },
+  {
+    "path": "src/templates/artisense-applications/Page.astro",
+    "sha256": "37d4723edd8c3881b80855757de6443a1110620d89a4052b55425e0f49bda173",
+    "bytes": 1917,
+    "source_mtime": 1791583124.8432047
+  },
+  {
+    "path": "src/templates/artisense-technology/Page.astro",
+    "sha256": "df52d3bc7f55df9434ec5a7f690c16ee59b63e3259fbf7cb63dead541cc05819",
+    "bytes": 1468,
+    "source_mtime": 1791583020.8683782
+  },
+  {
+    "path": "src/templates/artisense-validation/Page.astro",
+    "sha256": "d02ac09ff4e6ad4f6dae05449e5caf497aeebf18b45fa6c3ea0e9a6d4e768364",
+    "bytes": 891,
+    "source_mtime": 1791583193.2987704
+  },
+  {
+    "path": "src/templates/home/HomePage.astro",
+    "sha256": "f7f6fc7d026562667c8fe1c23e4ef4b9d7874d44e10a68f54d83d77c294f0126",
+    "bytes": 3755,
+    "source_mtime": 1791584269.8065455
+  },
+  {
+    "path": "src/templates/home/ProjectFeature.astro",
+    "sha256": "f3a77dbb3b65e2f62128631f0159cab87b4245ba2ac7fb680a83cb2d17840e3a",
+    "bytes": 2688,
+    "source_mtime": 1791584315.6122367
+  },
+  {
+    "path": "src/templates/investors/Page.astro",
+    "sha256": "44436bbf03e495fc5cb3582aee301760ddc2d8d119e8bf7f0942d72f40f8c718",
+    "bytes": 1978,
+    "source_mtime": 1791583798.8727617
+  },
+  {
+    "path": "src/templates/partnerships/Page.astro",
+    "sha256": "d6721bfa8366704bfb93c14ce01061a7911eeef820ccca57d3e532273e51de69",
+    "bytes": 1981,
+    "source_mtime": 1791583798.9527
+  },
+  {
+    "path": "src/templates/projects/ProjectCollection.astro",
+    "sha256": "f421c1085ba06889e0d410d6dc553892ef2cb29aab2785584f8a493265a2a416",
+    "bytes": 881,
+    "source_mtime": 1791584269.7507718
+  },
+  {
+    "path": "src/templates/projects/ProjectsPage.astro",
+    "sha256": "7381b0b20eebf54caf7f1ffcfc7e85ddab4f43ad24850b5bdb5d2511057eda59",
+    "bytes": 987,
+    "source_mtime": 1791584269.8063633
+  },
+  {
+    "path": "tests/browser/components.spec.ts",
+    "sha256": "04ed7fe011a7cb3dca310b7acb359f4d2f2c28a48f2d76bc63ef6039ca46a5ef",
+    "bytes": 3732,
+    "source_mtime": 1791584269.8119597
+  },
+  {
+    "path": "tests/browser/enquiry.spec.ts",
+    "sha256": "7952cadfee342b968d8a53eeb92b3c70a1ed26be07ffe8228e8c89bf186d8a99",
+    "bytes": 6150,
+    "source_mtime": 1791584157.8059072
+  },
+  {
+    "path": "tests/browser/journeys.spec.ts",
+    "sha256": "0d03f486fe9cde1299aca2e281adbe6877a91da34293a7f79d3030c37b5b52e5",
+    "bytes": 1490,
+    "source_mtime": 1791583219.2207487
+  },
+  {
+    "path": "tests/browser/nojs.spec.ts",
+    "sha256": "23effd0107d03aa6e09934d6a901f86bf922bd3d5e64f3e8b2a065359ca9c88c",
+    "bytes": 1272,
+    "source_mtime": 1791584983.6671557
+  },
+  {
+    "path": "tests/browser/pages.spec.ts",
+    "sha256": "14e711d3014a035127a2b8e9798ba051ee6f48e026ebcf2816bd791d682be18b",
+    "bytes": 3554,
+    "source_mtime": 1791584661.7996967
+  },
+  {
+    "path": "tests/browser/site.spec.ts",
+    "sha256": "33957ec89a902f6378bb568f6b5ba3807e5b9886de009372d20eda752a3f81ba",
+    "bytes": 10607,
+    "source_mtime": 1791584269.8072803
+  },
+  {
+    "path": "tests/content.test.ts",
+    "sha256": "4e9df63d74d40a3137eb04305ffbc2f0ada6644c5d4a6f2bee85314dee364f7d",
+    "bytes": 6679,
+    "source_mtime": 1791584071.346713
+  },
+  {
+    "path": "tests/enquiry.test.ts",
+    "sha256": "fe9651ca7a5443e04a388e2e3f3e700fc37b60b9608c1b7d73490fa4dc080e6a",
+    "bytes": 7112,
+    "source_mtime": 1791584157.8041854
+  },
+  {
+    "path": "tests/runtime.test.ts",
+    "sha256": "b2bb3c1fb43ec1cbdabb4ce6310ad6b8373ea4087012dc3c9ad013bd86e16021",
+    "bytes": 501,
+    "source_mtime": 1791581432.173682
+  },
+  {
+    "path": "tsconfig.json",
+    "sha256": "b500f826989b71fb26b9c38a1ce73c83722feab041d73bec746c4de70fc424bb",
+    "bytes": 156,
+    "source_mtime": 1791581382.0282314
+  },
+  {
+    "path": "vitest.config.ts",
+    "sha256": "1ba6d2b5cb75229fd46a6b773c71d06ae1e9e55bb479def43674174b1c6c1456",
+    "bytes": 143,
+    "source_mtime": 1791581382.0282998
+  }
+]

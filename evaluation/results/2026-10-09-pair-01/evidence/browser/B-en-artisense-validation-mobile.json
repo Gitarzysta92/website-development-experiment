@@ -1,0 +1,472 @@
+{
+  "id": "B-en-artisense-validation-mobile",
+  "label": "B",
+  "locale": "en",
+  "pageId": "artisense-validation",
+  "view": "mobile",
+  "url": "http://127.0.0.1:4511/en/projects/artisense/research-validation/",
+  "status": 200,
+  "errors": [],
+  "title": "ArtiSense: Research & validation | Artifactory",
+  "language": "en",
+  "h1": [
+    "What the evidence can tell us."
+  ],
+  "headings": [
+    {
+      "level": "H1",
+      "text": "What the evidence can tell us."
+    },
+    {
+      "level": "H2",
+      "text": "An evidence snapshot"
+    },
+    {
+      "level": "H2",
+      "text": "The proposed validation sequence"
+    },
+    {
+      "level": "H3",
+      "text": "Define the experiment"
+    },
+    {
+      "level": "H3",
+      "text": "Characterize the physical system"
+    },
+    {
+      "level": "H3",
+      "text": "Evaluate measurement behavior"
+    },
+    {
+      "level": "H3",
+      "text": "Assess the intended use"
+    },
+    {
+      "level": "H2",
+      "text": "Questions that determine the next step"
+    },
+    {
+      "level": "H2",
+      "text": "Keep design evidence in context"
+    },
+    {
+      "level": "H2",
+      "text": "Let’s explore what\ncomes next."
+    },
+    {
+      "level": "H2",
+      "text": "Projects"
+    },
+    {
+      "level": "H2",
+      "text": "Company"
+    },
+    {
+      "level": "H2",
+      "text": "Get in touch"
+    }
+  ],
+  "text": "Skip to content\nLocal preview\nDraft content · 9 October 2026\nartifactory.\nMenu\nArtiSense\nResearch & validation\nHome\nProjects\nArtiSense\nResearch & validation\n\nARTISENSE / RESEARCH & VALIDATION\n\nWhat the evidence can tell us.\n\nThe supplied September 2026 research describes optical feasibility and chip-design work. This page separates that engineering evidence from the further measurements an eventual sensing system would require.\n\nON THIS PAGE\n01\nAn evidence snapshot\n02\nThe proposed validation sequence\n03\nQuestions that determine the next step\n04\nKeep design evidence in context\nARTISENSE / 01\nPHOTONICS\nSIGNAL\nLIGHT\nConceptual illustration · not a product image or measured result\nAn evidence snapshot\nWork described\tWhat it supports\tWhat it does not establish\nOptical feasibility\tInvestigation of a candidate sensing approach\tValidated chemical measurement\nPhotonic chip design\tAn engineering design and simulation example\tA fabricated and tested sensor\nIntended wearable use\tA direction for future integration\tA finished or clinically validated product\ni\n\nBased on supplied research context, reviewed for this local draft on 9 October 2026. Original figures, experimental conditions and numerical results are not included in the input package.\n\nThe proposed validation sequence\n01\nDefine the experiment\n\nSpecify a hypothesis, optical setup, sample and reference measurement.\n\n02\nCharacterize the physical system\n\nTest fabricated components and document operating conditions.\n\n03\nEvaluate measurement behavior\n\nInvestigate calibration, repeatability and sources of interference.\n\n04\nAssess the intended use\n\nPlan any further validation required for the eventual application.\n\nQuestions that determine the next step\n\nWhich optical response is robust enough to measure? How does the result change with sample conditions? What calibration assumptions survive a physical test? Answers to these questions should define the next milestone; no completion dates are confirmed here.\n\nKeep design evidence in context\n\nAIFIELD’s chip-design example explains an engineering workflow. It does not establish sensing accuracy. Reviewing both evidence records helps distinguish progress in the design tools from progress toward a physical measurement system.\n\nExamples & validation\nCONTINUE EXPLORING\nTechnology\nApplications\nInvestors\n\nTHE NEXT CONVERSATION\n\nLet’s explore what\ncomes next.\n\nInvest in the company. Explore the science. Bring a question worth working on.\n\nDiscuss an investment\nExplore partnerships\nartifactory.\n\nEngineering light. Creating possibility.\n\nSensing technology and tools for designing photonic systems.\nProjects\nAll projects\nArtiSense\nAIFIELD\nCompany\nHome\nInvestors\nOur approach\nAbout\nPartnerships\nGet in touch\ninfo@artifactory.tech\nContact\nPrivacy\nArtifactory · 2026\nLocal review edition. Content and Polish translations await owner review.\nBack to top ↑",
+  "links": [
+    {
+      "text": "Skip to content",
+      "href": "#main",
+      "lang": ""
+    },
+    {
+      "text": "artifactory.",
+      "href": "/en/",
+      "lang": ""
+    },
+    {
+      "text": "All projects",
+      "href": "/en/projects/",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSensePhotonic sensing",
+      "href": "/en/projects/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELDPhotonic engineering",
+      "href": "/en/projects/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Investors",
+      "href": "/en/investors/",
+      "lang": ""
+    },
+    {
+      "text": "Our approach",
+      "href": "/en/approach/",
+      "lang": ""
+    },
+    {
+      "text": "About",
+      "href": "/en/about/",
+      "lang": ""
+    },
+    {
+      "text": "Partnerships",
+      "href": "/en/partnerships/",
+      "lang": ""
+    },
+    {
+      "text": "Contact",
+      "href": "/en/contact/",
+      "lang": ""
+    },
+    {
+      "text": "PL",
+      "href": "/pl/projekty/artisense/badania-walidacja/",
+      "lang": "pl"
+    },
+    {
+      "text": "Let’s talk",
+      "href": "/en/contact/?intent=investment",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/en/projects/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/en/projects/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/en/projects/artisense/technology/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/en/projects/artisense/applications/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/en/projects/artisense/research-validation/",
+      "lang": ""
+    },
+    {
+      "text": "Home",
+      "href": "/en/",
+      "lang": ""
+    },
+    {
+      "text": "Projects",
+      "href": "/en/projects/",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSense",
+      "href": "/en/projects/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "01\nAn evidence snapshot",
+      "href": "#evidence",
+      "lang": ""
+    },
+    {
+      "text": "02\nThe proposed validation sequence",
+      "href": "#validation-path",
+      "lang": ""
+    },
+    {
+      "text": "03\nQuestions that determine the next step",
+      "href": "#questions",
+      "lang": ""
+    },
+    {
+      "text": "04\nKeep design evidence in context",
+      "href": "#design-evidence",
+      "lang": ""
+    },
+    {
+      "text": "Examples & validation",
+      "href": "/en/projects/aifield/examples-validation/",
+      "lang": ""
+    },
+    {
+      "text": "Technology",
+      "href": "/en/projects/artisense/technology/",
+      "lang": ""
+    },
+    {
+      "text": "Applications",
+      "href": "/en/projects/artisense/applications/",
+      "lang": ""
+    },
+    {
+      "text": "Investors",
+      "href": "/en/investors/",
+      "lang": ""
+    },
+    {
+      "text": "Discuss an investment",
+      "href": "/en/contact/?intent=investment&project=artisense",
+      "lang": ""
+    },
+    {
+      "text": "Explore partnerships",
+      "href": "/en/partnerships/",
+      "lang": ""
+    },
+    {
+      "text": "artifactory.",
+      "href": "/en/",
+      "lang": ""
+    },
+    {
+      "text": "All projects",
+      "href": "/en/projects/",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSense",
+      "href": "/en/projects/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELD",
+      "href": "/en/projects/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Home",
+      "href": "/en/",
+      "lang": ""
+    },
+    {
+      "text": "Investors",
+      "href": "/en/investors/",
+      "lang": ""
+    },
+    {
+      "text": "Our approach",
+      "href": "/en/approach/",
+      "lang": ""
+    },
+    {
+      "text": "About",
+      "href": "/en/about/",
+      "lang": ""
+    },
+    {
+      "text": "Partnerships",
+      "href": "/en/partnerships/",
+      "lang": ""
+    },
+    {
+      "text": "info@artifactory.tech",
+      "href": "mailto:info@artifactory.tech",
+      "lang": ""
+    },
+    {
+      "text": "Contact",
+      "href": "/en/contact/",
+      "lang": ""
+    },
+    {
+      "text": "Privacy",
+      "href": "/en/privacy/",
+      "lang": ""
+    },
+    {
+      "text": "Back to top ↑",
+      "href": "#top",
+      "lang": ""
+    }
+  ],
+  "metadata": [
+    {
+      "name": "viewport",
+      "content": "width=device-width, initial-scale=1"
+    },
+    {
+      "name": "description",
+      "content": "A qualified account of ArtiSense optical feasibility and design work, with the gaps to physical and clinical validation."
+    },
+    {
+      "name": "robots",
+      "content": "noindex,nofollow"
+    },
+    {
+      "name": "theme-color",
+      "content": "#662483"
+    },
+    {
+      "rel": "canonical",
+      "href": "http://127.0.0.1:4511/en/projects/artisense/research-validation/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "en",
+      "href": "http://127.0.0.1:4511/en/projects/artisense/research-validation/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "pl",
+      "href": "http://127.0.0.1:4511/pl/projekty/artisense/badania-walidacja/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "x-default",
+      "href": "http://127.0.0.1:4511/en/projects/artisense/research-validation/"
+    },
+    {
+      "property": "og:type",
+      "content": "website"
+    },
+    {
+      "property": "og:site_name",
+      "content": "Artifactory"
+    },
+    {
+      "property": "og:title",
+      "content": "ArtiSense: Research & validation | Artifactory"
+    },
+    {
+      "property": "og:description",
+      "content": "A qualified account of ArtiSense optical feasibility and design work, with the gaps to physical and clinical validation."
+    },
+    {
+      "property": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "property": "og:locale:alternate",
+      "content": "pl_PL"
+    },
+    {
+      "property": "og:url",
+      "content": "http://127.0.0.1:4511/en/projects/artisense/research-validation/"
+    },
+    {
+      "property": "og:image",
+      "content": "http://127.0.0.1:4511/assets/share-en.svg"
+    },
+    {
+      "name": "twitter:card",
+      "content": "summary_large_image"
+    }
+  ],
+  "forms": [],
+  "images": [],
+  "viewport": {
+    "width": 390,
+    "height": 844,
+    "scrollWidth": 390
+  },
+  "overflowing": [
+    {
+      "tag": "TABLE",
+      "class": "",
+      "text": "Work described\tWhat it supports\tWhat it does not establish\nOptical feasibility\tInvestigation of a ca"
+    },
+    {
+      "tag": "THEAD",
+      "class": "",
+      "text": "Work described\tWhat it supports\tWhat it does not establish\n"
+    },
+    {
+      "tag": "TR",
+      "class": "",
+      "text": "Work described\tWhat it supports\tWhat it does not establish"
+    },
+    {
+      "tag": "TH",
+      "class": "",
+      "text": "What it does not establish"
+    },
+    {
+      "tag": "TBODY",
+      "class": "",
+      "text": "Optical feasibility\tInvestigation of a candidate sensing approach\tValidated chemical measurement\nPho"
+    },
+    {
+      "tag": "TR",
+      "class": "",
+      "text": "Optical feasibility\tInvestigation of a candidate sensing approach\tValidated chemical measurement"
+    },
+    {
+      "tag": "TD",
+      "class": "",
+      "text": "Validated chemical measurement"
+    },
+    {
+      "tag": "TR",
+      "class": "",
+      "text": "Photonic chip design\tAn engineering design and simulation example\tA fabricated and tested sensor"
+    },
+    {
+      "tag": "TD",
+      "class": "",
+      "text": "A fabricated and tested sensor"
+    },
+    {
+      "tag": "TR",
+      "class": "",
+      "text": "Intended wearable use\tA direction for future integration\tA finished or clinically validated product"
+    },
+    {
+      "tag": "TD",
+      "class": "",
+      "text": "A finished or clinically validated product"
+    }
+  ],
+  "axe": {
+    "violations": [
+      {
+        "id": "region",
+        "impact": "moderate",
+        "tags": [
+          "cat.keyboard",
+          "best-practice",
+          "RGAAv4",
+          "RGAA-9.2.1"
+        ],
+        "description": "Ensure all page content is contained by landmarks",
+        "help": "All page content should be contained by landmarks",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/region?application=playwright",
+        "nodes": [
+          {
+            "any": [
+              {
+                "id": "region",
+                "data": {
+                  "isIframe": false
+                },
+                "relatedNodes": [],
+                "impact": "moderate",
+                "message": "Some page content is not contained by landmarks"
+              }
+            ],
+            "all": [],
+            "none": [],
+            "impact": "moderate",
+            "html": "<div class=\"preview-strip\"><div class=\"container\"><span><i aria-hidden=\"true\"></i>Local preview</span><span>Draft content · 9 October 2026</span></div></div>",
+            "target": [
+              ".preview-strip"
+            ],
+            "failureSummary": "Fix any of the following:\n  Some page content is not contained by landmarks"
+          }
+        ]
+      }
+    ],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "impact": "serious",
+        "nodeCount": 11
+      }
+    ],
+    "passes": 46
+  }
+}

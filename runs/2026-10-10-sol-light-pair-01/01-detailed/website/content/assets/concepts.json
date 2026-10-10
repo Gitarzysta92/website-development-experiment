@@ -1,0 +1,7 @@
+{
+  "assets": [
+    {"id":"favicon-v1","source":"Original local code","file":"public/favicon.svg","placement":"site icon","conceptStatus":"brand draft","caption":{"en":"Artifactory mark","pl":"Znak Artifactory"},"alt":{"en":"Artifactory","pl":"Artifactory"},"publicationStatus":"draft"},
+    {"id":"share-v1","source":"Original local code","file":"public/share-v1.svg","placement":"social fallback","conceptStatus":"illustrative, not evidence","caption":{"en":"Light to insight concept","pl":"Koncepcja: od światła do informacji"},"alt":{"en":"Artifactory concept showing a light signal and concentric rings","pl":"Koncepcja Artifactory z sygnałem świetlnym i koncentrycznymi pierścieniami"},"publicationStatus":"draft"},
+    {"id":"process-diagrams","source":"Original local HTML and CSS","file":"src/pages/[...path].astro","placement":"technical page heroes","conceptStatus":"illustrative process, not measured data","caption":{"en":"Concept process diagrams","pl":"Koncepcyjne schematy procesu"},"alt":{"en":"Stepwise process explained in each diagram label","pl":"Etapy procesu opisane w etykiecie każdego diagramu"},"publicationStatus":"draft"}
+  ]
+}

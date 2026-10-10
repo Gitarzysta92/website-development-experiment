@@ -1,0 +1,39 @@
+{
+  "name": "artifactory-detailed",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": "24.21.0",
+    "npm": "11.19.0"
+  },
+  "scripts": {
+    "dev": "node scripts/runtime/launch.mjs dev",
+    "start": "node scripts/runtime/launch.mjs start",
+    "build": "node scripts/runtime/build.mjs",
+    "build:published": "SITE_PROFILE=published node scripts/runtime/build.mjs",
+    "check": "astro check && node scripts/check-content.mjs && node scripts/check-boundaries.mjs",
+    "test": "vitest run",
+    "test:e2e": "node scripts/browser-check.mjs",
+    "test:a11y": "node scripts/browser-check.mjs --grep accessibility",
+    "check:links": "node scripts/check-links.mjs",
+    "check:boundaries": "node scripts/check-boundaries.mjs",
+    "test:performance": "node scripts/performance.mjs"
+  },
+  "dependencies": {
+    "astro": "7.3.8",
+    "@astrojs/node": "11.1.7",
+    "zod": "4.6.5",
+    "@astrojs/markdown-remark": "7.3.2"
+  },
+  "devDependencies": {
+    "@astrojs/check": "0.9.10",
+    "vitest": "5.0.3",
+    "@playwright/test": "1.64.0",
+    "@axe-core/playwright": "4.13.0",
+    "lighthouse": "13.5.0",
+    "typescript": "6.0.3",
+    "vite": "8.3.4",
+    "@types/node": "24.19.2"
+  }
+}

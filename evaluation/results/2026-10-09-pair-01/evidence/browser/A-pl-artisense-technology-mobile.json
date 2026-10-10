@@ -1,0 +1,415 @@
+{
+  "id": "A-pl-artisense-technology-mobile",
+  "label": "A",
+  "locale": "pl",
+  "pageId": "artisense-technology",
+  "view": "mobile",
+  "url": "http://127.0.0.1:4501/pl/projekty/artisense/technologia/",
+  "status": 200,
+  "errors": [],
+  "title": "Od odpowiedzi optycznej do użytecznej informacji. | Artifactory",
+  "language": "pl",
+  "h1": [
+    "Od odpowiedzi optycznej do użytecznej informacji."
+  ],
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Od odpowiedzi optycznej do użytecznej informacji."
+    },
+    {
+      "level": "H2",
+      "text": "Punktem wyjścia jest oddziaływanie."
+    },
+    {
+      "level": "H2",
+      "text": "Detekcja to tylko część interpretacji."
+    },
+    {
+      "level": "H2",
+      "text": "Odniesienie musi pozostać wiarygodne."
+    },
+    {
+      "level": "H2",
+      "text": "Narzędzia projektowe pomagają określić eksperyment."
+    },
+    {
+      "level": "H2",
+      "text": "Przyjrzyjmy się temu razem."
+    },
+    {
+      "level": "H2",
+      "text": "Firma"
+    },
+    {
+      "level": "H2",
+      "text": "Projekty"
+    },
+    {
+      "level": "H2",
+      "text": "Porozmawiajmy"
+    }
+  ],
+  "text": "Przejdź do treści\nWersja lokalna · Badania w toku\na·\nartifactory\nMenu\n☰\nStrona główna\nProjekty\nArtiSense\nTechnologia\n\nARTISENSE / TECHNOLOGIA\n\nOd odpowiedzi optycznej do użytecznej informacji.\n\nProponowany tor sygnałowy łączy oddziaływanie optyczne z interpretacją. Każde połączenie wnosi założenia, które wymagają sprawdzenia.\n\nProponowana architektura · elementy wymagają walidacji\nArtiSense — na tej stronie\n⌄\n\nCzęść projektu ArtiSense firmy Artifactory.\n\n01\nOświetlenie\n\nŚwiatło widzialne lub podczerwone; warunki do określenia.\n\n↓\n02\nPróbka i odpowiedź\n\nOddziaływanie optyczne oraz porównanie z odniesieniem.\n\n↓\n03\nDetekcja\n\nZamiana odpowiedzi na sygnał wymagający charakteryzacji.\n\n↓\n04\nInterpretacja\n\nProponowane przetwarzanie analogowe i wsparcie programowe.\n\nProponowany łańcuch funkcjonalny. Schemat nie potwierdza wykonania ani walidacji bloków.\nPunktem wyjścia jest oddziaływanie.\n\nŚwiatło widzialne lub podczerwone jest kierowane na próbkę. Oddziaływanie może zmieniać odpowiedź docierającą do detektora. Założeniem architektury jest analiza tej odpowiedzi względem odniesienia i wykorzystanie informacji widmowej do badania właściwości chemicznej.\n\nZmiana odpowiedzi optycznej nie jest automatycznie pomiarem jednej substancji. Trzeba łącznie uwzględnić oświetlenie, warunki próbki, tor optyczny i odpowiedź detektora. Dostarczone podsumowanie nie określa zwalidowanego zakresu pracy ani ostatecznego doboru elementów.\n\nDetekcja to tylko część interpretacji.\n\nProponowany tor elektroniczny odbiera wykryty sygnał i przygotowuje go do interpretacji. Architektura opisuje przeprogramowywalny analogowy procesor neuromorficzny: zamierzony sposób przetwarzania sygnału, a nie dowód działania zintegrowanego chipu.\n\nOpisano też wsparcie programowe i łączność. Miałyby one służyć konfiguracji i przekazywaniu informacji z systemu pomiarowego. Nie dostarczono potwierdzonego standardu interfejsu, pełnej realizacji sprzętowej ani zwalidowanych parametrów całego systemu.\n\nTa propozycja interpretacji analogowej nie jest neuronowym modelem pola AIFIELD. Tamte badania dotyczą przewidywania pól optycznych w analizie inżynierskiej; nie potwierdzają dokładności pomiaru czujnika.\n\nOdniesienie musi pozostać wiarygodne.\n\nKalibracja musiałaby powiązać odpowiedź optyczną ze znanym porównaniem w określonych warunkach. Użyteczne badanie powinno kontrolować zmiany między odniesieniem a próbą i oddzielać poszukiwany efekt od źródeł zmienności.\n\nKolejne decyzje architektoniczne zależą więc od planu pomiarowego. Powtarzalność, wrażliwość na zmienne warunki i przejście od modelu do fizycznego urządzenia pozostają otwartymi pytaniami walidacyjnymi.\n\nObszar\tZakres i ograniczenia\nOświetlenie i tor optyczny\tPrzed interpretacją określić źródło, odniesienie i warunki oddziaływania.\nDetektor i elektronika\tScharakteryzować jakość sygnału oraz ograniczenia detekcji i przetwarzania.\nInterpretacja\tSprawdzić, czy wyznaczana wielkość pozostaje poprawna poza przykładami kalibracyjnymi.\nIntegracja\tOcenić cały system; opisy elementów nie dowodzą działania od początku do końca.\nNarzędzia projektowe pomagają określić eksperyment.\n\nPrzykład fotonicznego projektu chipu związanego z glukozą pozwala omówić geometrię i symulację w AIFIELD. Jest podstawą rozmowy inżynierskiej o modelach i proponowanych strukturach.\n\nPytanie pomiarowe pozostaje odrębne: jaki sygnał wytworzyłaby wykonana struktura i jak wypadałby on względem wiarygodnego odniesienia? To wymaga fizycznej walidacji.\n\nProjektowanie i symulacja\n↗\nBadania i walidacja\n↗\nZastosowania\n↗\n\nZACZNIJMY OD PYTANIA\n\nPrzyjrzyjmy się temu razem.\nPorozmawiajmy o inwestycji\n↗\nMożliwości współpracy ↗\nartifactory·\n\nTechnologie pomiarowe i narzędzia do projektowania systemów fotonicznych.\n\ninfo@artifactory.tech\n↗\nFirma\nStrona główna\nProjekty\nDla inwestorów\nJak pracujemy\nO nas\nProjekty\nArtiSense\nAIFIELD\nPorozmawiajmy\nWspółpraca\nKontakt\nPolityka prywatności\nArtifactory\nŚwiatło otwiera nowe możliwości.",
+  "links": [
+    {
+      "text": "Przejdź do treści",
+      "href": "#main",
+      "lang": ""
+    },
+    {
+      "text": "a·\nartifactory",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "Wszystkie projekty↗",
+      "href": "/pl/projekty/",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSense↗",
+      "href": "/pl/projekty/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELD↗",
+      "href": "/pl/projekty/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Dla inwestorów",
+      "href": "/pl/inwestorzy/",
+      "lang": ""
+    },
+    {
+      "text": "Jak pracujemy",
+      "href": "/pl/jak-pracujemy/",
+      "lang": ""
+    },
+    {
+      "text": "O nas",
+      "href": "/pl/o-nas/",
+      "lang": ""
+    },
+    {
+      "text": "Współpraca",
+      "href": "/pl/wspolpraca/",
+      "lang": ""
+    },
+    {
+      "text": "Kontakt",
+      "href": "/pl/kontakt/",
+      "lang": ""
+    },
+    {
+      "text": "EN ↔",
+      "href": "http://127.0.0.1:4501/en/projects/artisense/technology/",
+      "lang": "en"
+    },
+    {
+      "text": "Porozmawiajmy↗",
+      "href": "/pl/kontakt/?intent=investment",
+      "lang": ""
+    },
+    {
+      "text": "Strona główna",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "Projekty",
+      "href": "/pl/projekty/",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSense",
+      "href": "/pl/projekty/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "Przegląd",
+      "href": "/pl/projekty/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "Technologia",
+      "href": "/pl/projekty/artisense/technologia/",
+      "lang": ""
+    },
+    {
+      "text": "Zastosowania",
+      "href": "/pl/projekty/artisense/zastosowania/",
+      "lang": ""
+    },
+    {
+      "text": "Badania i walidacja",
+      "href": "/pl/projekty/artisense/badania-walidacja/",
+      "lang": ""
+    },
+    {
+      "text": "Punktem wyjścia jest oddziaływanie.",
+      "href": "#photonics",
+      "lang": ""
+    },
+    {
+      "text": "Detekcja to tylko część interpretacji.",
+      "href": "#electronics",
+      "lang": ""
+    },
+    {
+      "text": "Odniesienie musi pozostać wiarygodne.",
+      "href": "#calibration",
+      "lang": ""
+    },
+    {
+      "text": "Narzędzia projektowe pomagają określić eksperyment.",
+      "href": "#design",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSense",
+      "href": "/pl/projekty/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "Projektowanie i symulacja\n↗",
+      "href": "/pl/projekty/aifield/projektowanie-symulacja/",
+      "lang": ""
+    },
+    {
+      "text": "Badania i walidacja\n↗",
+      "href": "/pl/projekty/artisense/badania-walidacja/",
+      "lang": ""
+    },
+    {
+      "text": "Zastosowania\n↗",
+      "href": "/pl/projekty/artisense/zastosowania/",
+      "lang": ""
+    },
+    {
+      "text": "Porozmawiajmy o inwestycji\n↗",
+      "href": "/pl/kontakt/?intent=investment&project=artisense",
+      "lang": ""
+    },
+    {
+      "text": "Możliwości współpracy ↗",
+      "href": "/pl/wspolpraca/",
+      "lang": ""
+    },
+    {
+      "text": "artifactory·",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "info@artifactory.tech\n↗",
+      "href": "mailto:info@artifactory.tech",
+      "lang": ""
+    },
+    {
+      "text": "Strona główna",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "Projekty",
+      "href": "/pl/projekty/",
+      "lang": ""
+    },
+    {
+      "text": "Dla inwestorów",
+      "href": "/pl/inwestorzy/",
+      "lang": ""
+    },
+    {
+      "text": "Jak pracujemy",
+      "href": "/pl/jak-pracujemy/",
+      "lang": ""
+    },
+    {
+      "text": "O nas",
+      "href": "/pl/o-nas/",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSense",
+      "href": "/pl/projekty/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELD",
+      "href": "/pl/projekty/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Współpraca",
+      "href": "/pl/wspolpraca/",
+      "lang": ""
+    },
+    {
+      "text": "Kontakt",
+      "href": "/pl/kontakt/",
+      "lang": ""
+    },
+    {
+      "text": "Polityka prywatności",
+      "href": "/pl/prywatnosc/",
+      "lang": ""
+    }
+  ],
+  "metadata": [
+    {
+      "name": "viewport",
+      "content": "width=device-width, initial-scale=1"
+    },
+    {
+      "name": "description",
+      "content": "Jak proponowana architektura ArtiSense łączy oświetlenie, odpowiedź próbki, detekcję i interpretację analogową, z ograniczeniami kalibracji i integracji."
+    },
+    {
+      "name": "robots",
+      "content": "noindex, nofollow"
+    },
+    {
+      "rel": "canonical",
+      "href": "http://127.0.0.1:4501/pl/projekty/artisense/technologia/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "en",
+      "href": "http://127.0.0.1:4501/en/projects/artisense/technology/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "pl",
+      "href": "http://127.0.0.1:4501/pl/projekty/artisense/technologia/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "x-default",
+      "href": "http://127.0.0.1:4501/en/projects/artisense/technology/"
+    },
+    {
+      "property": "og:type",
+      "content": "website"
+    },
+    {
+      "property": "og:site_name",
+      "content": "Artifactory"
+    },
+    {
+      "property": "og:title",
+      "content": "Od odpowiedzi optycznej do użytecznej informacji. | Artifactory"
+    },
+    {
+      "property": "og:description",
+      "content": "Jak proponowana architektura ArtiSense łączy oświetlenie, odpowiedź próbki, detekcję i interpretację analogową, z ograniczeniami kalibracji i integracji."
+    },
+    {
+      "property": "og:url",
+      "content": "http://127.0.0.1:4501/pl/projekty/artisense/technologia/"
+    },
+    {
+      "property": "og:locale",
+      "content": "pl_PL"
+    },
+    {
+      "property": "og:image",
+      "content": "http://127.0.0.1:4501/brand/share-v1.svg"
+    },
+    {
+      "property": "og:image:width",
+      "content": "1200"
+    },
+    {
+      "property": "og:image:height",
+      "content": "630"
+    }
+  ],
+  "forms": [],
+  "images": [],
+  "viewport": {
+    "width": 390,
+    "height": 844,
+    "scrollWidth": 375
+  },
+  "overflowing": [
+    {
+      "tag": "TABLE",
+      "class": "",
+      "text": "Obszar\tZakres i ograniczenia\nOświetlenie i tor optyczny\tPrzed interpretacją określić źródło, odniesi"
+    },
+    {
+      "tag": "THEAD",
+      "class": "",
+      "text": "Obszar\tZakres i ograniczenia\n"
+    },
+    {
+      "tag": "TR",
+      "class": "",
+      "text": "Obszar\tZakres i ograniczenia"
+    },
+    {
+      "tag": "TH",
+      "class": "",
+      "text": "Zakres i ograniczenia"
+    },
+    {
+      "tag": "TBODY",
+      "class": "",
+      "text": "Oświetlenie i tor optyczny\tPrzed interpretacją określić źródło, odniesienie i warunki oddziaływania."
+    },
+    {
+      "tag": "TR",
+      "class": "",
+      "text": "Oświetlenie i tor optyczny\tPrzed interpretacją określić źródło, odniesienie i warunki oddziaływania."
+    },
+    {
+      "tag": "TD",
+      "class": "",
+      "text": "Przed interpretacją określić źródło, odniesienie i warunki oddziaływania."
+    },
+    {
+      "tag": "TR",
+      "class": "",
+      "text": "Detektor i elektronika\tScharakteryzować jakość sygnału oraz ograniczenia detekcji i przetwarzania."
+    },
+    {
+      "tag": "TD",
+      "class": "",
+      "text": "Scharakteryzować jakość sygnału oraz ograniczenia detekcji i przetwarzania."
+    },
+    {
+      "tag": "TR",
+      "class": "",
+      "text": "Interpretacja\tSprawdzić, czy wyznaczana wielkość pozostaje poprawna poza przykładami kalibracyjnymi."
+    },
+    {
+      "tag": "TD",
+      "class": "",
+      "text": "Sprawdzić, czy wyznaczana wielkość pozostaje poprawna poza przykładami kalibracyjnymi."
+    },
+    {
+      "tag": "TR",
+      "class": "",
+      "text": "Integracja\tOcenić cały system; opisy elementów nie dowodzą działania od początku do końca."
+    },
+    {
+      "tag": "TD",
+      "class": "",
+      "text": "Ocenić cały system; opisy elementów nie dowodzą działania od początku do końca."
+    }
+  ],
+  "axe": {
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "impact": "serious",
+        "nodeCount": 9
+      }
+    ],
+    "passes": 45
+  }
+}

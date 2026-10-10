@@ -1,0 +1,25 @@
+---
+import {publicAsset} from '../../content/asset';
+const {project,locale,id}=Astro.props;
+const asset=publicAsset(project==='artisense'?'sensing-diagram':'design-diagram',locale);
+const sensing=project==='artisense';
+const variants={
+ artisense:{en:['LIGHT','SAMPLE','RESPONSE','INTERPRET'],pl:['ŚWIATŁO','PRÓBKA','ODPOWIEDŹ','ODCZYT'],glyph:'◌',enLine:'Optical response → signal',plLine:'Odpowiedź optyczna → sygnał'},
+ 'artisense-technology':{en:['SOURCE','OPTICS','DETECT','CALIBRATE'],pl:['ŹRÓDŁO','OPTYKA','DETEKCJA','KALIBRACJA'],glyph:'◎',enLine:'A proposed sensing chain',plLine:'Proponowany tor pomiarowy'},
+ 'artisense-applications':{en:['CONTEXT','SIGNAL','FORM','TEST'],pl:['KONTEKST','SYGNAŁ','FORMA','TEST'],glyph:'◇',enLine:'Requirements before uses',plLine:'Wymagania przed zastosowaniem'},
+ 'artisense-validation':{en:['QUESTION','REFERENCE','REPEATS','LIMITS'],pl:['PYTANIE','ODNIESIENIE','POWTÓRKI','GRANICE'],glyph:'◉',enLine:'Evidence needs conditions',plLine:'Dowód wymaga warunków'},
+ aifield:{en:['DESIGN','MODEL','SIMULATE','REVIEW'],pl:['PROJEKT','MODEL','SYMULACJA','OCENA'],glyph:'⌁',enLine:'Geometry → field behavior',plLine:'Geometria → zachowanie pola'},
+ 'aifield-design':{en:['LAYERS','MODES','FIELDS','THERMAL'],pl:['WARSTWY','MODY','POLA','CIEPŁO'],glyph:'▥',enLine:'One design, several views',plLine:'Jeden projekt, wiele analiz'},
+ 'aifield-ai':{en:['ASK','PROPOSE','REVIEW','APPLY'],pl:['PYTANIE','PROPOZYCJA','OCENA','ZMIANA'],glyph:'↗',enLine:'Human judgment in the loop',plLine:'Decyzja pozostaje u człowieka'},
+ 'aifield-neural':{en:['BOUNDARY','MODEL','PREDICT','COMPARE'],pl:['BRZEG','MODEL','PREDYKCJA','PORÓWNAJ'],glyph:'∿',enLine:'A research estimate of field',plLine:'Badawcze oszacowanie pola'},
+ 'aifield-validation':{en:['EXAMPLE','METHOD','COMPARE','GAPS'],pl:['PRZYKŁAD','METODA','PORÓWNAJ','LUKI'],glyph:'⊕',enLine:'Design example ≠ measurement',plLine:'Projekt to nie pomiar'}
+};
+const variant=variants[id as keyof typeof variants]||variants[project as keyof typeof variants];
+const labels=variant[locale as 'en'|'pl'];const line=locale==='pl'?variant.plLine:variant.enLine;
+---
+<figure class:list={['concept',sensing?'concept-sense':'concept-field',`concept-${id}`]} role="img" aria-label={`${asset.alt}: ${labels.join(', ')}`}>
+<div class="concept-grid" aria-hidden="true"><div class="orb orb-one"></div><div class="orb orb-two"></div><div class="wave wave-one"></div><div class="wave wave-two"></div><div class="wave wave-three"></div></div>
+<div class="concept-top"><span>AF / {sensing?'SENSING':'DESIGN'}</span><span>FIG. 01 — {locale==='pl'?'KONCEPCJA':'CONCEPT'}</span></div>
+<div class="concept-center"><span class="concept-glyph">{variant.glyph}</span><strong>{sensing?'ArtiSense':'AIFIELD'}</strong><span>{line}</span></div>
+<div class="concept-steps" aria-hidden="true">{labels.map((x,i)=><div><span>0{i+1}</span><strong>{x}</strong></div>)}</div>
+<figcaption>{asset.caption}</figcaption></figure>

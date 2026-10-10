@@ -1,0 +1,12 @@
+{
+  "variant": "02-inputs-only",
+  "origin": "https://artifactory-inputs-only-astra-xhigh.coolify.threesixty.dev",
+  "verified_at": "2026-10-09T22:56:16.128906+00:00",
+  "cloudflare_access_protected": true,
+  "pages_ok": 34,
+  "assets_ok": 5,
+  "redirects_and_404s_ok": true,
+  "source_paths_private": true,
+  "noindex": true,
+  "enquiry": "Write requests rejected, email drafting remains browser-only"
+}

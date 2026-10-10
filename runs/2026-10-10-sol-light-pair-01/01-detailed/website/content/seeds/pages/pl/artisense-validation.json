@@ -1,0 +1,46 @@
+{
+  "id": "artisense-validation",
+  "locale": "pl",
+  "title": "Co wiemy, a co trzeba zbadać",
+  "lead": "Oddzielamy możliwość pomiaru optycznego i projekt układu od dowodu działania czujnika.",
+  "description": "Dostępne podsumowanie opisuje kierunki badań, lecz nie zawiera zatwierdzonych publicznych wyników wydajności.",
+  "eyebrow": "ArtiSense",
+  "sections": [
+    {
+      "id": "focus",
+      "title": "Co wspierają materiały",
+      "paragraphs": [
+        "Badania omawiają detekcję optyczną, interpretację widma i projekt układu fotonicznego. Są podstawą dalszych eksperymentów, a nie liczbowym dowodem dokładności."
+      ]
+    },
+    {
+      "id": "evidence",
+      "title": "Otwarte pytania",
+      "paragraphs": [
+        "Do sprawdzenia pozostają swoistość sygnału, stabilność wzorca, powtarzalność, integracja i przydatność do pomiarów u ludzi."
+      ]
+    },
+    {
+      "id": "next",
+      "title": "Możliwa ścieżka",
+      "paragraphs": [
+        "Kontrolowane pomiary komponentów mogłyby poprzedzać prototypy kalibrowane oraz niezależnie ocenione badania."
+      ]
+    }
+  ],
+  "related": [
+    "artisense",
+    "artisense-technology",
+    "artisense-applications",
+    "artisense-validation",
+    "partnerships"
+  ],
+  "stage": "Local draft · source context October 2026",
+  "pageType": "project",
+  "sourceReferences": [
+    "HP-1.1 project-context 2026-10-09"
+  ],
+  "sourceRevision": "2026-10-09",
+  "editorialState": "draft",
+  "modifiedAt": "2026-10-10"
+}

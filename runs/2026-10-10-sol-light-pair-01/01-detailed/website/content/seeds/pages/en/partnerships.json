@@ -1,0 +1,43 @@
+{
+  "id": "partnerships",
+  "locale": "en",
+  "title": "Explore a technical collaboration",
+  "lead": "Partnership discussions can begin with a specific question and the evidence needed to answer it.",
+  "description": "The areas below are possible topics, not statements of active partnerships or commitments.",
+  "eyebrow": "Artifactory",
+  "sections": [
+    {
+      "id": "focus",
+      "title": "Sensing experiments",
+      "paragraphs": [
+        "A discussion might concern optical test design, calibration, packaging or requirements for a future intended use. Any study scope would need separate agreement."
+      ]
+    },
+    {
+      "id": "evidence",
+      "title": "Design workflows",
+      "paragraphs": [
+        "For AIFIELD, a useful conversation could compare a defined photonic design task with existing tools under documented conditions."
+      ]
+    },
+    {
+      "id": "next",
+      "title": "Bring a question",
+      "paragraphs": [
+        "Tell us the project and the technical problem. We can discuss whether the available work and next experiments fit a collaboration."
+      ]
+    }
+  ],
+  "related": [
+    "projects",
+    "contact"
+  ],
+  "stage": "Local draft · source context October 2026",
+  "pageType": "company",
+  "sourceReferences": [
+    "HP-1.1 project-context 2026-10-09"
+  ],
+  "sourceRevision": "2026-10-09",
+  "editorialState": "draft",
+  "modifiedAt": "2026-10-10"
+}

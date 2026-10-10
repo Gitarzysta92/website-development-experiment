@@ -1,0 +1,420 @@
+{
+  "id": "A-pl-aifield-design-mobile",
+  "label": "A",
+  "locale": "pl",
+  "pageId": "aifield-design",
+  "view": "mobile",
+  "url": "http://127.0.0.1:4501/pl/projekty/aifield/projektowanie-symulacja/",
+  "status": 200,
+  "errors": [],
+  "title": "Połącz strukturę z symulacją. | Artifactory",
+  "language": "pl",
+  "h1": [
+    "Połącz strukturę z symulacją."
+  ],
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Połącz strukturę z symulacją."
+    },
+    {
+      "level": "H2",
+      "text": "Określ obiekt przed uruchomieniem obliczeń."
+    },
+    {
+      "level": "H2",
+      "text": "Dobierz model do pytania."
+    },
+    {
+      "level": "H2",
+      "text": "Zachowaj związek danych z wynikiem."
+    },
+    {
+      "level": "H2",
+      "text": "Model daje odpowiedź warunkową."
+    },
+    {
+      "level": "H2",
+      "text": "Przyjrzyjmy się temu razem."
+    },
+    {
+      "level": "H2",
+      "text": "Firma"
+    },
+    {
+      "level": "H2",
+      "text": "Projekty"
+    },
+    {
+      "level": "H2",
+      "text": "Porozmawiajmy"
+    }
+  ],
+  "text": "Przejdź do treści\nWersja lokalna · Badania w toku\na·\nartifactory\nMenu\n☰\nStrona główna\nProjekty\nAIFIELD\nProjektowanie i symulacja\n\nAIFIELD / INŻYNIERIA FOTONICZNA\n\nPołącz strukturę z symulacją.\n\nWynik inżynierski jest użyteczny, gdy można powiązać go z decyzjami projektowymi i warunkami, w których powstał.\n\nStan opisany we wrześniu 2026 · aktualny dostęp do uzgodnienia\nAIFIELD — na tej stronie\n⌄\n\nCzęść projektu AIFIELD firmy Artifactory.\n\n01\nPrzygotuj projekt\n\nOkreśl geometrię, materiały i założenia procesu.\n\n↓\n02\nWybierz model\n\nDobierz symulację modów, obwodu, pola lub zjawisk cieplnych.\n\n↓\n03\nOblicz i zachowaj kontekst\n\nPowiąż parametry z uzyskanym wynikiem.\n\n↓\n04\nPorównaj i popraw\n\nOceń zachowanie przed przyjęciem zmiany projektu.\n\nDiagram objaśniający koncepcję, nie interfejs programu ani wynik eksperymentu.\nOkreśl obiekt przed uruchomieniem obliczeń.\n\nPodsumowanie z września 2026 opisuje obsługę geometrii oraz warstw i procesów. Określają one kontekst struktury fotonicznej: narysowany kształt, reprezentowane materiały i warstwy oraz przyjęte założenia technologiczne.\n\nPrzygotowanie obejmuje także pytanie: własność modu, odpowiedź obwodu, rozkład pola czy efekt cieplny. Dostarczony materiał nie ustala pełnej listy formatów, biblioteki procesów ani gwarancji eksportu gotowego do wytworzenia.\n\nDobierz model do pytania.\n\nŹródło opisuje prace w czterech obszarach klasycznej symulacji. Ich wyniki odpowiadają na różne pytania inżynierskie i należy je interpretować w granicach odpowiednich danych wejściowych i założeń.\n\nObszar\tZakres i ograniczenia\nMody\tBadanie zachowania optycznego w określonej strukturze. Geometria, materiały i warunki brzegowe pozostają częścią wyniku.\nObwody\tBadanie odpowiedzi na poziomie połączonych elementów. Ważne są modele elementów i zakres ich stosowalności.\nPole\tAnaliza przestrzennego zachowania optycznego w modelowanym obszarze. Źródła, brzegi i dyskretyzacja wpływają na interpretację.\nZjawiska cieplne\tBadanie modelowanego rozkładu temperatury i jego znaczenia inżynierskiego. Dane cieplne i założenia sprzężeń wymagają oceny.\nZachowaj związek danych z wynikiem.\n\nZacznij od geometrii i definicji modelu. Oceń ustawienia przed wykonaniem wybranego obliczenia. Sprawdź wynik wraz z parametrami, następnie zmień uzasadniony element projektu i ponownie porównaj.\n\nTa objaśniająca sekwencja pokazuje odpowiedzialności; nie oznacza automatyzacji każdego kroku ani niezależnej walidacji wszystkich narzędzi. Inżynier ocenia, czy model odpowiada zamierzonemu pytaniu fizycznemu.\n\nPraca z AI\n↗\nModel daje odpowiedź warunkową.\n\nDostarczone podsumowanie nie zawiera ustawień solverów, zapisów zbieżności ani tabel wyników wystarczających do odtworzenia obliczeń na tej stronie. Nie deklarujemy uniwersalnej dokładności, czasu działania ani zgodności produkcyjnej.\n\nW rozmowie technicznej określ potrzebne dane, oczekiwany wynik i porównanie odniesienia. Bieżąca obsługa formatów, dostęp i praktyczne ograniczenia wymagają potwierdzenia dla danego zadania.\n\nPrzykłady i walidacja\n↗\nKontakt\n↗\n\nZACZNIJMY OD PYTANIA\n\nPrzyjrzyjmy się temu razem.\nPoproś o demo\n↗\nMożliwości współpracy ↗\nartifactory·\n\nTechnologie pomiarowe i narzędzia do projektowania systemów fotonicznych.\n\ninfo@artifactory.tech\n↗\nFirma\nStrona główna\nProjekty\nDla inwestorów\nJak pracujemy\nO nas\nProjekty\nArtiSense\nAIFIELD\nPorozmawiajmy\nWspółpraca\nKontakt\nPolityka prywatności\nArtifactory\nŚwiatło otwiera nowe możliwości.",
+  "links": [
+    {
+      "text": "Przejdź do treści",
+      "href": "#main",
+      "lang": ""
+    },
+    {
+      "text": "a·\nartifactory",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "Wszystkie projekty↗",
+      "href": "/pl/projekty/",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSense↗",
+      "href": "/pl/projekty/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELD↗",
+      "href": "/pl/projekty/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Dla inwestorów",
+      "href": "/pl/inwestorzy/",
+      "lang": ""
+    },
+    {
+      "text": "Jak pracujemy",
+      "href": "/pl/jak-pracujemy/",
+      "lang": ""
+    },
+    {
+      "text": "O nas",
+      "href": "/pl/o-nas/",
+      "lang": ""
+    },
+    {
+      "text": "Współpraca",
+      "href": "/pl/wspolpraca/",
+      "lang": ""
+    },
+    {
+      "text": "Kontakt",
+      "href": "/pl/kontakt/",
+      "lang": ""
+    },
+    {
+      "text": "EN ↔",
+      "href": "http://127.0.0.1:4501/en/projects/aifield/design-simulation/",
+      "lang": "en"
+    },
+    {
+      "text": "Porozmawiajmy↗",
+      "href": "/pl/kontakt/?intent=investment",
+      "lang": ""
+    },
+    {
+      "text": "Strona główna",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "Projekty",
+      "href": "/pl/projekty/",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELD",
+      "href": "/pl/projekty/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Przegląd",
+      "href": "/pl/projekty/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Projektowanie i symulacja",
+      "href": "/pl/projekty/aifield/projektowanie-symulacja/",
+      "lang": ""
+    },
+    {
+      "text": "Praca z AI",
+      "href": "/pl/projekty/aifield/praca-z-ai/",
+      "lang": ""
+    },
+    {
+      "text": "Badania neuronowych modeli pola",
+      "href": "/pl/projekty/aifield/badania-modeli-pola/",
+      "lang": ""
+    },
+    {
+      "text": "Przykłady i walidacja",
+      "href": "/pl/projekty/aifield/przyklady-walidacja/",
+      "lang": ""
+    },
+    {
+      "text": "Określ obiekt przed uruchomieniem obliczeń.",
+      "href": "#setup",
+      "lang": ""
+    },
+    {
+      "text": "Dobierz model do pytania.",
+      "href": "#tasks",
+      "lang": ""
+    },
+    {
+      "text": "Zachowaj związek danych z wynikiem.",
+      "href": "#sequence",
+      "lang": ""
+    },
+    {
+      "text": "Model daje odpowiedź warunkową.",
+      "href": "#limits",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELD",
+      "href": "/pl/projekty/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Praca z AI\n↗",
+      "href": "/pl/projekty/aifield/praca-z-ai/",
+      "lang": ""
+    },
+    {
+      "text": "Przykłady i walidacja\n↗",
+      "href": "/pl/projekty/aifield/przyklady-walidacja/",
+      "lang": ""
+    },
+    {
+      "text": "Kontakt\n↗",
+      "href": "/pl/kontakt/",
+      "lang": ""
+    },
+    {
+      "text": "Poproś o demo\n↗",
+      "href": "/pl/kontakt/?intent=demo&project=aifield",
+      "lang": ""
+    },
+    {
+      "text": "Możliwości współpracy ↗",
+      "href": "/pl/wspolpraca/",
+      "lang": ""
+    },
+    {
+      "text": "artifactory·",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "info@artifactory.tech\n↗",
+      "href": "mailto:info@artifactory.tech",
+      "lang": ""
+    },
+    {
+      "text": "Strona główna",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "Projekty",
+      "href": "/pl/projekty/",
+      "lang": ""
+    },
+    {
+      "text": "Dla inwestorów",
+      "href": "/pl/inwestorzy/",
+      "lang": ""
+    },
+    {
+      "text": "Jak pracujemy",
+      "href": "/pl/jak-pracujemy/",
+      "lang": ""
+    },
+    {
+      "text": "O nas",
+      "href": "/pl/o-nas/",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSense",
+      "href": "/pl/projekty/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELD",
+      "href": "/pl/projekty/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Współpraca",
+      "href": "/pl/wspolpraca/",
+      "lang": ""
+    },
+    {
+      "text": "Kontakt",
+      "href": "/pl/kontakt/",
+      "lang": ""
+    },
+    {
+      "text": "Polityka prywatności",
+      "href": "/pl/prywatnosc/",
+      "lang": ""
+    }
+  ],
+  "metadata": [
+    {
+      "name": "viewport",
+      "content": "width=device-width, initial-scale=1"
+    },
+    {
+      "name": "description",
+      "content": "Geometria, warstwy, założenia procesu i klasyczne zadania symulacyjne w procesie projektowym AIFIELD opisanym we wrześniu 2026."
+    },
+    {
+      "name": "robots",
+      "content": "noindex, nofollow"
+    },
+    {
+      "rel": "canonical",
+      "href": "http://127.0.0.1:4501/pl/projekty/aifield/projektowanie-symulacja/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "en",
+      "href": "http://127.0.0.1:4501/en/projects/aifield/design-simulation/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "pl",
+      "href": "http://127.0.0.1:4501/pl/projekty/aifield/projektowanie-symulacja/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "x-default",
+      "href": "http://127.0.0.1:4501/en/projects/aifield/design-simulation/"
+    },
+    {
+      "property": "og:type",
+      "content": "website"
+    },
+    {
+      "property": "og:site_name",
+      "content": "Artifactory"
+    },
+    {
+      "property": "og:title",
+      "content": "Połącz strukturę z symulacją. | Artifactory"
+    },
+    {
+      "property": "og:description",
+      "content": "Geometria, warstwy, założenia procesu i klasyczne zadania symulacyjne w procesie projektowym AIFIELD opisanym we wrześniu 2026."
+    },
+    {
+      "property": "og:url",
+      "content": "http://127.0.0.1:4501/pl/projekty/aifield/projektowanie-symulacja/"
+    },
+    {
+      "property": "og:locale",
+      "content": "pl_PL"
+    },
+    {
+      "property": "og:image",
+      "content": "http://127.0.0.1:4501/brand/share-v1.svg"
+    },
+    {
+      "property": "og:image:width",
+      "content": "1200"
+    },
+    {
+      "property": "og:image:height",
+      "content": "630"
+    }
+  ],
+  "forms": [],
+  "images": [],
+  "viewport": {
+    "width": 390,
+    "height": 844,
+    "scrollWidth": 375
+  },
+  "overflowing": [
+    {
+      "tag": "TABLE",
+      "class": "",
+      "text": "Obszar\tZakres i ograniczenia\nMody\tBadanie zachowania optycznego w określonej strukturze. Geometria, "
+    },
+    {
+      "tag": "THEAD",
+      "class": "",
+      "text": "Obszar\tZakres i ograniczenia\n"
+    },
+    {
+      "tag": "TR",
+      "class": "",
+      "text": "Obszar\tZakres i ograniczenia"
+    },
+    {
+      "tag": "TH",
+      "class": "",
+      "text": "Zakres i ograniczenia"
+    },
+    {
+      "tag": "TBODY",
+      "class": "",
+      "text": "Mody\tBadanie zachowania optycznego w określonej strukturze. Geometria, materiały i warunki brzegowe "
+    },
+    {
+      "tag": "TR",
+      "class": "",
+      "text": "Mody\tBadanie zachowania optycznego w określonej strukturze. Geometria, materiały i warunki brzegowe "
+    },
+    {
+      "tag": "TD",
+      "class": "",
+      "text": "Badanie zachowania optycznego w określonej strukturze. Geometria, materiały i warunki brzegowe pozos"
+    },
+    {
+      "tag": "TR",
+      "class": "",
+      "text": "Obwody\tBadanie odpowiedzi na poziomie połączonych elementów. Ważne są modele elementów i zakres ich "
+    },
+    {
+      "tag": "TD",
+      "class": "",
+      "text": "Badanie odpowiedzi na poziomie połączonych elementów. Ważne są modele elementów i zakres ich stosowa"
+    },
+    {
+      "tag": "TR",
+      "class": "",
+      "text": "Pole\tAnaliza przestrzennego zachowania optycznego w modelowanym obszarze. Źródła, brzegi i dyskretyz"
+    },
+    {
+      "tag": "TD",
+      "class": "",
+      "text": "Analiza przestrzennego zachowania optycznego w modelowanym obszarze. Źródła, brzegi i dyskretyzacja "
+    },
+    {
+      "tag": "TR",
+      "class": "",
+      "text": "Zjawiska cieplne\tBadanie modelowanego rozkładu temperatury i jego znaczenia inżynierskiego. Dane cie"
+    },
+    {
+      "tag": "TD",
+      "class": "",
+      "text": "Badanie modelowanego rozkładu temperatury i jego znaczenia inżynierskiego. Dane cieplne i założenia "
+    }
+  ],
+  "axe": {
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "impact": "serious",
+        "nodeCount": 9
+      }
+    ],
+    "passes": 45
+  }
+}

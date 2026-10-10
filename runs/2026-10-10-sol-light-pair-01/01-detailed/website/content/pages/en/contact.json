@@ -1,0 +1,42 @@
+{
+  "id": "contact",
+  "locale": "en",
+  "title": "Start a conversation",
+  "lead": "Send an investment, partnership or demo enquiry in the local preview.",
+  "description": "This form creates a synthetic local test receipt only. No email is sent and no external delivery is implied.",
+  "eyebrow": "Artifactory",
+  "sections": [
+    {
+      "id": "focus",
+      "title": "Before you write",
+      "paragraphs": [
+        "Choose a topic and share a concise question. Do not enter personal health information or confidential material into this preview."
+      ]
+    },
+    {
+      "id": "evidence",
+      "title": "An email alternative",
+      "paragraphs": [
+        "You may use your own email client to write to info@artifactory.tech. The address is a supplied candidate and has not been verified by the operator."
+      ]
+    },
+    {
+      "id": "next",
+      "title": "What happens here",
+      "paragraphs": [
+        "The local test receiver holds synthetic submissions in memory for at most 24 hours and clears them on restart."
+      ]
+    }
+  ],
+  "related": [
+    "home"
+  ],
+  "stage": "Local draft · source context October 2026",
+  "pageType": "company",
+  "sourceReferences": [
+    "HP-1.1 project-context 2026-10-09"
+  ],
+  "sourceRevision": "2026-10-09",
+  "editorialState": "draft",
+  "modifiedAt": "2026-10-10"
+}

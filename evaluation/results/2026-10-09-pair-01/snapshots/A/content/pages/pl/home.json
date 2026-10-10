@@ -1,0 +1,114 @@
+{
+  "id": "home",
+  "locale": "pl",
+  "type": "home",
+  "title": "Czytelniejszy sygnał. Nowe możliwości.",
+  "description": "Artifactory łączy badania nad pomiarami z narzędziami projektowania fotoniki. Poznaj ArtiSense, AIFIELD i podstawy rozmowy o inwestycji w firmę.",
+  "eyebrow": "POMIARY × PROJEKTOWANIE FOTONIKI",
+  "lead": "Artifactory bada, co możemy zrozumieć dzięki światłu — i rozwija narzędzia do projektowania kolejnych rozwiązań. Dwa powiązane projekty. Rozmowa o jednej firmie.",
+  "sections": [
+    {
+      "id": "thesis",
+      "title": "Od pytania o zjawisko do rozwiązania inżynierskiego.",
+      "paragraphs": [
+        "Pomiary zaczynają się od trudnego pytania: jak przekształcić niewielką odpowiedź optyczną w użyteczną informację? Inżynieria fotoniczna stawia kolejne: jak zaprojektować i sprawdzić system, który tę odpowiedź wytwarza?",
+        "ArtiSense i AIFIELD podchodzą do tych pytań z różnych stron. Łączy je proces projektowy, który nie zastępuje walidacji eksperymentalnej."
+      ]
+    },
+    {
+      "id": "artisense",
+      "title": "ArtiSense",
+      "paragraphs": [
+        "Proponowany zminiaturyzowany system pomiaru składu chemicznego, łączący fotonikę z interpretacją sygnałów. Zamierzony kierunek obejmuje pomiary nieinwazyjne i formy ubieralne; pozostają one ambicjami badawczymi.",
+        "Opisany przykład dotyczący glukozy obejmuje wykonalność optyczną i projektowanie chipu. Nie potwierdza zmierzonej dokładności pomiaru glukozy ani gotowości klinicznej."
+      ],
+      "links": [
+        {
+          "id": "artisense"
+        },
+        {
+          "id": "artisense-validation"
+        }
+      ]
+    },
+    {
+      "id": "aifield",
+      "title": "AIFIELD",
+      "paragraphs": [
+        "Narzędzia CAD i symulacji fotonicznej do analizy geometrii, warstw i zjawisk fizycznych. Materiały z września 2026 opisują klasyczne symulacje oraz częściowo wspomagane procesy inżynierskie.",
+        "Neuronowe przewidywanie pola optycznego to odrębny kierunek badawczy. Jego założenia i otwarte pytania pozostają widoczne obok opisu narzędzi inżynierskich."
+      ],
+      "links": [
+        {
+          "id": "aifield"
+        },
+        {
+          "id": "aifield-validation"
+        }
+      ]
+    },
+    {
+      "id": "evidence",
+      "title": "Postęp wymaga precyzyjnego opisu.",
+      "paragraphs": [
+        "Projekt odpowiada na pytanie projektowe. Symulacja sprawdza model przy określonych założeniach. Żadne z nich samo w sobie nie pokazuje działania wykonanego urządzenia pomiarowego. Na stronach projektów rozdzielamy te kategorie dowodów."
+      ],
+      "rows": [
+        [
+          "ArtiSense · badania",
+          "Prace nad wykonalnością optyczną i projektem chipu fotonicznego; fizyczna walidacja pomiaru pozostaje do ustalenia."
+        ],
+        [
+          "AIFIELD · stan z września 2026",
+          "Przykłady projektowania i klasycznych symulacji; badania neuronowe zachowują ograniczenia warunków brzegowych i uogólniania."
+        ]
+      ],
+      "links": [
+        {
+          "id": "approach"
+        }
+      ]
+    },
+    {
+      "id": "conversation",
+      "title": "Inwestycja zaczyna się od właściwych pytań.",
+      "paragraphs": [
+        "Poznaj rolę obu projektów, zakres dostępnych dowodów i kamienie milowe, które mogłyby ograniczyć kolejne niewiadome. Rozmowa inwestycyjna dotyczy Artifactory jako firmy.",
+        "Z partnerami technicznymi możemy zacząć od tematu eksperymentów pomiarowych, wytwarzania i testów lub oceny procesu projektowania fotoniki."
+      ],
+      "links": [
+        {
+          "id": "investors"
+        },
+        {
+          "id": "about"
+        },
+        {
+          "id": "partnerships"
+        }
+      ]
+    }
+  ],
+  "relatedIds": [
+    "investors",
+    "projects",
+    "about",
+    "partnerships"
+  ],
+  "project": null,
+  "sourceReferences": [
+    "HP-1.1/project-context",
+    "SM-0.3/home"
+  ],
+  "sourceRevision": "2026-10-09 (AIFIELD snapshot: September 2026)",
+  "editorialState": "draft",
+  "modifiedAt": "2026-10-09T21:00:00.000Z",
+  "reviews": {
+    "facts": null,
+    "language": null,
+    "assets": null
+  },
+  "privateNotes": "Locally authored from supplied summary. Factual, translation and asset owner review pending. Original PDFs were not supplied.",
+  "visual": "company",
+  "visualCaption": "Od światła do możliwości — ilustracja koncepcyjna."
+}

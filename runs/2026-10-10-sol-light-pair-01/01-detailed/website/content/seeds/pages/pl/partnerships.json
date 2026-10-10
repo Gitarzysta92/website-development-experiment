@@ -1,0 +1,43 @@
+{
+  "id": "partnerships",
+  "locale": "pl",
+  "title": "Rozważmy współpracę techniczną",
+  "lead": "Rozmowa o współpracy może zacząć się od konkretnego pytania i dowodów potrzebnych do odpowiedzi.",
+  "description": "Poniższe obszary są propozycjami tematów, a nie informacją o aktywnych partnerstwach.",
+  "eyebrow": "Artifactory",
+  "sections": [
+    {
+      "id": "focus",
+      "title": "Eksperymenty detekcyjne",
+      "paragraphs": [
+        "Możliwa rozmowa może dotyczyć testów optycznych, kalibracji, obudowy lub wymagań przyszłego zastosowania. Zakres badania wymaga osobnego uzgodnienia."
+      ]
+    },
+    {
+      "id": "evidence",
+      "title": "Proces projektowy",
+      "paragraphs": [
+        "W przypadku AIFIELD warto porównać zdefiniowane zadanie fotoniczne z istniejącymi narzędziami przy udokumentowanych warunkach."
+      ]
+    },
+    {
+      "id": "next",
+      "title": "Przynieś pytanie",
+      "paragraphs": [
+        "Opisz projekt i problem techniczny. Porozmawiamy, czy dostępne prace i dalsze eksperymenty pasują do współpracy."
+      ]
+    }
+  ],
+  "related": [
+    "projects",
+    "contact"
+  ],
+  "stage": "Local draft · source context October 2026",
+  "pageType": "company",
+  "sourceReferences": [
+    "HP-1.1 project-context 2026-10-09"
+  ],
+  "sourceRevision": "2026-10-09",
+  "editorialState": "draft",
+  "modifiedAt": "2026-10-10"
+}

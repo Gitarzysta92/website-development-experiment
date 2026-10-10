@@ -1,0 +1,14 @@
+{
+  "originals_and_snapshots_unchanged": true,
+  "websites": {
+    "A": {
+      "authored_files_checked": 173,
+      "changed": []
+    },
+    "B": {
+      "authored_files_checked": 14,
+      "changed": []
+    }
+  },
+  "fixture_mutations": "Only guidelines/fixtures/ contains intentionally changed synthetic copies; these are not release-ready artifacts."
+}

@@ -1,0 +1,103 @@
+{
+  "artisense": [
+    "purpose",
+    "system",
+    "stage",
+    "next"
+  ],
+  "investors": [
+    "thesis",
+    "projects",
+    "questions",
+    "milestones"
+  ],
+  "aifield-validation": [
+    "example",
+    "workflow",
+    "comparison",
+    "next"
+  ],
+  "privacy": [
+    "form-data",
+    "retention",
+    "email",
+    "tracking",
+    "release"
+  ],
+  "aifield": [
+    "users",
+    "classical",
+    "research",
+    "example",
+    "access"
+  ],
+  "approach": [
+    "progression",
+    "evidence",
+    "example",
+    "decisions"
+  ],
+  "partnerships": [
+    "sensing",
+    "fabrication",
+    "tools",
+    "context"
+  ],
+  "aifield-design": [
+    "setup",
+    "tasks",
+    "sequence",
+    "limits"
+  ],
+  "artisense-validation": [
+    "available",
+    "meaning",
+    "conditions",
+    "next"
+  ],
+  "projects": [
+    "artisense",
+    "aifield",
+    "relationship"
+  ],
+  "artisense-technology": [
+    "photonics",
+    "electronics",
+    "calibration",
+    "design"
+  ],
+  "artisense-applications": [
+    "glucose",
+    "context",
+    "requirements",
+    "collaboration"
+  ],
+  "contact": [
+    "next"
+  ],
+  "about": [
+    "focus",
+    "relationship",
+    "known",
+    "conversation"
+  ],
+  "home": [
+    "thesis",
+    "artisense",
+    "aifield",
+    "evidence",
+    "conversation"
+  ],
+  "aifield-neural": [
+    "question",
+    "boundaries",
+    "limits",
+    "next"
+  ],
+  "aifield-ai": [
+    "instruction",
+    "review",
+    "data",
+    "limits"
+  ]
+}

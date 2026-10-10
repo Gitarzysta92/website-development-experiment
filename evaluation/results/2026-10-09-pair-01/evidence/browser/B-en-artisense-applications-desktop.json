@@ -1,0 +1,417 @@
+{
+  "id": "B-en-artisense-applications-desktop",
+  "label": "B",
+  "locale": "en",
+  "pageId": "artisense-applications",
+  "view": "desktop",
+  "url": "http://127.0.0.1:4511/en/projects/artisense/applications/",
+  "status": 200,
+  "errors": [],
+  "title": "ArtiSense: Applications | Artifactory",
+  "language": "en",
+  "h1": [
+    "A measurement ambition. A clear research path."
+  ],
+  "headings": [
+    {
+      "level": "H1",
+      "text": "A measurement ambition. A clear research path."
+    },
+    {
+      "level": "H2",
+      "text": "Investigating photonic glucose sensing"
+    },
+    {
+      "level": "H2",
+      "text": "Compact by intention"
+    },
+    {
+      "level": "H2",
+      "text": "From intended use to testable requirements"
+    },
+    {
+      "level": "H3",
+      "text": "Measurement context"
+    },
+    {
+      "level": "H3",
+      "text": "Reference measurement"
+    },
+    {
+      "level": "H3",
+      "text": "Repeatability"
+    },
+    {
+      "level": "H2",
+      "text": "Bring a measurement question"
+    },
+    {
+      "level": "H2",
+      "text": "Let’s explore what\ncomes next."
+    },
+    {
+      "level": "H2",
+      "text": "Projects"
+    },
+    {
+      "level": "H2",
+      "text": "Company"
+    },
+    {
+      "level": "H2",
+      "text": "Get in touch"
+    }
+  ],
+  "text": "Skip to content\nLocal preview\nDraft content · 9 October 2026\nartifactory.\nProjects\nInvestors\nOur approach\nAbout\nEN\n/\nPL\nLet’s talk\nArtiSense\nOverview\nTechnology\nApplications\nResearch & validation\nHome\nProjects\nArtiSense\nApplications\n\nARTISENSE / APPLICATIONS\n\nA measurement ambition. A clear research path.\n\nArtiSense explores chemical information through optical sensing. Photonic glucose sensing is the substantial application example in the supplied research; intended uses must be evaluated against physical measurement evidence.\n\nON THIS PAGE\n01\nInvestigating photonic glucose sensing\n02\nCompact by intention\n03\nFrom intended use to testable requirements\n04\nBring a measurement question\nResearch snapshot\n\nSeptember 2026 source context. Draft reviewed 9 October 2026.\n\nARTISENSE / 01\nPHOTONICS\nSIGNAL\nLIGHT\nConceptual illustration · not a product image or measured result\nInvestigating photonic glucose sensing\n\nThe research asks whether an optical approach can contribute to glucose measurement. Work described in the source context concerns optical feasibility and chip design. The measurement objective gives engineering work a concrete question without establishing a working glucose monitor.\n\ni\n\nNo validated glucose accuracy, clinical outcome or medical-use readiness is established by the supplied material.\n\nCompact by intention\n\nMiniaturization, non-invasive measurement and wearable formats are intended directions. Reaching them would require evidence about sample interaction, signal stability, calibration, power and integration. The illustrations on this site are concepts, not photographs of available hardware.\n\nFrom intended use to testable requirements\nMeasurement context\n\nDefine the sample, operating environment and relevant sources of variation.\n\nReference measurement\n\nSpecify how an optical estimate would be compared with a suitable reference under stated conditions.\n\nRepeatability\n\nEvaluate stability across repeated measurements before extending claims to a wider use context.\n\nBring a measurement question\n\nA useful technical discussion starts with the intended measurement, the required reference and the experiment that could challenge the hypothesis. Application priorities and collaboration ownership still need confirmation.\n\nPartnerships\nCONTINUE EXPLORING\nTechnology\nResearch & validation\nInvestors\n\nTHE NEXT CONVERSATION\n\nLet’s explore what\ncomes next.\n\nInvest in the company. Explore the science. Bring a question worth working on.\n\nDiscuss an investment\nExplore partnerships\nartifactory.\n\nEngineering light. Creating possibility.\n\nSensing technology and tools for designing photonic systems.\nProjects\nAll projects\nArtiSense\nAIFIELD\nCompany\nHome\nInvestors\nOur approach\nAbout\nPartnerships\nGet in touch\ninfo@artifactory.tech\nContact\nPrivacy\nArtifactory · 2026\nLocal review edition. Content and Polish translations await owner review.\nBack to top ↑",
+  "links": [
+    {
+      "text": "Skip to content",
+      "href": "#main",
+      "lang": ""
+    },
+    {
+      "text": "artifactory.",
+      "href": "/en/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/en/projects/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/en/projects/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/en/projects/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Investors",
+      "href": "/en/investors/",
+      "lang": ""
+    },
+    {
+      "text": "Our approach",
+      "href": "/en/approach/",
+      "lang": ""
+    },
+    {
+      "text": "About",
+      "href": "/en/about/",
+      "lang": ""
+    },
+    {
+      "text": "Partnerships",
+      "href": "/en/partnerships/",
+      "lang": ""
+    },
+    {
+      "text": "Contact",
+      "href": "/en/contact/",
+      "lang": ""
+    },
+    {
+      "text": "PL",
+      "href": "/pl/projekty/artisense/zastosowania/",
+      "lang": "pl"
+    },
+    {
+      "text": "Let’s talk",
+      "href": "/en/contact/?intent=investment",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSense",
+      "href": "/en/projects/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "Overview",
+      "href": "/en/projects/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "Technology",
+      "href": "/en/projects/artisense/technology/",
+      "lang": ""
+    },
+    {
+      "text": "Applications",
+      "href": "/en/projects/artisense/applications/",
+      "lang": ""
+    },
+    {
+      "text": "Research & validation",
+      "href": "/en/projects/artisense/research-validation/",
+      "lang": ""
+    },
+    {
+      "text": "Home",
+      "href": "/en/",
+      "lang": ""
+    },
+    {
+      "text": "Projects",
+      "href": "/en/projects/",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSense",
+      "href": "/en/projects/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "01\nInvestigating photonic glucose sensing",
+      "href": "#glucose",
+      "lang": ""
+    },
+    {
+      "text": "02\nCompact by intention",
+      "href": "#form-factor",
+      "lang": ""
+    },
+    {
+      "text": "03\nFrom intended use to testable requirements",
+      "href": "#requirements",
+      "lang": ""
+    },
+    {
+      "text": "04\nBring a measurement question",
+      "href": "#collaborate",
+      "lang": ""
+    },
+    {
+      "text": "Partnerships",
+      "href": "/en/partnerships/",
+      "lang": ""
+    },
+    {
+      "text": "Technology",
+      "href": "/en/projects/artisense/technology/",
+      "lang": ""
+    },
+    {
+      "text": "Research & validation",
+      "href": "/en/projects/artisense/research-validation/",
+      "lang": ""
+    },
+    {
+      "text": "Investors",
+      "href": "/en/investors/",
+      "lang": ""
+    },
+    {
+      "text": "Discuss an investment",
+      "href": "/en/contact/?intent=investment&project=artisense",
+      "lang": ""
+    },
+    {
+      "text": "Explore partnerships",
+      "href": "/en/partnerships/",
+      "lang": ""
+    },
+    {
+      "text": "artifactory.",
+      "href": "/en/",
+      "lang": ""
+    },
+    {
+      "text": "All projects",
+      "href": "/en/projects/",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSense",
+      "href": "/en/projects/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELD",
+      "href": "/en/projects/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Home",
+      "href": "/en/",
+      "lang": ""
+    },
+    {
+      "text": "Investors",
+      "href": "/en/investors/",
+      "lang": ""
+    },
+    {
+      "text": "Our approach",
+      "href": "/en/approach/",
+      "lang": ""
+    },
+    {
+      "text": "About",
+      "href": "/en/about/",
+      "lang": ""
+    },
+    {
+      "text": "Partnerships",
+      "href": "/en/partnerships/",
+      "lang": ""
+    },
+    {
+      "text": "info@artifactory.tech",
+      "href": "mailto:info@artifactory.tech",
+      "lang": ""
+    },
+    {
+      "text": "Contact",
+      "href": "/en/contact/",
+      "lang": ""
+    },
+    {
+      "text": "Privacy",
+      "href": "/en/privacy/",
+      "lang": ""
+    },
+    {
+      "text": "Back to top ↑",
+      "href": "#top",
+      "lang": ""
+    }
+  ],
+  "metadata": [
+    {
+      "name": "viewport",
+      "content": "width=device-width, initial-scale=1"
+    },
+    {
+      "name": "description",
+      "content": "Understand the intended glucose-sensing application, proposed form factors and the evidence needed before use."
+    },
+    {
+      "name": "robots",
+      "content": "noindex,nofollow"
+    },
+    {
+      "name": "theme-color",
+      "content": "#662483"
+    },
+    {
+      "rel": "canonical",
+      "href": "http://127.0.0.1:4511/en/projects/artisense/applications/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "en",
+      "href": "http://127.0.0.1:4511/en/projects/artisense/applications/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "pl",
+      "href": "http://127.0.0.1:4511/pl/projekty/artisense/zastosowania/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "x-default",
+      "href": "http://127.0.0.1:4511/en/projects/artisense/applications/"
+    },
+    {
+      "property": "og:type",
+      "content": "website"
+    },
+    {
+      "property": "og:site_name",
+      "content": "Artifactory"
+    },
+    {
+      "property": "og:title",
+      "content": "ArtiSense: Applications | Artifactory"
+    },
+    {
+      "property": "og:description",
+      "content": "Understand the intended glucose-sensing application, proposed form factors and the evidence needed before use."
+    },
+    {
+      "property": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "property": "og:locale:alternate",
+      "content": "pl_PL"
+    },
+    {
+      "property": "og:url",
+      "content": "http://127.0.0.1:4511/en/projects/artisense/applications/"
+    },
+    {
+      "property": "og:image",
+      "content": "http://127.0.0.1:4511/assets/share-en.svg"
+    },
+    {
+      "name": "twitter:card",
+      "content": "summary_large_image"
+    }
+  ],
+  "forms": [],
+  "images": [],
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "scrollWidth": 1440
+  },
+  "overflowing": [],
+  "axe": {
+    "violations": [
+      {
+        "id": "region",
+        "impact": "moderate",
+        "tags": [
+          "cat.keyboard",
+          "best-practice",
+          "RGAAv4",
+          "RGAA-9.2.1"
+        ],
+        "description": "Ensure all page content is contained by landmarks",
+        "help": "All page content should be contained by landmarks",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/region?application=playwright",
+        "nodes": [
+          {
+            "any": [
+              {
+                "id": "region",
+                "data": {
+                  "isIframe": false
+                },
+                "relatedNodes": [],
+                "impact": "moderate",
+                "message": "Some page content is not contained by landmarks"
+              }
+            ],
+            "all": [],
+            "none": [],
+            "impact": "moderate",
+            "html": "<div class=\"preview-strip\"><div class=\"container\"><span><i aria-hidden=\"true\"></i>Local preview</span><span>Draft content · 9 October 2026</span></div></div>",
+            "target": [
+              ".preview-strip"
+            ],
+            "failureSummary": "Fix any of the following:\n  Some page content is not contained by landmarks"
+          }
+        ]
+      }
+    ],
+    "incomplete": [
+      {
+        "id": "aria-prohibited-attr",
+        "impact": "serious",
+        "nodeCount": 1
+      },
+      {
+        "id": "color-contrast",
+        "impact": "serious",
+        "nodeCount": 8
+      }
+    ],
+    "passes": 39
+  }
+}

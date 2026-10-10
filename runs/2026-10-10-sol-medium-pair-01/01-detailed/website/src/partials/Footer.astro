@@ -1,0 +1,8 @@
+---
+import {route,type Locale} from '../navigation';
+const {locale}=Astro.props as {locale:Locale};
+const L=(en:string,pl:string)=>locale==='pl'?pl:en;
+---
+<footer class="site-footer"><div class="container footer-grid"><div><div class="footer-brand">ARTIFACTORY<span>·</span></div><p>{L('Exploring photonic sensing and the tools to design photonic systems.','Badamy czujniki fotoniczne i narzędzia do projektowania systemów fotonicznych.')}</p><p class="footer-note">{L('Unreviewed local preview. No public release.','Niezweryfikowany podgląd lokalny. Strona nie została opublikowana.')}</p></div>
+<div><h2>{L('Explore','Odkryj')}</h2><a href={route('projects',locale)}>{L('Projects','Projekty')}</a><a href={route('artisense',locale)}>ArtiSense</a><a href={route('aifield',locale)}>AIFIELD</a><a href={route('investors',locale)}>{L('Investors','Dla inwestorów')}</a><a href={route('approach',locale)}>{L('Our approach','Jak pracujemy')}</a></div>
+<div><h2>{L('Company','Firma')}</h2><a href={route('about',locale)}>{L('About','O nas')}</a><a href={route('partnerships',locale)}>{L('Partnerships','Współpraca')}</a><a href={route('contact',locale)}>{L('Contact','Kontakt')}</a><a href={route('privacy',locale)}>{L('Privacy','Prywatność')}</a><a href="mailto:info@artifactory.tech">info@artifactory.tech</a></div></div><div class="container footer-bottom"><span>© Artifactory · {L('Draft 2026','Szkic 2026')}</span><span>{L('Questions first. Evidence always.','Najpierw pytania. Zawsze dowody.')}</span></div></footer>

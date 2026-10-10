@@ -1,0 +1,103 @@
+{
+  "id": "projects",
+  "locale": "en",
+  "type": "projects",
+  "title": "Two projects. Different questions.",
+  "description": "Compare ArtiSense sensing research with AIFIELD photonic design and simulation: intended users, outputs, evidence and the next validation questions.",
+  "eyebrow": "THE PROJECTS",
+  "lead": "ArtiSense explores how light could reveal chemical information. AIFIELD explores how engineers can design and analyze the photonic systems behind it.",
+  "sections": [
+    {
+      "id": "artisense",
+      "title": "ArtiSense",
+      "paragraphs": [
+        "The question: can a miniaturized photonic system detect a useful chemical signal and interpret it reliably? The intended users and form factors depend on a measurement task that still needs validation.",
+        "Available work concerns optical feasibility and chip design, including glucose-related research. The next evidence needed is a controlled physical comparison that separates the target response from other influences."
+      ],
+      "rows": [
+        [
+          "Problem",
+          "Extract useful chemical information from an optical response."
+        ],
+        [
+          "Intended context",
+          "Research toward non-invasive sensing; wearable form is an ambition."
+        ],
+        [
+          "Output and stage",
+          "Proposed architecture and design/simulation work, not a validated medical product."
+        ]
+      ],
+      "links": [
+        {
+          "id": "artisense"
+        },
+        {
+          "id": "artisense-validation"
+        }
+      ]
+    },
+    {
+      "id": "aifield",
+      "title": "AIFIELD",
+      "paragraphs": [
+        "The question: how can an engineer move from geometry and process assumptions to interpretable photonic simulations? AIFIELD is aimed at people designing and assessing optical systems.",
+        "The September 2026 snapshot describes design, classical solvers and partial agent assistance. Neural optical-field prediction has its own research constraints. Reproducible comparisons and clear input conditions are the next useful basis for evaluation."
+      ],
+      "rows": [
+        [
+          "Problem",
+          "Connect layout choices with model-based analysis."
+        ],
+        [
+          "Intended users",
+          "Photonic designers and engineers evaluating simulation workflows."
+        ],
+        [
+          "Output and stage",
+          "Designs and simulated results; neural field prediction remains research."
+        ]
+      ],
+      "links": [
+        {
+          "id": "aifield"
+        },
+        {
+          "id": "aifield-validation"
+        }
+      ]
+    },
+    {
+      "id": "relationship",
+      "title": "One example connects the work. Evidence keeps it distinct.",
+      "paragraphs": [
+        "The photonic glucose chip-design example links AIFIELD’s engineering workflow to the sensing objective associated with ArtiSense. The design activity belongs to AIFIELD; the question of what can actually be measured belongs to ArtiSense.",
+        "A useful simulation can guide the next experiment. It cannot, by itself, validate a sensor, demonstrate clinical accuracy or establish a commercial relationship."
+      ],
+      "links": [
+        {
+          "id": "investors"
+        }
+      ]
+    }
+  ],
+  "relatedIds": [
+    "artisense",
+    "aifield",
+    "investors"
+  ],
+  "project": null,
+  "sourceReferences": [
+    "HP-1.1/project-context",
+    "SM-0.3/projects"
+  ],
+  "sourceRevision": "2026-10-09 (AIFIELD snapshot: September 2026)",
+  "editorialState": "published",
+  "modifiedAt": "2026-10-09T21:00:00.000Z",
+  "reviews": {
+    "facts": "ce4f27cd1142193617c1b7d61e3eb84efdc06070ab3e7399435a91d868e09a64",
+    "language": "ce4f27cd1142193617c1b7d61e3eb84efdc06070ab3e7399435a91d868e09a64",
+    "assets": "ce4f27cd1142193617c1b7d61e3eb84efdc06070ab3e7399435a91d868e09a64"
+  },
+  "privateNotes": "Locally authored from supplied summary. Factual, translation and asset owner review pending. Original PDFs were not supplied."
+}

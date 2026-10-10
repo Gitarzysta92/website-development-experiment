@@ -1,0 +1,43 @@
+{
+  "id": "aifield-validation",
+  "locale": "en",
+  "title": "Examples show the method; validation tests the limits",
+  "description": "An internal photonic glucose chip-design example illustrates how AIFIELD can organize a design question. The available summary also mentions internal comparisons, but does not provide a publishable benchmark or measured fabricated-chip outcome.",
+  "eyebrow": "AIFIELD",
+  "lead": "An internal photonic glucose chip-design example illustrates how AIFIELD can organize a design question. The available summary also mentions internal comparisons, but does not provide a publishable benchmark or measured fabricated-chip outcome.",
+  "sections": [
+    {
+      "id": "section-1",
+      "heading": "A worked design question",
+      "body": [
+        "The example begins with a sensing objective, then moves through component geometry, process assumptions and simulated optical behavior. The output is a design and simulation record. ArtiSense would still need separate hardware and measurement validation for the intended sensing use."
+      ]
+    },
+    {
+      "id": "section-2",
+      "heading": "How to read a comparison",
+      "body": [
+        "A credible comparison names the reference solver or method, input geometry, boundary conditions, accuracy measure, runtime and hardware. It reports successes and misses. Those details and numerical values are not present in the supplied summary, so no quantitative performance claim appears here."
+      ]
+    },
+    {
+      "id": "section-3",
+      "heading": "The next evidence step",
+      "body": [
+        "A future validation package could pair reproducible design files with simulator versions, conditions and measured or independent reference results. Fabrication and laboratory measurement, if undertaken, should be reported separately from simulation and from customer use."
+      ]
+    }
+  ],
+  "related": [
+    "aifield-design",
+    "artisense-validation",
+    "investors"
+  ],
+  "editorialState": "draft",
+  "sourceRevision": "HP-1.1; context 2026-10-09",
+  "modified": "2026-10-10",
+  "sourceRefs": [
+    "inputs/content/project-context.md (summary, 2026-10-09)",
+    "inputs/docs/sitemap.md (SM-0.3)"
+  ]
+}

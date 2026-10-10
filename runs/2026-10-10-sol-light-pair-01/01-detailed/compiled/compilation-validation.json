@@ -1,0 +1,44 @@
+{
+  "package": "AF-D1",
+  "revision": "1.1",
+  "date": "2026-10-09",
+  "scope": "Compilation artifacts only; no website implementation/install/build/browser/live test executed.",
+  "result": "pass",
+  "counts": {
+    "local_links": 1621,
+    "markdown_files": 94,
+    "anchor_links": 726,
+    "json_files": 9,
+    "source_hashes": 73,
+    "protected_tree_comparisons": 5,
+    "archived_file_hashes": 99,
+    "concern_bindings": 230,
+    "unit_contracts": 23,
+    "checkpoints": 5,
+    "rule_component_bindings": 2353,
+    "rules_applies": 162,
+    "rules_not_applicable": 57,
+    "objectives": 10,
+    "page_identities": 17,
+    "localized_routes": 34,
+    "rule_definitions": 219,
+    "guideline_files": 54
+  },
+  "checks": [
+    "Local Markdown links and anchors",
+    "Locked inputs and guideline source hashes",
+    "Protected source trees and inputs-only package unchanged",
+    "Archived 1.0 package inventory and hashes",
+    "23 concrete unit contracts, ten concern categories, dependencies and scoped checks",
+    "Five combined checkpoints and eligible producer outputs",
+    "All 219 rule definitions, applicability and per-component ownership/check bindings",
+    "17 page identities owned exactly once and all 34 localized routes preserved",
+    "No obsolete active unit references; entry prompt and plan revision agree"
+  ],
+  "manual_review": {
+    "status": "Reviewed by compiling assistant",
+    "scope": "Partition by named implementation piece; full concern ownership within each unit; complete enquiry frontend/domain/endpoint/adapters/privacy/tests; page-owned copy/assets/metadata/tests; forward route contracts and combined observations; shared component public contracts; local/live authority unchanged.",
+    "limitations": "No independent review or website behavior certification. Runtime/tool compatibility remains metadata-based until IU-RUNTIME and consumer checks execute."
+  },
+  "errors": []
+}

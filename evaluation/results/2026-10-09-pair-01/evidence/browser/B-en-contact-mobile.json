@@ -1,0 +1,366 @@
+{
+  "id": "B-en-contact-mobile",
+  "label": "B",
+  "locale": "en",
+  "pageId": "contact",
+  "view": "mobile",
+  "url": "http://127.0.0.1:4511/en/contact/",
+  "status": 200,
+  "errors": [],
+  "title": "Contact | Artifactory",
+  "language": "en",
+  "h1": [
+    "Good things start\nwith a question."
+  ],
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Good things start\nwith a question."
+    },
+    {
+      "level": "H2",
+      "text": "What would you like to discuss?"
+    },
+    {
+      "level": "H2",
+      "text": "Your enquiry is ready to copy."
+    },
+    {
+      "level": "H2",
+      "text": "Projects"
+    },
+    {
+      "level": "H2",
+      "text": "Company"
+    },
+    {
+      "level": "H2",
+      "text": "Get in touch"
+    }
+  ],
+  "text": "Skip to content\nLocal preview\nDraft content · 9 October 2026\nartifactory.\nMenu\nHome\nContact\n\nSTART A CONVERSATION\n\nGood things start\nwith a question.\n\nTell us what you would like to explore. Investment, collaboration or a closer look at the work.\n\ninfo@artifactory.tech\nA CLEAR NEXT STEP\n\nThis local form prepares an email draft. It does not submit to a receiver. Copy your draft, open your email app and send it when you are ready.\n\nPlease avoid confidential, financial-account or health information. The public mailbox is supplied in the brief; its operator has not been verified.\n\nWhat would you like to discuss?\n\nFields marked * are required.\n\nEnquiry type *\nInvestment in Artifactory\nPartnership\nAIFIELD demo\nGeneral enquiry\nProject context (optional)\nArtifactory / no specific project\nArtiSense\nAIFIELD\nYour name (optional)\nOrganization (optional)\nReply email *\nYour message *\n20–4,000 characters\n0 / 4,000\n\nYour draft stays in this page’s memory. Nothing is stored or sent by this site. How this preview handles data.\n\nPrepare email enquiry\nartifactory.\n\nEngineering light. Creating possibility.\n\nSensing technology and tools for designing photonic systems.\nProjects\nAll projects\nArtiSense\nAIFIELD\nCompany\nHome\nInvestors\nOur approach\nAbout\nPartnerships\nGet in touch\ninfo@artifactory.tech\nContact\nPrivacy\nArtifactory · 2026\nLocal review edition. Content and Polish translations await owner review.\nBack to top ↑",
+  "links": [
+    {
+      "text": "Skip to content",
+      "href": "#main",
+      "lang": ""
+    },
+    {
+      "text": "artifactory.",
+      "href": "/en/",
+      "lang": ""
+    },
+    {
+      "text": "All projects",
+      "href": "/en/projects/",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSensePhotonic sensing",
+      "href": "/en/projects/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELDPhotonic engineering",
+      "href": "/en/projects/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Investors",
+      "href": "/en/investors/",
+      "lang": ""
+    },
+    {
+      "text": "Our approach",
+      "href": "/en/approach/",
+      "lang": ""
+    },
+    {
+      "text": "About",
+      "href": "/en/about/",
+      "lang": ""
+    },
+    {
+      "text": "Partnerships",
+      "href": "/en/partnerships/",
+      "lang": ""
+    },
+    {
+      "text": "Contact",
+      "href": "/en/contact/",
+      "lang": ""
+    },
+    {
+      "text": "PL",
+      "href": "/pl/kontakt/",
+      "lang": "pl"
+    },
+    {
+      "text": "Let’s talk",
+      "href": "/en/contact/?intent=investment",
+      "lang": ""
+    },
+    {
+      "text": "Home",
+      "href": "/en/",
+      "lang": ""
+    },
+    {
+      "text": "info@artifactory.tech",
+      "href": "mailto:info@artifactory.tech",
+      "lang": ""
+    },
+    {
+      "text": "How this preview handles data",
+      "href": "/en/privacy/",
+      "lang": ""
+    },
+    {
+      "text": "Open email app",
+      "href": "mailto:info@artifactory.tech",
+      "lang": ""
+    },
+    {
+      "text": "artifactory.",
+      "href": "/en/",
+      "lang": ""
+    },
+    {
+      "text": "All projects",
+      "href": "/en/projects/",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSense",
+      "href": "/en/projects/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELD",
+      "href": "/en/projects/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Home",
+      "href": "/en/",
+      "lang": ""
+    },
+    {
+      "text": "Investors",
+      "href": "/en/investors/",
+      "lang": ""
+    },
+    {
+      "text": "Our approach",
+      "href": "/en/approach/",
+      "lang": ""
+    },
+    {
+      "text": "About",
+      "href": "/en/about/",
+      "lang": ""
+    },
+    {
+      "text": "Partnerships",
+      "href": "/en/partnerships/",
+      "lang": ""
+    },
+    {
+      "text": "info@artifactory.tech",
+      "href": "mailto:info@artifactory.tech",
+      "lang": ""
+    },
+    {
+      "text": "Contact",
+      "href": "/en/contact/",
+      "lang": ""
+    },
+    {
+      "text": "Privacy",
+      "href": "/en/privacy/",
+      "lang": ""
+    },
+    {
+      "text": "Back to top ↑",
+      "href": "#top",
+      "lang": ""
+    }
+  ],
+  "metadata": [
+    {
+      "name": "viewport",
+      "content": "width=device-width, initial-scale=1"
+    },
+    {
+      "name": "description",
+      "content": "Prepare an investment, partnership, demo or general enquiry for Artifactory. Local email drafting with a public email fallback."
+    },
+    {
+      "name": "robots",
+      "content": "noindex,nofollow"
+    },
+    {
+      "name": "theme-color",
+      "content": "#662483"
+    },
+    {
+      "rel": "canonical",
+      "href": "http://127.0.0.1:4511/en/contact/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "en",
+      "href": "http://127.0.0.1:4511/en/contact/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "pl",
+      "href": "http://127.0.0.1:4511/pl/kontakt/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "x-default",
+      "href": "http://127.0.0.1:4511/en/contact/"
+    },
+    {
+      "property": "og:type",
+      "content": "website"
+    },
+    {
+      "property": "og:site_name",
+      "content": "Artifactory"
+    },
+    {
+      "property": "og:title",
+      "content": "Contact | Artifactory"
+    },
+    {
+      "property": "og:description",
+      "content": "Prepare an investment, partnership, demo or general enquiry for Artifactory. Local email drafting with a public email fallback."
+    },
+    {
+      "property": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "property": "og:locale:alternate",
+      "content": "pl_PL"
+    },
+    {
+      "property": "og:url",
+      "content": "http://127.0.0.1:4511/en/contact/"
+    },
+    {
+      "property": "og:image",
+      "content": "http://127.0.0.1:4511/assets/share-en.svg"
+    },
+    {
+      "name": "twitter:card",
+      "content": "summary_large_image"
+    }
+  ],
+  "forms": [
+    {
+      "action": null,
+      "method": "get",
+      "controls": [
+        {
+          "tag": "SELECT",
+          "name": "intent",
+          "type": "select-one",
+          "required": true,
+          "label": "Enquiry type *"
+        },
+        {
+          "tag": "SELECT",
+          "name": "project",
+          "type": "select-one",
+          "required": false,
+          "label": "Project context (optional)"
+        },
+        {
+          "tag": "INPUT",
+          "name": "name",
+          "type": "text",
+          "required": false,
+          "label": "Your name (optional)"
+        },
+        {
+          "tag": "INPUT",
+          "name": "organization",
+          "type": "text",
+          "required": false,
+          "label": "Organization (optional)"
+        },
+        {
+          "tag": "INPUT",
+          "name": "email",
+          "type": "email",
+          "required": true,
+          "label": "Reply email *"
+        },
+        {
+          "tag": "TEXTAREA",
+          "name": "message",
+          "type": "textarea",
+          "required": true,
+          "label": "Your message *"
+        },
+        {
+          "tag": "BUTTON",
+          "name": "",
+          "type": "submit"
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "viewport": {
+    "width": 390,
+    "height": 844,
+    "scrollWidth": 390
+  },
+  "overflowing": [],
+  "axe": {
+    "violations": [
+      {
+        "id": "region",
+        "impact": "moderate",
+        "tags": [
+          "cat.keyboard",
+          "best-practice",
+          "RGAAv4",
+          "RGAA-9.2.1"
+        ],
+        "description": "Ensure all page content is contained by landmarks",
+        "help": "All page content should be contained by landmarks",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/region?application=playwright",
+        "nodes": [
+          {
+            "any": [
+              {
+                "id": "region",
+                "data": {
+                  "isIframe": false
+                },
+                "relatedNodes": [],
+                "impact": "moderate",
+                "message": "Some page content is not contained by landmarks"
+              }
+            ],
+            "all": [],
+            "none": [],
+            "impact": "moderate",
+            "html": "<div class=\"preview-strip\"><div class=\"container\"><span><i aria-hidden=\"true\"></i>Local preview</span><span>Draft content · 9 October 2026</span></div></div>",
+            "target": [
+              ".preview-strip"
+            ],
+            "failureSummary": "Fix any of the following:\n  Some page content is not contained by landmarks"
+          }
+        ]
+      }
+    ],
+    "incomplete": [],
+    "passes": 41
+  }
+}

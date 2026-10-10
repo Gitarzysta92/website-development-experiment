@@ -1,0 +1,105 @@
+{
+  "id": "artisense-validation",
+  "locale": "pl",
+  "type": "detail",
+  "title": "Co zbadano. Co pozostaje do wykazania.",
+  "description": "ArtiSense z perspektywy dowodów: wykonalność optyczna, projekt chipu glukozowego, otwarte pytania oraz rozróżnienie symulacji i fizycznej walidacji.",
+  "eyebrow": "ARTISENSE / BADANIA I WALIDACJA",
+  "lead": "Wiarygodny wynik pomiarowy wymaga więcej niż obiecującego projektu. Oto granica między opisanymi pracami a kolejnymi pytaniami eksperymentalnymi.",
+  "sections": [
+    {
+      "id": "available",
+      "title": "Wykonalność optyczna i projekt chipu.",
+      "paragraphs": [
+        "Dostarczony kontekst, przygotowany w październiku 2026, podsumowuje prace nad wykonalnością optyczną i projektem chipu fotonicznego związane z glukozą. Badają one zasadność dalszego rozwijania rozwiązania optycznego i zachowanie proponowanej struktury w modelu.",
+        "Podsumowanie źródłowe nie obejmuje oryginalnych wykresów, pełnych ustawień eksperymentów ani wyników liczbowych. Pozwala zatem na jakościowy opis kierunku badań, a nie odtworzenie tabeli porównawczej lub niezależne potwierdzenie parametrów.",
+        "Przykład projektowy AIFIELD wyjaśnia działania inżynierskie. Nie uzupełnia brakujących dowodów eksperymentalnych dla celu pomiarowego ArtiSense."
+      ],
+      "links": [
+        {
+          "id": "aifield-validation"
+        }
+      ]
+    },
+    {
+      "id": "meaning",
+      "title": "Różne dowody odpowiadają na różne pytania.",
+      "paragraphs": [
+        "Koncepcja określa zamierzone działanie systemu. Symulacja szacuje zachowanie w modelu. Eksperyment z wykonanym urządzeniem sprawdza zachowanie fizycznej realizacji. Twierdzenie o użyciu przez ludzi wymagałoby kolejnego, odpowiednio zaprojektowanego zestawu dowodów."
+      ],
+      "rows": [
+        [
+          "Wykonalność optyczna",
+          "Uzasadnia badanie mechanizmu optycznego przy określonych założeniach; nie potwierdza wiarygodnego pomiaru w użyciu."
+        ],
+        [
+          "Projekt chipu fotonicznego",
+          "Uzasadnia proponowaną geometrię i proces inżynierski; nie dowodzi wytworzenia ani integracji."
+        ],
+        [
+          "Fizyczne parametry pomiaru",
+          "Nie zostały wykazane w podsumowaniu. Nie publikujemy tu zmierzonej dokładności pomiaru glukozy."
+        ],
+        [
+          "Użycie kliniczne lub ubieralne",
+          "Nie zostało zwalidowane w dostarczonych materiałach. Zamierzonych form nie należy traktować jako zatwierdzonych zastosowań."
+        ]
+      ]
+    },
+    {
+      "id": "conditions",
+      "title": "Porównanie powinno dać się przeanalizować.",
+      "paragraphs": [
+        "Aby wynik liczbowy był użyteczny, trzeba określić oświetlenie, próbkę, odniesienie, detektor i warunki przetwarzania. Czytelnik potrzebuje też informacji o powtórzeniach, zmiennych, nieudanych przypadkach i pozostałej niepewności.",
+        "Nie dostarczono tych szczegółów na poziomie umożliwiającym odtworzenie wyniku liczbowego na tej stronie. Jest to ograniczenie dostępnych dowodów, a nie podstawa do zakładania korzystnego rezultatu. Pomaga też sprecyzować kolejną rozmowę techniczną."
+      ],
+      "links": [
+        {
+          "id": "artisense-technology"
+        }
+      ]
+    },
+    {
+      "id": "next",
+      "title": "Proponowana kolejność pytań walidacyjnych.",
+      "paragraphs": [
+        "Najpierw należy określić poszukiwaną odpowiedź i porównanie odniesienia. Następnie ocenić powtarzalność i wpływy zakłócające w kontrolowanym środowisku. Proponowana struktura fizyczna wymagałaby porównania z modelem przed oceną zintegrowanego systemu.",
+        "Przejście do kolejnego kroku powinno zależeć od wyników. Nie deklarujemy potwierdzonych dat eksperymentów, zakończonego wytwarzania ani badania klinicznego. To propozycja uporządkowania potrzeb dowodowych, nie obiecany harmonogram firmy."
+      ],
+      "items": [
+        "Jaka obserwacja wsparłaby lub odrzuciła hipotezę optyczną?",
+        "Które założenia są najważniejsze przy przejściu od modelu do wykonanej struktury?",
+        "Co musi pozostać stabilne, aby interpretowany sygnał był użyteczny?"
+      ],
+      "links": [
+        {
+          "id": "partnerships"
+        },
+        {
+          "id": "investors"
+        }
+      ]
+    }
+  ],
+  "relatedIds": [
+    "artisense-technology",
+    "aifield-validation",
+    "investors",
+    "partnerships"
+  ],
+  "project": "artisense",
+  "sourceReferences": [
+    "HP-1.1/project-context",
+    "SM-0.3/artisense-validation"
+  ],
+  "sourceRevision": "2026-10-09 (AIFIELD snapshot: September 2026)",
+  "editorialState": "published",
+  "modifiedAt": "2026-10-09T21:00:00.000Z",
+  "reviews": {
+    "facts": "96b90754256e1ebd6c039f0c546eab681b588205c4f4bee7ac788d89b6efe5a9",
+    "language": "96b90754256e1ebd6c039f0c546eab681b588205c4f4bee7ac788d89b6efe5a9",
+    "assets": "96b90754256e1ebd6c039f0c546eab681b588205c4f4bee7ac788d89b6efe5a9"
+  },
+  "privateNotes": "Locally authored from supplied summary. Factual, translation and asset owner review pending. Original PDFs were not supplied.",
+  "maturity": "Dowody projektowe i symulacyjne · walidacja fizyczna pozostaje otwarta"
+}

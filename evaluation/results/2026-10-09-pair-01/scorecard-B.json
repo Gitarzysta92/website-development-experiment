@@ -1,0 +1,1520 @@
+{
+  "schema_version": 1,
+  "protocol_version": "1.0",
+  "run_group": "2026-10-09-pair-01",
+  "status": "evaluated_with_unresolved_checks",
+  "review_label": "B",
+  "variant": "02-inputs-only",
+  "reviewer": {
+    "id": "codex-evaluator-01",
+    "type": "single AI reviewer",
+    "polish_proficiency": "AI language assessment; no independent human Polish approval",
+    "blind_to_condition": false,
+    "prior_exposure": "single AI reviewer, not blind; status tools exposed detailed-arm final claims"
+  },
+  "snapshot": {
+    "path": "/Users/michal.lukasiewicz/Programming/website-development-experiment/evaluation/results/2026-10-09-pair-01/snapshots/B",
+    "content_manifest_sha256": "a0d4b896481a6bc648eac06b3c6307e2bf787e63bb1942ede00188f6a48d686d",
+    "captured_at": "2026-10-10T00:51:47.434078+02:00",
+    "entry_task_started_at": "2026-10-09T21:27:05.304Z",
+    "first_delivery_at": "2026-10-09T21:51:14.010Z",
+    "terminal_status": "completed",
+    "assisted_before_delivery": false,
+    "first_intervention_at": null
+  },
+  "environment": {
+    "os": "macOS 26.6.2 (25G83), arm64",
+    "runtime": "Build/serve Node 24.21.0; browser/performance harness Node 22.17.1",
+    "package_manager": "npm 11.19.0 for setup",
+    "browsers": [
+      "Chromium 156.0.8078.4",
+      "Playwright Firefox (version not recorded)",
+      "Playwright WebKit (version not recorded)"
+    ],
+    "audit_tools": [
+      "Playwright 1.64.0",
+      "axe 4.13.0",
+      "Lighthouse version stored in individual raw reports"
+    ],
+    "device_scale_factor": 1,
+    "network_profile": "Simulated mobile: rttMs 150, throughputKbps 1638.4; full options in evidence/performance/conditions.json",
+    "cpu_profile": "Lighthouse slowdown multiplier 4",
+    "cache_policy": "Cold reset for each Lighthouse run; external requests blocked in interaction/capture harnesses"
+  },
+  "viewports_css_pixels": [
+    [
+      1440,
+      900
+    ],
+    [
+      390,
+      844
+    ],
+    [
+      320,
+      640
+    ],
+    [
+      1280,
+      720
+    ]
+  ],
+  "allowed_check_statuses": [
+    "pass",
+    "partial",
+    "fail",
+    "not_tested",
+    "blocked_external",
+    "not_applicable"
+  ],
+  "rating_scale": {
+    "0": "Absent or unusable",
+    "1": "Major defects",
+    "2": "Usable with clear shortcomings",
+    "3": "Strong with minor issues",
+    "4": "Consistently polished with evidence"
+  },
+  "categories": [
+    {
+      "id": "visual",
+      "weight": 25,
+      "criteria": [
+        {
+          "id": "visual.composition",
+          "description": "Clear hierarchy and deliberately composed sections across page types",
+          "rating": 4,
+          "status": "pass",
+          "observations": "Distinct homepage, investor, overview and editorial compositions; stronger hierarchy and project differentiation across the matched captures and supplied reference direction.",
+          "evidence": [
+            "visual-review-notes.md",
+            "evidence/browser/B-en-home-desktop.png",
+            "evidence/browser/B-en-investors-desktop.png",
+            "evidence/browser/B-pl-home-mobile.png"
+          ]
+        },
+        {
+          "id": "visual.typography",
+          "description": "Readable typography, spacing, density, and long Polish labels",
+          "rating": 3,
+          "status": "partial",
+          "observations": "Clear display/body hierarchy and good long-label wrapping; secondary labels and annotations are small in places.",
+          "evidence": [
+            "visual-review-notes.md",
+            "evidence/browser/B-en-home-desktop.png",
+            "evidence/browser/B-en-investors-desktop.png",
+            "evidence/browser/B-pl-home-mobile.png"
+          ]
+        },
+        {
+          "id": "visual.consistency",
+          "description": "Coherent supplied palette, components, and interaction states",
+          "rating": 4,
+          "status": "pass",
+          "observations": "Palette, original identity, diagrams, cards, navigation and contact states form a coherent visual system across inspected purposes and viewports.",
+          "evidence": [
+            "visual-review-notes.md",
+            "evidence/browser/B-en-home-desktop.png",
+            "evidence/browser/B-en-investors-desktop.png",
+            "evidence/browser/B-pl-home-mobile.png"
+          ]
+        },
+        {
+          "id": "visual.visuals",
+          "description": "Useful, honestly labeled diagrams/imagery and purposeful motion",
+          "rating": 3,
+          "status": "partial",
+          "observations": "Distinct sensing/field and workflow illustrations explain project identity more effectively. Concept labels remain honest; graphics repeat within branches and are not real research assets.",
+          "evidence": [
+            "visual-review-notes.md",
+            "evidence/browser/B-en-home-desktop.png",
+            "evidence/browser/B-en-investors-desktop.png",
+            "evidence/browser/B-pl-home-mobile.png"
+          ]
+        }
+      ],
+      "weighted_score": 21.875,
+      "score_interval": [
+        21.875,
+        21.875
+      ]
+    },
+    {
+      "id": "functionality",
+      "weight": 20,
+      "criteria": [
+        {
+          "id": "functionality.investor",
+          "description": "Complete company investment and evidence journey",
+          "rating": 3,
+          "status": "partial",
+          "observations": "Home -> Investors -> project evidence -> investment enquiry works in EN/PL across Chromium, Firefox and WebKit. Useful company/evidence links; the reader still assembles the comparison across several pages. Receipt capability is scored only under enquiry.",
+          "evidence": [
+            "evidence/interactions/adjudicated-results.json",
+            "evidence/final-checks/results.json",
+            "snapshots/B/README.md"
+          ]
+        },
+        {
+          "id": "functionality.partner_demo",
+          "description": "Complete technical partner and AIFIELD demo journeys",
+          "rating": 3,
+          "status": "partial",
+          "observations": "Technical-entry partnership and AIFIELD demo paths work across all three engines and both locales; intent is editable and demo project is prefilled. Partnership handoff keeps the intent but the visitor must add the particular technical context; demo is an enquiry, not access to a product.",
+          "evidence": [
+            "evidence/interactions/adjudicated-results.json",
+            "evidence/final-checks/results.json",
+            "snapshots/B/README.md"
+          ]
+        },
+        {
+          "id": "functionality.navigation",
+          "description": "Direct arrivals, navigation, refresh, language switching, history, and recovery",
+          "rating": 4,
+          "status": "pass",
+          "observations": "All 34 direct routes render; internal links/fragments, all 17 paired language switches, refresh, Back/Forward, legacy entries, 404 recovery, and mobile keyboard menus pass the observed checks.",
+          "evidence": [
+            "evidence/interactions/adjudicated-results.json",
+            "evidence/final-checks/results.json",
+            "snapshots/B/README.md"
+          ]
+        },
+        {
+          "id": "functionality.enquiry",
+          "description": "Useful enquiry context, validation, truthful acceptance/failure, retry, and email fallback",
+          "rating": 1,
+          "status": "partial",
+          "observations": "Validation, draft generation, editing and public email fallback work, but no enquiry is submitted or received. The server rejects write requests; users copy text into their email app. This is a major missing shared capability (B-01), distinct from missing live credentials. Partial credit reflects usable preparation and truthful status.",
+          "evidence": [
+            "evidence/interactions/adjudicated-results.json",
+            "evidence/final-checks/results.json",
+            "snapshots/B/README.md"
+          ]
+        }
+      ],
+      "weighted_score": 13.75,
+      "score_interval": [
+        13.75,
+        13.75
+      ]
+    },
+    {
+      "id": "content",
+      "weight": 20,
+      "criteria": [
+        {
+          "id": "content.company",
+          "description": "Clear company-level investment story and appropriate audience focus",
+          "rating": 3,
+          "status": "partial",
+          "observations": "Company-level investment is clearly distinguished from project proposals. The opportunity is framed cautiously and coherently, but the business narrative remains broad. Missing owner-supplied commercial facts are recorded as external dependencies, not invented or counted as defects.",
+          "evidence": [
+            "evidence/claim-audit-candidates.json",
+            "evidence/browser/B-en-investors-desktop.json",
+            "evidence/browser/B-pl-artisense-validation-desktop.json",
+            "visual-review-notes.md"
+          ]
+        },
+        {
+          "id": "content.coverage",
+          "description": "Substantive project detail and coverage of proposed page purposes, allowing justified consolidation",
+          "rating": 4,
+          "status": "pass",
+          "observations": "Substantive coverage of all 17 purposes in both languages, including separate technology, applications, validation, workflow and neural-research discussions; no placeholder branches or unexplained consolidation.",
+          "evidence": [
+            "evidence/claim-audit-candidates.json",
+            "evidence/browser/B-en-investors-desktop.json",
+            "evidence/browser/B-pl-artisense-validation-desktop.json",
+            "visual-review-notes.md"
+          ]
+        },
+        {
+          "id": "content.claims",
+          "description": "Accurate, qualified facts, evidence, maturity, asset captions, and commercial statements",
+          "rating": 4,
+          "status": "pass",
+          "observations": "Reviewed project content preserves simulation/physical/clinical boundaries, classical tools/neural research, human review, proposed relationships and historical budgets. No material unsupported claim found in the reviewed EN/PL copy. Concept illustrations are labeled. This is a source-grounded draft assessment, not scientific or owner approval.",
+          "evidence": [
+            "evidence/claim-audit-candidates.json",
+            "evidence/browser/B-en-investors-desktop.json",
+            "evidence/browser/B-pl-artisense-validation-desktop.json",
+            "visual-review-notes.md"
+          ]
+        },
+        {
+          "id": "content.bilingual",
+          "description": "Equivalent substantive English and Polish content, interface text, and error states",
+          "rating": 3,
+          "status": "partial",
+          "observations": "Substantive EN/PL pages, localized navigation, metadata and form states are present and coherent under AI review. Technical copy can be dense; publication-quality Polish fluency and terminology await an independent human reviewer.",
+          "evidence": [
+            "evidence/claim-audit-candidates.json",
+            "evidence/browser/B-en-investors-desktop.json",
+            "evidence/browser/B-pl-artisense-validation-desktop.json",
+            "visual-review-notes.md"
+          ]
+        }
+      ],
+      "weighted_score": 17.5,
+      "score_interval": [
+        17.5,
+        17.5
+      ]
+    },
+    {
+      "id": "accessibility",
+      "weight": 15,
+      "criteria": [
+        {
+          "id": "accessibility.reflow",
+          "description": "Readable desktop/mobile/narrow/short layouts without blocked content",
+          "rating": 4,
+          "status": "pass",
+          "observations": "All 34 routes at desktop/mobile and all 17 Polish purposes at narrow/short viewports have no horizontal page overflow or observed blocked content. Real devices remain outside this evaluation; native zoom is accounted for separately.",
+          "evidence": [
+            "evidence/browser/index.json",
+            "evidence/interactions/adjudicated-results.json",
+            "evidence/final-checks/results.json",
+            "evidence/final-checks/B-pl-contact-aria.txt"
+          ]
+        },
+        {
+          "id": "accessibility.keyboard",
+          "description": "Keyboard operation, visible focus, sensible order, and usable menus",
+          "rating": 4,
+          "status": "pass",
+          "observations": "Keyboard menu opening/closure passes across three engines in both locales. Skip link, visible focus, form entry/validation and accessible-tree snapshots support keyboard use on the core paths; no blocking trap observed.",
+          "evidence": [
+            "evidence/browser/index.json",
+            "evidence/interactions/adjudicated-results.json",
+            "evidence/final-checks/results.json",
+            "evidence/final-checks/B-pl-contact-aria.txt"
+          ]
+        },
+        {
+          "id": "accessibility.semantics",
+          "description": "Meaningful structure, labels, alternatives, and screen-reader feedback",
+          "rating": null,
+          "status": "partial",
+          "observations": "Labels and accessibility trees are usable in the inspected states. Axe finds preview content outside landmarks across all 68 combinations and a heading-level skip on Projects in both locales/viewports (two underlying best-practice defects). Actual screen-reader operation remains untested; criterion is unrated.",
+          "evidence": [
+            "evidence/browser/index.json",
+            "evidence/interactions/adjudicated-results.json",
+            "evidence/final-checks/results.json",
+            "evidence/final-checks/B-pl-contact-aria.txt"
+          ],
+          "unresolved_reason": "Required actual screen-reader/native zoom evidence missing; observed evidence retained without inventing a complete rating."
+        },
+        {
+          "id": "accessibility.adaptation",
+          "description": "Readable contrast, zoom, reduced motion, and perceivable form status/errors",
+          "rating": null,
+          "status": "partial",
+          "observations": "Contrast checks, localized perceivable errors and reduced-motion behavior pass observed tests. Native 200% browser zoom was not performed. CSS zoom is an inconclusive proxy and is not scored as a native-zoom defect. Criterion left unrated under the frozen missing-evidence rule.",
+          "evidence": [
+            "evidence/browser/index.json",
+            "evidence/interactions/adjudicated-results.json",
+            "evidence/final-checks/results.json",
+            "evidence/final-checks/B-pl-contact-aria.txt"
+          ],
+          "unresolved_reason": "Required actual screen-reader/native zoom evidence missing; observed evidence retained without inventing a complete rating."
+        }
+      ],
+      "weighted_score": null,
+      "score_interval": [
+        7.5,
+        15.0
+      ]
+    },
+    {
+      "id": "engineering",
+      "weight": 10,
+      "criteria": [
+        {
+          "id": "engineering.setup",
+          "description": "Reproducible documented install, build, and start",
+          "rating": 4,
+          "status": "pass",
+          "observations": "Dependency installation, production build and local serving succeed from the evaluation copy with the documented compatible runtime. Setup workarounds concern evaluator cache/sandbox conditions, not application source repairs.",
+          "evidence": [
+            "snapshots/B/README.md",
+            "evidence/setup/B-unit.log",
+            "evidence/final-checks/results.json"
+          ]
+        },
+        {
+          "id": "engineering.structure",
+          "description": "Proportionate shared presentation and content ownership with manageable duplication",
+          "rating": 3,
+          "status": "partial",
+          "observations": "Compact generation, shared render helpers, reusable technical content and one browser script suit the static site. Company copy embedded in a large render module makes content/presentation ownership less clear than a uniformly structured content layer.",
+          "evidence": [
+            "snapshots/B/README.md",
+            "evidence/setup/B-unit.log",
+            "evidence/final-checks/results.json"
+          ]
+        },
+        {
+          "id": "engineering.boundaries",
+          "description": "Appropriate configuration, private/public boundaries, and enquiry data handling",
+          "rating": 4,
+          "status": "pass",
+          "observations": "Only generated public files are served; tested private/source paths return 404. Draft values stay in page memory, mailto contains only the address, and the server rejects writes. The absent receiver is scored under enquiry, not penalized twice here.",
+          "evidence": [
+            "snapshots/B/README.md",
+            "evidence/setup/B-unit.log",
+            "evidence/final-checks/results.json"
+          ]
+        },
+        {
+          "id": "engineering.handover",
+          "description": "Useful verification, accurate result claims, and actionable setup/blocker documentation",
+          "rating": 4,
+          "status": "pass",
+          "observations": "README accurately documents setup, local drafting limits, verification scope, publication prerequisites and the work still needed for receipt. Seven supplied structural tests pass. Draft-only behavior is not represented as delivery.",
+          "evidence": [
+            "snapshots/B/README.md",
+            "evidence/setup/B-unit.log",
+            "evidence/final-checks/results.json"
+          ]
+        }
+      ],
+      "weighted_score": 9.375,
+      "score_interval": [
+        9.375,
+        9.375
+      ]
+    },
+    {
+      "id": "performance",
+      "weight": 5,
+      "criteria": [
+        {
+          "id": "performance.loading",
+          "description": "Observed loading responsiveness under the fixed test profile",
+          "rating": 3,
+          "status": "partial",
+          "observations": "Median LCP 2.101 s (1.651-2.551 s); median Lighthouse performance score 99 (95-100). Responsive in the lab, with materially more loading delay than A on the same profile.",
+          "evidence": [
+            "evidence/performance/conditions.json",
+            "evidence/performance/summary.json"
+          ]
+        },
+        {
+          "id": "performance.stability",
+          "description": "Observed layout stability during loading and interaction",
+          "rating": 4,
+          "status": "pass",
+          "observations": "All 30 cold mobile lab samples have CLS 0 and total blocking time 0. No loading shift observed in the matched captures; these are lab measurements, not field Core Web Vitals.",
+          "evidence": [
+            "evidence/performance/conditions.json",
+            "evidence/performance/summary.json"
+          ]
+        },
+        {
+          "id": "performance.resources",
+          "description": "Efficient assets, requests, and transferred bytes for supplied content",
+          "rating": 3,
+          "status": "partial",
+          "observations": "Median transferred bytes 181,424 (116,463-282,622), about 3.46 times A. Local fonts/visual assets remain modest in absolute terms but leave a clear efficiency opportunity.",
+          "evidence": [
+            "evidence/performance/conditions.json",
+            "evidence/performance/summary.json"
+          ]
+        },
+        {
+          "id": "performance.consistency",
+          "description": "Consistent mobile results across representative pages and repeated measurements",
+          "rating": 4,
+          "status": "pass",
+          "observations": "Three measurements of each of five representative page purposes in both languages complete without errors and show tightly repeated per-URL results under the same pinned conditions.",
+          "evidence": [
+            "evidence/performance/conditions.json",
+            "evidence/performance/summary.json"
+          ]
+        }
+      ],
+      "weighted_score": 4.375,
+      "score_interval": [
+        4.375,
+        4.375
+      ]
+    },
+    {
+      "id": "metadata",
+      "weight": 5,
+      "criteria": [
+        {
+          "id": "metadata.localized",
+          "description": "Appropriate localized page titles and descriptions",
+          "rating": 4,
+          "status": "pass",
+          "observations": "All 34 pages have distinct localized titles and nonempty descriptions; supplied structural tests and independent rendered checks agree.",
+          "evidence": [
+            "evidence/final-checks/results.json",
+            "evidence/browser/B-en-home-desktop.json"
+          ]
+        },
+        {
+          "id": "metadata.equivalence",
+          "description": "Coherent canonicals and reciprocal language relationships",
+          "rating": 4,
+          "status": "pass",
+          "observations": "All 34 pages have matching canonicals and reciprocal en/pl/x-default annotations in the local configuration.",
+          "evidence": [
+            "evidence/final-checks/results.json",
+            "evidence/browser/B-en-home-desktop.json"
+          ]
+        },
+        {
+          "id": "metadata.inventory",
+          "description": "Accurate sitemap/route membership and unknown-route behavior",
+          "rating": 4,
+          "status": "pass",
+          "observations": "All mapped pages and internal fragments resolve; five legacy entries and four ArtiSense fragments work. Unknown routes return real localized 404s. Preview sitemap is intentionally empty.",
+          "evidence": [
+            "evidence/final-checks/results.json",
+            "evidence/browser/B-en-home-desktop.json"
+          ]
+        },
+        {
+          "id": "metadata.visibility",
+          "description": "Preview visibility matches intent and source/private materials stay outside public output",
+          "rating": 4,
+          "status": "pass",
+          "observations": "Noindex metadata/headers, disallowing robots and empty sitemap match preview intent. Source/private paths tested return 404. This does not certify an untested future deployment.",
+          "evidence": [
+            "evidence/final-checks/results.json",
+            "evidence/browser/B-en-home-desktop.json"
+          ]
+        }
+      ],
+      "weighted_score": 5.0,
+      "score_interval": [
+        5.0,
+        5.0
+      ]
+    }
+  ],
+  "critical_gates": [
+    {
+      "id": "startup",
+      "description": "Starts through documented setup",
+      "status": "pass",
+      "evidence": [
+        "evidence/final-checks/results.json",
+        "evidence/interactions/adjudicated-results.json",
+        "visual-review-notes.md"
+      ]
+    },
+    {
+      "id": "scope",
+      "description": "Both required languages and both project branches are present",
+      "status": "pass",
+      "evidence": [
+        "evidence/final-checks/results.json",
+        "evidence/interactions/adjudicated-results.json",
+        "visual-review-notes.md"
+      ]
+    },
+    {
+      "id": "journeys",
+      "description": "Core navigation and contact access work, including mobile and keyboard",
+      "status": "pass",
+      "evidence": [
+        "evidence/final-checks/results.json",
+        "evidence/interactions/adjudicated-results.json",
+        "visual-review-notes.md"
+      ]
+    },
+    {
+      "id": "delivery_truth",
+      "description": "Receipt is claimed only after acceptance",
+      "status": "pass",
+      "evidence": [
+        "evidence/final-checks/results.json",
+        "evidence/interactions/adjudicated-results.json",
+        "visual-review-notes.md"
+      ],
+      "observations": "A claims only explicitly local synthetic receipt; B claims only draft preparation. Missing receipt in B is a capability gap, not false success."
+    },
+    {
+      "id": "private_material",
+      "description": "No observed exposure of private material",
+      "status": "pass",
+      "evidence": [
+        "evidence/final-checks/results.json",
+        "evidence/interactions/adjudicated-results.json",
+        "visual-review-notes.md"
+      ]
+    },
+    {
+      "id": "claim_truth",
+      "description": "No material invented business or scientific evidence",
+      "status": "pass",
+      "evidence": [
+        "evidence/final-checks/results.json",
+        "evidence/interactions/adjudicated-results.json",
+        "visual-review-notes.md"
+      ]
+    }
+  ],
+  "readiness": {
+    "local_website": {
+      "status": "pass",
+      "limitations": [
+        "Draft local preview; observed critical gates pass. Full accessibility certification is not claimed."
+      ],
+      "evidence": [
+        "evidence/browser/index.json",
+        "evidence/interactions/adjudicated-results.json"
+      ]
+    },
+    "local_enquiry_handling": {
+      "status": "fail",
+      "limitations": [
+        "Draft preparation only. Receiving implementation absent (B-01)."
+      ],
+      "evidence": [
+        "evidence/interactions/adjudicated-results.json",
+        "snapshots/B/README.md"
+      ]
+    },
+    "real_receiver_mailbox_delivery": {
+      "status": "fail",
+      "limitations": [
+        "No approved live configuration, verified mailbox or delivery test.",
+        "Also requires a server-side receiver implementation; not solely an external credential blocker."
+      ],
+      "evidence": [
+        "snapshots/B/README.md"
+      ]
+    },
+    "publication": {
+      "status": "blocked_external",
+      "limitations": [
+        "Factual/translation/asset and privacy approvals, live delivery configuration, destination and release authorization unresolved.",
+        "Receiving form implementation also incomplete."
+      ],
+      "evidence": [
+        "snapshots/B/README.md"
+      ]
+    }
+  },
+  "page_purposes": [
+    {
+      "page_id": "home",
+      "english_label": "Home",
+      "proposed_en": "/en/",
+      "proposed_pl": "/pl/",
+      "actual_en": "/en/",
+      "actual_pl": "/pl/",
+      "consolidation_reason": null,
+      "subject_coverage": "pass",
+      "evidence": [
+        "evidence/browser/B-en-home-desktop.json",
+        "evidence/browser/B-pl-home-desktop.json"
+      ]
+    },
+    {
+      "page_id": "projects",
+      "english_label": "Projects",
+      "proposed_en": "/en/projects/",
+      "proposed_pl": "/pl/projekty/",
+      "actual_en": "/en/projects/",
+      "actual_pl": "/pl/projekty/",
+      "consolidation_reason": null,
+      "subject_coverage": "pass",
+      "evidence": [
+        "evidence/browser/B-en-projects-desktop.json",
+        "evidence/browser/B-pl-projects-desktop.json"
+      ]
+    },
+    {
+      "page_id": "artisense",
+      "english_label": "ArtiSense",
+      "proposed_en": "/en/projects/artisense/",
+      "proposed_pl": "/pl/projekty/artisense/",
+      "actual_en": "/en/projects/artisense/",
+      "actual_pl": "/pl/projekty/artisense/",
+      "consolidation_reason": null,
+      "subject_coverage": "pass",
+      "evidence": [
+        "evidence/browser/B-en-artisense-desktop.json",
+        "evidence/browser/B-pl-artisense-desktop.json"
+      ]
+    },
+    {
+      "page_id": "artisense-technology",
+      "english_label": "Technology",
+      "proposed_en": "/en/projects/artisense/technology/",
+      "proposed_pl": "/pl/projekty/artisense/technologia/",
+      "actual_en": "/en/projects/artisense/technology/",
+      "actual_pl": "/pl/projekty/artisense/technologia/",
+      "consolidation_reason": null,
+      "subject_coverage": "pass",
+      "evidence": [
+        "evidence/browser/B-en-artisense-technology-desktop.json",
+        "evidence/browser/B-pl-artisense-technology-desktop.json"
+      ]
+    },
+    {
+      "page_id": "artisense-applications",
+      "english_label": "Applications",
+      "proposed_en": "/en/projects/artisense/applications/",
+      "proposed_pl": "/pl/projekty/artisense/zastosowania/",
+      "actual_en": "/en/projects/artisense/applications/",
+      "actual_pl": "/pl/projekty/artisense/zastosowania/",
+      "consolidation_reason": null,
+      "subject_coverage": "pass",
+      "evidence": [
+        "evidence/browser/B-en-artisense-applications-desktop.json",
+        "evidence/browser/B-pl-artisense-applications-desktop.json"
+      ]
+    },
+    {
+      "page_id": "artisense-validation",
+      "english_label": "Research and Validation",
+      "proposed_en": "/en/projects/artisense/research-validation/",
+      "proposed_pl": "/pl/projekty/artisense/badania-walidacja/",
+      "actual_en": "/en/projects/artisense/research-validation/",
+      "actual_pl": "/pl/projekty/artisense/badania-walidacja/",
+      "consolidation_reason": null,
+      "subject_coverage": "pass",
+      "evidence": [
+        "evidence/browser/B-en-artisense-validation-desktop.json",
+        "evidence/browser/B-pl-artisense-validation-desktop.json"
+      ]
+    },
+    {
+      "page_id": "aifield",
+      "english_label": "AIFIELD",
+      "proposed_en": "/en/projects/aifield/",
+      "proposed_pl": "/pl/projekty/aifield/",
+      "actual_en": "/en/projects/aifield/",
+      "actual_pl": "/pl/projekty/aifield/",
+      "consolidation_reason": null,
+      "subject_coverage": "pass",
+      "evidence": [
+        "evidence/browser/B-en-aifield-desktop.json",
+        "evidence/browser/B-pl-aifield-desktop.json"
+      ]
+    },
+    {
+      "page_id": "aifield-design",
+      "english_label": "Design and Simulation",
+      "proposed_en": "/en/projects/aifield/design-simulation/",
+      "proposed_pl": "/pl/projekty/aifield/projektowanie-symulacja/",
+      "actual_en": "/en/projects/aifield/design-simulation/",
+      "actual_pl": "/pl/projekty/aifield/projektowanie-symulacja/",
+      "consolidation_reason": null,
+      "subject_coverage": "pass",
+      "evidence": [
+        "evidence/browser/B-en-aifield-design-desktop.json",
+        "evidence/browser/B-pl-aifield-design-desktop.json"
+      ]
+    },
+    {
+      "page_id": "aifield-ai",
+      "english_label": "AI Workflows",
+      "proposed_en": "/en/projects/aifield/ai-workflows/",
+      "proposed_pl": "/pl/projekty/aifield/praca-z-ai/",
+      "actual_en": "/en/projects/aifield/ai-workflows/",
+      "actual_pl": "/pl/projekty/aifield/praca-z-ai/",
+      "consolidation_reason": null,
+      "subject_coverage": "pass",
+      "evidence": [
+        "evidence/browser/B-en-aifield-ai-desktop.json",
+        "evidence/browser/B-pl-aifield-ai-desktop.json"
+      ]
+    },
+    {
+      "page_id": "aifield-neural",
+      "english_label": "Neural Field Research",
+      "proposed_en": "/en/projects/aifield/neural-field-research/",
+      "proposed_pl": "/pl/projekty/aifield/badania-modeli-pola/",
+      "actual_en": "/en/projects/aifield/neural-field-research/",
+      "actual_pl": "/pl/projekty/aifield/badania-modeli-pola/",
+      "consolidation_reason": null,
+      "subject_coverage": "pass",
+      "evidence": [
+        "evidence/browser/B-en-aifield-neural-desktop.json",
+        "evidence/browser/B-pl-aifield-neural-desktop.json"
+      ]
+    },
+    {
+      "page_id": "aifield-validation",
+      "english_label": "Examples and Validation",
+      "proposed_en": "/en/projects/aifield/examples-validation/",
+      "proposed_pl": "/pl/projekty/aifield/przyklady-walidacja/",
+      "actual_en": "/en/projects/aifield/examples-validation/",
+      "actual_pl": "/pl/projekty/aifield/przyklady-walidacja/",
+      "consolidation_reason": null,
+      "subject_coverage": "pass",
+      "evidence": [
+        "evidence/browser/B-en-aifield-validation-desktop.json",
+        "evidence/browser/B-pl-aifield-validation-desktop.json"
+      ]
+    },
+    {
+      "page_id": "investors",
+      "english_label": "Investors",
+      "proposed_en": "/en/investors/",
+      "proposed_pl": "/pl/inwestorzy/",
+      "actual_en": "/en/investors/",
+      "actual_pl": "/pl/inwestorzy/",
+      "consolidation_reason": null,
+      "subject_coverage": "pass",
+      "evidence": [
+        "evidence/browser/B-en-investors-desktop.json",
+        "evidence/browser/B-pl-investors-desktop.json"
+      ]
+    },
+    {
+      "page_id": "approach",
+      "english_label": "Our Approach",
+      "proposed_en": "/en/approach/",
+      "proposed_pl": "/pl/jak-pracujemy/",
+      "actual_en": "/en/approach/",
+      "actual_pl": "/pl/jak-pracujemy/",
+      "consolidation_reason": null,
+      "subject_coverage": "pass",
+      "evidence": [
+        "evidence/browser/B-en-approach-desktop.json",
+        "evidence/browser/B-pl-approach-desktop.json"
+      ]
+    },
+    {
+      "page_id": "about",
+      "english_label": "About",
+      "proposed_en": "/en/about/",
+      "proposed_pl": "/pl/o-nas/",
+      "actual_en": "/en/about/",
+      "actual_pl": "/pl/o-nas/",
+      "consolidation_reason": null,
+      "subject_coverage": "pass",
+      "evidence": [
+        "evidence/browser/B-en-about-desktop.json",
+        "evidence/browser/B-pl-about-desktop.json"
+      ]
+    },
+    {
+      "page_id": "partnerships",
+      "english_label": "Partnerships",
+      "proposed_en": "/en/partnerships/",
+      "proposed_pl": "/pl/wspolpraca/",
+      "actual_en": "/en/partnerships/",
+      "actual_pl": "/pl/wspolpraca/",
+      "consolidation_reason": null,
+      "subject_coverage": "pass",
+      "evidence": [
+        "evidence/browser/B-en-partnerships-desktop.json",
+        "evidence/browser/B-pl-partnerships-desktop.json"
+      ]
+    },
+    {
+      "page_id": "contact",
+      "english_label": "Contact",
+      "proposed_en": "/en/contact/",
+      "proposed_pl": "/pl/kontakt/",
+      "actual_en": "/en/contact/",
+      "actual_pl": "/pl/kontakt/",
+      "consolidation_reason": null,
+      "subject_coverage": "pass",
+      "evidence": [
+        "evidence/browser/B-en-contact-desktop.json",
+        "evidence/browser/B-pl-contact-desktop.json"
+      ]
+    },
+    {
+      "page_id": "privacy",
+      "english_label": "Privacy",
+      "proposed_en": "/en/privacy/",
+      "proposed_pl": "/pl/prywatnosc/",
+      "actual_en": "/en/privacy/",
+      "actual_pl": "/pl/prywatnosc/",
+      "consolidation_reason": null,
+      "subject_coverage": "pass",
+      "evidence": [
+        "evidence/browser/B-en-privacy-desktop.json",
+        "evidence/browser/B-pl-privacy-desktop.json"
+      ]
+    }
+  ],
+  "checks": [
+    {
+      "id": "E01",
+      "name": "Clean setup and build",
+      "status": "pass",
+      "conditions": "Frozen first-delivery copy; synthetic local data only; see harnesses and saved environment.",
+      "observations": "Documented install/build/serve and supplied non-browser checks were independently rerun; no website source repairs. A verification helper has a clean-copy defect, separately reported.",
+      "evidence": [
+        "snapshots/B/README.md",
+        "evidence/setup/B-unit.log",
+        "evidence/final-checks/results.json"
+      ]
+    },
+    {
+      "id": "E02",
+      "name": "Scope and routes",
+      "status": "pass",
+      "conditions": "Frozen first-delivery copy; synthetic local data only; see harnesses and saved environment.",
+      "observations": "34 direct localized pages per site and all 17 purposes are present; no consolidation. Both project branches are substantive.",
+      "evidence": [
+        "evidence/claim-audit-candidates.json",
+        "evidence/browser/B-en-investors-desktop.json",
+        "evidence/browser/B-pl-artisense-validation-desktop.json",
+        "visual-review-notes.md"
+      ]
+    },
+    {
+      "id": "E03",
+      "name": "Investor journey",
+      "status": "pass",
+      "conditions": "Frozen first-delivery copy; synthetic local data only; see harnesses and saved environment.",
+      "observations": "Investor path and editable investment intent verified in EN/PL across three browser engines. Comprehension assessment is reviewer judgment, not a recruited-user study.",
+      "evidence": [
+        "evidence/interactions/adjudicated-results.json",
+        "evidence/final-checks/results.json",
+        "snapshots/B/README.md"
+      ]
+    },
+    {
+      "id": "E04",
+      "name": "Partner and demo journeys",
+      "status": "pass",
+      "conditions": "Frozen first-delivery copy; synthetic local data only; see harnesses and saved environment.",
+      "observations": "Technical partnership and AIFIELD demo paths verified in EN/PL across three engines; receiving capability assessed separately.",
+      "evidence": [
+        "evidence/interactions/adjudicated-results.json",
+        "evidence/final-checks/results.json",
+        "snapshots/B/README.md"
+      ]
+    },
+    {
+      "id": "E05",
+      "name": "Language and history",
+      "status": "pass",
+      "conditions": "Frozen first-delivery copy; synthetic local data only; see harnesses and saved environment.",
+      "observations": "All 17 page pairs switched and exercised with refresh/history in Chromium. Cross-engine core journey checks pass after harness corrections.",
+      "evidence": [
+        "evidence/interactions/adjudicated-results.json",
+        "evidence/final-checks/results.json",
+        "snapshots/B/README.md"
+      ]
+    },
+    {
+      "id": "E06",
+      "name": "Contact states",
+      "status": "fail",
+      "conditions": "Frozen first-delivery copy; synthetic local data only; see harnesses and saved environment.",
+      "observations": "A: real local synthetic receipts and duplicate receipt IDs in Chromium; form entry/validation in three engines. Browser response injection tests rejection/unavailable/uncertain/timeout/duplicate UI behavior in EN/PL. Supplied receiver tests independently rerun. B: draft/validation/editing in three engines; no receiving implementation. No live mail sent.",
+      "evidence": [
+        "evidence/interactions/adjudicated-results.json",
+        "evidence/final-checks/results.json",
+        "snapshots/B/README.md"
+      ]
+    },
+    {
+      "id": "E07",
+      "name": "Claim and asset audit",
+      "status": "partial",
+      "conditions": "Frozen first-delivery copy; synthetic local data only; see harnesses and saved environment.",
+      "observations": "Source-grounded AI review of rendered EN/PL scientific/commercial claims and concept labels found no material fabrication. Not owner, scientific, legal or human translation approval.",
+      "evidence": [
+        "evidence/claim-audit-candidates.json",
+        "evidence/browser/B-en-investors-desktop.json",
+        "evidence/browser/B-pl-artisense-validation-desktop.json",
+        "visual-review-notes.md"
+      ]
+    },
+    {
+      "id": "E08",
+      "name": "Visual comparison",
+      "status": "pass",
+      "conditions": "Frozen first-delivery copy; synthetic local data only; see harnesses and saved environment.",
+      "observations": "136 matched full-page screenshots plus interaction-state captures; all 17 desktop purposes and representative full mobile pages reviewed with contact sheets and reference board.",
+      "evidence": [
+        "visual-review-notes.md",
+        "evidence/browser/B-en-home-desktop.png",
+        "evidence/browser/B-en-investors-desktop.png",
+        "evidence/browser/B-pl-home-mobile.png"
+      ]
+    },
+    {
+      "id": "E09",
+      "name": "Responsive and accessible use",
+      "status": "partial",
+      "conditions": "Frozen first-delivery copy; synthetic local data only; see harnesses and saved environment.",
+      "observations": "Desktop/mobile captures, narrow/short Polish routes, keyboard, focus, reduced motion, axe and accessibility-tree inspection complete. No real screen-reader use, native browser zoom or physical-device testing. CSS zoom outcomes remain diagnostic only.",
+      "evidence": [
+        "evidence/browser/index.json",
+        "evidence/interactions/adjudicated-results.json",
+        "evidence/final-checks/results.json",
+        "evidence/final-checks/B-pl-contact-aria.txt"
+      ]
+    },
+    {
+      "id": "E10",
+      "name": "Performance",
+      "status": "pass",
+      "conditions": "Frozen first-delivery copy; synthetic local data only; see harnesses and saved environment.",
+      "observations": "60 sequential Lighthouse samples: five purposes x two locales x three repetitions x two sites. Saved common mobile throttling and cold-cache conditions; no concurrent construction/build work during measurement.",
+      "evidence": [
+        "evidence/performance/conditions.json",
+        "evidence/performance/summary.json"
+      ]
+    },
+    {
+      "id": "E11",
+      "name": "Metadata and visibility",
+      "status": "pass",
+      "conditions": "Frozen first-delivery copy; synthetic local data only; see harnesses and saved environment.",
+      "observations": "All 34 routes per site checked for localized metadata/canonicals/language annotations; links, sitemap/robots, 404s, five legacy redirects and four legacy fragments verified. No public deployment or social-crawler test.",
+      "evidence": [
+        "evidence/final-checks/results.json",
+        "evidence/browser/B-en-home-desktop.json"
+      ]
+    },
+    {
+      "id": "E12",
+      "name": "Source and handover review",
+      "status": "partial",
+      "conditions": "Frozen first-delivery copy; synthetic local data only; see harnesses and saved environment.",
+      "observations": "Inspected source ownership, configuration boundaries, draft/receiver data handling, tests and handover. Reran unit/structural suites and common independent browser checks; did not independently repeat every developer-reported component/recovery check or all detailed-package contracts.",
+      "evidence": [
+        "snapshots/B/README.md",
+        "evidence/setup/B-unit.log",
+        "evidence/final-checks/results.json"
+      ]
+    }
+  ],
+  "legacy_entries": {
+    "/": "/en/",
+    "/artisense-module/": "/pl/projekty/artisense/",
+    "/about/": "/pl/o-nas/",
+    "/partners/": "/pl/wspolpraca/",
+    "/contact/": "/pl/kontakt/"
+  },
+  "legacy_artisense_fragments": [
+    "o-module",
+    "fotonika",
+    "elektronika",
+    "technologie"
+  ],
+  "defects": [
+    {
+      "id": "B-01",
+      "severity": "major",
+      "primary_criterion": "functionality.enquiry",
+      "affected_routes_locales": [
+        "/en/contact/",
+        "/pl/kontakt/"
+      ],
+      "steps": [
+        "Open Contact and supply valid synthetic enquiry data.",
+        "Choose Prepare email enquiry.",
+        "Inspect network requests and server handling."
+      ],
+      "expected": "A receiving implementation accepts the enquiry and supplies truthful local receipt/failure states; live services may remain unconfigured.",
+      "actual": "Only a copyable draft is generated; no submission occurs and server write requests receive 405. Manual email is available but receiving functionality needs implementation, not just credentials.",
+      "evidence": [
+        "evidence/interactions/adjudicated-results.json",
+        "snapshots/B/server.mjs",
+        "snapshots/B/README.md",
+        "evidence/browser/B-en-contact-desktop.json"
+      ],
+      "baseline_or_repair": "baseline"
+    },
+    {
+      "id": "B-02",
+      "severity": "minor",
+      "primary_criterion": "accessibility.semantics",
+      "affected_routes_locales": [
+        "All 34 routes in both tested viewports"
+      ],
+      "steps": [
+        "Load any page.",
+        "Run unfiltered axe or inspect the landmark tree."
+      ],
+      "expected": "Meaningful preview notice is contained within an appropriate landmark.",
+      "actual": "The preview-strip div is outside landmarks; axe region best-practice finding repeats in 68 captures. Counted once.",
+      "evidence": [
+        "evidence/browser/B-en-home-desktop.json",
+        "snapshots/B/src/render.mjs"
+      ],
+      "baseline_or_repair": "baseline"
+    },
+    {
+      "id": "B-03",
+      "severity": "minor",
+      "primary_criterion": "accessibility.semantics",
+      "affected_routes_locales": [
+        "/en/projects/",
+        "/pl/projekty/"
+      ],
+      "steps": [
+        "Open the project listing.",
+        "Inspect the heading sequence or run axe."
+      ],
+      "expected": "Project-card heading levels follow the surrounding page hierarchy.",
+      "actual": "First project card begins at h3 after page h1 without h2. Axe heading-order best-practice finding repeats in four locale/viewport captures. Counted once.",
+      "evidence": [
+        "evidence/browser/B-en-projects-desktop.json",
+        "evidence/browser/B-pl-projects-mobile.json",
+        "snapshots/B/src/render.mjs"
+      ],
+      "baseline_or_repair": "baseline"
+    }
+  ],
+  "defect_record_fields": [
+    "id",
+    "severity",
+    "primary_criterion",
+    "affected_routes_locales",
+    "steps",
+    "expected",
+    "actual",
+    "evidence",
+    "baseline_or_repair"
+  ],
+  "instruction_compliance": {
+    "source_package": "prompt-sets/02-inputs-only",
+    "requirements": [
+      {
+        "requirement": "Bilingual substantive company and both project branches",
+        "status": "met",
+        "evidence": [
+          "evidence/browser/index.json"
+        ]
+      },
+      {
+        "requirement": "Preserve source package and keep preview local/unpublished",
+        "status": "met",
+        "evidence": [
+          "control.json",
+          "integrity-verification.json"
+        ]
+      },
+      {
+        "requirement": "Receiving form plus public email and truthful outcomes",
+        "status": "partly met: draft/email only, receiver missed",
+        "evidence": [
+          "snapshots/B/README.md",
+          "evidence/interactions/adjudicated-results.json"
+        ]
+      }
+    ],
+    "cross_condition_score": null,
+    "limitation": "Scoped assessment, not an exhaustive contract/rule audit. Detailed-only process and adapter requirements do not raise the shared website score."
+  },
+  "metrics": {
+    "run_interval": {
+      "start": "2026-10-09T21:27:05.304Z",
+      "end": "2026-10-09T21:51:14.010Z",
+      "selection_evidence": [
+        "thread-boundaries.json",
+        "telemetry-baseline/02-inputs-only.json"
+      ]
+    },
+    "requested_model": "gpt-6-astra",
+    "requested_reasoning_effort": "xhigh",
+    "models_observed": [
+      {
+        "model": "gpt-6-astra",
+        "reasoning_effort": "xhigh"
+      }
+    ],
+    "dispatch_to_start_seconds": null,
+    "delivery_wall_seconds": 1448.697,
+    "completed_or_interrupted_turn_union_seconds": 1449.0,
+    "tool_wait_union_seconds": 23.12000036239624,
+    "tokens": {
+      "input_tokens": 3164458,
+      "cached_input_tokens": 3014912,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 68900,
+      "reasoning_output_tokens": 7681,
+      "total_tokens": 3233358
+    },
+    "responses_missing_token_fields": {
+      "input_tokens": 0,
+      "cached_input_tokens": 0,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_output_tokens": 0,
+      "total_tokens": 0
+    },
+    "tool_calls": 28,
+    "tool_calls_by_name": {
+      "exec": 28
+    },
+    "interrupted_turns": 0,
+    "operator_interventions_confirmed": 0,
+    "operator_minutes": null,
+    "human_intervention_records": [
+      {
+        "timestamp": "2026-10-09T21:27:05.761Z",
+        "preview": "<environment_context>\n  <cwd>/Users/michal.lukasiewicz/Programming/website-development-experiment</cwd>\n  <shell>zsh</shell>\n  <current_date>2026-10-09</current_date>\n  <timezone>Europe/Warsaw</timezo",
+        "classification": "automatic_environment_context",
+        "human_intervention": false
+      }
+    ],
+    "pure_reasoning_seconds": null,
+    "gateway_cost_usd": null,
+    "cost_evidence_kind": "unavailable",
+    "cost_evidence": [],
+    "common_preparation": {
+      "tokens": null,
+      "human_minutes": null,
+      "cost_usd": null,
+      "evidence": []
+    },
+    "variant_preparation": {
+      "tokens": null,
+      "human_minutes": null,
+      "cost_usd": null,
+      "evidence": []
+    },
+    "performance_measurements": [
+      {
+        "page": "aifield",
+        "locale": "en",
+        "score": {
+          "median": 0.99,
+          "min": 0.99,
+          "max": 0.99
+        },
+        "lcp_ms": {
+          "median": 1801.128,
+          "min": 1800.9450000000002,
+          "max": 1801.44705
+        },
+        "cls": {
+          "median": 0,
+          "min": 0,
+          "max": 0
+        },
+        "tbt_ms": {
+          "median": 0,
+          "min": 0,
+          "max": 0
+        },
+        "transfer_bytes": {
+          "median": 125596,
+          "min": 125596,
+          "max": 125596
+        }
+      },
+      {
+        "page": "aifield",
+        "locale": "pl",
+        "score": {
+          "median": 0.99,
+          "min": 0.99,
+          "max": 0.99
+        },
+        "lcp_ms": {
+          "median": 1950.915,
+          "min": 1950.885,
+          "max": 1951.0371
+        },
+        "cls": {
+          "median": 0,
+          "min": 0,
+          "max": 0
+        },
+        "tbt_ms": {
+          "median": 0,
+          "min": 0,
+          "max": 0
+        },
+        "transfer_bytes": {
+          "median": 155497,
+          "min": 155497,
+          "max": 155497
+        }
+      },
+      {
+        "page": "artisense",
+        "locale": "en",
+        "score": {
+          "median": 0.99,
+          "min": 0.99,
+          "max": 0.99
+        },
+        "lcp_ms": {
+          "median": 2101.2690000000002,
+          "min": 2101.098,
+          "max": 2101.5143793032476
+        },
+        "cls": {
+          "median": 0,
+          "min": 0,
+          "max": 0
+        },
+        "tbt_ms": {
+          "median": 0,
+          "min": 0,
+          "max": 0
+        },
+        "transfer_bytes": {
+          "median": 181238,
+          "min": 181238,
+          "max": 181238
+        }
+      },
+      {
+        "page": "artisense",
+        "locale": "pl",
+        "score": {
+          "median": 0.97,
+          "min": 0.97,
+          "max": 0.97
+        },
+        "lcp_ms": {
+          "median": 2251.239,
+          "min": 2251.239,
+          "max": 2251.5416999999998
+        },
+        "cls": {
+          "median": 0,
+          "min": 0,
+          "max": 0
+        },
+        "tbt_ms": {
+          "median": 0,
+          "min": 0,
+          "max": 0
+        },
+        "transfer_bytes": {
+          "median": 211195,
+          "min": 211195,
+          "max": 211195
+        }
+      },
+      {
+        "page": "artisense-validation",
+        "locale": "en",
+        "score": {
+          "median": 0.99,
+          "min": 0.99,
+          "max": 0.99
+        },
+        "lcp_ms": {
+          "median": 2101.2021746908995,
+          "min": 2100.741,
+          "max": 2101.3019999999997
+        },
+        "cls": {
+          "median": 0,
+          "min": 0,
+          "max": 0
+        },
+        "tbt_ms": {
+          "median": 0,
+          "min": 0,
+          "max": 0
+        },
+        "transfer_bytes": {
+          "median": 181610,
+          "min": 181610,
+          "max": 181610
+        }
+      },
+      {
+        "page": "artisense-validation",
+        "locale": "pl",
+        "score": {
+          "median": 0.97,
+          "min": 0.97,
+          "max": 0.97
+        },
+        "lcp_ms": {
+          "median": 2250.93,
+          "min": 2250.87,
+          "max": 2251.362662703677
+        },
+        "cls": {
+          "median": 0,
+          "min": 0,
+          "max": 0
+        },
+        "tbt_ms": {
+          "median": 0,
+          "min": 0,
+          "max": 0
+        },
+        "transfer_bytes": {
+          "median": 211405,
+          "min": 211405,
+          "max": 211405
+        }
+      },
+      {
+        "page": "contact",
+        "locale": "en",
+        "score": {
+          "median": 1,
+          "min": 1,
+          "max": 1
+        },
+        "lcp_ms": {
+          "median": 1651.5390000000002,
+          "min": 1650.807,
+          "max": 1651.57485
+        },
+        "cls": {
+          "median": 0,
+          "min": 0,
+          "max": 0
+        },
+        "tbt_ms": {
+          "median": 0,
+          "min": 0,
+          "max": 0
+        },
+        "transfer_bytes": {
+          "median": 116463,
+          "min": 116463,
+          "max": 116463
+        }
+      },
+      {
+        "page": "contact",
+        "locale": "pl",
+        "score": {
+          "median": 0.99,
+          "min": 0.99,
+          "max": 0.99
+        },
+        "lcp_ms": {
+          "median": 1800.9869999999999,
+          "min": 1800.915,
+          "max": 1801.6302
+        },
+        "cls": {
+          "median": 0,
+          "min": 0,
+          "max": 0
+        },
+        "tbt_ms": {
+          "median": 0,
+          "min": 0,
+          "max": 0
+        },
+        "transfer_bytes": {
+          "median": 146298,
+          "min": 146298,
+          "max": 146298
+        }
+      },
+      {
+        "page": "home",
+        "locale": "en",
+        "score": {
+          "median": 0.97,
+          "min": 0.97,
+          "max": 0.97
+        },
+        "lcp_ms": {
+          "median": 2401.1639999999998,
+          "min": 2400.771,
+          "max": 2401.342194258087
+        },
+        "cls": {
+          "median": 0,
+          "min": 0,
+          "max": 0
+        },
+        "tbt_ms": {
+          "median": 0,
+          "min": 0,
+          "max": 0
+        },
+        "transfer_bytes": {
+          "median": 252751,
+          "min": 252751,
+          "max": 252751
+        }
+      },
+      {
+        "page": "home",
+        "locale": "pl",
+        "score": {
+          "median": 0.95,
+          "min": 0.95,
+          "max": 0.95
+        },
+        "lcp_ms": {
+          "median": 2551.0260000000003,
+          "min": 2550.8549999999996,
+          "max": 2551.2117537469508
+        },
+        "cls": {
+          "median": 0,
+          "min": 0,
+          "max": 0
+        },
+        "tbt_ms": {
+          "median": 0,
+          "min": 0,
+          "max": 0
+        },
+        "transfer_bytes": {
+          "median": 282622,
+          "min": 282622,
+          "max": 282622
+        }
+      }
+    ],
+    "measurement_limitations": [
+      "Counts tool calls visible in the recording. Nested operations inside functions.exec are not separately certified.",
+      "Tool wait uses recording timestamps and is not a precise CPU execution timer; overlapping waits are merged.",
+      "Response records exclude failed/retried requests without usage; gateway logs are needed for total request attempts.",
+      "User-role messages and interrupted turns are observations, not an automatic count of human interventions.",
+      "Reasoning tokens are a subset of output tokens. Exact hidden-reasoning duration is unavailable.",
+      "No dollar cost is inferred. Correlate response IDs with verified gateway spend records.",
+      "The collector does not parse numeric lifecycle timestamps and reports zero turn-union time for these recordings. Evaluation normalizes Unix timestamps before calling it and uses recorded duration_ms for delivery wall time.",
+      "Manifest dispatched_at was recorded after actual task start; it cannot establish queue delay.",
+      "Human follow-ups after first delivery are excluded. User-role records in the baseline are automatic environment updates, not human implementation interventions.",
+      "Common and variant-specific preparation tokens/operator time/dollars unavailable. Total preparation-plus-execution comparison remains incomplete.",
+      "Recorded turn-union time has one-second precision; use recorded duration_ms for delivery wall time.",
+      "No actual screen reader, native zoom, independent human Polish review, real device or live mailbox used. Provider failures injected at browser boundary do not establish live provider behavior.",
+      "Browser engine versions for Firefox/WebKit were not saved. Playwright package version and installed engine family are known."
+    ],
+    "derived_uncached_input_tokens": 149546
+  },
+  "summary": {
+    "category_scores": {
+      "visual": 21.875,
+      "functionality": 13.75,
+      "content": 17.5,
+      "accessibility": null,
+      "engineering": 9.375,
+      "performance": 4.375,
+      "metadata": 5.0
+    },
+    "quality_score": null,
+    "incomplete_score_interval": [
+      79.375,
+      86.875
+    ],
+    "critical_failures": 0,
+    "major_defects": 1,
+    "minor_defects": 2,
+    "most_consequential_differences": [
+      "Stronger visual composition and project illustrations",
+      "Much shorter construction and lower recorded token processing",
+      "Receiving form implementation missing"
+    ],
+    "equal_category_weight_interval": [
+      82.14285714285714,
+      89.28571428571429
+    ],
+    "unrated_criteria": [
+      "accessibility.semantics",
+      "accessibility.adaptation"
+    ]
+  },
+  "repair_rounds": []
+}

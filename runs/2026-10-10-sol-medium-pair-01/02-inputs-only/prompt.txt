@@ -1,0 +1,7 @@
+Build a complete, working Artifactory website using the supplied inputs in this folder. inputs/README.md indexes the project brief, sitemap, decisions, content, palette, and visual references. Treat those materials as the source of website scope, facts, and design direction.
+
+Work autonomously until the website is implemented and working locally. Choose the technology, architecture, project structure, design details, and approach yourself. Resolve routine engineering and design choices without asking for approval or waiting for further prompts. Aim for a polished, responsive, accessible, fast, and maintainable website with visual quality comparable to the supplied references.
+
+Use the supplied content to draft the required English and Polish copy, preserving its factual limitations and the distinction between confirmed requirements and proposals. Missing optional material should not prevent useful completion. Do not invent business facts, present illustrative assets as real evidence, or claim that an unconnected service works. If an essential fact, permission, or external dependency cannot be resolved from the inputs, complete the independent work and identify the specific blocker. Respect the supplied publication and external-service constraints.
+
+Deliver a runnable website with instructions for starting it and a concise account of what actually works, what you verified, and anything still unresolved. Your responsibility is the finished result; decide how to reach and verify it.

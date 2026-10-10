@@ -1,0 +1,114 @@
+{
+  "id": "home",
+  "locale": "en",
+  "type": "home",
+  "title": "A clearer signal. A new possibility.",
+  "description": "Artifactory connects sensing research with photonic design tools. Explore ArtiSense, AIFIELD and the evidence behind a company-level investment conversation.",
+  "eyebrow": "SENSING × PHOTONIC DESIGN",
+  "lead": "Artifactory explores what light can help us understand — and builds the tools to design what comes next. Two connected projects. One company-level conversation.",
+  "sections": [
+    {
+      "id": "thesis",
+      "title": "From a physical question to an engineered answer.",
+      "paragraphs": [
+        "Sensing begins with a difficult question: how can a small optical response become useful information? Photonic engineering asks another: how can we design and test the systems that produce that response?",
+        "ArtiSense and AIFIELD approach these questions from different directions. Their connection is a design workflow, not a shortcut around experimental validation."
+      ]
+    },
+    {
+      "id": "artisense",
+      "title": "ArtiSense",
+      "paragraphs": [
+        "A proposed miniaturized chemical-sensing system that combines photonics with signal interpretation. The intended direction includes non-invasive measurement and wearable form factors; these remain research ambitions.",
+        "The supplied glucose example concerns optical feasibility and chip design. It does not establish measured glucose accuracy or clinical readiness."
+      ],
+      "links": [
+        {
+          "id": "artisense"
+        },
+        {
+          "id": "artisense-validation"
+        }
+      ]
+    },
+    {
+      "id": "aifield",
+      "title": "AIFIELD",
+      "paragraphs": [
+        "Photonic CAD and simulation tooling for exploring geometry, layers and physical behavior. The September 2026 material describes classical simulation work and partially assisted engineering workflows.",
+        "Neural optical-field prediction is a separate research direction. Its assumptions and unresolved questions remain visible alongside the engineering tools."
+      ],
+      "links": [
+        {
+          "id": "aifield"
+        },
+        {
+          "id": "aifield-validation"
+        }
+      ]
+    },
+    {
+      "id": "evidence",
+      "title": "Progress deserves a precise description.",
+      "paragraphs": [
+        "A design answers a design question. A simulation tests a model under assumptions. Neither, on its own, demonstrates the behavior of a fabricated sensing device. Our project pages keep these evidence categories separate."
+      ],
+      "rows": [
+        [
+          "ArtiSense · research",
+          "Optical feasibility and photonic chip-design work; physical sensing validation remains to be established."
+        ],
+        [
+          "AIFIELD · September 2026 snapshot",
+          "Design and classical-simulation examples; neural field research retains boundary-condition and generalization limits."
+        ]
+      ],
+      "links": [
+        {
+          "id": "approach"
+        }
+      ]
+    },
+    {
+      "id": "conversation",
+      "title": "Invest in the questions worth answering.",
+      "paragraphs": [
+        "Explore the roles of both projects, what the available work supports, and which milestones would reduce the next uncertainty. The investment discussion is about Artifactory as a company.",
+        "For technical partners, the conversation can begin with sensing experiments, fabrication and measurement, or evaluation of the photonic design workflow."
+      ],
+      "links": [
+        {
+          "id": "investors"
+        },
+        {
+          "id": "about"
+        },
+        {
+          "id": "partnerships"
+        }
+      ]
+    }
+  ],
+  "relatedIds": [
+    "investors",
+    "projects",
+    "about",
+    "partnerships"
+  ],
+  "project": null,
+  "sourceReferences": [
+    "HP-1.1/project-context",
+    "SM-0.3/home"
+  ],
+  "sourceRevision": "2026-10-09 (AIFIELD snapshot: September 2026)",
+  "editorialState": "draft",
+  "modifiedAt": "2026-10-09T21:00:00.000Z",
+  "reviews": {
+    "facts": null,
+    "language": null,
+    "assets": null
+  },
+  "privateNotes": "Locally authored from supplied summary. Factual, translation and asset owner review pending. Original PDFs were not supplied.",
+  "visual": "company",
+  "visualCaption": "From light to possibility — a conceptual illustration."
+}

@@ -1,0 +1,5 @@
+---
+interface Props {rows:[string,string][];headers:[string,string];label:string;}
+const {rows,headers,label}=Astro.props;
+---
+<div class="table-wrap" role="region" aria-label={label} tabindex="0"><table><thead><tr>{headers.map(h=><th scope="col">{h}</th>)}</tr></thead><tbody>{rows.map(row=><tr><th scope="row">{row[0]}</th><td>{row[1]}</td></tr>)}</tbody></table></div>

@@ -1,0 +1,37 @@
+{
+  "id": "contact",
+  "locale": "pl",
+  "type": "contact",
+  "title": "Zacznijmy rozmowę.",
+  "description": "Porozmawiaj o inwestycji w Artifactory, współpracy badawczej lub demonstracji AIFIELD. Lokalny formularz przyjmuje wyłącznie zapytania testowe.",
+  "eyebrow": "KONTAKT",
+  "lead": "Napisz, jakie pytanie chcesz omówić. Rozmowy inwestycyjne dotyczą Artifactory jako firmy; rozmowę o projekcie lub współpracy można zacząć od konkretnego zagadnienia technicznego.",
+  "sections": [
+    {
+      "id": "next",
+      "title": "Od czego zacząć",
+      "paragraphs": [
+        "Wybierz rodzaj zapytania i, jeśli ma to znaczenie, projekt. Przy rozmowie inwestycyjnej wskaż informacje, które chcesz przeanalizować. Przy współpracy lub demonstracji opisz problem inżynierski i potrzebne dowody.",
+        "Ta wersja służy testowaniu strony. W formularzu używaj wymyślonych danych przykładowych, bez danych osobowych, finansowych i informacji poufnych. Zapytanie o demo AIFIELD rozpoczyna rozmowę; nie zapewnia natychmiastowego dostępu do produktu."
+      ]
+    }
+  ],
+  "relatedIds": [
+    "privacy",
+    "projects"
+  ],
+  "project": null,
+  "sourceReferences": [
+    "HP-1.1/project-context",
+    "SM-0.3/contact"
+  ],
+  "sourceRevision": "2026-10-09 (AIFIELD snapshot: September 2026)",
+  "editorialState": "draft",
+  "modifiedAt": "2026-10-09T21:00:00.000Z",
+  "reviews": {
+    "facts": null,
+    "language": null,
+    "assets": null
+  },
+  "privateNotes": "Locally authored from supplied summary. Factual, translation and asset owner review pending. Original PDFs were not supplied."
+}

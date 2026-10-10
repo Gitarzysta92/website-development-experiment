@@ -1,0 +1,88 @@
+{
+  "id": "approach",
+  "locale": "en",
+  "type": "company",
+  "title": "Let the evidence define the next question.",
+  "description": "A proposed evidence-oriented approach to photonic development: distinguish problems, models, designs, prototypes and physical measurements.",
+  "eyebrow": "ARTIFACTORY / COMPANY",
+  "lead": "A clear progression helps explain what has been learned, what remains an assumption and what a next experiment should resolve.",
+  "sections": [
+    {
+      "id": "progression",
+      "title": "Keep the steps distinguishable.",
+      "paragraphs": [
+        "A problem defines a desired outcome. A model expresses assumptions about how a system behaves. A design turns those assumptions into a candidate structure. A prototype is a physical realization to examine, and a measurement compares observed behavior with an appropriate reference.",
+        "Moving through these steps is not automatic. A useful result may call for a revised model or a narrower question before further development. This is a proposed way to organize the supplied work, not a claim of an independently audited company procedure."
+      ]
+    },
+    {
+      "id": "evidence",
+      "title": "Name the kind of evidence.",
+      "paragraphs": [
+        "The word “result” can hide very different levels of support. Keep the category and the limits attached when summarizing a project."
+      ],
+      "rows": [
+        [
+          "Concept",
+          "Describes intended behavior and architecture. It identifies what needs to be established."
+        ],
+        [
+          "Simulation",
+          "Estimates behavior inside a defined model. Its inputs, assumptions and comparison method remain essential."
+        ],
+        [
+          "Measured evidence",
+          "Describes observations under stated physical conditions. Repeatability, reference and uncertainty determine its meaning."
+        ]
+      ]
+    },
+    {
+      "id": "example",
+      "title": "The sensing-design example makes the distinction concrete.",
+      "paragraphs": [
+        "An intended optical sensing response motivates a candidate photonic design. AIFIELD’s internal glucose-related example concerns that design and simulated behavior. It does not establish that a fabricated ArtiSense device measures glucose accurately.",
+        "The next useful question depends on the gap: inspect the model and comparison first, then define what a physical experiment would need to establish. Progress in design does not automatically close the measurement gap."
+      ],
+      "links": [
+        {
+          "id": "artisense"
+        },
+        {
+          "id": "aifield"
+        }
+      ]
+    },
+    {
+      "id": "decisions",
+      "title": "Use uncertainty to make a specific request.",
+      "paragraphs": [
+        "A discussion becomes more useful when it names an unknown, a possible observation and the expertise needed to interpret it. Retain failed cases and unexpected behavior alongside favorable results.",
+        "For a potential collaboration, describe the question you could help answer and the conditions under which an answer would be meaningful. Topics can include optical measurement, fabrication constraints, model comparisons or engineering workflow evaluation."
+      ],
+      "links": [
+        {
+          "id": "partnerships"
+        }
+      ]
+    }
+  ],
+  "relatedIds": [
+    "artisense",
+    "aifield",
+    "partnerships"
+  ],
+  "project": null,
+  "sourceReferences": [
+    "HP-1.1/project-context",
+    "SM-0.3/approach"
+  ],
+  "sourceRevision": "2026-10-09 (AIFIELD snapshot: September 2026)",
+  "editorialState": "published",
+  "modifiedAt": "2026-10-09T21:00:00.000Z",
+  "reviews": {
+    "facts": "95f51904d014867c022ff6fd8aba88ce0546e213c60f4cb2b58908cb124944be",
+    "language": "95f51904d014867c022ff6fd8aba88ce0546e213c60f4cb2b58908cb124944be",
+    "assets": "95f51904d014867c022ff6fd8aba88ce0546e213c60f4cb2b58908cb124944be"
+  },
+  "privateNotes": "Locally authored from supplied summary. Factual, translation and asset owner review pending. Original PDFs were not supplied."
+}

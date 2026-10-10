@@ -1,0 +1,430 @@
+{
+  "id": "A-pl-aifield-validation-mobile",
+  "label": "A",
+  "locale": "pl",
+  "pageId": "aifield-validation",
+  "view": "mobile",
+  "url": "http://127.0.0.1:4501/pl/projekty/aifield/przyklady-walidacja/",
+  "status": 200,
+  "errors": [],
+  "title": "Przykład projektu. Granica dowodów. | Artifactory",
+  "language": "pl",
+  "h1": [
+    "Przykład projektu. Granica dowodów."
+  ],
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Przykład projektu. Granica dowodów."
+    },
+    {
+      "level": "H2",
+      "text": "Wewnętrzny projekt fotoniczny związany z glukozą."
+    },
+    {
+      "level": "H2",
+      "text": "Odczytaj przykład jako ciąg decyzji inżynierskich."
+    },
+    {
+      "level": "H2",
+      "text": "Czego wymaga porównanie symulacji."
+    },
+    {
+      "level": "H2",
+      "text": "Kolejny zestaw dowodów powinien umożliwiać odtworzenie."
+    },
+    {
+      "level": "H2",
+      "text": "Przyjrzyjmy się temu razem."
+    },
+    {
+      "level": "H2",
+      "text": "Firma"
+    },
+    {
+      "level": "H2",
+      "text": "Projekty"
+    },
+    {
+      "level": "H2",
+      "text": "Porozmawiajmy"
+    }
+  ],
+  "text": "Przejdź do treści\nWersja lokalna · Badania w toku\na·\nartifactory\nMenu\n☰\nStrona główna\nProjekty\nAIFIELD\nPrzykłady i walidacja\n\nAIFIELD / INŻYNIERIA FOTONICZNA\n\nPrzykład projektu. Granica dowodów.\n\nPrześledź działania inżynierskie, zachowując różnicę między wynikiem projektowania a zmierzonym rezultatem pomiarowym.\n\nStan opisany we wrześniu 2026 · aktualny dostęp do uzgodnienia\nAIFIELD — na tej stronie\n⌄\n\nCzęść projektu AIFIELD firmy Artifactory.\n\n01\nCel pomiarowy\n\nZamierzone badanie optyczne związane z glukozą.\n\n↓\n02\nWynik projektowy\n\nProponowana geometria i jawne założenia modelu.\n\n↓\n03\nWynik symulacji\n\nOceń modelowane zachowanie; zachowaj warunki odniesienia.\n\n↓\n04\nPotrzebne dowody\n\nOdtwarzalne porównanie, następnie odrębna walidacja fizyczna.\n\nDiagram objaśniający koncepcję, nie interfejs programu ani wynik eksperymentu.\nWewnętrzny projekt fotoniczny związany z glukozą.\n\nMateriał demonstracyjny z września 2026 obejmuje wewnętrzny przykład projektu fotonicznego chipu do badań nad pomiarem glukozy. Łączy zamierzone pytanie pomiarowe z definiowaniem struktury fotonicznej i badaniem jej zachowania w modelu.\n\nTo wewnętrzna praca projektowa. Dostarczony opis nie potwierdza zewnętrznego klienta, wdrożenia produkcyjnego ani pomiaru wykonanego chipu. Odrębne pytanie o walidację pomiaru omawia strona dowodów ArtiSense.\n\nBadania i walidacja\n↗\nOdczytaj przykład jako ciąg decyzji inżynierskich.\n\nObjaśniająca sekwencja zaczyna się od celu pomiarowego i proponowanej struktury optycznej. Geometria i założenia modelu określają możliwą symulację. Projekt i modelowaną odpowiedź można następnie ocenić, aby wskazać potrzebne zmiany lub badania fizyczne.\n\nPodsumowanie uzasadnia jakościowy opis tej pracy. Nie zawiera oryginalnego pliku projektu ani wyniku liczbowego możliwego do odtworzenia na stronie. Diagram objaśnia kolejność; nie jest zrzutem interfejsu ani wykresem eksperymentu.\n\nProjektowanie i symulacja\n↗\nCzego wymaga porównanie symulacji.\n\nŹródło wspomina o porównaniach wewnętrznych. Ich interpretacja wymaga metody odniesienia, zgodnej geometrii i materiałów, źródła oraz warunków brzegowych, ustawień numerycznych i porównywanej wielkości.\n\nDostarczone podsumowanie nie zawiera tych szczegółów na poziomie pozwalającym odtworzyć obliczenia. Nie określa też liczbowo przypadków udanych i nieudanych. Brakujących liczb nie zastępujemy oceną benchmarku ani twierdzeniem o powszechnej zgodności.\n\nObszar\tZakres i ograniczenia\nProces projektowy\tOpisano wewnętrzny przykład. Pozwala omówić pracę inżynierską, lecz nie dowodzi przyjęcia narzędzia przez klientów.\nPorównanie klasyczne\tWspomniano porównania wewnętrzne; ustawienia odniesienia i liczbowe sukcesy lub rozbieżności są tutaj niedostępne.\nPrzewidywanie neuronowe\tOdrębny kierunek badań z ograniczeniami dotyczącymi brzegów, generalizacji i łączenia obszarów.\nPomiar fizyczny\tPrzykład projektowy nie potwierdza wytworzenia ani zmierzonych parametrów pomiaru.\nKolejny zestaw dowodów powinien umożliwiać odtworzenie.\n\nProponowany kolejny etap to możliwy do oceny zapis projektu i symulacji: wersjonowane dane, ustawienia narzędzi, warunki odniesienia, wyniki i znane rozbieżności. Późniejsze porównanie fizyczne wymagałoby własnych dowodów wytworzenia i pomiarów.\n\nTo potrzeby dowodowe, a nie zakończone etapy ani obiecane terminy. Demo o uzgodnionym zakresie może wyjaśnić dostępne obecnie elementy procesu i wymagania oceny konkretnego zadania inżynierskiego.\n\nBadania neuronowych modeli pola\n↗\nDla inwestorów\n↗\nKontakt\n↗\n\nZACZNIJMY OD PYTANIA\n\nPrzyjrzyjmy się temu razem.\nPoproś o demo\n↗\nMożliwości współpracy ↗\nartifactory·\n\nTechnologie pomiarowe i narzędzia do projektowania systemów fotonicznych.\n\ninfo@artifactory.tech\n↗\nFirma\nStrona główna\nProjekty\nDla inwestorów\nJak pracujemy\nO nas\nProjekty\nArtiSense\nAIFIELD\nPorozmawiajmy\nWspółpraca\nKontakt\nPolityka prywatności\nArtifactory\nŚwiatło otwiera nowe możliwości.",
+  "links": [
+    {
+      "text": "Przejdź do treści",
+      "href": "#main",
+      "lang": ""
+    },
+    {
+      "text": "a·\nartifactory",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "Wszystkie projekty↗",
+      "href": "/pl/projekty/",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSense↗",
+      "href": "/pl/projekty/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELD↗",
+      "href": "/pl/projekty/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Dla inwestorów",
+      "href": "/pl/inwestorzy/",
+      "lang": ""
+    },
+    {
+      "text": "Jak pracujemy",
+      "href": "/pl/jak-pracujemy/",
+      "lang": ""
+    },
+    {
+      "text": "O nas",
+      "href": "/pl/o-nas/",
+      "lang": ""
+    },
+    {
+      "text": "Współpraca",
+      "href": "/pl/wspolpraca/",
+      "lang": ""
+    },
+    {
+      "text": "Kontakt",
+      "href": "/pl/kontakt/",
+      "lang": ""
+    },
+    {
+      "text": "EN ↔",
+      "href": "http://127.0.0.1:4501/en/projects/aifield/examples-validation/",
+      "lang": "en"
+    },
+    {
+      "text": "Porozmawiajmy↗",
+      "href": "/pl/kontakt/?intent=investment",
+      "lang": ""
+    },
+    {
+      "text": "Strona główna",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "Projekty",
+      "href": "/pl/projekty/",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELD",
+      "href": "/pl/projekty/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Przegląd",
+      "href": "/pl/projekty/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Projektowanie i symulacja",
+      "href": "/pl/projekty/aifield/projektowanie-symulacja/",
+      "lang": ""
+    },
+    {
+      "text": "Praca z AI",
+      "href": "/pl/projekty/aifield/praca-z-ai/",
+      "lang": ""
+    },
+    {
+      "text": "Badania neuronowych modeli pola",
+      "href": "/pl/projekty/aifield/badania-modeli-pola/",
+      "lang": ""
+    },
+    {
+      "text": "Przykłady i walidacja",
+      "href": "/pl/projekty/aifield/przyklady-walidacja/",
+      "lang": ""
+    },
+    {
+      "text": "Wewnętrzny projekt fotoniczny związany z glukozą.",
+      "href": "#example",
+      "lang": ""
+    },
+    {
+      "text": "Odczytaj przykład jako ciąg decyzji inżynierskich.",
+      "href": "#workflow",
+      "lang": ""
+    },
+    {
+      "text": "Czego wymaga porównanie symulacji.",
+      "href": "#comparison",
+      "lang": ""
+    },
+    {
+      "text": "Kolejny zestaw dowodów powinien umożliwiać odtworzenie.",
+      "href": "#next",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELD",
+      "href": "/pl/projekty/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Badania i walidacja\n↗",
+      "href": "/pl/projekty/artisense/badania-walidacja/",
+      "lang": ""
+    },
+    {
+      "text": "Projektowanie i symulacja\n↗",
+      "href": "/pl/projekty/aifield/projektowanie-symulacja/",
+      "lang": ""
+    },
+    {
+      "text": "Badania neuronowych modeli pola\n↗",
+      "href": "/pl/projekty/aifield/badania-modeli-pola/",
+      "lang": ""
+    },
+    {
+      "text": "Dla inwestorów\n↗",
+      "href": "/pl/inwestorzy/",
+      "lang": ""
+    },
+    {
+      "text": "Kontakt\n↗",
+      "href": "/pl/kontakt/",
+      "lang": ""
+    },
+    {
+      "text": "Poproś o demo\n↗",
+      "href": "/pl/kontakt/?intent=demo&project=aifield",
+      "lang": ""
+    },
+    {
+      "text": "Możliwości współpracy ↗",
+      "href": "/pl/wspolpraca/",
+      "lang": ""
+    },
+    {
+      "text": "artifactory·",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "info@artifactory.tech\n↗",
+      "href": "mailto:info@artifactory.tech",
+      "lang": ""
+    },
+    {
+      "text": "Strona główna",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "Projekty",
+      "href": "/pl/projekty/",
+      "lang": ""
+    },
+    {
+      "text": "Dla inwestorów",
+      "href": "/pl/inwestorzy/",
+      "lang": ""
+    },
+    {
+      "text": "Jak pracujemy",
+      "href": "/pl/jak-pracujemy/",
+      "lang": ""
+    },
+    {
+      "text": "O nas",
+      "href": "/pl/o-nas/",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSense",
+      "href": "/pl/projekty/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELD",
+      "href": "/pl/projekty/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Współpraca",
+      "href": "/pl/wspolpraca/",
+      "lang": ""
+    },
+    {
+      "text": "Kontakt",
+      "href": "/pl/kontakt/",
+      "lang": ""
+    },
+    {
+      "text": "Polityka prywatności",
+      "href": "/pl/prywatnosc/",
+      "lang": ""
+    }
+  ],
+  "metadata": [
+    {
+      "name": "viewport",
+      "content": "width=device-width, initial-scale=1"
+    },
+    {
+      "name": "description",
+      "content": "Wewnętrzny przykład projektu fotonicznego chipu glukozowego, porównania klasycznych symulacji i ograniczenia dostępnych dowodów AIFIELD."
+    },
+    {
+      "name": "robots",
+      "content": "noindex, nofollow"
+    },
+    {
+      "rel": "canonical",
+      "href": "http://127.0.0.1:4501/pl/projekty/aifield/przyklady-walidacja/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "en",
+      "href": "http://127.0.0.1:4501/en/projects/aifield/examples-validation/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "pl",
+      "href": "http://127.0.0.1:4501/pl/projekty/aifield/przyklady-walidacja/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "x-default",
+      "href": "http://127.0.0.1:4501/en/projects/aifield/examples-validation/"
+    },
+    {
+      "property": "og:type",
+      "content": "website"
+    },
+    {
+      "property": "og:site_name",
+      "content": "Artifactory"
+    },
+    {
+      "property": "og:title",
+      "content": "Przykład projektu. Granica dowodów. | Artifactory"
+    },
+    {
+      "property": "og:description",
+      "content": "Wewnętrzny przykład projektu fotonicznego chipu glukozowego, porównania klasycznych symulacji i ograniczenia dostępnych dowodów AIFIELD."
+    },
+    {
+      "property": "og:url",
+      "content": "http://127.0.0.1:4501/pl/projekty/aifield/przyklady-walidacja/"
+    },
+    {
+      "property": "og:locale",
+      "content": "pl_PL"
+    },
+    {
+      "property": "og:image",
+      "content": "http://127.0.0.1:4501/brand/share-v1.svg"
+    },
+    {
+      "property": "og:image:width",
+      "content": "1200"
+    },
+    {
+      "property": "og:image:height",
+      "content": "630"
+    }
+  ],
+  "forms": [],
+  "images": [],
+  "viewport": {
+    "width": 390,
+    "height": 844,
+    "scrollWidth": 375
+  },
+  "overflowing": [
+    {
+      "tag": "TABLE",
+      "class": "",
+      "text": "Obszar\tZakres i ograniczenia\nProces projektowy\tOpisano wewnętrzny przykład. Pozwala omówić pracę inż"
+    },
+    {
+      "tag": "THEAD",
+      "class": "",
+      "text": "Obszar\tZakres i ograniczenia\n"
+    },
+    {
+      "tag": "TR",
+      "class": "",
+      "text": "Obszar\tZakres i ograniczenia"
+    },
+    {
+      "tag": "TH",
+      "class": "",
+      "text": "Zakres i ograniczenia"
+    },
+    {
+      "tag": "TBODY",
+      "class": "",
+      "text": "Proces projektowy\tOpisano wewnętrzny przykład. Pozwala omówić pracę inżynierską, lecz nie dowodzi pr"
+    },
+    {
+      "tag": "TR",
+      "class": "",
+      "text": "Proces projektowy\tOpisano wewnętrzny przykład. Pozwala omówić pracę inżynierską, lecz nie dowodzi pr"
+    },
+    {
+      "tag": "TD",
+      "class": "",
+      "text": "Opisano wewnętrzny przykład. Pozwala omówić pracę inżynierską, lecz nie dowodzi przyjęcia narzędzia "
+    },
+    {
+      "tag": "TR",
+      "class": "",
+      "text": "Porównanie klasyczne\tWspomniano porównania wewnętrzne; ustawienia odniesienia i liczbowe sukcesy lub"
+    },
+    {
+      "tag": "TD",
+      "class": "",
+      "text": "Wspomniano porównania wewnętrzne; ustawienia odniesienia i liczbowe sukcesy lub rozbieżności są tuta"
+    },
+    {
+      "tag": "TR",
+      "class": "",
+      "text": "Przewidywanie neuronowe\tOdrębny kierunek badań z ograniczeniami dotyczącymi brzegów, generalizacji i"
+    },
+    {
+      "tag": "TD",
+      "class": "",
+      "text": "Odrębny kierunek badań z ograniczeniami dotyczącymi brzegów, generalizacji i łączenia obszarów."
+    },
+    {
+      "tag": "TR",
+      "class": "",
+      "text": "Pomiar fizyczny\tPrzykład projektowy nie potwierdza wytworzenia ani zmierzonych parametrów pomiaru."
+    },
+    {
+      "tag": "TD",
+      "class": "",
+      "text": "Przykład projektowy nie potwierdza wytworzenia ani zmierzonych parametrów pomiaru."
+    }
+  ],
+  "axe": {
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "impact": "serious",
+        "nodeCount": 9
+      }
+    ],
+    "passes": 45
+  }
+}

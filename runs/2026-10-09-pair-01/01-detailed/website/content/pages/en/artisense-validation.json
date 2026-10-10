@@ -1,0 +1,105 @@
+{
+  "id": "artisense-validation",
+  "locale": "en",
+  "type": "detail",
+  "title": "What has been explored. What remains to be shown.",
+  "description": "An evidence-led view of ArtiSense: optical feasibility, photonic glucose chip design, unmeasured questions and the distinction between simulation and physical validation.",
+  "eyebrow": "ARTISENSE / RESEARCH & VALIDATION",
+  "lead": "A credible sensing result needs more than a promising design. Here is the boundary between the supplied work and the next experimental questions.",
+  "sections": [
+    {
+      "id": "available",
+      "title": "Optical feasibility and chip design.",
+      "paragraphs": [
+        "The supplied context, prepared in October 2026, summarizes glucose-related optical feasibility work and photonic chip design. These activities investigate whether an optical design is worth taking further and how a candidate structure might behave in a model.",
+        "The source summary does not include the original figures, full experiment settings or numerical results. It therefore supports a qualitative account of the research direction, not a recreated benchmark table or an independently checked performance claim.",
+        "AIFIELD’s worked design example explains the engineering activity. It does not supply missing experimental evidence for the ArtiSense measurement objective."
+      ],
+      "links": [
+        {
+          "id": "aifield-validation"
+        }
+      ]
+    },
+    {
+      "id": "meaning",
+      "title": "Different evidence answers different questions.",
+      "paragraphs": [
+        "A concept states what a system is intended to do. A simulation estimates behavior inside a model. A fabricated-device experiment asks whether a physical implementation behaves as expected. A claim about human use would require a further, appropriately designed body of evidence."
+      ],
+      "rows": [
+        [
+          "Optical feasibility",
+          "Supports investigation of an optical mechanism under specified assumptions; it does not establish a reliable measurement in use."
+        ],
+        [
+          "Photonic chip design",
+          "Supports a candidate geometry and engineering workflow; it is not proof of fabrication or integration."
+        ],
+        [
+          "Physical sensing performance",
+          "Not established by the supplied summary. No measured glucose accuracy is published here."
+        ],
+        [
+          "Clinical or wearable use",
+          "Not validated in the supplied material. Intended form factors must not be treated as approved applications."
+        ]
+      ]
+    },
+    {
+      "id": "conditions",
+      "title": "Make the comparison inspectable.",
+      "paragraphs": [
+        "Before a quantitative result can be useful, its illumination, sample, reference, detector and processing conditions need to be stated. The reader also needs to know what was repeated, what changed, which cases did not work and what uncertainty remains.",
+        "Those details have not been supplied at a level that allows a numerical result to be reproduced here. This is a limitation of the available evidence, not a reason to infer a favorable outcome. It also makes the next technical conversation more specific."
+      ],
+      "links": [
+        {
+          "id": "artisense-technology"
+        }
+      ]
+    },
+    {
+      "id": "next",
+      "title": "A proposed sequence of validation questions.",
+      "paragraphs": [
+        "First define the target response and reference comparison. Then assess repeatability and interfering effects in a controlled setting. A candidate physical structure would need to be compared with its model before an integrated sensing system could be evaluated.",
+        "Progression should depend on what those results establish. No confirmed experimental dates, completed fabrication step or clinical study is asserted. This sequence is a proposed way to frame evidence needs, not a promised company schedule."
+      ],
+      "items": [
+        "What observation would support or reject the optical hypothesis?",
+        "Which assumptions matter most when moving from model to fabricated structure?",
+        "What must remain stable for an interpreted signal to be useful?"
+      ],
+      "links": [
+        {
+          "id": "partnerships"
+        },
+        {
+          "id": "investors"
+        }
+      ]
+    }
+  ],
+  "relatedIds": [
+    "artisense-technology",
+    "aifield-validation",
+    "investors",
+    "partnerships"
+  ],
+  "project": "artisense",
+  "sourceReferences": [
+    "HP-1.1/project-context",
+    "SM-0.3/artisense-validation"
+  ],
+  "sourceRevision": "2026-10-09 (AIFIELD snapshot: September 2026)",
+  "editorialState": "draft",
+  "modifiedAt": "2026-10-09T21:00:00.000Z",
+  "reviews": {
+    "facts": null,
+    "language": null,
+    "assets": null
+  },
+  "privateNotes": "Locally authored from supplied summary. Factual, translation and asset owner review pending. Original PDFs were not supplied.",
+  "maturity": "Design and simulation evidence · physical validation remains open"
+}

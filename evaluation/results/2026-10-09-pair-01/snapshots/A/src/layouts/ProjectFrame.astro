@@ -1,0 +1,9 @@
+---
+import ProjectNavigation from '../partials/ProjectNavigation.astro';
+import ContentsNavigation from '../partials/ContentsNavigation.astro';
+import { routeFor } from '../navigation/index';
+import type { PageView } from '../content/index';
+interface Props {page:PageView;}
+const {page}=Astro.props;
+---
+<div class="container reading-grid"><aside class="reading-aside"><div class="reading-aside-inner">{page.project&&<ProjectNavigation id={page.id} locale={page.locale} project={page.project}/>}<ContentsNavigation sections={page.sections} locale={page.locale}/></div></aside><div class="reading-main">{page.project&&page.id!==page.project&&<p class="project-context">{page.locale==='pl'?'Część projektu':'Part of'} <a href={routeFor(page.project,page.locale)}>{page.project==='artisense'?'ArtiSense':'AIFIELD'}</a> {page.locale==='pl'?'firmy Artifactory.':'by Artifactory.'}</p>}<slot name="body"/><slot/></div></div>

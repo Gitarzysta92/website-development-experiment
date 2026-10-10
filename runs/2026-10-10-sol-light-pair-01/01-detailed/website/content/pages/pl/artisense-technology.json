@@ -1,0 +1,46 @@
+{
+  "id": "artisense-technology",
+  "locale": "pl",
+  "title": "Jak działa koncepcja pomiaru",
+  "lead": "Proponowany łańcuch prowadzi od oświetlenia przez odpowiedź optyczną i detekcję do interpretacji.",
+  "description": "Każdy etap wymaga sprawdzenia założeń, zanim można mówić o zintegrowanym urządzeniu.",
+  "eyebrow": "ArtiSense",
+  "sections": [
+    {
+      "id": "focus",
+      "title": "Od próbki do sygnału",
+      "paragraphs": [
+        "Światło widzialne lub podczerwone mogłoby oddziaływać z próbką. Detektor rejestrowałby odpowiedź do porównania ze wzorcem; znaczenie mają geometria, szum i zmienność próbek."
+      ]
+    },
+    {
+      "id": "evidence",
+      "title": "Osobna propozycja przetwarzania",
+      "paragraphs": [
+        "W opisywanej architekturze pojawia się programowalny analogowy procesor neuromorficzny. Jest odrębny od badań AIFIELD nad neuronową predykcją pola."
+      ]
+    },
+    {
+      "id": "next",
+      "title": "Pytania o integrację",
+      "paragraphs": [
+        "Kalibracja, obudowa optyczna, elektronika, oprogramowanie i łączność wpłyną na działanie systemu. Łączne parametry nie są potwierdzone."
+      ]
+    }
+  ],
+  "related": [
+    "artisense",
+    "artisense-technology",
+    "artisense-applications",
+    "artisense-validation",
+    "partnerships"
+  ],
+  "stage": "Local draft · source context October 2026",
+  "pageType": "project",
+  "sourceReferences": [
+    "HP-1.1 project-context 2026-10-09"
+  ],
+  "sourceRevision": "2026-10-09",
+  "editorialState": "draft",
+  "modifiedAt": "2026-10-10"
+}

@@ -1,0 +1,93 @@
+{
+  "id": "aifield-design",
+  "locale": "pl",
+  "type": "detail",
+  "title": "Połącz strukturę z symulacją.",
+  "description": "Geometria, warstwy, założenia procesu i klasyczne zadania symulacyjne w procesie projektowym AIFIELD opisanym we wrześniu 2026.",
+  "eyebrow": "AIFIELD / INŻYNIERIA FOTONICZNA",
+  "lead": "Wynik inżynierski jest użyteczny, gdy można powiązać go z decyzjami projektowymi i warunkami, w których powstał.",
+  "sections": [
+    {
+      "id": "setup",
+      "title": "Określ obiekt przed uruchomieniem obliczeń.",
+      "paragraphs": [
+        "Podsumowanie z września 2026 opisuje obsługę geometrii oraz warstw i procesów. Określają one kontekst struktury fotonicznej: narysowany kształt, reprezentowane materiały i warstwy oraz przyjęte założenia technologiczne.",
+        "Przygotowanie obejmuje także pytanie: własność modu, odpowiedź obwodu, rozkład pola czy efekt cieplny. Dostarczony materiał nie ustala pełnej listy formatów, biblioteki procesów ani gwarancji eksportu gotowego do wytworzenia."
+      ]
+    },
+    {
+      "id": "tasks",
+      "title": "Dobierz model do pytania.",
+      "paragraphs": [
+        "Źródło opisuje prace w czterech obszarach klasycznej symulacji. Ich wyniki odpowiadają na różne pytania inżynierskie i należy je interpretować w granicach odpowiednich danych wejściowych i założeń."
+      ],
+      "rows": [
+        [
+          "Mody",
+          "Badanie zachowania optycznego w określonej strukturze. Geometria, materiały i warunki brzegowe pozostają częścią wyniku."
+        ],
+        [
+          "Obwody",
+          "Badanie odpowiedzi na poziomie połączonych elementów. Ważne są modele elementów i zakres ich stosowalności."
+        ],
+        [
+          "Pole",
+          "Analiza przestrzennego zachowania optycznego w modelowanym obszarze. Źródła, brzegi i dyskretyzacja wpływają na interpretację."
+        ],
+        [
+          "Zjawiska cieplne",
+          "Badanie modelowanego rozkładu temperatury i jego znaczenia inżynierskiego. Dane cieplne i założenia sprzężeń wymagają oceny."
+        ]
+      ]
+    },
+    {
+      "id": "sequence",
+      "title": "Zachowaj związek danych z wynikiem.",
+      "paragraphs": [
+        "Zacznij od geometrii i definicji modelu. Oceń ustawienia przed wykonaniem wybranego obliczenia. Sprawdź wynik wraz z parametrami, następnie zmień uzasadniony element projektu i ponownie porównaj.",
+        "Ta objaśniająca sekwencja pokazuje odpowiedzialności; nie oznacza automatyzacji każdego kroku ani niezależnej walidacji wszystkich narzędzi. Inżynier ocenia, czy model odpowiada zamierzonemu pytaniu fizycznemu."
+      ],
+      "links": [
+        {
+          "id": "aifield-ai"
+        }
+      ]
+    },
+    {
+      "id": "limits",
+      "title": "Model daje odpowiedź warunkową.",
+      "paragraphs": [
+        "Dostarczone podsumowanie nie zawiera ustawień solverów, zapisów zbieżności ani tabel wyników wystarczających do odtworzenia obliczeń na tej stronie. Nie deklarujemy uniwersalnej dokładności, czasu działania ani zgodności produkcyjnej.",
+        "W rozmowie technicznej określ potrzebne dane, oczekiwany wynik i porównanie odniesienia. Bieżąca obsługa formatów, dostęp i praktyczne ograniczenia wymagają potwierdzenia dla danego zadania."
+      ],
+      "links": [
+        {
+          "id": "aifield-validation"
+        },
+        {
+          "id": "contact"
+        }
+      ]
+    }
+  ],
+  "relatedIds": [
+    "aifield-validation",
+    "aifield-ai",
+    "contact"
+  ],
+  "project": "aifield",
+  "sourceReferences": [
+    "HP-1.1/project-context",
+    "SM-0.3/aifield-design"
+  ],
+  "sourceRevision": "2026-10-09 (AIFIELD snapshot: September 2026)",
+  "editorialState": "published",
+  "modifiedAt": "2026-10-09T21:00:00.000Z",
+  "reviews": {
+    "facts": "db20c1b58f60b854489df07bdf2b2968c5dd1c48f57520b5db8471cfd13ee870",
+    "language": "db20c1b58f60b854489df07bdf2b2968c5dd1c48f57520b5db8471cfd13ee870",
+    "assets": "db20c1b58f60b854489df07bdf2b2968c5dd1c48f57520b5db8471cfd13ee870"
+  },
+  "privateNotes": "Locally authored from supplied summary. Factual, translation and asset owner review pending. Original PDFs were not supplied.",
+  "maturity": "Stan opisany we wrześniu 2026 · aktualny dostęp do uzgodnienia"
+}

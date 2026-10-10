@@ -1,0 +1,8 @@
+---
+import { routeFor, type Locale } from '../navigation';
+const {locale} = Astro.props as {locale:Locale};
+const t=locale==='en'?{line:'Exploring photonic sensing and the tools used to design it.',company:'Company',explore:'Explore',note:'Local draft · Business and scientific claims await owner review.'}:{line:'Badania detekcji fotonicznej i narzędzi do jej projektowania.',company:'Spółka',explore:'Odkryj',note:'Lokalny szkic · Treści wymagają przeglądu właściciela.'};
+const company=['investors','approach','about','partnerships','contact','privacy'] as const;const explore=['projects','artisense','aifield'] as const;
+const labels:Record<string,[string,string]>={investors:['Investors','Inwestorzy'],approach:['Our Approach','Jak pracujemy'],about:['About','O nas'],partnerships:['Partnerships','Współpraca'],contact:['Contact','Kontakt'],privacy:['Privacy','Prywatność'],projects:['Projects','Projekty'],artisense:['ArtiSense','ArtiSense'],aifield:['AIFIELD','AIFIELD']};
+---
+<footer class="footer"><div class="container footer-grid"><div><a class="brand" href={routeFor('home',locale)}>Arti<span>factory</span></a><p class="foot-note">{t.line}</p><a href="mailto:info@artifactory.tech">info@artifactory.tech</a></div><div><strong>{t.company}</strong><div class="footer-links">{company.map(id=><a href={routeFor(id,locale)}>{labels[id][locale==='en'?0:1]}</a>)}</div></div><div><strong>{t.explore}</strong><div class="footer-links">{explore.map(id=><a href={routeFor(id,locale)}>{labels[id][locale==='en'?0:1]}</a>)}</div></div></div><div class="container"><small>{t.note}</small></div></footer>

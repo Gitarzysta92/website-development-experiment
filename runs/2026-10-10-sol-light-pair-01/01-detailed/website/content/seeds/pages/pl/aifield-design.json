@@ -1,0 +1,47 @@
+{
+  "id": "aifield-design",
+  "locale": "pl",
+  "title": "Projektowanie, symulacja, analiza",
+  "lead": "Inżynieria fotoniczna łączy geometrię, założenia technologiczne i różne rodzaje symulacji.",
+  "description": "Opisywany proces AIFIELD ma ułatwiać wspólną analizę tych etapów wraz z warunkami uzyskania wyników.",
+  "eyebrow": "AIFIELD",
+  "sections": [
+    {
+      "id": "focus",
+      "title": "Dane wejściowe",
+      "paragraphs": [
+        "Stosy warstw i opisy procesu określają geometrię obliczeń. Wynik powinien zachować założenia dotyczące materiałów, granic i produkcji."
+      ]
+    },
+    {
+      "id": "evidence",
+      "title": "Różne pytania symulacyjne",
+      "paragraphs": [
+        "Symulacje modów, obwodów, pola i temperatury służą innym celom. Zgodność jednego obliczenia nie dowodzi działania fizycznego układu."
+      ]
+    },
+    {
+      "id": "next",
+      "title": "Przykład projektu glukozowego",
+      "paragraphs": [
+        "Przykład pokazuje projektowanie związane z ArtiSense. To artefakt projektowy i symulacyjny, nie wynik pomiaru glukozy."
+      ]
+    }
+  ],
+  "related": [
+    "aifield",
+    "aifield-design",
+    "aifield-ai",
+    "aifield-neural",
+    "aifield-validation",
+    "partnerships"
+  ],
+  "stage": "Local draft · source context October 2026",
+  "pageType": "project",
+  "sourceReferences": [
+    "HP-1.1 project-context 2026-10-09"
+  ],
+  "sourceRevision": "2026-10-09",
+  "editorialState": "draft",
+  "modifiedAt": "2026-10-10"
+}

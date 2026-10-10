@@ -1,0 +1,10 @@
+---
+import type {PageView} from '../content/index';
+import {company} from '../content/index';
+import EnquiryForm from '../features/enquiry/presentation/EnquiryForm.astro';
+import {formCopy} from '../features/enquiry/presentation/copy';
+interface Props{page:PageView;}
+const {page}=Astro.props;const t=formCopy[page.locale];
+---
+<section class="contact-section container"><div class="contact-copy"><p class="eyebrow">{page.eyebrow}</p><h1>{page.title}</h1><p class="lead">{page.lead}</p><div class="contact-detail"><h2>{page.sections[0].title}</h2>{page.sections[0].paragraphs.map(p=><p>{p}</p>)}</div><div class="email-alternative"><h2>{t.emailHeading}</h2><a class="contact-email" href={`mailto:${company.email}`}>{company.email} <span aria-hidden="true">↗</span></a><p>{t.emailNote}</p></div></div><EnquiryForm locale={page.locale}/></section>
+<style>.contact-section{display:grid;grid-template-columns:1fr 1.1fr;gap:72px;padding-block:48px 96px;align-items:start}.contact-section h1{font-size:clamp(40px,4.5vw,64px);max-width:12ch}.contact-detail{margin-top:48px}.contact-detail h2,.email-alternative h2{font-size:22px;letter-spacing:-.02em;margin-bottom:16px}.contact-detail p,.email-alternative p{font-size:16px;color:var(--af-muted)}.email-alternative{border-top:1px solid var(--af-line);margin-top:40px;padding-top:32px}.contact-email{display:inline-flex;gap:24px;align-items:center;font-size:22px;margin-bottom:16px;min-height:44px;overflow-wrap:anywhere}@media(max-width:72rem){.contact-section{gap:32px}}@media(max-width:48rem){.contact-section{grid-template-columns:1fr;padding-block:24px 64px;gap:40px}.contact-detail{margin-top:32px}}</style>

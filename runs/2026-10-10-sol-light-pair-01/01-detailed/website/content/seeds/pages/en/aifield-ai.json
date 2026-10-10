@@ -1,0 +1,47 @@
+{
+  "id": "aifield-ai",
+  "locale": "en",
+  "title": "Assistance with a human in control",
+  "lead": "AI-assisted workflows can propose engineering steps, while review and application remain human responsibilities.",
+  "description": "The described explorations use command-line and Model Context Protocol interfaces; they support partial assistance rather than autonomous chip design.",
+  "eyebrow": "AIFIELD",
+  "sections": [
+    {
+      "id": "focus",
+      "title": "A bounded workflow",
+      "paragraphs": [
+        "An engineer can define a task, receive a proposed action, inspect its assumptions and run or apply an accepted step. Results still need conventional checks."
+      ]
+    },
+    {
+      "id": "evidence",
+      "title": "Where information goes",
+      "paragraphs": [
+        "Local solver execution and any information sent to an external assistant are different boundaries. Confidentiality properties depend on the actual configuration and require confirmation."
+      ]
+    },
+    {
+      "id": "next",
+      "title": "What remains to prove",
+      "paragraphs": [
+        "Repeatability, failure handling, auditability and value relative to a manual workflow need systematic evaluation before broader operational claims."
+      ]
+    }
+  ],
+  "related": [
+    "aifield",
+    "aifield-design",
+    "aifield-ai",
+    "aifield-neural",
+    "aifield-validation",
+    "partnerships"
+  ],
+  "stage": "Local draft · source context October 2026",
+  "pageType": "project",
+  "sourceReferences": [
+    "HP-1.1 project-context 2026-10-09"
+  ],
+  "sourceRevision": "2026-10-09",
+  "editorialState": "draft",
+  "modifiedAt": "2026-10-10"
+}

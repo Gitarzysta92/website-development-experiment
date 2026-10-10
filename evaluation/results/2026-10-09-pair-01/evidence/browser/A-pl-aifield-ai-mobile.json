@@ -1,0 +1,354 @@
+{
+  "id": "A-pl-aifield-ai-mobile",
+  "label": "A",
+  "locale": "pl",
+  "pageId": "aifield-ai",
+  "view": "mobile",
+  "url": "http://127.0.0.1:4501/pl/projekty/aifield/praca-z-ai/",
+  "status": 200,
+  "errors": [],
+  "title": "Wsparcie z miejscem na ocenę człowieka. | Artifactory",
+  "language": "pl",
+  "h1": [
+    "Wsparcie z miejscem na ocenę człowieka."
+  ],
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Wsparcie z miejscem na ocenę człowieka."
+    },
+    {
+      "level": "H2",
+      "text": "Od zamiaru do propozycji działania."
+    },
+    {
+      "level": "H2",
+      "text": "Zastosowanie i ocena pozostają po stronie człowieka."
+    },
+    {
+      "level": "H2",
+      "text": "Ustal, gdzie trafiają informacje."
+    },
+    {
+      "level": "H2",
+      "text": "Oceń całą sekwencję, także niepowodzenia."
+    },
+    {
+      "level": "H2",
+      "text": "Przyjrzyjmy się temu razem."
+    },
+    {
+      "level": "H2",
+      "text": "Firma"
+    },
+    {
+      "level": "H2",
+      "text": "Projekty"
+    },
+    {
+      "level": "H2",
+      "text": "Porozmawiajmy"
+    }
+  ],
+  "text": "Przejdź do treści\nWersja lokalna · Badania w toku\na·\nartifactory\nMenu\n☰\nStrona główna\nProjekty\nAIFIELD\nPraca z AI\n\nAIFIELD / INŻYNIERIA FOTONICZNA\n\nWsparcie z miejscem na ocenę człowieka.\n\nPolecenie może rozpocząć użyteczne działanie inżynierskie. Nadal trzeba sprawdzić, co narzędzie zmieniło i co oznacza wynik.\n\nStan opisany we wrześniu 2026 · aktualny dostęp do uzgodnienia\nAIFIELD — na tej stronie\n⌄\n\nCzęść projektu AIFIELD firmy Artifactory.\n\n01\nCzłowiek → polecenie\n\nOkreśl niepoufne zadanie i jego granice.\n\n↓\n02\nAsystent → propozycja\n\nZaproponuj zmianę lub udostępnioną operację CLI/MCP.\n\n↓\n03\nCzłowiek → zastosowanie\n\nOceń cel, parametry i proponowane działanie.\n\n↓\n04\nNarzędzie → wynik\n\nWykonaj przyjętą operację; ujawnij niepowodzenia.\n\n↓\n05\nCzłowiek → ocena\n\nSprawdź wynik i jego znaczenie inżynierskie.\n\nDiagram objaśniający koncepcję, nie interfejs programu ani wynik eksperymentu.\nOd zamiaru do propozycji działania.\n\nCzłowiek określa zadanie i potrzebny kontekst projektu. Asystent może zaproponować zmiany lub wywołania narzędzi. Materiał z września 2026 opisuje częściowe wsparcie przez interfejs wiersza poleceń oraz Model Context Protocol (MCP).\n\nInterfejs wiersza poleceń udostępnia określoną operację. MCP umożliwia asystentowi wywoływanie udostępnionych narzędzi. Żaden z tych interfejsów nie potwierdza fizycznej zasadności operacji ani nie zastępuje jej oceny.\n\nZastosowanie i ocena pozostają po stronie człowieka.\n\nOpisany proces obejmuje zastosowanie i sprawdzenie propozycji przez człowieka. Przed przyjęciem zmiany należy ocenić jej cel, parametry i wpływ na projekt. Po wykonaniu narzędzia trzeba porównać wynik z pytaniem inżynierskim.\n\nWywołanie zakończone bez błędu może nadal dotyczyć niewłaściwej geometrii, warunków brzegowych lub interpretacji. Nieudane bądź niepełne działanie wymaga rozstrzygnięcia przed kolejnymi krokami. Nie jest to dowód autonomicznego projektowania chipów od początku do końca.\n\nProjektowanie i symulacja\n↗\nUstal, gdzie trafiają informacje.\n\nLokalny solver i asystent stanowią odrębne granice przetwarzania. Lokalne obliczenia nie oznaczają, że każde polecenie, fragment projektu lub wynik pozostaje na komputerze. Podsumowanie nie rozstrzyga, jaki dostawca asystenta ani ustawienia przetwarzania zewnętrznego dotyczą konkretnego wdrożenia.\n\nPrzed udostępnieniem wrażliwych danych ustal, co opuszcza komputer, do jakiej usługi trafia oraz jakie są zasady retencji i dostępu. Nie deklarujemy ogólnej gwarancji poufności; pierwsze zapytanie powinno opisywać niepoufne zadanie.\n\nOceń całą sekwencję, także niepowodzenia.\n\nUżyteczna demonstracja powinna pokazać polecenie użytkownika, propozycję, przyjęte zmiany, wykonane polecenie i oceniony wynik. Powinna również wyjaśniać zachowanie przy niedostępnym narzędziu lub niejednoznacznym rezultacie.\n\nObecne źródło uzasadnia częściowe wsparcie procesu. Szersza automatyzacja, niezawodność bez nadzoru i bieżący dostęp pozostają tematami demonstracji o uzgodnionym zakresie.\n\nPrzykłady i walidacja\n↗\nKontakt\n↗\n\nZACZNIJMY OD PYTANIA\n\nPrzyjrzyjmy się temu razem.\nPoproś o demo\n↗\nMożliwości współpracy ↗\nartifactory·\n\nTechnologie pomiarowe i narzędzia do projektowania systemów fotonicznych.\n\ninfo@artifactory.tech\n↗\nFirma\nStrona główna\nProjekty\nDla inwestorów\nJak pracujemy\nO nas\nProjekty\nArtiSense\nAIFIELD\nPorozmawiajmy\nWspółpraca\nKontakt\nPolityka prywatności\nArtifactory\nŚwiatło otwiera nowe możliwości.",
+  "links": [
+    {
+      "text": "Przejdź do treści",
+      "href": "#main",
+      "lang": ""
+    },
+    {
+      "text": "a·\nartifactory",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "Wszystkie projekty↗",
+      "href": "/pl/projekty/",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSense↗",
+      "href": "/pl/projekty/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELD↗",
+      "href": "/pl/projekty/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Dla inwestorów",
+      "href": "/pl/inwestorzy/",
+      "lang": ""
+    },
+    {
+      "text": "Jak pracujemy",
+      "href": "/pl/jak-pracujemy/",
+      "lang": ""
+    },
+    {
+      "text": "O nas",
+      "href": "/pl/o-nas/",
+      "lang": ""
+    },
+    {
+      "text": "Współpraca",
+      "href": "/pl/wspolpraca/",
+      "lang": ""
+    },
+    {
+      "text": "Kontakt",
+      "href": "/pl/kontakt/",
+      "lang": ""
+    },
+    {
+      "text": "EN ↔",
+      "href": "http://127.0.0.1:4501/en/projects/aifield/ai-workflows/",
+      "lang": "en"
+    },
+    {
+      "text": "Porozmawiajmy↗",
+      "href": "/pl/kontakt/?intent=investment",
+      "lang": ""
+    },
+    {
+      "text": "Strona główna",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "Projekty",
+      "href": "/pl/projekty/",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELD",
+      "href": "/pl/projekty/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Przegląd",
+      "href": "/pl/projekty/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Projektowanie i symulacja",
+      "href": "/pl/projekty/aifield/projektowanie-symulacja/",
+      "lang": ""
+    },
+    {
+      "text": "Praca z AI",
+      "href": "/pl/projekty/aifield/praca-z-ai/",
+      "lang": ""
+    },
+    {
+      "text": "Badania neuronowych modeli pola",
+      "href": "/pl/projekty/aifield/badania-modeli-pola/",
+      "lang": ""
+    },
+    {
+      "text": "Przykłady i walidacja",
+      "href": "/pl/projekty/aifield/przyklady-walidacja/",
+      "lang": ""
+    },
+    {
+      "text": "Od zamiaru do propozycji działania.",
+      "href": "#instruction",
+      "lang": ""
+    },
+    {
+      "text": "Zastosowanie i ocena pozostają po stronie człowieka.",
+      "href": "#review",
+      "lang": ""
+    },
+    {
+      "text": "Ustal, gdzie trafiają informacje.",
+      "href": "#data",
+      "lang": ""
+    },
+    {
+      "text": "Oceń całą sekwencję, także niepowodzenia.",
+      "href": "#limits",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELD",
+      "href": "/pl/projekty/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Projektowanie i symulacja\n↗",
+      "href": "/pl/projekty/aifield/projektowanie-symulacja/",
+      "lang": ""
+    },
+    {
+      "text": "Przykłady i walidacja\n↗",
+      "href": "/pl/projekty/aifield/przyklady-walidacja/",
+      "lang": ""
+    },
+    {
+      "text": "Kontakt\n↗",
+      "href": "/pl/kontakt/",
+      "lang": ""
+    },
+    {
+      "text": "Poproś o demo\n↗",
+      "href": "/pl/kontakt/?intent=demo&project=aifield",
+      "lang": ""
+    },
+    {
+      "text": "Możliwości współpracy ↗",
+      "href": "/pl/wspolpraca/",
+      "lang": ""
+    },
+    {
+      "text": "artifactory·",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "info@artifactory.tech\n↗",
+      "href": "mailto:info@artifactory.tech",
+      "lang": ""
+    },
+    {
+      "text": "Strona główna",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "Projekty",
+      "href": "/pl/projekty/",
+      "lang": ""
+    },
+    {
+      "text": "Dla inwestorów",
+      "href": "/pl/inwestorzy/",
+      "lang": ""
+    },
+    {
+      "text": "Jak pracujemy",
+      "href": "/pl/jak-pracujemy/",
+      "lang": ""
+    },
+    {
+      "text": "O nas",
+      "href": "/pl/o-nas/",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSense",
+      "href": "/pl/projekty/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELD",
+      "href": "/pl/projekty/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Współpraca",
+      "href": "/pl/wspolpraca/",
+      "lang": ""
+    },
+    {
+      "text": "Kontakt",
+      "href": "/pl/kontakt/",
+      "lang": ""
+    },
+    {
+      "text": "Polityka prywatności",
+      "href": "/pl/prywatnosc/",
+      "lang": ""
+    }
+  ],
+  "metadata": [
+    {
+      "name": "viewport",
+      "content": "width=device-width, initial-scale=1"
+    },
+    {
+      "name": "description",
+      "content": "Jak AIFIELD bada wsparcie agentowe przez CLI i MCP: propozycje działań, zastosowanie przez człowieka, wykonanie narzędzi i ocena wyników."
+    },
+    {
+      "name": "robots",
+      "content": "noindex, nofollow"
+    },
+    {
+      "rel": "canonical",
+      "href": "http://127.0.0.1:4501/pl/projekty/aifield/praca-z-ai/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "en",
+      "href": "http://127.0.0.1:4501/en/projects/aifield/ai-workflows/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "pl",
+      "href": "http://127.0.0.1:4501/pl/projekty/aifield/praca-z-ai/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "x-default",
+      "href": "http://127.0.0.1:4501/en/projects/aifield/ai-workflows/"
+    },
+    {
+      "property": "og:type",
+      "content": "website"
+    },
+    {
+      "property": "og:site_name",
+      "content": "Artifactory"
+    },
+    {
+      "property": "og:title",
+      "content": "Wsparcie z miejscem na ocenę człowieka. | Artifactory"
+    },
+    {
+      "property": "og:description",
+      "content": "Jak AIFIELD bada wsparcie agentowe przez CLI i MCP: propozycje działań, zastosowanie przez człowieka, wykonanie narzędzi i ocena wyników."
+    },
+    {
+      "property": "og:url",
+      "content": "http://127.0.0.1:4501/pl/projekty/aifield/praca-z-ai/"
+    },
+    {
+      "property": "og:locale",
+      "content": "pl_PL"
+    },
+    {
+      "property": "og:image",
+      "content": "http://127.0.0.1:4501/brand/share-v1.svg"
+    },
+    {
+      "property": "og:image:width",
+      "content": "1200"
+    },
+    {
+      "property": "og:image:height",
+      "content": "630"
+    }
+  ],
+  "forms": [],
+  "images": [],
+  "viewport": {
+    "width": 390,
+    "height": 844,
+    "scrollWidth": 375
+  },
+  "overflowing": [],
+  "axe": {
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "impact": "serious",
+        "nodeCount": 6
+      }
+    ],
+    "passes": 39
+  }
+}

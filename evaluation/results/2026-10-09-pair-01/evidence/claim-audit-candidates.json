@@ -1,0 +1,914 @@
+[
+  {
+    "site": "A",
+    "locale": "en",
+    "page": "about",
+    "blocks": [
+      "Skip to content\nLocal draft · Research in progress\na·\nartifactory\nProjects\n⌄\nInvestors\nOur Approach\nAbout\nPL\n↔\nLet’s talk\n↗\nHome\nAbout",
+      "Artifactory is the company behind the two projects presented here. The proposed positioning connects sensing technology with tools for designing photonic systems. It gives investors and potential collaborators a way to assess the work at a company level.",
+      "The internal glucose-related design example links an intended sensing objective to an engineering workflow. That connection does not make a simulated design a validated sensor, and the two projects’ neural subjects are not the same technology.",
+      "Investors can begin with the company proposition and its unresolved development questions. Potential collaborators can start from a measurement, design or evaluation topic. A non-confidential introduction is enough for the first enquiry.",
+      "Investors\n↗\nPartnerships\n↗\nContact\n↗\nStart a focused conversation.\nDiscuss an investment\n↗\nartifactory·",
+      "info@artifactory.tech\n↗\nCompany\nHome\nProjects\nInvestors\nOur Approach\nAbout\nProjects\nArtiSense\nAIFIELD\nConnect\nPartnerships\nContact\nPrivacy\nArtifactory\nNew possibilities, through light."
+    ]
+  },
+  {
+    "site": "A",
+    "locale": "en",
+    "page": "aifield-ai",
+    "blocks": [
+      "Skip to content\nLocal draft · Research in progress\na·\nartifactory\nProjects\n⌄\nInvestors\nOur Approach\nAbout\nPL\n↔\nLet’s talk\n↗\nHome\nProjects\nAIFIELD\nAI Workflows",
+      "An apparently successful tool call can still use the wrong geometry, boundary condition or interpretation. A failed or incomplete call needs an explicit outcome before further actions build on it. This is not evidence of autonomous end-to-end chip design.",
+      "A useful demonstration should show the user instruction, proposed action, accepted changes, executed command and inspected result. It should also show what happens when a tool is unavailable or the output is ambiguous.",
+      "The current source supports partial workflow assistance. Broader automation, unattended reliability and current access remain questions for a scoped demonstration.",
+      "Let’s explore what comes next.\nRequest a demo\n↗\nPartnership opportunities ↗\nartifactory·",
+      "info@artifactory.tech\n↗\nCompany\nHome\nProjects\nInvestors\nOur Approach\nAbout\nProjects\nArtiSense\nAIFIELD\nConnect\nPartnerships\nContact\nPrivacy\nArtifactory\nNew possibilities, through light."
+    ]
+  },
+  {
+    "site": "A",
+    "locale": "en",
+    "page": "aifield-design",
+    "blocks": [
+      "Skip to content\nLocal draft · Research in progress\na·\nartifactory\nProjects\n⌄\nInvestors\nOur Approach\nAbout\nPL\n↔\nLet’s talk\n↗\nHome\nProjects\nAIFIELD\nDesign and Simulation",
+      "Area\tScope and limitations\nModes\tStudy supported optical behavior in a specified structure. Geometry, material and boundary assumptions remain part of the result.\nCircuits\tInvestigate response at the connected-component level. Component models and their valid range matter.\nFields\tInspect spatial optical behavior in a modeled domain. Sources, boundaries and discretization affect interpretation.\nThermal work\tInvestigate modeled temperature behavior and its engineering context. Thermal inputs and coupling assumptions require review.\nCarry the inputs through to the result.",
+      "This explanatory sequence makes the responsibilities visible; it is not a claim that every step is automated or every solver has been independently validated. The engineer must assess whether the chosen model represents the intended physical question.",
+      "The supplied summary does not include solver settings, convergence records or numerical benchmark tables sufficient for reproduction here. No universal accuracy, runtime or manufacturing compatibility is asserted.",
+      "Let’s explore what comes next.\nRequest a demo\n↗\nPartnership opportunities ↗\nartifactory·",
+      "info@artifactory.tech\n↗\nCompany\nHome\nProjects\nInvestors\nOur Approach\nAbout\nProjects\nArtiSense\nAIFIELD\nConnect\nPartnerships\nContact\nPrivacy\nArtifactory\nNew possibilities, through light."
+    ]
+  },
+  {
+    "site": "A",
+    "locale": "en",
+    "page": "aifield",
+    "blocks": [
+      "Skip to content\nLocal draft · Research in progress\na·\nartifactory\nProjects\n⌄\nInvestors\nOur Approach\nAbout\nPL\n↔\nLet’s talk\n↗\nHome\nProjects\nAIFIELD",
+      "Designing an optical component involves more than drawing its outline. Geometry, materials, layers and the intended process all shape the question a simulation can answer. AIFIELD is presented as a place to connect that design work with model-based investigation.",
+      "The supplied demonstration summary describes geometry, layer and process handling alongside mode, circuit, field and thermal simulation work. These are dated capability descriptions; they do not establish the availability or support status of every function today.",
+      "Neural optical-field prediction explores whether a learned model can provide useful field estimates. The supplied research depends on conditions including boundary information. Generalization, larger stitched domains and practical speed advantage remain open questions.",
+      "The photonic glucose chip-design example connects the projects. AIFIELD concerns the geometry, design workflow and simulated behavior. ArtiSense concerns the intended sensing outcome and what would be needed to validate it.",
+      "Internal design work is useful evidence of an engineering activity. It is not a customer deployment, fabricated-chip measurement or validation of glucose accuracy.",
+      "A demo request starts a conversation about the design task, available workflow and limitations. It does not create an account or grant immediate software access. Describe the structure you want to investigate and the result you need to inspect; avoid sending confidential design files in the initial enquiry.",
+      "Investors\n↗\nPartnerships\n↗",
+      "Let’s explore what comes next.\nRequest a demo\n↗\nPartnership opportunities ↗\nartifactory·",
+      "info@artifactory.tech\n↗\nCompany\nHome\nProjects\nInvestors\nOur Approach\nAbout\nProjects\nArtiSense\nAIFIELD\nConnect\nPartnerships\nContact\nPrivacy\nArtifactory\nNew possibilities, through light."
+    ]
+  },
+  {
+    "site": "A",
+    "locale": "en",
+    "page": "aifield-neural",
+    "blocks": [
+      "Skip to content\nLocal draft · Research in progress\na·\nartifactory\nProjects\n⌄\nInvestors\nOur Approach\nAbout\nPL\n↔\nLet’s talk\n↗\nHome\nProjects\nAIFIELD\nNeural Field Research",
+      "Explore a learned approximation of optical behavior.\nBoundary information is part of the experiment.\nFour questions before broader use.\nMake the next comparison answer a narrower question.",
+      "RESEARCH / CONCEPT\nILLUSTRATION WITHOUT MEASUREMENT DATA\n↗\nConcept illustration. Curves are not data or evidence of accuracy.\n01\nKnown information",
+      "Geometry and supplied boundary context constrain the problem.",
+      "The neural research direction asks whether a learned model can estimate an optical field for a defined problem. It is a separate investigation from the classical design and simulation workflow described elsewhere.",
+      "Design and Simulation\n↗\nBoundary information is part of the experiment.",
+      "The supplied September 2026 research summary describes results under conditions that include supplied boundary information. That information constrains the problem. It must remain visible when interpreting a result or comparing the method with another approach.",
+      "A prediction using such information cannot be presented as an equivalent demonstration of prediction from scratch. The original plots, complete settings and numerical comparisons are not provided in this package, so no reconstructed accuracy chart is shown.",
+      "Area\tScope and limitations\nFrom-scratch prediction\tWhat information must already be known, and how much of the physical problem is solved by supplying it?\nGeneralization\tDoes the method remain useful for structures and conditions outside the evaluated context?\nStitched domains\tCan local predictions form a consistent larger field without unacceptable boundary mismatch?\nPractical speed\tDoes an advantage remain after preparation, boundary information, prediction and checking are included?\nMake the next comparison answer a narrower question.",
+      "These are proposed research questions, not a confirmed experiment schedule. The supplied summary does not establish universal accuracy or a practical speed advantage. An investment or collaboration discussion should keep that uncertainty explicit.",
+      "Examples and Validation\n↗\nInvestors\n↗\nPartnerships\n↗",
+      "Let’s explore what comes next.\nRequest a demo\n↗\nPartnership opportunities ↗\nartifactory·",
+      "info@artifactory.tech\n↗\nCompany\nHome\nProjects\nInvestors\nOur Approach\nAbout\nProjects\nArtiSense\nAIFIELD\nConnect\nPartnerships\nContact\nPrivacy\nArtifactory\nNew possibilities, through light."
+    ]
+  },
+  {
+    "site": "A",
+    "locale": "en",
+    "page": "aifield-validation",
+    "blocks": [
+      "Skip to content\nLocal draft · Research in progress\na·\nartifactory\nProjects\n⌄\nInvestors\nOur Approach\nAbout\nPL\n↔\nLet’s talk\n↗\nHome\nProjects\nAIFIELD\nExamples and Validation",
+      "A design example. An evidence boundary.",
+      "The internal photonic glucose design.\nRead the example as a sequence of engineering decisions.\nWhat a simulation comparison needs.\nMake the next evidence package reproducible.",
+      "An intended glucose-related optical investigation.",
+      "Explanatory concept diagram, not a software interface or experimental result.\nThe internal photonic glucose design.",
+      "The September 2026 demonstration material includes an internal photonic glucose chip-design example. It connects an intended sensing question with the work of defining a photonic structure and investigating its modeled behavior.",
+      "This is internal design activity. No external customer, production deployment or fabricated-chip measurement is established by the supplied account. The ArtiSense evidence page owns the separate question of sensing validation.",
+      "The explanatory sequence begins with a sensing objective and candidate optical structure. Geometry and model assumptions define what can be simulated. The resulting design and modeled response can then be inspected to identify what is worth changing or investigating physically.",
+      "The source refers to internal comparisons. To interpret a comparison, the reader needs the reference method, matching geometry and materials, source and boundary conditions, numerical settings and the quantity being compared.",
+      "The supplied summary does not contain those details at reproduction depth. It also does not quantify successful and unsuccessful cases. Missing numbers are left missing; no benchmark score or blanket agreement claim is inferred.",
+      "Area\tScope and limitations\nDesign workflow\tAn internal example is described. This supports discussion of engineering work, not a claim of customer adoption.\nClassical comparison\tInternal comparisons are mentioned; reference settings and numerical successes or misses are unavailable here.\nNeural prediction\tA separate research line with boundary, generalization and stitching limitations.\nPhysical measurement\tFabrication and measured sensing performance are not established by this design example.\nMake the next evidence package reproducible.",
+      "Neural Field Research\n↗\nInvestors\n↗\nContact\n↗",
+      "Let’s explore what comes next.\nRequest a demo\n↗\nPartnership opportunities ↗\nartifactory·",
+      "info@artifactory.tech\n↗\nCompany\nHome\nProjects\nInvestors\nOur Approach\nAbout\nProjects\nArtiSense\nAIFIELD\nConnect\nPartnerships\nContact\nPrivacy\nArtifactory\nNew possibilities, through light."
+    ]
+  },
+  {
+    "site": "A",
+    "locale": "en",
+    "page": "approach",
+    "blocks": [
+      "Skip to content\nLocal draft · Research in progress\na·\nartifactory\nProjects\n⌄\nInvestors\nOur Approach\nAbout\nPL\n↔\nLet’s talk\n↗\nHome\nOur Approach",
+      "An intended optical sensing response motivates a candidate photonic design. AIFIELD’s internal glucose-related example concerns that design and simulated behavior. It does not establish that a fabricated ArtiSense device measures glucose accurately.",
+      "Partnerships\n↗\nStart a focused conversation.\nDiscuss an investment\n↗\nartifactory·",
+      "info@artifactory.tech\n↗\nCompany\nHome\nProjects\nInvestors\nOur Approach\nAbout\nProjects\nArtiSense\nAIFIELD\nConnect\nPartnerships\nContact\nPrivacy\nArtifactory\nNew possibilities, through light."
+    ]
+  },
+  {
+    "site": "A",
+    "locale": "en",
+    "page": "artisense-applications",
+    "blocks": [
+      "Skip to content\nLocal draft · Research in progress\na·\nartifactory\nProjects\n⌄\nInvestors\nOur Approach\nAbout\nPL\n↔\nLet’s talk\n↗\nHome\nProjects\nArtiSense\nApplications",
+      "The application is a measurement question before it is a product. Glucose sensing is the substantive example in the supplied research.",
+      "Intended applications · no clinical validation claimed",
+      "Glucose: the research example.\nNon-invasive and wearable are directions to investigate.\nWhat would make the intended use credible?\nStart with a bounded collaboration question.",
+      "A research concept, not a device for medical use.\nGlucose: the research example.",
+      "The supplied work explores optical feasibility and a photonic chip-design example associated with glucose sensing. The intended goal is to obtain useful chemical information through optical interaction and signal interpretation.",
+      "For a researcher evaluating this idea, a useful question is whether a response attributable to glucose can be distinguished from other changes under controlled conditions. A design or modeled optical response does not answer the full measurement question.",
+      "No fabricated-device accuracy, human-use result or clinical outcome is supplied. This page describes the research direction and its validation needs; it does not present a diagnostic device or offer medical-use guidance.",
+      "Non-invasive and wearable are directions to investigate.",
+      "The proposed system is miniaturized, with potential non-invasive measurement and wearable form factors discussed as an intended direction. Neither format is established as an available or validated product.",
+      "Area\tScope and limitations\nTarget-specific response\tCompare against a known reference and investigate interference from other changing properties.\nRepeatability\tRepeat measurements under stated conditions and report variation, not just an illustrative trace.\nTransfer to hardware\tCompare the fabricated structure with its modeled behavior and document discrepancies.\nUse conditions\tDefine the intended setting, limitations and acceptance criteria before wider claims.\nResearch and Validation\n↗\nStart with a bounded collaboration question.",
+      "These are possible topics for discussion, not active partnership commitments. Broader chemical-sensing markets are not inferred from one design example.",
+      "Technology\n↗\nPartnerships\n↗",
+      "Let’s explore what comes next.\nDiscuss an investment\n↗\nPartnership opportunities ↗\nartifactory·",
+      "info@artifactory.tech\n↗\nCompany\nHome\nProjects\nInvestors\nOur Approach\nAbout\nProjects\nArtiSense\nAIFIELD\nConnect\nPartnerships\nContact\nPrivacy\nArtifactory\nNew possibilities, through light."
+    ]
+  },
+  {
+    "site": "A",
+    "locale": "en",
+    "page": "artisense",
+    "blocks": [
+      "Skip to content\nLocal draft · Research in progress\na·\nartifactory\nProjects\n⌄\nInvestors\nOur Approach\nAbout\nPL\n↔\nLet’s talk\n↗\nHome\nProjects\nArtiSense",
+      "ArtiSense aims to connect photonic sensing with signal interpretation in a miniaturized system. Non-invasive measurement and wearable formats are intended directions, rather than demonstrated product capabilities.",
+      "The supplied research summary describes optical feasibility and photonic glucose chip-design work. AIFIELD provides a relevant context for explaining that design activity.",
+      "Design and simulation can help choose the next experiment. They do not establish fabricated-device performance, glucose accuracy, clinical outcomes or a ready-to-use wearable.",
+      "Investment conversations concern Artifactory as a company. Potential technical collaborations can focus on optical characterization, integration or a carefully bounded validation study.",
+      "Technology\n↗\nApplications\n↗\nResearch and Validation\n↗\nInvestors\n↗\nPartnerships\n↗",
+      "Let’s explore what comes next.\nDiscuss an investment\n↗\nPartnership opportunities ↗\nartifactory·",
+      "info@artifactory.tech\n↗\nCompany\nHome\nProjects\nInvestors\nOur Approach\nAbout\nProjects\nArtiSense\nAIFIELD\nConnect\nPartnerships\nContact\nPrivacy\nArtifactory\nNew possibilities, through light."
+    ]
+  },
+  {
+    "site": "A",
+    "locale": "en",
+    "page": "artisense-technology",
+    "blocks": [
+      "Skip to content\nLocal draft · Research in progress\na·\nartifactory\nProjects\n⌄\nInvestors\nOur Approach\nAbout\nPL\n↔\nLet’s talk\n↗\nHome\nProjects\nArtiSense\nTechnology",
+      "Visible or infrared light is directed toward a sample. Its interaction can alter the response that reaches a detector. The architectural idea is to examine that response against a reference and use spectral information to investigate a chemical property.",
+      "A change in optical response is not automatically a measurement of one substance. The illumination, sample conditions, optical path and detector response must be considered together. The supplied summary does not specify a validated operating range or a finalized component selection.",
+      "Software support and connectivity are also described. Their role would be to configure and communicate information from the sensing system. No confirmed interface standard, complete hardware implementation or validated system-level performance is supplied.",
+      "This analog interpretation proposal is not AIFIELD’s neural field research. That research investigates predicting optical fields during engineering analysis; it does not establish a sensor’s measurement accuracy.",
+      "The glucose-related photonic chip-design example provides a way to discuss geometry and simulation using AIFIELD. It supports an engineering conversation about models and candidate structures.",
+      "Let’s explore what comes next.\nDiscuss an investment\n↗\nPartnership opportunities ↗\nartifactory·",
+      "info@artifactory.tech\n↗\nCompany\nHome\nProjects\nInvestors\nOur Approach\nAbout\nProjects\nArtiSense\nAIFIELD\nConnect\nPartnerships\nContact\nPrivacy\nArtifactory\nNew possibilities, through light."
+    ]
+  },
+  {
+    "site": "A",
+    "locale": "en",
+    "page": "artisense-validation",
+    "blocks": [
+      "Skip to content\nLocal draft · Research in progress\na·\nartifactory\nProjects\n⌄\nInvestors\nOur Approach\nAbout\nPL\n↔\nLet’s talk\n↗\nHome\nProjects\nArtiSense\nResearch and Validation",
+      "A credible sensing result needs more than a promising design. Here is the boundary between the supplied work and the next experimental questions.",
+      "The supplied context, prepared in October 2026, summarizes glucose-related optical feasibility work and photonic chip design. These activities investigate whether an optical design is worth taking further and how a candidate structure might behave in a model.",
+      "The source summary does not include the original figures, full experiment settings or numerical results. It therefore supports a qualitative account of the research direction, not a recreated benchmark table or an independently checked performance claim.",
+      "Area\tScope and limitations\nOptical feasibility\tSupports investigation of an optical mechanism under specified assumptions; it does not establish a reliable measurement in use.\nPhotonic chip design\tSupports a candidate geometry and engineering workflow; it is not proof of fabrication or integration.\nPhysical sensing performance\tNot established by the supplied summary. No measured glucose accuracy is published here.\nClinical or wearable use\tNot validated in the supplied material. Intended form factors must not be treated as approved applications.\nMake the comparison inspectable.",
+      "Progression should depend on what those results establish. No confirmed experimental dates, completed fabrication step or clinical study is asserted. This sequence is a proposed way to frame evidence needs, not a promised company schedule.",
+      "What observation would support or reject the optical hypothesis?\nWhich assumptions matter most when moving from model to fabricated structure?\nWhat must remain stable for an interpreted signal to be useful?\nPartnerships\n↗\nInvestors\n↗",
+      "Let’s explore what comes next.\nDiscuss an investment\n↗\nPartnership opportunities ↗\nartifactory·",
+      "info@artifactory.tech\n↗\nCompany\nHome\nProjects\nInvestors\nOur Approach\nAbout\nProjects\nArtiSense\nAIFIELD\nConnect\nPartnerships\nContact\nPrivacy\nArtifactory\nNew possibilities, through light."
+    ]
+  },
+  {
+    "site": "A",
+    "locale": "en",
+    "page": "contact",
+    "blocks": [
+      "Skip to content\nLocal draft · Research in progress\na·\nartifactory\nProjects\n⌄\nInvestors\nOur Approach\nAbout\nPL\n↔\nLet’s talk\n↗\nHome\nContact",
+      "Tell us which question you are exploring. Investment conversations concern Artifactory as a company; project and partnership discussions can start with a specific technical question.",
+      "Choose an enquiry type and, if relevant, a project. For an investment discussion, describe the information you would like to assess. For a partnership or demo, outline the engineering question and the evidence you need.",
+      "What would you like to discuss?\nGeneral enquiry\nInvestment in Artifactory\nPartnership\nAIFIELD demo conversation\nProject (optional)\nNo specific project\nArtiSense\nAIFIELD\nName (optional)\nOrganization (optional)\nEmail address *\nYour message *",
+      "info@artifactory.tech\n↗\nCompany\nHome\nProjects\nInvestors\nOur Approach\nAbout\nProjects\nArtiSense\nAIFIELD\nConnect\nPartnerships\nContact\nPrivacy\nArtifactory\nNew possibilities, through light."
+    ]
+  },
+  {
+    "site": "A",
+    "locale": "en",
+    "page": "home",
+    "blocks": [
+      "Skip to content\nLocal draft · Research in progress\na·\nartifactory\nProjects\n⌄\nInvestors\nOur Approach\nAbout\nPL\n↔\nLet’s talk\n↗",
+      "Explore the investment case\n↗\nDiscover the projects\n↓\nARTIFACTORY / PHOTONICS\nSENSING. DESIGN. POSSIBILITY.\n↗\nFrom light to possibility — a conceptual illustration.\nFrom a physical question to an engineered answer.",
+      "The supplied glucose example concerns optical feasibility and chip design. It does not establish measured glucose accuracy or clinical readiness.",
+      "A design answers a design question. A simulation tests a model under assumptions. Neither, on its own, demonstrates the behavior of a fabricated sensing device. Our project pages keep these evidence categories separate.",
+      "Project and stage\tWhat the available work supports\nArtiSense · research\tOptical feasibility and photonic chip-design work; physical sensing validation remains to be established.\nAIFIELD · September 2026 snapshot\tDesign and classical-simulation examples; neural field research retains boundary-condition and generalization limits.\nHow we think about evidence\n↗",
+      "Invest in the questions worth answering.",
+      "Explore the roles of both projects, what the available work supports, and which milestones would reduce the next uncertainty. The investment discussion is about Artifactory as a company.",
+      "For technical partners, the conversation can begin with sensing experiments, fabrication and measurement, or evaluation of the photonic design workflow.",
+      "Discuss an investment\n↗\nExplore partnerships ↗\nAbout Artifactory ↗\nartifactory·",
+      "info@artifactory.tech\n↗\nCompany\nHome\nProjects\nInvestors\nOur Approach\nAbout\nProjects\nArtiSense\nAIFIELD\nConnect\nPartnerships\nContact\nPrivacy\nArtifactory\nNew possibilities, through light."
+    ]
+  },
+  {
+    "site": "A",
+    "locale": "en",
+    "page": "investors",
+    "blocks": [
+      "Skip to content\nLocal draft · Research in progress\na·\nartifactory\nProjects\n⌄\nInvestors\nOur Approach\nAbout\nPL\n↔\nLet’s talk\n↗\nHome\nInvestors",
+      "Sensing technology and the tools to design it.\nTwo evidence paths, at different boundaries.\nWhat a useful investment discussion should establish.\nPotential milestones should reduce a stated uncertainty.",
+      "Artifactory brings together ArtiSense and AIFIELD in a proposed positioning around sensing and photonic engineering. The investment subject is Artifactory as a company. Understanding that proposition means assessing the role and maturity of each project, rather than treating them as interchangeable products.",
+      "The internal sensing-design example provides a concrete connection: a measurement objective creates a photonic design question, and engineering tools help investigate a candidate structure. This connection is a technical rationale to explore, not evidence of shared IP ownership or commercial success.",
+      "ArtiSense is a proposed miniaturized chemical-sensing system. The supplied glucose-related work concerns optical feasibility and chip design; physical measurement accuracy and intended wearable use remain unvalidated.",
+      "ArtiSense\n↗\nAIFIELD\n↗\nWhat a useful investment discussion should establish.",
+      "A company assessment needs current evidence beyond this technical overview. The materials supplied for the site do not establish a current funding round, instrument, valuation, revenue, market validation or committed pilot. A historical project funding proposal is not presented as a current company ask.",
+      "The next conversation can identify which evidence may be shared and who can answer questions about company structure, ownership, development resources and commercial assumptions. No confidential investor pack or numerical market case is implied by this page.",
+      "Which technical risks most affect the company proposition?\nWhat would a reproducible design or physical result establish?\nWhich commercial assumptions need customer evidence?\nAbout\n↗\nPotential milestones should reduce a stated uncertainty.",
+      "These are proposed evidence needs, not funded commitments, promised dates or completed results. Start an investment enquiry to discuss the company, the evidence currently available and a suitable next conversation.",
+      "Contact\n↗\nStart a focused conversation.\nDiscuss an investment\n↗\nartifactory·",
+      "info@artifactory.tech\n↗\nCompany\nHome\nProjects\nInvestors\nOur Approach\nAbout\nProjects\nArtiSense\nAIFIELD\nConnect\nPartnerships\nContact\nPrivacy\nArtifactory\nNew possibilities, through light."
+    ]
+  },
+  {
+    "site": "A",
+    "locale": "en",
+    "page": "partnerships",
+    "blocks": [
+      "Skip to content\nLocal draft · Research in progress\na·\nartifactory\nProjects\n⌄\nInvestors\nOur Approach\nAbout\nPL\n↔\nLet’s talk\n↗\nHome\nPartnerships",
+      "Bring a question we can investigate.",
+      "Describe the application context and which observation you could help evaluate. Non-invasive and wearable ambitions remain research directions; no clinical pilot or validated measurement capability is implied.",
+      "These are proposed discussion areas. The supplied material does not establish a manufacturing agreement, committed test program or existing partner relationship.",
+      "Feedback on command-line or agent-assisted work should include human review responsibilities and the local/external data boundary. A demo request is a discussion about access and scope, not immediate product access.",
+      "The topics on this page are invitations to explore fit. They are not evidence of named partners, customers, letters of intent or committed pilots. Any relationship and permission to describe it publicly would need separate confirmation.",
+      "Contact\n↗\nStart a focused conversation.\nDiscuss a partnership\n↗\nartifactory·",
+      "info@artifactory.tech\n↗\nCompany\nHome\nProjects\nInvestors\nOur Approach\nAbout\nProjects\nArtiSense\nAIFIELD\nConnect\nPartnerships\nContact\nPrivacy\nArtifactory\nNew possibilities, through light."
+    ]
+  },
+  {
+    "site": "A",
+    "locale": "en",
+    "page": "privacy",
+    "blocks": [
+      "Skip to content\nLocal draft · Research in progress\na·\nartifactory\nProjects\n⌄\nInvestors\nOur Approach\nAbout\nPL\n↔\nLet’s talk\n↗\nHome\nPrivacy",
+      "This notice describes the local demonstration you are using. It is not a finalized notice for a publicly released service.",
+      "info@artifactory.tech\n↗\nCompany\nHome\nProjects\nInvestors\nOur Approach\nAbout\nProjects\nArtiSense\nAIFIELD\nConnect\nPartnerships\nContact\nPrivacy\nArtifactory\nNew possibilities, through light."
+    ]
+  },
+  {
+    "site": "A",
+    "locale": "en",
+    "page": "projects",
+    "blocks": [
+      "Skip to content\nLocal draft · Research in progress\na·\nartifactory\nProjects\n⌄\nInvestors\nOur Approach\nAbout\nPL\n↔\nLet’s talk\n↗\nHome\nProjects",
+      "Available work concerns optical feasibility and chip design, including glucose-related research. The next evidence needed is a controlled physical comparison that separates the target response from other influences.",
+      "Explore ArtiSense\n↗\nResearch and Validation\n↗\nQuestion\tProject view\nProblem\tExtract useful chemical information from an optical response.\nIntended context\tResearch toward non-invasive sensing; wearable form is an ambition.\nOutput and stage\tProposed architecture and design/simulation work, not a validated medical product.\n02 / AIFIELD\nGEOMETRY → SIMULATION → INSIGHT\n↗\nConcept illustration. Not a finished product or measured output.",
+      "The photonic glucose chip-design example links AIFIELD’s engineering workflow to the sensing objective associated with ArtiSense. The design activity belongs to AIFIELD; the question of what can actually be measured belongs to ArtiSense.",
+      "A useful simulation can guide the next experiment. It cannot, by itself, validate a sensor, demonstrate clinical accuracy or establish a commercial relationship.",
+      "The company investment perspective ↗\nartifactory·",
+      "info@artifactory.tech\n↗\nCompany\nHome\nProjects\nInvestors\nOur Approach\nAbout\nProjects\nArtiSense\nAIFIELD\nConnect\nPartnerships\nContact\nPrivacy\nArtifactory\nNew possibilities, through light."
+    ]
+  },
+  {
+    "site": "A",
+    "locale": "pl",
+    "page": "about",
+    "blocks": [
+      "Wewnętrzny przykład związany z glukozą łączy zamierzony cel pomiarowy z procesem inżynierskim. Powiązanie nie zmienia symulowanego projektu w zwalidowany czujnik, a neuronowe elementy obu projektów nie są tą samą technologią.",
+      "Dostarczony kontekst opisuje prace nad wykonalnością optyczną i projektem chipu ArtiSense. Opisy możliwości AIFIELD odnoszą się do stanu z września 2026. Stanowią podstawę rozmowy technicznej, a bieżąca dostępność i dalsza walidacja wymagają potwierdzenia.",
+      "Strona o podejściu wyjaśnia rozróżnienie koncepcji, symulacji i dowodów fizycznych. Strony walidacji zachowują ograniczenia przy opisywanych pracach."
+    ]
+  },
+  {
+    "site": "A",
+    "locale": "pl",
+    "page": "aifield-ai",
+    "blocks": [
+      "Przegląd\nProjektowanie i symulacja\nPraca z AI\nBadania neuronowych modeli pola\nPrzykłady i walidacja",
+      "Wywołanie zakończone bez błędu może nadal dotyczyć niewłaściwej geometrii, warunków brzegowych lub interpretacji. Nieudane bądź niepełne działanie wymaga rozstrzygnięcia przed kolejnymi krokami. Nie jest to dowód autonomicznego projektowania chipów od początku do końca.",
+      "Przykłady i walidacja\n↗\nKontakt\n↗"
+    ]
+  },
+  {
+    "site": "A",
+    "locale": "pl",
+    "page": "aifield-design",
+    "blocks": [
+      "Przegląd\nProjektowanie i symulacja\nPraca z AI\nBadania neuronowych modeli pola\nPrzykłady i walidacja",
+      "Przygotowanie obejmuje także pytanie: własność modu, odpowiedź obwodu, rozkład pola czy efekt cieplny. Dostarczony materiał nie ustala pełnej listy formatów, biblioteki procesów ani gwarancji eksportu gotowego do wytworzenia.",
+      "Ta objaśniająca sekwencja pokazuje odpowiedzialności; nie oznacza automatyzacji każdego kroku ani niezależnej walidacji wszystkich narzędzi. Inżynier ocenia, czy model odpowiada zamierzonemu pytaniu fizycznemu.",
+      "Dostarczone podsumowanie nie zawiera ustawień solverów, zapisów zbieżności ani tabel wyników wystarczających do odtworzenia obliczeń na tej stronie. Nie deklarujemy uniwersalnej dokładności, czasu działania ani zgodności produkcyjnej.",
+      "Przykłady i walidacja\n↗\nKontakt\n↗"
+    ]
+  },
+  {
+    "site": "A",
+    "locale": "pl",
+    "page": "aifield",
+    "blocks": [
+      "Przegląd\nProjektowanie i symulacja\nPraca z AI\nBadania neuronowych modeli pola\nPrzykłady i walidacja",
+      "Przykład projektu fotonicznego chipu do badań nad pomiarem glukozy łączy oba projekty. AIFIELD dotyczy geometrii, procesu projektowania i symulowanego zachowania. ArtiSense dotyczy zamierzonego pomiaru i wymagań jego walidacji.",
+      "Wewnętrzna praca projektowa jest użytecznym dowodem działania inżynierskiego. Nie stanowi wdrożenia u klienta, pomiaru wykonanego chipu ani walidacji dokładności pomiaru glukozy.",
+      "Przykłady i walidacja\n↗\nArtiSense\n↗\nZacznij od pytania inżynierskiego."
+    ]
+  },
+  {
+    "site": "A",
+    "locale": "pl",
+    "page": "aifield-neural",
+    "blocks": [
+      "Przegląd\nProjektowanie i symulacja\nPraca z AI\nBadania neuronowych modeli pola\nPrzykłady i walidacja",
+      "BADANIA / KONCEPCJA\nILUSTRACJA BEZ DANYCH POMIAROWYCH\n↗\nIlustracja koncepcyjna. Krzywe nie są danymi ani dowodem dokładności.\n01\nZnane informacje",
+      "Przewidywania wykorzystującego taką informację nie można przedstawiać jako równoważnego dowodu przewidywania od zera. Pakiet nie zawiera oryginalnych wykresów, pełnych ustawień ani porównań liczbowych, dlatego nie pokazujemy odtworzonego wykresu dokładności.",
+      "Obszar\tZakres i ograniczenia\nPrzewidywanie od zera\tJakie informacje muszą być wcześniej znane i jaka część problemu fizycznego zostaje rozwiązana przez ich dostarczenie?\nGeneralizacja\tCzy metoda pozostaje użyteczna dla struktur i warunków spoza ocenionego kontekstu?\nŁączenie obszarów\tCzy lokalne przewidywania tworzą spójne większe pole bez niedopuszczalnych niezgodności na granicach?\nPraktyczna szybkość\tCzy przewaga utrzymuje się po uwzględnieniu przygotowania, informacji brzegowej, przewidywania i kontroli?\nKolejne porównanie powinno rozstrzygać węższe pytanie.",
+      "To proponowane pytania badawcze, a nie potwierdzony harmonogram eksperymentów. Podsumowanie nie wykazuje uniwersalnej dokładności ani praktycznej przewagi czasowej. Rozmowa inwestycyjna lub o współpracy powinna uwzględniać tę niepewność.",
+      "Przykłady i walidacja\n↗\nDla inwestorów\n↗\nWspółpraca\n↗"
+    ]
+  },
+  {
+    "site": "A",
+    "locale": "pl",
+    "page": "aifield-validation",
+    "blocks": [
+      "Przejdź do treści\nWersja lokalna · Badania w toku\na·\nartifactory\nProjekty\n⌄\nDla inwestorów\nJak pracujemy\nO nas\nEN\n↔\nPorozmawiajmy\n↗\nStrona główna\nProjekty\nAIFIELD\nPrzykłady i walidacja",
+      "Przegląd\nProjektowanie i symulacja\nPraca z AI\nBadania neuronowych modeli pola\nPrzykłady i walidacja",
+      "Wewnętrzny projekt fotoniczny związany z glukozą.\nOdczytaj przykład jako ciąg decyzji inżynierskich.\nCzego wymaga porównanie symulacji.\nKolejny zestaw dowodów powinien umożliwiać odtworzenie.",
+      "Zamierzone badanie optyczne związane z glukozą.",
+      "Odtwarzalne porównanie, następnie odrębna walidacja fizyczna.",
+      "Diagram objaśniający koncepcję, nie interfejs programu ani wynik eksperymentu.\nWewnętrzny projekt fotoniczny związany z glukozą.",
+      "Materiał demonstracyjny z września 2026 obejmuje wewnętrzny przykład projektu fotonicznego chipu do badań nad pomiarem glukozy. Łączy zamierzone pytanie pomiarowe z definiowaniem struktury fotonicznej i badaniem jej zachowania w modelu.",
+      "To wewnętrzna praca projektowa. Dostarczony opis nie potwierdza zewnętrznego klienta, wdrożenia produkcyjnego ani pomiaru wykonanego chipu. Odrębne pytanie o walidację pomiaru omawia strona dowodów ArtiSense.",
+      "Badania i walidacja\n↗\nOdczytaj przykład jako ciąg decyzji inżynierskich.",
+      "Dostarczone podsumowanie nie zawiera tych szczegółów na poziomie pozwalającym odtworzyć obliczenia. Nie określa też liczbowo przypadków udanych i nieudanych. Brakujących liczb nie zastępujemy oceną benchmarku ani twierdzeniem o powszechnej zgodności.",
+      "Obszar\tZakres i ograniczenia\nProces projektowy\tOpisano wewnętrzny przykład. Pozwala omówić pracę inżynierską, lecz nie dowodzi przyjęcia narzędzia przez klientów.\nPorównanie klasyczne\tWspomniano porównania wewnętrzne; ustawienia odniesienia i liczbowe sukcesy lub rozbieżności są tutaj niedostępne.\nPrzewidywanie neuronowe\tOdrębny kierunek badań z ograniczeniami dotyczącymi brzegów, generalizacji i łączenia obszarów.\nPomiar fizyczny\tPrzykład projektowy nie potwierdza wytworzenia ani zmierzonych parametrów pomiaru.\nKolejny zestaw dowodów powinien umożliwiać odtworzenie."
+    ]
+  },
+  {
+    "site": "A",
+    "locale": "pl",
+    "page": "approach",
+    "blocks": [
+      "Zamierzona odpowiedź optyczna motywuje proponowany projekt fotoniczny. Wewnętrzny przykład AIFIELD związany z glukozą dotyczy projektu i symulowanego zachowania. Nie wykazuje, że wykonane urządzenie ArtiSense dokładnie mierzy glukozę."
+    ]
+  },
+  {
+    "site": "A",
+    "locale": "pl",
+    "page": "artisense-applications",
+    "blocks": [
+      "Zastosowanie jest najpierw pytaniem pomiarowym, a dopiero później produktem. Pomiar glukozy to rozwinięty przykład w dostarczonym opisie badań.",
+      "Zamierzone zastosowania · bez deklaracji walidacji klinicznej",
+      "Przegląd\nTechnologia\nZastosowania\nBadania i walidacja",
+      "Glukoza: przykład badawczy.\nNieinwazyjność i forma ubieralna to kierunki badań.\nCo uwiarygodniłoby zamierzone użycie?\nZacznijmy od ograniczonego pytania o współpracę.",
+      "Koncepcja badania, nie urządzenie do użytku medycznego.\nGlukoza: przykład badawczy.",
+      "Dostarczone prace dotyczą wykonalności optycznej i przykładu projektu chipu fotonicznego związanego z pomiarem glukozy. Zamierzony cel to uzyskanie użytecznej informacji chemicznej przez oddziaływanie optyczne i interpretację sygnału.",
+      "Dla badacza oceniającego tę ideę użyteczne pytanie brzmi: czy w kontrolowanych warunkach można odróżnić odpowiedź związaną z glukozą od innych zmian? Projekt lub modelowana odpowiedź optyczna nie odpowiadają na całe pytanie pomiarowe.",
+      "Nie dostarczono dokładności wykonanego urządzenia, wyników użycia przez ludzi ani rezultatów klinicznych. Strona opisuje kierunek badań i potrzeby walidacyjne; nie przedstawia urządzenia diagnostycznego ani zaleceń medycznych.",
+      "Plan walidacji musi łączyć proponowane zastosowanie z obserwowalnym wynikiem. Tabela wymienia pytania do przyszłego badania, a nie zakończone eksperymenty.",
+      "Obszar\tZakres i ograniczenia\nOdpowiedź swoista dla celu\tPorównać ze znanym odniesieniem i zbadać zakłócenia od innych zmiennych właściwości.\nPowtarzalność\tPowtarzać pomiary w określonych warunkach i opisywać zmienność, nie tylko przykładowy przebieg.\nPrzejście do sprzętu\tPorównać wykonaną strukturę z modelem i udokumentować rozbieżności.\nWarunki użycia\tPrzed szerszymi deklaracjami określić środowisko, ograniczenia i kryteria akceptacji.\nBadania i walidacja\n↗\nZacznijmy od ograniczonego pytania o współpracę.",
+      "To możliwe tematy rozmów, a nie aktywne zobowiązania partnerskie. Nie wyprowadzamy szerokich rynków pomiarów chemicznych z jednego przykładu projektowego."
+    ]
+  },
+  {
+    "site": "A",
+    "locale": "pl",
+    "page": "artisense",
+    "blocks": [
+      "Przegląd\nTechnologia\nZastosowania\nBadania i walidacja",
+      "Dostarczone podsumowanie badań opisuje wykonalność optyczną i projektowanie fotonicznego chipu związanego z glukozą. AIFIELD stanowi kontekst dla wyjaśnienia tych działań projektowych.",
+      "Projekt i symulacja mogą pomóc wybrać kolejny eksperyment. Nie potwierdzają parametrów wykonanego urządzenia, dokładności pomiaru glukozy, wyników klinicznych ani gotowego rozwiązania ubieralnego.",
+      "Obszar\tZakres i ograniczenia\nDostępna podstawa\tPrace nad wykonalnością optyczną i projektem chipu opisane w podsumowaniu badań.\nOtwarta walidacja\tKontrolowana odpowiedź fizyczna, powtarzalność i oddzielenie wpływów zakłócających.\nKolejny użyteczny krok\tOkreślenie mierzalnej hipotezy i porównania odniesienia potrzebnego do jej sprawdzenia.\nBadania i walidacja\n↗\nPrzykłady i walidacja\n↗\nPoznaj system. Następnie sprawdź dowody.",
+      "Technologia wyjaśnia proponowany tor sygnałowy. Zastosowania opisują zamierzony kontekst pomiaru. Badania i walidacja oddzielają to, co wynika z projektu, od potrzebnych eksperymentów.",
+      "Rozmowy inwestycyjne dotyczą Artifactory jako firmy. Potencjalna współpraca techniczna może skupić się na charakteryzacji optycznej, integracji lub precyzyjnie określonym badaniu walidacyjnym.",
+      "Technologia\n↗\nZastosowania\n↗\nBadania i walidacja\n↗\nDla inwestorów\n↗\nWspółpraca\n↗\nFotoniczny moduł pomiarowy\nO module"
+    ]
+  },
+  {
+    "site": "A",
+    "locale": "pl",
+    "page": "artisense-technology",
+    "blocks": [
+      "Proponowana architektura · elementy wymagają walidacji",
+      "Przegląd\nTechnologia\nZastosowania\nBadania i walidacja",
+      "Proponowany łańcuch funkcjonalny. Schemat nie potwierdza wykonania ani walidacji bloków.\nPunktem wyjścia jest oddziaływanie.",
+      "Ta propozycja interpretacji analogowej nie jest neuronowym modelem pola AIFIELD. Tamte badania dotyczą przewidywania pól optycznych w analizie inżynierskiej; nie potwierdzają dokładności pomiaru czujnika.",
+      "Kolejne decyzje architektoniczne zależą więc od planu pomiarowego. Powtarzalność, wrażliwość na zmienne warunki i przejście od modelu do fizycznego urządzenia pozostają otwartymi pytaniami walidacyjnymi.",
+      "Przykład fotonicznego projektu chipu związanego z glukozą pozwala omówić geometrię i symulację w AIFIELD. Jest podstawą rozmowy inżynierskiej o modelach i proponowanych strukturach.",
+      "Pytanie pomiarowe pozostaje odrębne: jaki sygnał wytworzyłaby wykonana struktura i jak wypadałby on względem wiarygodnego odniesienia? To wymaga fizycznej walidacji.",
+      "Projektowanie i symulacja\n↗\nBadania i walidacja\n↗\nZastosowania\n↗"
+    ]
+  },
+  {
+    "site": "A",
+    "locale": "pl",
+    "page": "artisense-validation",
+    "blocks": [
+      "Przejdź do treści\nWersja lokalna · Badania w toku\na·\nartifactory\nProjekty\n⌄\nDla inwestorów\nJak pracujemy\nO nas\nEN\n↔\nPorozmawiajmy\n↗\nStrona główna\nProjekty\nArtiSense\nBadania i walidacja",
+      "ARTISENSE / BADANIA I WALIDACJA",
+      "Dowody projektowe i symulacyjne · walidacja fizyczna pozostaje otwarta",
+      "Przegląd\nTechnologia\nZastosowania\nBadania i walidacja",
+      "Wykonalność optyczna i projekt chipu.\nRóżne dowody odpowiadają na różne pytania.\nPorównanie powinno dać się przeanalizować.\nProponowana kolejność pytań walidacyjnych.",
+      "Dostarczony kontekst, przygotowany w październiku 2026, podsumowuje prace nad wykonalnością optyczną i projektem chipu fotonicznego związane z glukozą. Badają one zasadność dalszego rozwijania rozwiązania optycznego i zachowanie proponowanej struktury w modelu.",
+      "Przykłady i walidacja\n↗\nRóżne dowody odpowiadają na różne pytania.",
+      "Obszar\tZakres i ograniczenia\nWykonalność optyczna\tUzasadnia badanie mechanizmu optycznego przy określonych założeniach; nie potwierdza wiarygodnego pomiaru w użyciu.\nProjekt chipu fotonicznego\tUzasadnia proponowaną geometrię i proces inżynierski; nie dowodzi wytworzenia ani integracji.\nFizyczne parametry pomiaru\tNie zostały wykazane w podsumowaniu. Nie publikujemy tu zmierzonej dokładności pomiaru glukozy.\nUżycie kliniczne lub ubieralne\tNie zostało zwalidowane w dostarczonych materiałach. Zamierzonych form nie należy traktować jako zatwierdzonych zastosowań.\nPorównanie powinno dać się przeanalizować.",
+      "Technologia\n↗\nProponowana kolejność pytań walidacyjnych.",
+      "Przejście do kolejnego kroku powinno zależeć od wyników. Nie deklarujemy potwierdzonych dat eksperymentów, zakończonego wytwarzania ani badania klinicznego. To propozycja uporządkowania potrzeb dowodowych, nie obiecany harmonogram firmy."
+    ]
+  },
+  {
+    "site": "A",
+    "locale": "pl",
+    "page": "contact",
+    "blocks": []
+  },
+  {
+    "site": "A",
+    "locale": "pl",
+    "page": "home",
+    "blocks": [
+      "ArtiSense i AIFIELD podchodzą do tych pytań z różnych stron. Łączy je proces projektowy, który nie zastępuje walidacji eksperymentalnej.",
+      "Opisany przykład dotyczący glukozy obejmuje wykonalność optyczną i projektowanie chipu. Nie potwierdza zmierzonej dokładności pomiaru glukozy ani gotowości klinicznej.",
+      "Poznaj ArtiSense\n↗\nBadania i walidacja\n↗\n02 / AIFIELD\nGEOMETRIA → SYMULACJA → ANALIZA\n↗\nIlustracja koncepcyjna. Nie przedstawia gotowego produktu ani wyników pomiarów.",
+      "Poznaj AIFIELD\n↗\nPrzykłady i walidacja\n↗\nPostęp wymaga precyzyjnego opisu.",
+      "Projekt i etap\tCo wynika z dostępnych prac\nArtiSense · badania\tPrace nad wykonalnością optyczną i projektem chipu fotonicznego; fizyczna walidacja pomiaru pozostaje do ustalenia.\nAIFIELD · stan z września 2026\tPrzykłady projektowania i klasycznych symulacji; badania neuronowe zachowują ograniczenia warunków brzegowych i uogólniania.\nJak rozumiemy dowody\n↗",
+      "Z partnerami technicznymi możemy zacząć od tematu eksperymentów pomiarowych, wytwarzania i testów lub oceny procesu projektowania fotoniki."
+    ]
+  },
+  {
+    "site": "A",
+    "locale": "pl",
+    "page": "investors",
+    "blocks": [
+      "Wewnętrzny przykład projektowy pokazuje konkretne powiązanie: cel pomiarowy tworzy pytanie projektowe, a narzędzia inżynierskie pomagają zbadać proponowaną strukturę. To uzasadnienie techniczne do analizy, a nie dowód wspólnej własności intelektualnej lub sukcesu komercyjnego.",
+      "ArtiSense to proponowany zminiaturyzowany system pomiaru składu chemicznego. Dostarczone prace związane z glukozą dotyczą wykonalności optycznej i projektu chipu; dokładność pomiaru fizycznego oraz zamierzone użycie ubieralne pozostają niezwalidowane.",
+      "Ocena firmy wymaga aktualnych dowodów wykraczających poza ten opis techniczny. Materiały strony nie potwierdzają bieżącej rundy finansowania, instrumentu, wyceny, przychodów, walidacji rynku ani uzgodnionego pilotażu. Historyczna propozycja finansowania projektu nie jest przedstawiana jako obecna oferta firmy.",
+      "Kolejna rozmowa może określić dostępne materiały i osoby odpowiedzialne za pytania o strukturę firmy, własność, zasoby rozwojowe oraz założenia komercyjne. Strona nie sugeruje istnienia poufnego pakietu inwestorskiego ani liczbowej analizy rynku.",
+      "Które ryzyka techniczne najbardziej wpływają na propozycję firmy?\nCo wykazałby odtwarzalny wynik projektowy lub fizyczny?\nKtóre założenia komercyjne wymagają dowodów od klientów?\nO nas\n↗\nPotencjalny etap powinien zmniejszać określoną niepewność."
+    ]
+  },
+  {
+    "site": "A",
+    "locale": "pl",
+    "page": "partnerships",
+    "blocks": [
+      "Opisz kontekst zastosowania i obserwację, którą możesz pomóc ocenić. Ambicje nieinwazyjne i ubieralne pozostają kierunkami badań; nie oznaczają pilotażu klinicznego ani zwalidowanej zdolności pomiarowej.",
+      "Technologia\n↗\nBadania i walidacja\n↗\nPołącz projekt ze strukturą do zbadania.",
+      "Są to proponowane obszary rozmowy. Dostarczony materiał nie potwierdza umowy produkcyjnej, uzgodnionego programu testów ani istniejącej relacji partnerskiej.",
+      "Projektowanie i symulacja\n↗\nPrzykłady i walidacja\n↗\nNadaj pierwszej rozmowie potrzebny kontekst.",
+      "Tematy na stronie zapraszają do oceny możliwości współpracy. Nie stanowią dowodu istnienia partnerów, klientów, listów intencyjnych ani uzgodnionych pilotaży. Każda relacja i zgoda na jej publiczny opis wymagają osobnego potwierdzenia."
+    ]
+  },
+  {
+    "site": "A",
+    "locale": "pl",
+    "page": "privacy",
+    "blocks": []
+  },
+  {
+    "site": "A",
+    "locale": "pl",
+    "page": "projects",
+    "blocks": [
+      "Pytanie: czy zminiaturyzowany system fotoniczny może wykrywać użyteczny sygnał chemiczny i wiarygodnie go interpretować? Docelowi użytkownicy i forma urządzenia zależą od zadania pomiarowego, które nadal wymaga walidacji.",
+      "Dostępne prace dotyczą wykonalności optycznej i projektu chipu, w tym badań związanych z glukozą. Kolejnym potrzebnym dowodem jest kontrolowane porównanie fizyczne, oddzielające odpowiedź na poszukiwaną substancję od innych wpływów.",
+      "Poznaj ArtiSense\n↗\nBadania i walidacja\n↗\nPytanie\tOdpowiedź\nProblem\tUzyskanie użytecznej informacji chemicznej z odpowiedzi optycznej.\nZamierzony kontekst\tBadania nad pomiarem nieinwazyjnym; forma ubieralna pozostaje ambicją.\nWynik i etap\tProponowana architektura oraz projekt i symulacja, nie zwalidowany produkt medyczny.\n02 / AIFIELD\nGEOMETRIA → SYMULACJA → ANALIZA\n↗\nIlustracja koncepcyjna. Nie przedstawia gotowego produktu ani wyników pomiarów.",
+      "Poznaj AIFIELD\n↗\nPrzykłady i walidacja\n↗\nPytanie\tOdpowiedź\nProblem\tPołączenie decyzji projektowych z analizą opartą na modelach.\nZamierzeni użytkownicy\tProjektanci fotoniki i inżynierowie oceniający procesy symulacyjne.\nWynik i etap\tProjekty i wyniki symulowane; neuronowe przewidywanie pola pozostaje badaniem.\nWspólny przykład. Odrębne dowody.",
+      "Przykład projektu chipu fotonicznego do badań nad glukozą łączy proces inżynierski AIFIELD z celem pomiarowym związanym z ArtiSense. Projektowanie należy do AIFIELD; pytanie o to, co rzeczywiście da się zmierzyć, należy do ArtiSense.",
+      "Użyteczna symulacja może wskazać kolejny eksperyment. Sama nie waliduje czujnika, nie potwierdza dokładności klinicznej i nie ustanawia relacji komercyjnej."
+    ]
+  },
+  {
+    "site": "B",
+    "locale": "en",
+    "page": "about",
+    "blocks": [
+      "Skip to content\nLocal preview\nDraft content · 9 October 2026\nartifactory.\nProjects\nInvestors\nOur approach\nAbout\nEN\n/\nPL\nLet’s talk\nHome\nAbout",
+      "Light is central to both project directions. ArtiSense investigates how an optical response can inform chemical measurement. AIFIELD explores the engineering tools used to design and simulate photonic systems.",
+      "Investment enquiries concern Artifactory as a company. Current legal identity, leadership roles, ownership and IP statements require confirmation before public release. This local edition makes no unverified claims about those details.",
+      "Investors",
+      "Invest in the company. Explore the science. Bring a question worth working on.",
+      "Discuss an investment\nExplore partnerships\nartifactory.",
+      "Sensing technology and tools for designing photonic systems.\nProjects\nAll projects\nArtiSense\nAIFIELD\nCompany\nHome\nInvestors\nOur approach\nAbout\nPartnerships\nGet in touch\ninfo@artifactory.tech\nContact\nPrivacy\nArtifactory · 2026\nLocal review edition. Content and Polish translations await owner review.\nBack to top ↑"
+    ]
+  },
+  {
+    "site": "B",
+    "locale": "en",
+    "page": "aifield-ai",
+    "blocks": [
+      "Skip to content\nLocal preview\nDraft content · 9 October 2026\nartifactory.\nProjects\nInvestors\nOur approach\nAbout\nEN\n/\nPL\nLet’s talk\nAIFIELD\nOverview\nDesign & simulation\nAI workflows\nNeural field research\nExamples & validation\nHome\nProjects\nAIFIELD\nAI workflows",
+      "AIFIELD’s supplied material explores agent-assisted engineering through command-line and Model Context Protocol (MCP) interactions. The described work is partial assistance; it does not establish autonomous end-to-end chip design.",
+      "ON THIS PAGE\n01\nThe human review loop\n02\nEngineering judgment stays visible\n03\nLocal tools and external assistance\n04\nWhat to inspect in a demonstration\nResearch snapshot",
+      "A demonstration should identify what information leaves the machine, the service receiving it and the person authorizing that step.",
+      "What to inspect in a demonstration",
+      "Ask to see a concrete task, the proposed action, the human intervention point, a solver result and a failure or limitation. A recorded sequence and available-action list would make the actual automation boundary reviewable.",
+      "Request a demo\nCONTINUE EXPLORING\nDesign & simulation\nNeural field research\nExamples & validation\nInvestors",
+      "Invest in the company. Explore the science. Bring a question worth working on.",
+      "Discuss an investment\nExplore partnerships\nartifactory.",
+      "Sensing technology and tools for designing photonic systems.\nProjects\nAll projects\nArtiSense\nAIFIELD\nCompany\nHome\nInvestors\nOur approach\nAbout\nPartnerships\nGet in touch\ninfo@artifactory.tech\nContact\nPrivacy\nArtifactory · 2026\nLocal review edition. Content and Polish translations await owner review.\nBack to top ↑"
+    ]
+  },
+  {
+    "site": "B",
+    "locale": "en",
+    "page": "aifield-design",
+    "blocks": [
+      "Skip to content\nLocal preview\nDraft content · 9 October 2026\nartifactory.\nProjects\nInvestors\nOur approach\nAbout\nEN\n/\nPL\nLet’s talk\nAIFIELD\nOverview\nDesign & simulation\nAI workflows\nNeural field research\nExamples & validation\nHome\nProjects\nAIFIELD\nDesign & simulation",
+      "AIFIELD is a photonic CAD and simulation project. Its September 2026 material describes an engineering environment for setting up designs and investigating their behavior through classical simulation.",
+      "What the supplied snapshot describes\nArea\tDescribed work\tReview boundary\nDesign setup\tGeometry, layers and process handling\tExact supported formats need confirmation\nOptical simulation\tMode, circuit and field work\tScope and solver conditions vary by task\nThermal simulation\tInvestigation of thermal behavior\tCurrent implementation coverage needs review\nResults\tInternal comparisons and worked designs\tNo fabricated-device measurement implied\nA sensing question becomes a design",
+      "The photonic glucose chip-design example connects a measurement objective to optical design and simulation. The engineering output belongs to the tool’s evidence record. Whether a physical system can deliver the intended measurement is a separate ArtiSense question.",
+      "Request a demo\nCONTINUE EXPLORING\nAI workflows\nNeural field research\nExamples & validation\nInvestors",
+      "Invest in the company. Explore the science. Bring a question worth working on.",
+      "Discuss an investment\nExplore partnerships\nartifactory.",
+      "Sensing technology and tools for designing photonic systems.\nProjects\nAll projects\nArtiSense\nAIFIELD\nCompany\nHome\nInvestors\nOur approach\nAbout\nPartnerships\nGet in touch\ninfo@artifactory.tech\nContact\nPrivacy\nArtifactory · 2026\nLocal review edition. Content and Polish translations await owner review.\nBack to top ↑"
+    ]
+  },
+  {
+    "site": "B",
+    "locale": "en",
+    "page": "aifield",
+    "blocks": [
+      "Skip to content\nLocal preview\nDraft content · 9 October 2026\nartifactory.\nProjects\nInvestors\nOur approach\nAbout\nEN\n/\nPL\nLet’s talk\nAIFIELD\nOverview\nDesign & simulation\nAI workflows\nNeural field research\nExamples & validation\nHome\nProjects\nAIFIELD",
+      "Development & internal demonstrations\nRequest a demo\nFor investors\nOPTICAL FIELD\nCONCEPTUAL ILLUSTRATION\nAIFIELD\nConceptual illustration · not a product image or measured result",
+      "For photonic engineers, researchers and potential design partners evaluating how to move from a design question to an inspectable simulation.",
+      "02 / THE BOUNDARY\nWhat remains to be established",
+      "Internal comparisons are not measurements on fabricated chips. Neural field prediction remains research, with boundary conditions and open questions attached.",
+      "Proposed priorities include a reproducible demonstration, clearer capability boundaries and documented comparison conditions. Demo scope and access are arranged through an enquiry.",
+      "Explore neural optical-field prediction as a research direction, including boundary conditions, generalization and unresolved speed comparisons.",
+      "Understand the photonic glucose design example, internal simulation comparisons and the limits of AIFIELD’s supplied evidence.",
+      "Invest in the company. Explore the science. Bring a question worth working on.",
+      "Discuss an investment\nExplore partnerships\nartifactory.",
+      "Sensing technology and tools for designing photonic systems.\nProjects\nAll projects\nArtiSense\nAIFIELD\nCompany\nHome\nInvestors\nOur approach\nAbout\nPartnerships\nGet in touch\ninfo@artifactory.tech\nContact\nPrivacy\nArtifactory · 2026\nLocal review edition. Content and Polish translations await owner review.\nBack to top ↑"
+    ]
+  },
+  {
+    "site": "B",
+    "locale": "en",
+    "page": "aifield-neural",
+    "blocks": [
+      "Skip to content\nLocal preview\nDraft content · 9 October 2026\nartifactory.\nProjects\nInvestors\nOur approach\nAbout\nEN\n/\nPL\nLet’s talk\nAIFIELD\nOverview\nDesign & simulation\nAI workflows\nNeural field research\nExamples & validation\nHome\nProjects\nAIFIELD\nNeural field research",
+      "This branch investigates neural prediction of optical fields. It is distinct from AIFIELD’s classical simulation functionality and from the proposed analog interpretation processor in ArtiSense.",
+      "Conditions belong with the result\nBoundary information",
+      "Reviewed results include supplied boundary information. This condition must travel with any comparison.",
+      "Practical speed",
+      "Any speed claim must include preparation, inference and comparison conditions; a practical advantage remains unresolved.",
+      "A reviewable experiment would identify its geometry, input and boundary information, reference solution, error measure and full runtime conditions. Both successful and unsuccessful cases matter. The input package does not provide a publishable numerical benchmark or approved experiment figure.",
+      "Proposed next investigations concern prediction with less supplied information, behavior across different geometries, larger domains and an end-to-end speed comparison. These are research directions, with no confirmed completion schedule.",
+      "Examples & validation\nCONTINUE EXPLORING\nDesign & simulation\nAI workflows\nExamples & validation\nInvestors",
+      "Invest in the company. Explore the science. Bring a question worth working on.",
+      "Discuss an investment\nExplore partnerships\nartifactory.",
+      "Sensing technology and tools for designing photonic systems.\nProjects\nAll projects\nArtiSense\nAIFIELD\nCompany\nHome\nInvestors\nOur approach\nAbout\nPartnerships\nGet in touch\ninfo@artifactory.tech\nContact\nPrivacy\nArtifactory · 2026\nLocal review edition. Content and Polish translations await owner review.\nBack to top ↑"
+    ]
+  },
+  {
+    "site": "B",
+    "locale": "en",
+    "page": "aifield-validation",
+    "blocks": [
+      "Skip to content\nLocal preview\nDraft content · 9 October 2026\nartifactory.\nProjects\nInvestors\nOur approach\nAbout\nEN\n/\nPL\nLet’s talk\nAIFIELD\nOverview\nDesign & simulation\nAI workflows\nNeural field research\nExamples & validation\nHome\nProjects\nAIFIELD\nExamples & validation",
+      "AIFIELD’s September 2026 material includes internal comparisons and a photonic glucose chip-design example. These illustrate design and simulation work. They are not external customer case studies or fabricated-device measurements.",
+      "ON THIS PAGE\n01\nA photonic glucose chip-design example\n02\nReading the evidence record\n03\nA benchmark is more than a number\n04\nMake the next result reproducible\nResearch snapshot",
+      "OPTICAL FIELD\nCONCEPTUAL ILLUSTRATION\nAIFIELD\nConceptual illustration · not a product image or measured result\nA photonic glucose chip-design example",
+      "Research & validation\nReading the evidence record\nEvidence area\tSupplied context\tBoundary\nWorked design\tPhotonic glucose chip-design example\tDesign activity, not sensing validation\nClassical simulation\tInternal comparisons described in September 2026\tReference, conditions and misses need publication review\nAssisted workflow\tCommand-line and MCP interactions\tPartial assistance with human review\nNeural prediction\tResearch experiments with supplied boundary information\tGeneralization and practical speed remain open\nA benchmark is more than a number",
+      "A publishable comparison needs the reference tool or method, geometry, materials, boundary conditions, numerical settings, evaluation measure, runtime environment and date. It must include misses as well as successes. No unsupported accuracy or acceleration figure is added to this draft.",
+      "A proposed next milestone is a reviewable demonstration and evidence package: design inputs, relevant settings, outputs and interpretation. The project team needs to confirm the scope and release permissions before those materials can be shared.",
+      "Request a demo\nCONTINUE EXPLORING\nDesign & simulation\nAI workflows\nNeural field research\nInvestors",
+      "Invest in the company. Explore the science. Bring a question worth working on.",
+      "Discuss an investment\nExplore partnerships\nartifactory.",
+      "Sensing technology and tools for designing photonic systems.\nProjects\nAll projects\nArtiSense\nAIFIELD\nCompany\nHome\nInvestors\nOur approach\nAbout\nPartnerships\nGet in touch\ninfo@artifactory.tech\nContact\nPrivacy\nArtifactory · 2026\nLocal review edition. Content and Polish translations await owner review.\nBack to top ↑"
+    ]
+  },
+  {
+    "site": "B",
+    "locale": "en",
+    "page": "approach",
+    "blocks": [
+      "Skip to content\nLocal preview\nDraft content · 9 October 2026\nartifactory.\nProjects\nInvestors\nOur approach\nAbout\nEN\n/\nPL\nLet’s talk\nHome\nOur approach",
+      "A measurement or design objective establishes what needs investigation. In the photonic glucose chip-design example, ArtiSense provides the sensing objective and AIFIELD the engineering workflow.",
+      "Geometry, material conditions, calibration and boundary information shape a simulation result. A model helps investigate the question within those conditions. Its value depends on preserving that context when presenting the result.",
+      "A concept describes a direction. A simulation investigates a model. A prototype enables hardware testing. Physical measurement must establish device behavior. The next experiment should address a specific uncertainty.",
+      "Invest in the company. Explore the science. Bring a question worth working on.",
+      "Discuss an investment\nExplore partnerships\nartifactory.",
+      "Sensing technology and tools for designing photonic systems.\nProjects\nAll projects\nArtiSense\nAIFIELD\nCompany\nHome\nInvestors\nOur approach\nAbout\nPartnerships\nGet in touch\ninfo@artifactory.tech\nContact\nPrivacy\nArtifactory · 2026\nLocal review edition. Content and Polish translations await owner review.\nBack to top ↑"
+    ]
+  },
+  {
+    "site": "B",
+    "locale": "en",
+    "page": "artisense-applications",
+    "blocks": [
+      "Skip to content\nLocal preview\nDraft content · 9 October 2026\nartifactory.\nProjects\nInvestors\nOur approach\nAbout\nEN\n/\nPL\nLet’s talk\nArtiSense\nOverview\nTechnology\nApplications\nResearch & validation\nHome\nProjects\nArtiSense\nApplications",
+      "ArtiSense explores chemical information through optical sensing. Photonic glucose sensing is the substantial application example in the supplied research; intended uses must be evaluated against physical measurement evidence.",
+      "ON THIS PAGE\n01\nInvestigating photonic glucose sensing\n02\nCompact by intention\n03\nFrom intended use to testable requirements\n04\nBring a measurement question\nResearch snapshot",
+      "ARTISENSE / 01\nPHOTONICS\nSIGNAL\nLIGHT\nConceptual illustration · not a product image or measured result\nInvestigating photonic glucose sensing",
+      "The research asks whether an optical approach can contribute to glucose measurement. Work described in the source context concerns optical feasibility and chip design. The measurement objective gives engineering work a concrete question without establishing a working glucose monitor.",
+      "No validated glucose accuracy, clinical outcome or medical-use readiness is established by the supplied material.",
+      "Partnerships\nCONTINUE EXPLORING\nTechnology\nResearch & validation\nInvestors",
+      "Invest in the company. Explore the science. Bring a question worth working on.",
+      "Discuss an investment\nExplore partnerships\nartifactory.",
+      "Sensing technology and tools for designing photonic systems.\nProjects\nAll projects\nArtiSense\nAIFIELD\nCompany\nHome\nInvestors\nOur approach\nAbout\nPartnerships\nGet in touch\ninfo@artifactory.tech\nContact\nPrivacy\nArtifactory · 2026\nLocal review edition. Content and Polish translations await owner review.\nBack to top ↑"
+    ]
+  },
+  {
+    "site": "B",
+    "locale": "en",
+    "page": "artisense",
+    "blocks": [
+      "Skip to content\nLocal preview\nDraft content · 9 October 2026\nartifactory.\nProjects\nInvestors\nOur approach\nAbout\nEN\n/\nPL\nLet’s talk\nArtiSense\nOverview\nTechnology\nApplications\nResearch & validation\nHome\nProjects\nArtiSense",
+      "Research & concept development\nExplore the technology\nFor investors\nARTISENSE / 01\nPHOTONICS\nSIGNAL\nLIGHT\nConceptual illustration · not a product image or measured result",
+      "ArtiSense investigates a photonic approach to chemical measurement. The intended system brings illumination, optical response and signal interpretation together in a compact architecture.",
+      "For researchers and engineering partners exploring optical sensing and its integration into future measurement systems.",
+      "The supplied material describes optical feasibility work and a photonic glucose chip-design example.",
+      "02 / THE BOUNDARY\nWhat remains to be established",
+      "Design and simulation do not establish a fabricated sensor, glucose accuracy or clinical performance. Non-invasive and wearable uses remain intended directions.",
+      "Understand the intended glucose-sensing application, proposed form factors and the evidence needed before use.",
+      "A qualified account of ArtiSense optical feasibility and design work, with the gaps to physical and clinical validation.",
+      "Invest in the company. Explore the science. Bring a question worth working on.",
+      "Discuss an investment\nExplore partnerships\nartifactory.",
+      "Sensing technology and tools for designing photonic systems.\nProjects\nAll projects\nArtiSense\nAIFIELD\nCompany\nHome\nInvestors\nOur approach\nAbout\nPartnerships\nGet in touch\ninfo@artifactory.tech\nContact\nPrivacy\nArtifactory · 2026\nLocal review edition. Content and Polish translations await owner review.\nBack to top ↑"
+    ]
+  },
+  {
+    "site": "B",
+    "locale": "en",
+    "page": "artisense-technology",
+    "blocks": [
+      "Skip to content\nLocal preview\nDraft content · 9 October 2026\nartifactory.\nProjects\nInvestors\nOur approach\nAbout\nEN\n/\nPL\nLet’s talk\nArtiSense\nOverview\nTechnology\nApplications\nResearch & validation\nHome\nProjects\nArtiSense\nTechnology",
+      "ArtiSense is a chemical-sensing research project. Its proposed architecture connects photonic components with signal interpretation; the components below describe a system concept, not a validated device.",
+      "The supplied material includes a photonic glucose chip-design example associated with this sensing direction. AIFIELD pages explain the design activity; ArtiSense validation pages explain what must be established by measurement. A simulated design is one input to that work.",
+      "Design & simulation\nCONTINUE EXPLORING\nApplications\nResearch & validation\nInvestors",
+      "Invest in the company. Explore the science. Bring a question worth working on.",
+      "Discuss an investment\nExplore partnerships\nartifactory.",
+      "Sensing technology and tools for designing photonic systems.\nProjects\nAll projects\nArtiSense\nAIFIELD\nCompany\nHome\nInvestors\nOur approach\nAbout\nPartnerships\nGet in touch\ninfo@artifactory.tech\nContact\nPrivacy\nArtifactory · 2026\nLocal review edition. Content and Polish translations await owner review.\nBack to top ↑"
+    ]
+  },
+  {
+    "site": "B",
+    "locale": "en",
+    "page": "artisense-validation",
+    "blocks": [
+      "Skip to content\nLocal preview\nDraft content · 9 October 2026\nartifactory.\nProjects\nInvestors\nOur approach\nAbout\nEN\n/\nPL\nLet’s talk\nArtiSense\nOverview\nTechnology\nApplications\nResearch & validation\nHome\nProjects\nArtiSense\nResearch & validation",
+      "ARTISENSE / 01\nPHOTONICS\nSIGNAL\nLIGHT\nConceptual illustration · not a product image or measured result\nAn evidence snapshot\nWork described\tWhat it supports\tWhat it does not establish\nOptical feasibility\tInvestigation of a candidate sensing approach\tValidated chemical measurement\nPhotonic chip design\tAn engineering design and simulation example\tA fabricated and tested sensor\nIntended wearable use\tA direction for future integration\tA finished or clinically validated product\ni",
+      "Investigate calibration, repeatability and sources of interference.",
+      "AIFIELD’s chip-design example explains an engineering workflow. It does not establish sensing accuracy. Reviewing both evidence records helps distinguish progress in the design tools from progress toward a physical measurement system.",
+      "Examples & validation\nCONTINUE EXPLORING\nTechnology\nApplications\nInvestors",
+      "Invest in the company. Explore the science. Bring a question worth working on.",
+      "Discuss an investment\nExplore partnerships\nartifactory.",
+      "Sensing technology and tools for designing photonic systems.\nProjects\nAll projects\nArtiSense\nAIFIELD\nCompany\nHome\nInvestors\nOur approach\nAbout\nPartnerships\nGet in touch\ninfo@artifactory.tech\nContact\nPrivacy\nArtifactory · 2026\nLocal review edition. Content and Polish translations await owner review.\nBack to top ↑"
+    ]
+  },
+  {
+    "site": "B",
+    "locale": "en",
+    "page": "contact",
+    "blocks": [
+      "Skip to content\nLocal preview\nDraft content · 9 October 2026\nartifactory.\nProjects\nInvestors\nOur approach\nAbout\nEN\n/\nPL\nLet’s talk\nHome\nContact",
+      "Tell us what you would like to explore. Investment, collaboration or a closer look at the work.",
+      "Enquiry type *\nInvestment in Artifactory\nPartnership\nAIFIELD demo\nGeneral enquiry\nProject context (optional)\nArtifactory / no specific project\nArtiSense\nAIFIELD\nYour name (optional)\nOrganization (optional)\nReply email *\nYour message *\n20–4,000 characters\n0 / 4,000",
+      "Sensing technology and tools for designing photonic systems.\nProjects\nAll projects\nArtiSense\nAIFIELD\nCompany\nHome\nInvestors\nOur approach\nAbout\nPartnerships\nGet in touch\ninfo@artifactory.tech\nContact\nPrivacy\nArtifactory · 2026\nLocal review edition. Content and Polish translations await owner review.\nBack to top ↑"
+    ]
+  },
+  {
+    "site": "B",
+    "locale": "en",
+    "page": "home",
+    "blocks": [
+      "Skip to content\nLocal preview\nDraft content · 9 October 2026\nartifactory.\nProjects\nInvestors\nOur approach\nAbout\nEN\n/\nPL\nLet’s talk",
+      "Explore the investment case\nExplore our projects\nARTIFACTORY / 01\nPHOTONICS\nSIGNAL\nLIGHT\nFROM POSSIBILITY TO LIGHT\nConceptual illustration · not a product image or measured result\nFROM OPTICAL RESEARCH TO ENGINEERING POSSIBILITY\nDiscover the work",
+      "Explore ArtiSense\nRESEARCH SNAPSHOT · 2026\nOPTICAL FIELD\nCONCEPTUAL ILLUSTRATION\nAIFIELD\n02 / PHOTONIC ENGINEERING\nDevelopment & internal demonstrations\nAIFIELD",
+      "Invest in the company. Explore the science. Bring a question worth working on.",
+      "Discuss an investment\nExplore partnerships\nartifactory.",
+      "Sensing technology and tools for designing photonic systems.\nProjects\nAll projects\nArtiSense\nAIFIELD\nCompany\nHome\nInvestors\nOur approach\nAbout\nPartnerships\nGet in touch\ninfo@artifactory.tech\nContact\nPrivacy\nArtifactory · 2026\nLocal review edition. Content and Polish translations await owner review.\nBack to top ↑"
+    ]
+  },
+  {
+    "site": "B",
+    "locale": "en",
+    "page": "investors",
+    "blocks": [
+      "Skip to content\nLocal preview\nDraft content · 9 October 2026\nartifactory.\nProjects\nInvestors\nOur approach\nAbout\nEN\n/\nPL\nLet’s talk\nHome\nInvestors",
+      "INVEST IN ARTIFACTORY",
+      "Discuss an investment\nARTIFACTORY / COMPANY PERSPECTIVE\nTwo projects.\nOne conversation.\nArtiSense\nPhotonic sensing\nAIFIELD\nPhotonic engineering",
+      "The investment conversation concerns Artifactory as a company.",
+      "THE INVESTMENT PERSPECTIVE",
+      "Current company funding terms, ownership and IP positions, revenue, customer commitments and capital allocation are not established in the supplied material. Those topics belong in a company-level discussion supported by current information.",
+      "A USEFUL INVESTMENT CONVERSATION",
+      "Three areas to examine.\n01 / TECHNOLOGY\nWhat has been investigated?",
+      "Development & internal demonstrations",
+      "No current funding round, investment amount or return is represented here. Historical project proposals are not the company’s current funding ask. Materials are shared only after their scope and permissions are confirmed.",
+      "Invest in the company. Explore the science. Bring a question worth working on.",
+      "Discuss an investment\nExplore partnerships\nartifactory.",
+      "Sensing technology and tools for designing photonic systems.\nProjects\nAll projects\nArtiSense\nAIFIELD\nCompany\nHome\nInvestors\nOur approach\nAbout\nPartnerships\nGet in touch\ninfo@artifactory.tech\nContact\nPrivacy\nArtifactory · 2026\nLocal review edition. Content and Polish translations await owner review.\nBack to top ↑"
+    ]
+  },
+  {
+    "site": "B",
+    "locale": "en",
+    "page": "partnerships",
+    "blocks": [
+      "Skip to content\nLocal preview\nDraft content · 9 October 2026\nartifactory.\nProjects\nInvestors\nOur approach\nAbout\nEN\n/\nPL\nLet’s talk\nHome\nPartnerships",
+      "PARTNERSHIPS",
+      "Discuss a partnership\n02 /\nARTISENSE / AIFIELD\nFabrication & testing",
+      "Discuss a partnership\n03 /\nAIFIELD\nEngineering-tool evaluation",
+      "Discuss a partnership\ni",
+      "These are proposed discussion areas, not confirmed open programmes or existing partner relationships. Active needs, project owners and the scope of any collaboration must be agreed before work begins. No partner logos or customer commitments are implied.",
+      "Invest in the company. Explore the science. Bring a question worth working on.",
+      "Discuss an investment\nExplore partnerships\nartifactory.",
+      "Sensing technology and tools for designing photonic systems.\nProjects\nAll projects\nArtiSense\nAIFIELD\nCompany\nHome\nInvestors\nOur approach\nAbout\nPartnerships\nGet in touch\ninfo@artifactory.tech\nContact\nPrivacy\nArtifactory · 2026\nLocal review edition. Content and Polish translations await owner review.\nBack to top ↑"
+    ]
+  },
+  {
+    "site": "B",
+    "locale": "en",
+    "page": "privacy",
+    "blocks": [
+      "Skip to content\nLocal preview\nDraft content · 9 October 2026\nartifactory.\nProjects\nInvestors\nOur approach\nAbout\nEN\n/\nPL\nLet’s talk\nHome\nPrivacy",
+      "Sensing technology and tools for designing photonic systems.\nProjects\nAll projects\nArtiSense\nAIFIELD\nCompany\nHome\nInvestors\nOur approach\nAbout\nPartnerships\nGet in touch\ninfo@artifactory.tech\nContact\nPrivacy\nArtifactory · 2026\nLocal review edition. Content and Polish translations await owner review.\nBack to top ↑"
+    ]
+  },
+  {
+    "site": "B",
+    "locale": "en",
+    "page": "projects",
+    "blocks": [
+      "Skip to content\nLocal preview\nDraft content · 9 October 2026\nartifactory.\nProjects\nInvestors\nOur approach\nAbout\nEN\n/\nPL\nLet’s talk\nHome\nProjects",
+      "Explore ArtiSense\nRESEARCH SNAPSHOT · 2026\nOPTICAL FIELD\nCONCEPTUAL ILLUSTRATION\nAIFIELD\n02 / PHOTONIC ENGINEERING\nDevelopment & internal demonstrations\nAIFIELD",
+      "Different questions. Connected work.\nPerspective\tArtiSense\tAIFIELD\nFocus\tSensing systems\tDesign & simulation tools\nIntended output\tA miniaturized chemical-sensing system\tA photonic design and simulation workflow\nStage in supplied material\tResearch & concept development\tDevelopment & internal demonstrations\nEvidence boundary\tDesign work does not validate sensing performance\tSimulation comparisons do not establish fabricated-device results\nResearch & validation\nExamples & validation",
+      "Invest in the company. Explore the science. Bring a question worth working on.",
+      "Discuss an investment\nExplore partnerships\nartifactory.",
+      "Sensing technology and tools for designing photonic systems.\nProjects\nAll projects\nArtiSense\nAIFIELD\nCompany\nHome\nInvestors\nOur approach\nAbout\nPartnerships\nGet in touch\ninfo@artifactory.tech\nContact\nPrivacy\nArtifactory · 2026\nLocal review edition. Content and Polish translations await owner review.\nBack to top ↑"
+    ]
+  },
+  {
+    "site": "B",
+    "locale": "pl",
+    "page": "about",
+    "blocks": [
+      "Historia firmy łączy te powiązane działania. Każde zachowuje własny etap rozwoju, ograniczenia i potrzeby walidacyjne.",
+      "Zapytania inwestycyjne dotyczą Artifactory jako firmy. Aktualna tożsamość prawna, role kierownicze oraz informacje o własności i IP wymagają potwierdzenia przed publikacją. Wersja lokalna nie przedstawia niezweryfikowanych twierdzeń w tych obszarach."
+    ]
+  },
+  {
+    "site": "B",
+    "locale": "pl",
+    "page": "aifield-ai",
+    "blocks": [
+      "Przejdź do treści\nPodgląd lokalny\nTreści robocze · 9 października 2026\nartifactory.\nProjekty\nDla inwestorów\nJak pracujemy\nO nas\nPL\n/\nEN\nPorozmawiajmy\nAIFIELD\nPrzegląd\nProjektowanie i symulacja\nPraca z AI\nBadania modeli pola\nPrzykłady i walidacja\nStrona główna\nProjekty\nAIFIELD\nPraca z AI",
+      "Materiały AIFIELD opisują wspomaganie pracy inżynieryjnej przez agentów za pomocą wiersza poleceń i Model Context Protocol (MCP). To częściowa pomoc, która nie potwierdza autonomicznego projektowania układów od początku do końca.",
+      "Poproś o demo\nPOZNAJ WIĘCEJ\nProjektowanie i symulacja\nBadania modeli pola\nPrzykłady i walidacja\nDla inwestorów"
+    ]
+  },
+  {
+    "site": "B",
+    "locale": "pl",
+    "page": "aifield-design",
+    "blocks": [
+      "Przejdź do treści\nPodgląd lokalny\nTreści robocze · 9 października 2026\nartifactory.\nProjekty\nDla inwestorów\nJak pracujemy\nO nas\nPL\n/\nEN\nPorozmawiajmy\nAIFIELD\nPrzegląd\nProjektowanie i symulacja\nPraca z AI\nBadania modeli pola\nPrzykłady i walidacja\nStrona główna\nProjekty\nAIFIELD\nProjektowanie i symulacja",
+      "Przykład fotonicznego układu do pomiaru glukozy łączy cel pomiarowy z projektem optycznym i symulacją. Wynik inżynieryjny należy do zbioru dowodów dotyczących narzędzia. Możliwość uzyskania docelowego pomiaru w układzie fizycznym to odrębne pytanie ArtiSense.",
+      "Przykłady i walidacja\nDemo o określonym zakresie",
+      "Poproś o demo\nPOZNAJ WIĘCEJ\nPraca z AI\nBadania modeli pola\nPrzykłady i walidacja\nDla inwestorów"
+    ]
+  },
+  {
+    "site": "B",
+    "locale": "pl",
+    "page": "aifield",
+    "blocks": [
+      "Przejdź do treści\nPodgląd lokalny\nTreści robocze · 9 października 2026\nartifactory.\nProjekty\nDla inwestorów\nJak pracujemy\nO nas\nPL\n/\nEN\nPorozmawiajmy\nAIFIELD\nPrzegląd\nProjektowanie i symulacja\nPraca z AI\nBadania modeli pola\nPrzykłady i walidacja\nStrona główna\nProjekty\nAIFIELD",
+      "Dla inżynierów fotoniki, badaczy i potencjalnych partnerów projektowych szukających drogi od pytania projektowego do wyniku symulacji, który można przeanalizować.",
+      "Poznaj neuronową predykcję pól optycznych jako kierunek badań, z warunkami brzegowymi, generalizacją i otwartym pytaniem o szybkość.",
+      "04 / AIFIELD\nPrzykłady i walidacja",
+      "Poznaj przykład projektu układu do pomiaru glukozy, wewnętrzne porównania symulacji i ograniczenia dostępnych dowodów AIFIELD."
+    ]
+  },
+  {
+    "site": "B",
+    "locale": "pl",
+    "page": "aifield-neural",
+    "blocks": [
+      "Przejdź do treści\nPodgląd lokalny\nTreści robocze · 9 października 2026\nartifactory.\nProjekty\nDla inwestorów\nJak pracujemy\nO nas\nPL\n/\nEN\nPorozmawiajmy\nAIFIELD\nPrzegląd\nProjektowanie i symulacja\nPraca z AI\nBadania modeli pola\nPrzykłady i walidacja\nStrona główna\nProjekty\nAIFIELD\nBadania modeli pola",
+      "Szybkość w praktyce",
+      "Ocena szybkości musi uwzględniać przygotowanie, inferencję i warunki porównania. Praktyczna przewaga pozostaje nierozstrzygnięta.",
+      "Eksperyment możliwy do oceny powinien określać geometrię, dane wejściowe i brzegowe, rozwiązanie odniesienia, miarę błędu i pełne warunki czasowe. Ważne są przypadki udane i nieudane. Pakiet nie zawiera benchmarku liczbowego ani zatwierdzonego wykresu do publikacji.",
+      "Przykłady i walidacja\nPOZNAJ WIĘCEJ\nProjektowanie i symulacja\nPraca z AI\nPrzykłady i walidacja\nDla inwestorów"
+    ]
+  },
+  {
+    "site": "B",
+    "locale": "pl",
+    "page": "aifield-validation",
+    "blocks": [
+      "Przejdź do treści\nPodgląd lokalny\nTreści robocze · 9 października 2026\nartifactory.\nProjekty\nDla inwestorów\nJak pracujemy\nO nas\nPL\n/\nEN\nPorozmawiajmy\nAIFIELD\nPrzegląd\nProjektowanie i symulacja\nPraca z AI\nBadania modeli pola\nPrzykłady i walidacja\nStrona główna\nProjekty\nAIFIELD\nPrzykłady i walidacja",
+      "AIFIELD / PRZYKŁADY I WALIDACJA",
+      "Materiały AIFIELD z września 2026 obejmują porównania wewnętrzne i przykład projektu fotonicznego układu do pomiaru glukozy. Ilustrują prace projektowe i symulacyjne. Nie są studiami wdrożeń u klientów ani pomiarami na wykonanych układach.",
+      "NA TEJ STRONIE\n01\nPrzykład fotonicznego układu do pomiaru glukozy\n02\nJak czytać dostępne dowody\n03\nBenchmark to więcej niż liczba\n04\nPowtarzalność kolejnego wyniku\nStan badań",
+      "POLE OPTYCZNE\nILUSTRACJA KONCEPCYJNA\nAIFIELD\nIlustracja koncepcyjna · nie przedstawia produktu ani wyników pomiarów\nPrzykład fotonicznego układu do pomiaru glukozy",
+      "Pytanie inżynieryjne łączy cel pomiaru optycznego z projektem fotonicznym. AIFIELD wnosi proces projektowania i symulacji, a zamierzony pomiar należy do ArtiSense. Wynik projektowy potwierdza pracę inżynieryjną, podczas gdy pomiar fizyczny pozostaje odrębnym zadaniem walidacyjnym.",
+      "Badania i walidacja\nJak czytać dostępne dowody\nObszar dowodów\tDostarczony kontekst\tOgraniczenie\nPrzykład projektowy\tFotoniczny układ do pomiaru glukozy\tProjektowanie, nie walidacja pomiarów\nSymulacja klasyczna\tPorównania wewnętrzne opisane we wrześniu 2026\tOdniesienie, warunki i nieudane przypadki wymagają przeglądu\nProces wspomagany\tInterakcje przez wiersz poleceń i MCP\tCzęściowa pomoc z kontrolą człowieka\nPredykcja neuronowa\tEksperymenty z dostarczoną informacją brzegową\tGeneralizacja i praktyczna szybkość pozostają otwarte\nBenchmark to więcej niż liczba",
+      "Porównanie do publikacji wymaga wskazania narzędzia lub metody odniesienia, geometrii, materiałów, warunków brzegowych, ustawień numerycznych, miary oceny, środowiska wykonania i daty. Powinno obejmować przypadki udane i nieudane. W tej wersji nie dodajemy nieudokumentowanych wartości dokładności ani przyspieszenia."
+    ]
+  },
+  {
+    "site": "B",
+    "locale": "pl",
+    "page": "approach",
+    "blocks": [
+      "Cel pomiarowy lub projektowy określa, co powinno zostać zbadane. W przykładzie fotonicznego układu do pomiaru glukozy ArtiSense wnosi cel pomiarowy, a AIFIELD proces projektowy.",
+      "Przykłady i walidacja\nBadania i walidacja"
+    ]
+  },
+  {
+    "site": "B",
+    "locale": "pl",
+    "page": "artisense-applications",
+    "blocks": [
+      "Przejdź do treści\nPodgląd lokalny\nTreści robocze · 9 października 2026\nartifactory.\nProjekty\nDla inwestorów\nJak pracujemy\nO nas\nPL\n/\nEN\nPorozmawiajmy\nArtiSense\nPrzegląd\nTechnologia\nZastosowania\nBadania i walidacja\nStrona główna\nProjekty\nArtiSense\nZastosowania",
+      "ArtiSense bada informacje chemiczne za pomocą pomiarów optycznych. Fotoniczny pomiar glukozy jest głównym przykładem zastosowania w materiałach badawczych. Zamierzone użycie wymaga oceny na podstawie rzeczywistych pomiarów.",
+      "NA TEJ STRONIE\n01\nBadania nad fotonicznym pomiarem glukozy\n02\nKompaktowość jako kierunek\n03\nOd zamierzonego użycia do sprawdzalnych wymagań\n04\nZacznij od pytania pomiarowego\nStan badań",
+      "ARTISENSE / 01\nFOTONIKA\nSYGNAŁ\nŚWIATŁO\nIlustracja koncepcyjna · nie przedstawia produktu ani wyników pomiarów\nBadania nad fotonicznym pomiarem glukozy",
+      "Pytanie badawcze dotyczy przydatności podejścia optycznego w pomiarach glukozy. Prace opisane w materiałach obejmują wykonalność optyczną i projektowanie układu. Cel pomiarowy nadaje pracy inżynieryjnej konkretny kierunek, lecz nie potwierdza działania glukometru.",
+      "Dostarczone materiały nie potwierdzają zwalidowanej dokładności pomiaru glukozy, wyników klinicznych ani gotowości do użytku medycznego.",
+      "Współpraca\nPOZNAJ WIĘCEJ\nTechnologia\nBadania i walidacja\nDla inwestorów"
+    ]
+  },
+  {
+    "site": "B",
+    "locale": "pl",
+    "page": "artisense",
+    "blocks": [
+      "Przejdź do treści\nPodgląd lokalny\nTreści robocze · 9 października 2026\nartifactory.\nProjekty\nDla inwestorów\nJak pracujemy\nO nas\nPL\n/\nEN\nPorozmawiajmy\nArtiSense\nPrzegląd\nTechnologia\nZastosowania\nBadania i walidacja\nStrona główna\nProjekty\nArtiSense",
+      "Dla badaczy i partnerów inżynieryjnych zajmujących się pomiarami optycznymi i ich integracją w przyszłych systemach.",
+      "Dostarczone materiały opisują prace nad wykonalnością optyczną i przykład projektu fotonicznego układu do pomiaru glukozy.",
+      "Projekt i symulacja nie potwierdzają istnienia wykonanego czujnika, dokładności pomiaru glukozy ani skuteczności klinicznej. Pomiary nieinwazyjne i forma ubieralna pozostają kierunkami rozwoju.",
+      "Poznaj planowany pomiar glukozy, proponowane formy urządzenia i dowody potrzebne przed zastosowaniem.",
+      "03 / ARTISENSE\nBadania i walidacja",
+      "Opis prac nad wykonalnością optyczną i projektem ArtiSense oraz różnic między nimi a walidacją fizyczną i kliniczną."
+    ]
+  },
+  {
+    "site": "B",
+    "locale": "pl",
+    "page": "artisense-technology",
+    "blocks": [
+      "Przejdź do treści\nPodgląd lokalny\nTreści robocze · 9 października 2026\nartifactory.\nProjekty\nDla inwestorów\nJak pracujemy\nO nas\nPL\n/\nEN\nPorozmawiajmy\nArtiSense\nPrzegląd\nTechnologia\nZastosowania\nBadania i walidacja\nStrona główna\nProjekty\nArtiSense\nTechnologia",
+      "Materiały obejmują przykład projektu fotonicznego układu do pomiaru glukozy związanego z tym kierunkiem badań. Strony AIFIELD opisują projektowanie, a strony walidacji ArtiSense wyjaśniają, co należy wykazać w pomiarach. Projekt symulacyjny to jeden z punktów wyjścia.",
+      "Projektowanie i symulacja\nPOZNAJ WIĘCEJ\nZastosowania\nBadania i walidacja\nDla inwestorów"
+    ]
+  },
+  {
+    "site": "B",
+    "locale": "pl",
+    "page": "artisense-validation",
+    "blocks": [
+      "Przejdź do treści\nPodgląd lokalny\nTreści robocze · 9 października 2026\nartifactory.\nProjekty\nDla inwestorów\nJak pracujemy\nO nas\nPL\n/\nEN\nPorozmawiajmy\nArtiSense\nPrzegląd\nTechnologia\nZastosowania\nBadania i walidacja\nStrona główna\nProjekty\nArtiSense\nBadania i walidacja",
+      "ARTISENSE / BADANIA I WALIDACJA",
+      "NA TEJ STRONIE\n01\nPrzegląd dostępnych dowodów\n02\nProponowana sekwencja walidacji\n03\nPytania wyznaczające kolejny krok\n04\nKontekst dowodów projektowych\nStan badań",
+      "ARTISENSE / 01\nFOTONIKA\nSYGNAŁ\nŚWIATŁO\nIlustracja koncepcyjna · nie przedstawia produktu ani wyników pomiarów\nPrzegląd dostępnych dowodów\nOpisane prace\tCo wspierają\tCzego nie potwierdzają\nWykonalność optyczna\tBadanie potencjalnej metody pomiarowej\tZwalidowanego pomiaru chemicznego\nProjekt układu fotonicznego\tPrzykład projektu i symulacji inżynieryjnej\tWykonanego i przetestowanego czujnika\nPlanowane użycie ubieralne\tKierunek przyszłej integracji\tGotowego lub klinicznie zwalidowanego produktu\ni",
+      "Proponowana sekwencja walidacji\n01\nDefinicja eksperymentu",
+      "Plan dalszej walidacji wymaganej dla docelowego zastosowania.",
+      "Przykład projektu układu w AIFIELD przedstawia proces inżynieryjny. Nie potwierdza dokładności pomiarowej. Przegląd obu obszarów pozwala odróżnić postęp narzędzi projektowych od rozwoju fizycznego systemu pomiarowego.",
+      "Przykłady i walidacja\nPOZNAJ WIĘCEJ\nTechnologia\nZastosowania\nDla inwestorów"
+    ]
+  },
+  {
+    "site": "B",
+    "locale": "pl",
+    "page": "contact",
+    "blocks": []
+  },
+  {
+    "site": "B",
+    "locale": "pl",
+    "page": "home",
+    "blocks": [
+      "Wyzwanie pomiarowe daje projektowaniu fotonicznemu konkretny problem. Projekt i symulacja pomagają szukać odpowiedzi. Walidacja fizyczna określa ich znaczenie.",
+      "Postęp w projektowaniu nie oznacza automatycznej walidacji systemu pomiarowego."
+    ]
+  },
+  {
+    "site": "B",
+    "locale": "pl",
+    "page": "investors",
+    "blocks": [
+      "Dostarczone materiały nie potwierdzają aktualnych warunków finansowania firmy, praw własności i IP, przychodów, zobowiązań klientów ani alokacji kapitału. Te tematy wymagają rozmowy o firmie opartej na aktualnych danych.",
+      "Omów zamierzonych użytkowników, założenia komercyjne, kompetencje zespołu oraz pozycję własnościową i finansowanie.",
+      "Nie przedstawiamy tu aktualnej rundy finansowania, kwoty inwestycji ani stopy zwrotu. Historyczne propozycje projektowe nie określają obecnego zapotrzebowania firmy na kapitał. Udostępnienie materiałów wymaga potwierdzenia zakresu i uprawnień."
+    ]
+  },
+  {
+    "site": "B",
+    "locale": "pl",
+    "page": "partnerships",
+    "blocks": [
+      "Poznaj możliwe obszary współpracy przy pomiarach, walidacji fizycznej i narzędziach inżynierii fotonicznej.",
+      "To proponowane tematy rozmów, a nie potwierdzone programy współpracy ani istniejące relacje partnerskie. Aktywne potrzeby, osoby odpowiedzialne i zakres współpracy należy uzgodnić przed rozpoczęciem prac. Nie sugerujemy zobowiązań partnerów ani klientów."
+    ]
+  },
+  {
+    "site": "B",
+    "locale": "pl",
+    "page": "privacy",
+    "blocks": []
+  },
+  {
+    "site": "B",
+    "locale": "pl",
+    "page": "projects",
+    "blocks": [
+      "Różne pytania. Powiązane prace.\nPerspektywa\tArtiSense\tAIFIELD\nObszar\tUkłady pomiarowe\tProjektowanie i symulacja\nDocelowy wynik\tZminiaturyzowany system pomiarów chemicznych\tProces projektowania i symulacji fotonicznej\nEtap opisany w materiałach\tBadania i rozwój koncepcji\tRozwój i demonstracje wewnętrzne\nGranica dowodów\tProjekt nie potwierdza skuteczności pomiarowej\tPorównania symulacji nie potwierdzają wyników wykonanych układów\nBadania i walidacja\nPrzykłady i walidacja"
+    ]
+  }
+]

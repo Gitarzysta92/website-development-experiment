@@ -1,0 +1,83 @@
+{
+  "id": "partnerships",
+  "locale": "pl",
+  "type": "company",
+  "title": "Zaproponuj pytanie do zbadania.",
+  "description": "Proponowane tematy współpracy Artifactory: pomiary optyczne, wytwarzanie i testowanie oraz ocena narzędzi inżynierii fotonicznej.",
+  "eyebrow": "ARTIFACTORY / FIRMA",
+  "lead": "Użyteczna współpraca zaczyna się od konkretnego pytania technicznego i wiedzy potrzebnej do udzielenia odpowiedzi.",
+  "sections": [
+    {
+      "id": "sensing",
+      "title": "Pomiary i odpowiedź optyczna.",
+      "paragraphs": [
+        "Możliwe rozmowy o ArtiSense dotyczą poszukiwanej odpowiedzi optycznej, właściwego porównania odniesienia i wpływów mogących przesłonić sygnał. Wiedza o kontrolowanych pomiarach, kalibracji i powtarzalności może pomóc określić wymagania wartościowego eksperymentu.",
+        "Opisz kontekst zastosowania i obserwację, którą możesz pomóc ocenić. Ambicje nieinwazyjne i ubieralne pozostają kierunkami badań; nie oznaczają pilotażu klinicznego ani zwalidowanej zdolności pomiarowej."
+      ],
+      "links": [
+        {
+          "id": "artisense-technology"
+        },
+        {
+          "id": "artisense-validation"
+        }
+      ]
+    },
+    {
+      "id": "fabrication",
+      "title": "Połącz projekt ze strukturą do zbadania.",
+      "paragraphs": [
+        "Potencjalne tematy wytwarzania i testowania obejmują założenia procesu, tolerancje, zachowanie materiałów i warunki porównania struktury fizycznej z modelem. Pierwszym zadaniem jest wskazanie miejsc, w których założenia projektu mogą zawieść przy realizacji.",
+        "Są to proponowane obszary rozmowy. Dostarczony materiał nie potwierdza umowy produkcyjnej, uzgodnionego programu testów ani istniejącej relacji partnerskiej."
+      ]
+    },
+    {
+      "id": "tools",
+      "title": "Oceń proces inżynierski.",
+      "paragraphs": [
+        "W przypadku AIFIELD użyteczna ocena zaczyna się od ograniczonego zadania projektowego: danych, oczekiwanego wyniku i metody odniesienia. Projektanci fotoniki mogą pomóc ocenić wsparcie przygotowania, porównania i analizy rezultatów.",
+        "Informacja zwrotna o pracy przez wiersz poleceń lub z agentem powinna obejmować odpowiedzialność człowieka i granice przetwarzania lokalnego oraz zewnętrznego. Prośba o demo rozpoczyna rozmowę o dostępie i zakresie, nie daje natychmiastowego dostępu do produktu."
+      ],
+      "links": [
+        {
+          "id": "aifield-design"
+        },
+        {
+          "id": "aifield-validation"
+        }
+      ]
+    },
+    {
+      "id": "context",
+      "title": "Nadaj pierwszej rozmowie potrzebny kontekst.",
+      "paragraphs": [
+        "Wskaż pytanie, wiedzę lub zaplecze, które możesz wnieść, oraz dowody potrzebne do oceny postępu. Określ ograniczenia udostępniania przed przesłaniem plików projektowych lub nieopublikowanych danych. Wystarczy krótki niepoufny opis.",
+        "Tematy na stronie zapraszają do oceny możliwości współpracy. Nie stanowią dowodu istnienia partnerów, klientów, listów intencyjnych ani uzgodnionych pilotaży. Każda relacja i zgoda na jej publiczny opis wymagają osobnego potwierdzenia."
+      ],
+      "links": [
+        {
+          "id": "contact"
+        }
+      ]
+    }
+  ],
+  "relatedIds": [
+    "artisense-technology",
+    "aifield-design",
+    "contact"
+  ],
+  "project": null,
+  "sourceReferences": [
+    "HP-1.1/project-context",
+    "SM-0.3/partnerships"
+  ],
+  "sourceRevision": "2026-10-09 (AIFIELD snapshot: September 2026)",
+  "editorialState": "published",
+  "modifiedAt": "2026-10-09T21:00:00.000Z",
+  "reviews": {
+    "facts": "991bc03465c5fea77018c3f4b449699fbb3c27c3457d2d4f247259292cf4e472",
+    "language": "991bc03465c5fea77018c3f4b449699fbb3c27c3457d2d4f247259292cf4e472",
+    "assets": "991bc03465c5fea77018c3f4b449699fbb3c27c3457d2d4f247259292cf4e472"
+  },
+  "privateNotes": "Locally authored from supplied summary. Factual, translation and asset owner review pending. Original PDFs were not supplied."
+}

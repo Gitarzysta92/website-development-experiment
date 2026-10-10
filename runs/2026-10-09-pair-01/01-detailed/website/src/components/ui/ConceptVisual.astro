@@ -1,0 +1,30 @@
+---
+interface Props {kind?:'sensing'|'design'|'field'|'workflow'|'company';label:string;labels?:string[];idPrefix?:string;}
+const {kind='company',label,labels=[],idPrefix=kind}=Astro.props;
+const isField=kind==='field';const isDesign=kind==='design'||kind==='workflow';
+const lines=Array.from({length:17},(_,i)=>i);
+---
+<div class:list={['concept',kind]} role="img" aria-label={label}>
+ <div class="visual-top"><span>{labels[0]||'01 / PHOTONICS'}</span><span class="visual-dot" aria-hidden="true"></span></div>
+ <svg viewBox="0 0 600 480" width="600" height="480" aria-hidden="true" focusable="false">
+ <defs><linearGradient id={`chip-${idPrefix}`} x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffffff"/><stop offset="1" stop-color="#dce5e6"/></linearGradient><linearGradient id={`wave-${idPrefix}`}><stop stop-color="#087f8c"/><stop offset=".5" stop-color="#662483"/><stop offset="1" stop-color="#087f8c"/></linearGradient><pattern id={`grid-${idPrefix}`} width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#dce5e6" stroke-width=".7"/></pattern></defs>
+ <rect width="600" height="480" fill={`url(#grid-${idPrefix})`}/>
+ {isField ? <g>{lines.map(i=><path d={`M40 ${120+i*12} C130 ${70+i*8},180 ${330-i*9},280 ${130+i*10} S430 ${330-i*8},560 ${160+i*10}`} fill="none" stroke={`url(#wave-${idPrefix})`} stroke-width="2" opacity={.3+i*.04}/>)}<path d="M40 400H560M40 80V400" stroke="#5c6470" fill="none" stroke-width="1.5"/><circle cx="280" cy="250" r="60" fill="none" stroke="#662483" stroke-width="1.5" stroke-dasharray="5 7"/></g> : <g>
+ <path d="M118 237L301 126L495 230L311 343Z" fill="#202438" opacity=".07" transform="translate(0 35)"/>
+ <path d="M118 219L301 108L495 212L495 244L311 355L118 251Z" fill="#dce5e6" stroke="#5c6470" stroke-width="1"/>
+ <path d="M118 219L301 108L495 212L311 323Z" fill={`url(#chip-${idPrefix})`} stroke="#5c6470" stroke-width="1"/>
+ <path d="M156 219L300 132L456 214L311 301Z" fill="#f2f7f7" stroke="#dce5e6"/>
+ <path d="M72 258L184 190Q218 170 252 190L343 237Q375 253 402 237L541 154" fill="none" stroke="#087f8c" stroke-width="8" opacity=".16"/>
+ <path d="M72 258L184 190Q218 170 252 190L343 237Q375 253 402 237L541 154" fill="none" stroke="#087f8c" stroke-width="2.5"/>
+ <path d="M64 281L214 191Q242 173 273 190L365 239Q392 254 422 237L551 160" fill="none" stroke="#662483" stroke-width="2.5"/>
+ <ellipse cx="300" cy="220" rx="54" ry="29" fill="none" stroke="#662483" stroke-width="3" transform="rotate(-4 300 220)"/>
+ <ellipse cx="300" cy="220" rx="39" ry="21" fill="none" stroke="#087f8c" stroke-width="1.5" transform="rotate(-4 300 220)"/>
+ {Array.from({length:7},(_,i)=><g><path d={`M${175+i*19} ${261+i*10}v15l-22 14`} stroke="#5c6470" stroke-width="2" fill="none"/><circle cx={300+i*16} cy={153+i*8} r="3" fill="#087f8c"/></g>)}
+ <path d="M300 183V58H433M402 236L486 282H550M208 201L123 128H48" fill="none" stroke="#5c6470" stroke-width="1" stroke-dasharray="3 5"/>
+ <circle cx="300" cy="183" r="5" fill="#662483"/><circle cx="402" cy="236" r="5" fill="#087f8c"/><circle cx="208" cy="201" r="5" fill="#087f8c"/>
+ <rect x="428" y="43" width="126" height="32" rx="8" fill="#fff" stroke="#dce5e6"/><path d="M440 60h13l5-7 8 15 8-15 7 7h57" fill="none" stroke="#662483" stroke-width="1.5"/>
+ {isDesign&&<g>{[0,1,2].map(i=><rect x="62" y={343+i*17} width={130-i*22} height="7" rx="3" fill={i===0?'#087f8c':'#dce5e6'}/>)}<path d="M340 395h180" stroke="#5c6470"/><path d="M348 393q20-7 28-30t28 0 27 0 27 0 29-12" fill="none" stroke="#662483" stroke-width="2"/></g>}
+ </g>}
+ </svg><div class="visual-bottom"><span>{labels[1]||'LIGHT → DESIGN → DISCOVERY'}</span><span aria-hidden="true">↗</span></div>
+</div>
+<style>.concept{position:relative;overflow:hidden;min-width:0;border:1px solid var(--af-line);border-radius:var(--radius-large);background:radial-gradient(ellipse at 75% 20%,#6624830b,transparent 60%),var(--af-mist);padding:20px}.concept svg{display:block;width:100%;height:auto}.visual-top,.visual-bottom{font:12px/1.5 var(--mono);letter-spacing:.06em;display:flex;align-items:center;justify-content:space-between;gap:12px;color:var(--af-muted)}.visual-bottom{border-top:1px solid var(--af-line);padding-top:16px;font-size:11px}.visual-dot{width:7px;height:7px;border-radius:100%;background:var(--af-teal)}@media(max-width:48rem){.concept{padding:16px}.visual-top{font-size:11px}}</style>

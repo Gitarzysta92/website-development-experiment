@@ -1,0 +1,42 @@
+{
+  "id": "aifield-design",
+  "locale": "pl",
+  "title": "Od geometrii do projektu, który można sprawdzić",
+  "description": "Proces AIFIELD łączy opis układu i technologii z kilkoma rodzajami symulacji. Każdy wynik odpowiada na inne pytanie inżynierskie i wymaga interpretacji w granicach przyjętego modelu.",
+  "eyebrow": "AIFIELD",
+  "lead": "Proces AIFIELD łączy opis układu i technologii z kilkoma rodzajami symulacji. Każdy wynik odpowiada na inne pytanie inżynierskie i wymaga interpretacji w granicach przyjętego modelu.",
+  "sections": [
+    {
+      "id": "section-1",
+      "heading": "Dane wejściowe projektu",
+      "body": [
+        "Inżynier określa geometrię, warstwy, materiały i ograniczenia technologiczne. Tworzą one kontekst symulacji; niepełne założenia dotyczące wykonania mogą sprawić, że atrakcyjny model nie nadaje się do rzeczywistego procesu."
+      ]
+    },
+    {
+      "id": "section-2",
+      "heading": "Rodzaje symulacji",
+      "body": [
+        "Analiza modów dotyczy prowadzenia światła, modele obwodowe łączą elementy, obliczenia pola pokazują zachowanie przestrzenne, a analiza cieplna bada wpływ ogrzewania. Opis z września 2026 roku obejmuje te prace, lecz bieżący zakres wsparcia wymaga potwierdzenia."
+      ]
+    },
+    {
+      "id": "section-3",
+      "heading": "Przykład projektu układu dla glukozy",
+      "body": [
+        "Wewnętrzny przykład fotoniczny pokazuje, jak pytanie o pomiar może kierować projektem i symulacją elementów. To wynik prac projektowych, nie pomiar wykonanego układu. Tolerancje produkcyjne i zgodność pomiaru to osobne etapy walidacji."
+      ]
+    }
+  ],
+  "related": [
+    "aifield-validation",
+    "artisense-validation"
+  ],
+  "editorialState": "draft",
+  "sourceRevision": "HP-1.1; context 2026-10-09",
+  "modified": "2026-10-10",
+  "sourceRefs": [
+    "inputs/content/project-context.md (summary, 2026-10-09)",
+    "inputs/docs/sitemap.md (SM-0.3)"
+  ]
+}

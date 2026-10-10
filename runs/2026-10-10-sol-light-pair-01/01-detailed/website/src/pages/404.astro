@@ -1,0 +1,4 @@
+---
+import '../styles/site.css';const locale=Astro.url.pathname.startsWith('/pl/')?'pl':'en';Astro.response.status=404;
+---
+<!doctype html><html lang={locale}><head><meta charset="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/><meta name="robots" content="noindex"/><title>404 · Artifactory</title></head><body><main class="container error-page"><p class="eyebrow">404 / Artifactory</p><h1>{locale==='pl'?'Nie znaleziono strony':'Page not found'}</h1><p>{locale==='pl'?'Sprawdź adres lub wróć do strony głównej.':'Check the address or return to the homepage.'}</p><a class="button" href={locale==='pl'?'/pl/':'/en/'}>{locale==='pl'?'Strona główna':'Home'}</a></main></body></html>

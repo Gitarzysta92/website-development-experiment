@@ -1,0 +1,20 @@
+[
+  {
+    "variant": "01-detailed",
+    "model": "gpt-6-astra",
+    "reasoning_effort": "xhigh",
+    "name": "artifactory-detailed-astra-xhigh",
+    "origin": "https://artifactory-detailed-astra-xhigh.coolify.threesixty.dev",
+    "source_sha256": "30b3652a0e3d2f01a5c23a95b7c61baeb430b15b4c392f4e7e6fc5071d5b4463",
+    "gateway_sha256": "00abe11586983761ea4975c7e39331a499c506693d0e07ca1adbc0f337fbf6db"
+  },
+  {
+    "variant": "02-inputs-only",
+    "model": "gpt-6-astra",
+    "reasoning_effort": "xhigh",
+    "name": "artifactory-inputs-only-astra-xhigh",
+    "origin": "https://artifactory-inputs-only-astra-xhigh.coolify.threesixty.dev",
+    "source_sha256": "314e076283aae126c9b3486c10f85adfbfdae282bcd0dee4deac4b7d6985f929",
+    "gateway_sha256": "00abe11586983761ea4975c7e39331a499c506693d0e07ca1adbc0f337fbf6db"
+  }
+]

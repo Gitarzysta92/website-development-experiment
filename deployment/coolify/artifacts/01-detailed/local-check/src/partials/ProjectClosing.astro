@@ -1,0 +1,7 @@
+---
+import type {PageView} from '../content/index';
+import {contactHref,routeFor} from '../navigation/index';
+import Button from '../components/ui/Button.astro';
+interface Props{page:PageView;}const {page}=Astro.props;const pl=page.locale==='pl';
+---
+<section class="closing wash"><div class="container"><div><p class="eyebrow">{pl?'ZACZNIJMY OD PYTANIA':'START WITH A QUESTION'}</p><h2>{pl?'Przyjrzyjmy się temu razem.':'Let’s explore what comes next.'}</h2></div><div class="actions"><Button href={contactHref(page.locale,page.project==='aifield'?'demo':'investment',page.project||undefined)}>{page.project==='aifield'?(pl?'Poproś o demo':'Request a demo'):(pl?'Porozmawiajmy o inwestycji':'Discuss an investment')}</Button><a class="text-link" href={routeFor('partnerships',page.locale)}>{pl?'Możliwości współpracy':'Partnership opportunities'} ↗</a></div></div></section>

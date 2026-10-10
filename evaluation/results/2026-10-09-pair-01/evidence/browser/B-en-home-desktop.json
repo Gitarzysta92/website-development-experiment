@@ -1,0 +1,406 @@
+{
+  "id": "B-en-home-desktop",
+  "label": "B",
+  "locale": "en",
+  "pageId": "home",
+  "view": "desktop",
+  "url": "http://127.0.0.1:4511/en/",
+  "status": 200,
+  "errors": [],
+  "title": "Engineering light. Creating possibility. | Artifactory",
+  "language": "en",
+  "h1": [
+    "Engineering\nlight. Creating\npossibility."
+  ],
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Engineering\nlight. Creating\npossibility."
+    },
+    {
+      "level": "H2",
+      "text": "One focus.\nTwo ways forward."
+    },
+    {
+      "level": "H3",
+      "text": "ArtiSense"
+    },
+    {
+      "level": "H3",
+      "text": "AIFIELD"
+    },
+    {
+      "level": "H2",
+      "text": "Better questions.\nDeeper understanding."
+    },
+    {
+      "level": "H2",
+      "text": "See the work.\nUnderstand the evidence."
+    },
+    {
+      "level": "H3",
+      "text": "Optical feasibility & sensing"
+    },
+    {
+      "level": "H3",
+      "text": "Design examples & comparisons"
+    },
+    {
+      "level": "H3",
+      "text": "Neural field research"
+    },
+    {
+      "level": "H2",
+      "text": "Let’s explore what\ncomes next."
+    },
+    {
+      "level": "H2",
+      "text": "Projects"
+    },
+    {
+      "level": "H2",
+      "text": "Company"
+    },
+    {
+      "level": "H2",
+      "text": "Get in touch"
+    }
+  ],
+  "text": "Skip to content\nLocal preview\nDraft content · 9 October 2026\nartifactory.\nProjects\nInvestors\nOur approach\nAbout\nEN\n/\nPL\nLet’s talk\n\nPHOTONICS. WITH PURPOSE.\n\nEngineering\nlight. Creating\npossibility.\n\nWe’re developing sensing technology and photonic engineering tools. Two projects. One company exploring what light can do.\n\nExplore the investment case\nExplore our projects\nARTIFACTORY / 01\nPHOTONICS\nSIGNAL\nLIGHT\nFROM POSSIBILITY TO LIGHT\nConceptual illustration · not a product image or measured result\nFROM OPTICAL RESEARCH TO ENGINEERING POSSIBILITY\nDiscover the work\n\nOUR PROJECTS / 01—02\n\nOne focus.\nTwo ways forward.\n\nFrom the systems that sense the world to the tools that help design them. Explore the work, its current stage and the questions ahead.\n\nARTISENSE / 01\nPHOTONICS\nSIGNAL\nLIGHT\n01 / PHOTONIC SENSING\nResearch & concept development\nArtiSense\n\nExploring how light can reveal chemical information, with a miniaturized sensing system at the heart of the research.\n\nExplore ArtiSense\nRESEARCH SNAPSHOT · 2026\nOPTICAL FIELD\nCONCEPTUAL ILLUSTRATION\nAIFIELD\n02 / PHOTONIC ENGINEERING\nDevelopment & internal demonstrations\nAIFIELD\n\nA design and simulation environment for exploring photonic systems, with AI-assisted workflows and a distinct neural field research direction.\n\nExplore AIFIELD\nRESEARCH SNAPSHOT · 2026\n\nConceptual illustration · not a product image or measured result\n\nTHE CONNECTION\n\nBetter questions.\nDeeper understanding.\n\nA sensing challenge gives photonic design a concrete problem. Design and simulation help explore possible answers. Physical validation determines what those answers mean.\n\nExplore our approach\n01 / THE QUESTION\nArtiSense\nWhat can light measure?\nDesign ↔ insight\n02 / THE TOOL\nAIFIELD\nHow can we model it?\n\nProgress in design does not automatically validate a sensing system.\n\nCLARITY AT EVERY STAGE\n\nSee the work.\nUnderstand the evidence.\n\nConcepts, simulations and physical measurements answer different questions. We keep those distinctions visible.\n\n01\nOptical feasibility & sensing\n\nWhat the current design work supports.\n\n02\nDesign examples & comparisons\n\nThe context behind the engineering outputs.\n\n03\nNeural field research\n\nResearch conditions and the questions still open.\n\nTHE NEXT CONVERSATION\n\nLet’s explore what\ncomes next.\n\nInvest in the company. Explore the science. Bring a question worth working on.\n\nDiscuss an investment\nExplore partnerships\nartifactory.\n\nEngineering light. Creating possibility.\n\nSensing technology and tools for designing photonic systems.\nProjects\nAll projects\nArtiSense\nAIFIELD\nCompany\nHome\nInvestors\nOur approach\nAbout\nPartnerships\nGet in touch\ninfo@artifactory.tech\nContact\nPrivacy\nArtifactory · 2026\nLocal review edition. Content and Polish translations await owner review.\nBack to top ↑",
+  "links": [
+    {
+      "text": "Skip to content",
+      "href": "#main",
+      "lang": ""
+    },
+    {
+      "text": "artifactory.",
+      "href": "/en/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/en/projects/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/en/projects/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/en/projects/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Investors",
+      "href": "/en/investors/",
+      "lang": ""
+    },
+    {
+      "text": "Our approach",
+      "href": "/en/approach/",
+      "lang": ""
+    },
+    {
+      "text": "About",
+      "href": "/en/about/",
+      "lang": ""
+    },
+    {
+      "text": "Partnerships",
+      "href": "/en/partnerships/",
+      "lang": ""
+    },
+    {
+      "text": "Contact",
+      "href": "/en/contact/",
+      "lang": ""
+    },
+    {
+      "text": "PL",
+      "href": "/pl/",
+      "lang": "pl"
+    },
+    {
+      "text": "Let’s talk",
+      "href": "/en/contact/?intent=investment",
+      "lang": ""
+    },
+    {
+      "text": "Explore the investment case",
+      "href": "/en/investors/",
+      "lang": ""
+    },
+    {
+      "text": "Explore our projects",
+      "href": "/en/projects/",
+      "lang": ""
+    },
+    {
+      "text": "Discover the work",
+      "href": "#projects",
+      "lang": ""
+    },
+    {
+      "text": "ARTISENSE / 01\nPHOTONICS\nSIGNAL\nLIGHT",
+      "href": "/en/projects/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSense",
+      "href": "/en/projects/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "Explore ArtiSense",
+      "href": "/en/projects/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "OPTICAL FIELD\nCONCEPTUAL ILLUSTRATION\nAIFIELD",
+      "href": "/en/projects/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELD",
+      "href": "/en/projects/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Explore AIFIELD",
+      "href": "/en/projects/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Explore our approach",
+      "href": "/en/approach/",
+      "lang": ""
+    },
+    {
+      "text": "01\nOptical feasibility & sensing\n\nWhat the current design work supports.",
+      "href": "/en/projects/artisense/research-validation/",
+      "lang": ""
+    },
+    {
+      "text": "02\nDesign examples & comparisons\n\nThe context behind the engineering outputs.",
+      "href": "/en/projects/aifield/examples-validation/",
+      "lang": ""
+    },
+    {
+      "text": "03\nNeural field research\n\nResearch conditions and the questions still open.",
+      "href": "/en/projects/aifield/neural-field-research/",
+      "lang": ""
+    },
+    {
+      "text": "Discuss an investment",
+      "href": "/en/contact/?intent=investment",
+      "lang": ""
+    },
+    {
+      "text": "Explore partnerships",
+      "href": "/en/partnerships/",
+      "lang": ""
+    },
+    {
+      "text": "artifactory.",
+      "href": "/en/",
+      "lang": ""
+    },
+    {
+      "text": "All projects",
+      "href": "/en/projects/",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSense",
+      "href": "/en/projects/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELD",
+      "href": "/en/projects/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Home",
+      "href": "/en/",
+      "lang": ""
+    },
+    {
+      "text": "Investors",
+      "href": "/en/investors/",
+      "lang": ""
+    },
+    {
+      "text": "Our approach",
+      "href": "/en/approach/",
+      "lang": ""
+    },
+    {
+      "text": "About",
+      "href": "/en/about/",
+      "lang": ""
+    },
+    {
+      "text": "Partnerships",
+      "href": "/en/partnerships/",
+      "lang": ""
+    },
+    {
+      "text": "info@artifactory.tech",
+      "href": "mailto:info@artifactory.tech",
+      "lang": ""
+    },
+    {
+      "text": "Contact",
+      "href": "/en/contact/",
+      "lang": ""
+    },
+    {
+      "text": "Privacy",
+      "href": "/en/privacy/",
+      "lang": ""
+    },
+    {
+      "text": "Back to top ↑",
+      "href": "#top",
+      "lang": ""
+    }
+  ],
+  "metadata": [
+    {
+      "name": "viewport",
+      "content": "width=device-width, initial-scale=1"
+    },
+    {
+      "name": "description",
+      "content": "Explore Artifactory, the company developing ArtiSense sensing technology and AIFIELD photonic engineering tools."
+    },
+    {
+      "name": "robots",
+      "content": "noindex,nofollow"
+    },
+    {
+      "name": "theme-color",
+      "content": "#662483"
+    },
+    {
+      "rel": "canonical",
+      "href": "http://127.0.0.1:4511/en/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "en",
+      "href": "http://127.0.0.1:4511/en/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "pl",
+      "href": "http://127.0.0.1:4511/pl/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "x-default",
+      "href": "http://127.0.0.1:4511/en/"
+    },
+    {
+      "property": "og:type",
+      "content": "website"
+    },
+    {
+      "property": "og:site_name",
+      "content": "Artifactory"
+    },
+    {
+      "property": "og:title",
+      "content": "Engineering light. Creating possibility. | Artifactory"
+    },
+    {
+      "property": "og:description",
+      "content": "Explore Artifactory, the company developing ArtiSense sensing technology and AIFIELD photonic engineering tools."
+    },
+    {
+      "property": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "property": "og:locale:alternate",
+      "content": "pl_PL"
+    },
+    {
+      "property": "og:url",
+      "content": "http://127.0.0.1:4511/en/"
+    },
+    {
+      "property": "og:image",
+      "content": "http://127.0.0.1:4511/assets/share-en.svg"
+    },
+    {
+      "name": "twitter:card",
+      "content": "summary_large_image"
+    }
+  ],
+  "forms": [],
+  "images": [],
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "scrollWidth": 1440
+  },
+  "overflowing": [],
+  "axe": {
+    "violations": [
+      {
+        "id": "region",
+        "impact": "moderate",
+        "tags": [
+          "cat.keyboard",
+          "best-practice",
+          "RGAAv4",
+          "RGAA-9.2.1"
+        ],
+        "description": "Ensure all page content is contained by landmarks",
+        "help": "All page content should be contained by landmarks",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/region?application=playwright",
+        "nodes": [
+          {
+            "any": [
+              {
+                "id": "region",
+                "data": {
+                  "isIframe": false
+                },
+                "relatedNodes": [],
+                "impact": "moderate",
+                "message": "Some page content is not contained by landmarks"
+              }
+            ],
+            "all": [],
+            "none": [],
+            "impact": "moderate",
+            "html": "<div class=\"preview-strip\"><div class=\"container\"><span><i aria-hidden=\"true\"></i>Local preview</span><span>Draft content · 9 October 2026</span></div></div>",
+            "target": [
+              ".preview-strip"
+            ],
+            "failureSummary": "Fix any of the following:\n  Some page content is not contained by landmarks"
+          }
+        ]
+      }
+    ],
+    "incomplete": [
+      {
+        "id": "aria-prohibited-attr",
+        "impact": "serious",
+        "nodeCount": 2
+      },
+      {
+        "id": "color-contrast",
+        "impact": "serious",
+        "nodeCount": 33
+      }
+    ],
+    "passes": 37
+  }
+}

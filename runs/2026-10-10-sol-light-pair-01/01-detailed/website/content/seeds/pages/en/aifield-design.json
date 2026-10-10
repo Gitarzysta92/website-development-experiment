@@ -1,0 +1,47 @@
+{
+  "id": "aifield-design",
+  "locale": "en",
+  "title": "Design, simulate, inspect",
+  "lead": "Photonic engineering moves between geometry, process assumptions and several kinds of simulation.",
+  "description": "AIFIELD’s described workflow aims to make those steps easier to examine together while keeping outputs tied to their conditions.",
+  "eyebrow": "AIFIELD",
+  "sections": [
+    {
+      "id": "focus",
+      "title": "The design inputs",
+      "paragraphs": [
+        "Layer stacks and process descriptions frame the geometry that a solver evaluates. A useful result must preserve the assumptions about materials, boundaries and fabrication constraints."
+      ]
+    },
+    {
+      "id": "evidence",
+      "title": "Several solver questions",
+      "paragraphs": [
+        "Mode, circuit, field and thermal simulations answer different questions. Agreement in one calculation does not establish a manufactured device’s behavior."
+      ]
+    },
+    {
+      "id": "next",
+      "title": "Glucose chip-design example",
+      "paragraphs": [
+        "The sensing-design example demonstrates a design activity associated with ArtiSense. The output is a simulation/design artifact, not a measured glucose result."
+      ]
+    }
+  ],
+  "related": [
+    "aifield",
+    "aifield-design",
+    "aifield-ai",
+    "aifield-neural",
+    "aifield-validation",
+    "partnerships"
+  ],
+  "stage": "Local draft · source context October 2026",
+  "pageType": "project",
+  "sourceReferences": [
+    "HP-1.1 project-context 2026-10-09"
+  ],
+  "sourceRevision": "2026-10-09",
+  "editorialState": "draft",
+  "modifiedAt": "2026-10-10"
+}

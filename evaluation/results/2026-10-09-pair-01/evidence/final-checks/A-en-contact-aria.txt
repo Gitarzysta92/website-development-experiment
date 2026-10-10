@@ -1,0 +1,43 @@
+- main:
+  - navigation "Breadcrumb":
+    - list:
+      - listitem:
+        - link "Home":
+          - /url: /en/
+      - listitem: / Contact
+  - paragraph: CONTACT
+  - heading "Let’s start a conversation." [level=1]
+  - paragraph: Tell us which question you are exploring. Investment conversations concern Artifactory as a company; project and partnership discussions can start with a specific technical question.
+  - heading "A useful starting point" [level=2]
+  - paragraph: Choose an enquiry type and, if relevant, a project. For an investment discussion, describe the information you would like to assess. For a partnership or demo, outline the engineering question and the evidence you need.
+  - paragraph: This preview is for testing the website. Use invented example details in the form, not personal, financial or confidential information. AIFIELD demo enquiries request a conversation; they do not grant immediate product access.
+  - heading "Prefer email?" [level=2]
+  - link "info@artifactory.tech":
+    - /url: mailto:info@artifactory.tech
+  - paragraph: Opens your email application. The form’s local test mode does not apply to email you choose to send.
+  - strong: Local test mode
+  - paragraph: This form sends synthetic data to an in-memory receiver on this computer. No email is sent. Records expire within 24 hours and clear on server restart.
+  - text: What would you like to discuss?
+  - combobox "What would you like to discuss?":
+    - option "General enquiry" [selected]
+    - option "Investment in Artifactory"
+    - option "Partnership"
+    - option "AIFIELD demo conversation"
+  - text: Project (optional)
+  - combobox "Project (optional)":
+    - option "No specific project" [selected]
+    - option "ArtiSense"
+    - option "AIFIELD"
+  - text: Name (optional)
+  - textbox "Name (optional)"
+  - text: Organization (optional)
+  - textbox "Organization (optional)"
+  - text: Email address
+  - textbox "Email address"
+  - text: Your message
+  - paragraph: 20–5,000 characters. Use synthetic test data only; do not include personal or confidential information.
+  - textbox "Your message"
+  - paragraph:
+    - link "Read how this local form handles information":
+      - /url: /en/privacy/
+  - button "Send test enquiry"

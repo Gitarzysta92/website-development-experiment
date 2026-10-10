@@ -1,0 +1,46 @@
+{
+  "id": "artisense-validation",
+  "locale": "en",
+  "title": "What is known, what must be tested",
+  "lead": "Separate optical feasibility and chip design from evidence of a working sensor.",
+  "description": "The available summary documents research directions but does not provide an approved public performance dataset.",
+  "eyebrow": "ArtiSense",
+  "sections": [
+    {
+      "id": "focus",
+      "title": "What the material supports",
+      "paragraphs": [
+        "The supplied research discusses optical sensing, spectral interpretation and a photonic glucose chip-design example. These are grounds for further experiments, not a quantified accuracy claim."
+      ]
+    },
+    {
+      "id": "evidence",
+      "title": "Open questions",
+      "paragraphs": [
+        "Signal specificity, reference stability, repeatability across conditions, integrated-component behavior and relevance to human use remain to be established."
+      ]
+    },
+    {
+      "id": "next",
+      "title": "A practical validation path",
+      "paragraphs": [
+        "Controlled measurements could characterize individual components, followed by calibrated prototypes and independently reviewed studies appropriate to the intended application."
+      ]
+    }
+  ],
+  "related": [
+    "artisense",
+    "artisense-technology",
+    "artisense-applications",
+    "artisense-validation",
+    "partnerships"
+  ],
+  "stage": "Local draft · source context October 2026",
+  "pageType": "project",
+  "sourceReferences": [
+    "HP-1.1 project-context 2026-10-09"
+  ],
+  "sourceRevision": "2026-10-09",
+  "editorialState": "draft",
+  "modifiedAt": "2026-10-10"
+}

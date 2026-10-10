@@ -1,0 +1,144 @@
+{
+  "protocol_version": "1.0",
+  "run_group": "2026-10-09-pair-01",
+  "mapping": {
+    "A": "01-detailed",
+    "B": "02-inputs-only"
+  },
+  "status": "evaluation_complete_with_disclosed_unresolved_checks",
+  "reviewers": 1,
+  "blind": false,
+  "verdict": "No defensible overall quality winner; overlapping incomplete score intervals. Inputs-only is visually stronger and uses less observed construction time/token processing. Detailed provides a more complete enquiry flow and lighter measured runtime.",
+  "score_basis": "26 of 28 criteria rated. Screen-reader semantics and native zoom/adaptation remain unrated under the frozen protocol. Intervals are missing-evidence bounds, not confidence intervals; no total score is imputed.",
+  "summary": {
+    "A": {
+      "category_scores": {
+        "visual": 17.1875,
+        "functionality": 17.5,
+        "content": 17.5,
+        "accessibility": null,
+        "engineering": 8.75,
+        "performance": 5.0,
+        "metadata": 5.0
+      },
+      "quality_score": null,
+      "incomplete_score_interval": [
+        78.4375,
+        85.9375
+      ],
+      "critical_failures": 0,
+      "major_defects": 0,
+      "minor_defects": 1,
+      "most_consequential_differences": [
+        "Working synthetic receiver with retry/idempotency",
+        "Faster and lighter measured runtime",
+        "More repetitive visual treatment and much longer construction"
+      ],
+      "equal_category_weight_interval": [
+        83.03571428571429,
+        90.17857142857143
+      ],
+      "unrated_criteria": [
+        "accessibility.semantics",
+        "accessibility.adaptation"
+      ]
+    },
+    "B": {
+      "category_scores": {
+        "visual": 21.875,
+        "functionality": 13.75,
+        "content": 17.5,
+        "accessibility": null,
+        "engineering": 9.375,
+        "performance": 4.375,
+        "metadata": 5.0
+      },
+      "quality_score": null,
+      "incomplete_score_interval": [
+        79.375,
+        86.875
+      ],
+      "critical_failures": 0,
+      "major_defects": 1,
+      "minor_defects": 2,
+      "most_consequential_differences": [
+        "Stronger visual composition and project illustrations",
+        "Much shorter construction and lower recorded token processing",
+        "Receiving form implementation missing"
+      ],
+      "equal_category_weight_interval": [
+        82.14285714285714,
+        89.28571428571429
+      ],
+      "unrated_criteria": [
+        "accessibility.semantics",
+        "accessibility.adaptation"
+      ]
+    }
+  },
+  "resource_ratios": {
+    "delivery_wall_A_over_B": 2.9388319296581686,
+    "total_tokens_A_over_B": 6.834137450910168,
+    "uncached_input_A_over_B": 4.609310847498429,
+    "output_tokens_A_over_B": 2.239143686502177,
+    "median_LCP_B_over_A": 1.996528166771177,
+    "median_transfer_B_over_A": 3.4561231390553115
+  },
+  "performance": {
+    "A": {
+      "score": {
+        "median": 1.0,
+        "min": 1,
+        "max": 1
+      },
+      "lcp_ms": {
+        "median": 1052.44475,
+        "min": 1051.424,
+        "max": 1203.89
+      },
+      "cls": {
+        "median": 0.0,
+        "min": 0,
+        "max": 0
+      },
+      "tbt_ms": {
+        "median": 0.0,
+        "min": 0,
+        "max": 0
+      },
+      "transfer_bytes": {
+        "median": 52493.5,
+        "min": 47587,
+        "max": 61714
+      }
+    },
+    "B": {
+      "score": {
+        "median": 0.99,
+        "min": 0.95,
+        "max": 1
+      },
+      "lcp_ms": {
+        "median": 2101.23558734545,
+        "min": 1650.807,
+        "max": 2551.2117537469508
+      },
+      "cls": {
+        "median": 0.0,
+        "min": 0,
+        "max": 0
+      },
+      "tbt_ms": {
+        "median": 0.0,
+        "min": 0,
+        "max": 0
+      },
+      "transfer_bytes": {
+        "median": 181424.0,
+        "min": 116463,
+        "max": 282622
+      }
+    }
+  },
+  "replication": "One run per condition; packages differ in workflow, engineering constraints and verification as well as instruction detail. No general causal claim."
+}

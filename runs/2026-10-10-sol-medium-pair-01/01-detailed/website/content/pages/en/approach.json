@@ -1,0 +1,42 @@
+{
+  "id": "approach",
+  "locale": "en",
+  "title": "Make the boundary between idea and evidence visible",
+  "description": "A useful development account starts with a claim, the method used to test it, and the limits of the observation. This page proposes a way to read the supplied work; it is not a confirmed internal company procedure.",
+  "eyebrow": "Artifactory",
+  "lead": "A useful development account starts with a claim, the method used to test it, and the limits of the observation. This page proposes a way to read the supplied work; it is not a confirmed internal company procedure.",
+  "sections": [
+    {
+      "id": "section-1",
+      "heading": "Define the question",
+      "body": [
+        "For a sensor, the question includes analyte, sample, reference and tolerance. For design software, it includes input, expected output, comparison method and conditions. A well-defined question prevents a compelling visualization from becoming a broader claim than the evidence supports."
+      ]
+    },
+    {
+      "id": "section-2",
+      "heading": "Separate the evidence layers",
+      "body": [
+        "A concept diagram explains intent; simulation tests a model; fabrication tests physical realization; measured data tests behavior; use in a real setting tests fitness for purpose. The supplied context reaches different layers for ArtiSense and AIFIELD, so a single maturity label would conceal important differences."
+      ]
+    },
+    {
+      "id": "section-3",
+      "heading": "Publish limits alongside results",
+      "body": [
+        "Future updates should report dates, versions, methods, representative successes and failures, and the next unresolved question. Owner review is still needed before this proposed approach can be described as an established Artifactory process."
+      ]
+    }
+  ],
+  "related": [
+    "artisense-validation",
+    "aifield-validation"
+  ],
+  "editorialState": "draft",
+  "sourceRevision": "HP-1.1; context 2026-10-09",
+  "modified": "2026-10-10",
+  "sourceRefs": [
+    "inputs/content/project-context.md (summary, 2026-10-09)",
+    "inputs/docs/sitemap.md (SM-0.3)"
+  ]
+}

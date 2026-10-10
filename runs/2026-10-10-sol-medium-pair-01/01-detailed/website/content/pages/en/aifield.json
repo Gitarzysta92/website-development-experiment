@@ -1,0 +1,44 @@
+{
+  "id": "aifield",
+  "locale": "en",
+  "title": "Designing photonic systems with clearer feedback",
+  "description": "AIFIELD develops photonic CAD and simulation workflows. Its September 2026 material describes classical engineering tools and a separate research effort in learned optical-field prediction.",
+  "eyebrow": "AIFIELD",
+  "lead": "AIFIELD develops photonic CAD and simulation workflows. Its September 2026 material describes classical engineering tools and a separate research effort in learned optical-field prediction.",
+  "sections": [
+    {
+      "id": "section-1",
+      "heading": "An engineering workbench",
+      "body": [
+        "The described workflow handles design layers and process information, then examines modes, circuits, fields and thermal effects. These are different views of a candidate design, helping an engineer ask what to change before fabrication. Current supported interfaces and limits need confirmation from the team."
+      ]
+    },
+    {
+      "id": "section-2",
+      "heading": "Assistance with a human in the loop",
+      "body": [
+        "Command-line and Model Context Protocol workflows explore agent assistance: an assistant can propose actions while a person reviews and applies them. The supplied work describes partial assistance, not autonomous end-to-end chip design."
+      ]
+    },
+    {
+      "id": "section-3",
+      "heading": "Research alongside practical tools",
+      "body": [
+        "Neural field prediction investigates whether learned models can estimate optical fields under supplied conditions. It is distinct from classical solvers and from ArtiSense’s proposed analog interpretation processor. The next evidence needs broader comparisons and clearly stated boundary assumptions."
+      ]
+    }
+  ],
+  "related": [
+    "aifield-design",
+    "aifield-ai",
+    "aifield-neural",
+    "aifield-validation"
+  ],
+  "editorialState": "draft",
+  "sourceRevision": "HP-1.1; context 2026-10-09",
+  "modified": "2026-10-10",
+  "sourceRefs": [
+    "inputs/content/project-context.md (summary, 2026-10-09)",
+    "inputs/docs/sitemap.md (SM-0.3)"
+  ]
+}

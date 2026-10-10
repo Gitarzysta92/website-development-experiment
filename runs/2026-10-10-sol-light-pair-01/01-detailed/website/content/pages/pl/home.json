@@ -1,0 +1,44 @@
+{
+  "id": "home",
+  "locale": "pl",
+  "title": "Od światła do użytecznej informacji",
+  "lead": "Artifactory rozwija koncepcję detekcji fotonicznej oraz narzędzia do jej projektowania.",
+  "description": "Dwa odrębne projekty łączą cel pomiarowy z pracą inżynierską nad systemami fotonicznymi.",
+  "eyebrow": "Artifactory",
+  "sections": [
+    {
+      "id": "focus",
+      "title": "Teza spółki",
+      "paragraphs": [
+        "ArtiSense bada koncepcję kompaktowej detekcji chemicznej. AIFIELD rozwija procesy projektowania i symulacji fotoniki. Związek projektów jest obiecujący, lecz postęp projektowy nie dowodzi skuteczności pomiaru."
+      ]
+    },
+    {
+      "id": "evidence",
+      "title": "Stan prac",
+      "paragraphs": [
+        "Dostarczone materiały opisują badania i projektowanie, w tym przykład projektu układu do detekcji glukozy. Nie potwierdzają parametrów urządzenia, dokładności klinicznej ani wyników komercyjnych."
+      ]
+    },
+    {
+      "id": "next",
+      "title": "Następna rozmowa",
+      "paragraphs": [
+        "Zapraszamy do rozmowy o inwestycji na poziomie spółki, opartej na dostępnych dowodach i dalszych potrzebach walidacji."
+      ]
+    }
+  ],
+  "related": [
+    "investors",
+    "projects",
+    "partnerships"
+  ],
+  "stage": "Local draft · source context October 2026",
+  "pageType": "company",
+  "sourceReferences": [
+    "HP-1.1 project-context 2026-10-09"
+  ],
+  "sourceRevision": "2026-10-09",
+  "editorialState": "draft",
+  "modifiedAt": "2026-10-10"
+}

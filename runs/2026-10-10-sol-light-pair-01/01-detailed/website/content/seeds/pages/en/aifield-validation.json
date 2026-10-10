@@ -1,0 +1,47 @@
+{
+  "id": "aifield-validation",
+  "locale": "en",
+  "title": "Examples need their conditions",
+  "lead": "A design example and an internal comparison become informative when inputs, reference methods and misses are visible.",
+  "description": "The supplied September 2026 overview does not authorize a public performance number or a claim of fabricated-chip validation.",
+  "eyebrow": "AIFIELD",
+  "sections": [
+    {
+      "id": "focus",
+      "title": "The sensing design example",
+      "paragraphs": [
+        "A photonic glucose chip-design exercise can show how geometry and simulation are used. It cannot, on its own, show that glucose was measured."
+      ]
+    },
+    {
+      "id": "evidence",
+      "title": "How to read a comparison",
+      "paragraphs": [
+        "A credible benchmark records a dated version, reference solver, test cases, boundary conditions, successes, failures and the cost of each run. Without those details, a headline number would mislead."
+      ]
+    },
+    {
+      "id": "next",
+      "title": "What evidence is next",
+      "paragraphs": [
+        "Repeatable case studies and independently reviewable results would help distinguish useful engineering capabilities from promising experiments."
+      ]
+    }
+  ],
+  "related": [
+    "aifield",
+    "aifield-design",
+    "aifield-ai",
+    "aifield-neural",
+    "aifield-validation",
+    "partnerships"
+  ],
+  "stage": "Local draft · source context October 2026",
+  "pageType": "project",
+  "sourceReferences": [
+    "HP-1.1 project-context 2026-10-09"
+  ],
+  "sourceRevision": "2026-10-09",
+  "editorialState": "draft",
+  "modifiedAt": "2026-10-10"
+}

@@ -1,0 +1,10 @@
+---
+import type {PageView} from '../../content/index';
+import ProjectFrame from '../../layouts/ProjectFrame.astro';
+import PageIntro from '../../partials/PageIntro.astro';
+import ProjectClosing from '../../partials/ProjectClosing.astro';
+import Sections from '../Sections.astro';
+interface Props{page:PageView;}const {page}=Astro.props;const pl=page.locale==='pl';
+---
+<PageIntro page={page}/><ProjectFrame page={page}><div class="evidence-note"><h2 class="evidence-heading">{pl?'Projekt ≠ pomiar':'Design ≠ measurement'}</h2><p>{pl?'Dowód ma znaczenie w granicach pytania, metody i warunków, których dotyczy.':'Evidence has meaning within the question, method and conditions it addresses.'}</p></div><Sections page={page}/></ProjectFrame><ProjectClosing page={page}/>
+<style>.evidence-note{margin-top:0;margin-bottom:48px}.evidence-heading{font-size:30px;margin-bottom:16px}</style>

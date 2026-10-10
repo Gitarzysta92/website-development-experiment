@@ -1,0 +1,240 @@
+[
+  {
+    "path": "/en/",
+    "jsGzip": 397,
+    "cssGzip": 5490,
+    "initialBytes": 30412,
+    "pass": true
+  },
+  {
+    "path": "/pl/",
+    "jsGzip": 397,
+    "cssGzip": 5490,
+    "initialBytes": 30581,
+    "pass": true
+  },
+  {
+    "path": "/en/projects/",
+    "jsGzip": 397,
+    "cssGzip": 5490,
+    "initialBytes": 30699,
+    "pass": true
+  },
+  {
+    "path": "/pl/projekty/",
+    "jsGzip": 397,
+    "cssGzip": 5490,
+    "initialBytes": 30837,
+    "pass": true
+  },
+  {
+    "path": "/en/projects/artisense/",
+    "jsGzip": 397,
+    "cssGzip": 5490,
+    "initialBytes": 32729,
+    "pass": true
+  },
+  {
+    "path": "/pl/projekty/artisense/",
+    "jsGzip": 397,
+    "cssGzip": 5490,
+    "initialBytes": 33901,
+    "pass": true
+  },
+  {
+    "path": "/en/projects/artisense/technology/",
+    "jsGzip": 397,
+    "cssGzip": 5490,
+    "initialBytes": 32922,
+    "pass": true
+  },
+  {
+    "path": "/pl/projekty/artisense/technologia/",
+    "jsGzip": 397,
+    "cssGzip": 5490,
+    "initialBytes": 33137,
+    "pass": true
+  },
+  {
+    "path": "/en/projects/artisense/applications/",
+    "jsGzip": 397,
+    "cssGzip": 5490,
+    "initialBytes": 32829,
+    "pass": true
+  },
+  {
+    "path": "/pl/projekty/artisense/zastosowania/",
+    "jsGzip": 397,
+    "cssGzip": 5490,
+    "initialBytes": 33059,
+    "pass": true
+  },
+  {
+    "path": "/en/projects/artisense/research-validation/",
+    "jsGzip": 397,
+    "cssGzip": 5490,
+    "initialBytes": 33039,
+    "pass": true
+  },
+  {
+    "path": "/pl/projekty/artisense/badania-walidacja/",
+    "jsGzip": 397,
+    "cssGzip": 5490,
+    "initialBytes": 33169,
+    "pass": true
+  },
+  {
+    "path": "/en/projects/aifield/",
+    "jsGzip": 397,
+    "cssGzip": 5490,
+    "initialBytes": 32852,
+    "pass": true
+  },
+  {
+    "path": "/pl/projekty/aifield/",
+    "jsGzip": 397,
+    "cssGzip": 5490,
+    "initialBytes": 33065,
+    "pass": true
+  },
+  {
+    "path": "/en/projects/aifield/design-simulation/",
+    "jsGzip": 397,
+    "cssGzip": 5490,
+    "initialBytes": 32890,
+    "pass": true
+  },
+  {
+    "path": "/pl/projekty/aifield/projektowanie-symulacja/",
+    "jsGzip": 397,
+    "cssGzip": 5490,
+    "initialBytes": 33015,
+    "pass": true
+  },
+  {
+    "path": "/en/projects/aifield/ai-workflows/",
+    "jsGzip": 397,
+    "cssGzip": 5490,
+    "initialBytes": 32827,
+    "pass": true
+  },
+  {
+    "path": "/pl/projekty/aifield/praca-z-ai/",
+    "jsGzip": 397,
+    "cssGzip": 5490,
+    "initialBytes": 33083,
+    "pass": true
+  },
+  {
+    "path": "/en/projects/aifield/neural-field-research/",
+    "jsGzip": 397,
+    "cssGzip": 5490,
+    "initialBytes": 32951,
+    "pass": true
+  },
+  {
+    "path": "/pl/projekty/aifield/badania-modeli-pola/",
+    "jsGzip": 397,
+    "cssGzip": 5490,
+    "initialBytes": 33103,
+    "pass": true
+  },
+  {
+    "path": "/en/projects/aifield/examples-validation/",
+    "jsGzip": 397,
+    "cssGzip": 5490,
+    "initialBytes": 33291,
+    "pass": true
+  },
+  {
+    "path": "/pl/projekty/aifield/przyklady-walidacja/",
+    "jsGzip": 397,
+    "cssGzip": 5490,
+    "initialBytes": 33448,
+    "pass": true
+  },
+  {
+    "path": "/en/investors/",
+    "jsGzip": 397,
+    "cssGzip": 5490,
+    "initialBytes": 30915,
+    "pass": true
+  },
+  {
+    "path": "/pl/inwestorzy/",
+    "jsGzip": 397,
+    "cssGzip": 5490,
+    "initialBytes": 31104,
+    "pass": true
+  },
+  {
+    "path": "/en/approach/",
+    "jsGzip": 397,
+    "cssGzip": 5490,
+    "initialBytes": 30894,
+    "pass": true
+  },
+  {
+    "path": "/pl/jak-pracujemy/",
+    "jsGzip": 397,
+    "cssGzip": 5490,
+    "initialBytes": 30963,
+    "pass": true
+  },
+  {
+    "path": "/en/about/",
+    "jsGzip": 397,
+    "cssGzip": 5490,
+    "initialBytes": 30160,
+    "pass": true
+  },
+  {
+    "path": "/pl/o-nas/",
+    "jsGzip": 397,
+    "cssGzip": 5490,
+    "initialBytes": 30350,
+    "pass": true
+  },
+  {
+    "path": "/en/partnerships/",
+    "jsGzip": 397,
+    "cssGzip": 5490,
+    "initialBytes": 30212,
+    "pass": true
+  },
+  {
+    "path": "/pl/wspolpraca/",
+    "jsGzip": 397,
+    "cssGzip": 5490,
+    "initialBytes": 30346,
+    "pass": true
+  },
+  {
+    "path": "/en/contact/",
+    "jsGzip": 2304,
+    "cssGzip": 5490,
+    "initialBytes": 36737,
+    "pass": true
+  },
+  {
+    "path": "/pl/kontakt/",
+    "jsGzip": 2304,
+    "cssGzip": 5490,
+    "initialBytes": 36902,
+    "pass": true
+  },
+  {
+    "path": "/en/privacy/",
+    "jsGzip": 397,
+    "cssGzip": 5490,
+    "initialBytes": 29068,
+    "pass": true
+  },
+  {
+    "path": "/pl/prywatnosc/",
+    "jsGzip": 397,
+    "cssGzip": 5490,
+    "initialBytes": 29342,
+    "pass": true
+  }
+]

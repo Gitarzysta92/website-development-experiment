@@ -1,0 +1,54 @@
+---
+const {locale}=Astro.props;
+const L=(en:string,pl:string)=>locale==='pl'?pl:en;
+---
+<section class="contact-area" aria-labelledby="contact-form-title"><div class="container contact-grid"><div class="contact-side"><p class="eyebrow">{L('Make contact','Nawiąż kontakt')}</p><h2 id="contact-form-title">{L('Tell us what you want to examine.','Napisz, co chcesz ocenić.')}</h2><p>{L('This preview accepts only local test enquiries. A receipt confirms storage in this process, not email delivery.','Ten podgląd przyjmuje wyłącznie lokalne zgłoszenia testowe. Potwierdzenie oznacza zapis w tym procesie, nie dostarczenie wiadomości e-mail.')}</p><div class="email-option"><span>{L('Email alternative','Kontakt e-mail')}</span><a href="mailto:info@artifactory.tech">info@artifactory.tech ↗</a><small>{L('Opens your own mail client. Address awaits operator verification.','Otwiera Twój program pocztowy. Adres czeka na weryfikację operatora.')}</small></div></div>
+<form id="enquiry-form" class="enquiry-form" novalidate data-locale={locale}>
+<div class="form-heading"><span>01 / {L('Enquiry details','Szczegóły zgłoszenia')}</span><span>{L('Fields marked * are required','Pola * są wymagane')}</span></div>
+<div class="form-row"><label for="intent">{L('Topic','Temat')} *</label><select name="intent" id="intent" required><option value="investment">{L('Investment in Artifactory','Inwestycja w Artifactory')}</option><option value="partnership">{L('Partnership','Współpraca')}</option><option value="demo">{L('AIFIELD demo conversation','Rozmowa o demo AIFIELD')}</option><option value="general">{L('General question','Pytanie ogólne')}</option></select></div>
+<div class="form-row"><label for="project">{L('Project, if relevant','Projekt, jeśli dotyczy')}</label><select name="project" id="project"><option value="">{L('No project specified','Bez wskazania projektu')}</option><option value="artisense">ArtiSense</option><option value="aifield">AIFIELD</option></select></div>
+<div class="two-fields"><div class="form-row"><label for="name">{L('Name','Imię i nazwisko')}</label><input id="name" name="name" autocomplete="name" maxlength="100"/></div><div class="form-row"><label for="organization">{L('Organization','Organizacja')}</label><input id="organization" name="organization" autocomplete="organization" maxlength="150"/></div></div>
+<div class="form-row"><label for="email">{L('Email address','Adres e-mail')} *</label><input id="email" name="email" type="email" autocomplete="email" maxlength="254" required/></div>
+<div class="form-row"><label for="message">{L('Your question','Twoje pytanie')} *</label><textarea id="message" name="message" rows="7" minlength="20" maxlength="5000" required aria-describedby="message-hint"></textarea><small id="message-hint">{L('20–5000 characters. Please use synthetic test information here.','20–5000 znaków. W tym podglądzie używaj fikcyjnych danych testowych.')}</small></div>
+<div class="honeypot" aria-hidden="true"><label for="website">Website</label><input id="website" name="website" tabindex="-1" autocomplete="off"/></div>
+<div id="form-status" role="status" aria-live="polite" tabindex="-1"></div>
+<button id="submit-enquiry" type="submit" class="button">{L('Send test enquiry','Wyślij zgłoszenie testowe')} <span aria-hidden="true">↗</span></button>
+<p class="form-privacy">{L('Read how this local test handles data in','Przeczytaj o przetwarzaniu danych w')} <a href={locale==='pl'?'/pl/prywatnosc/':'/en/privacy/'}>{L('Privacy','informacji o prywatności')}</a>.</p>
+<noscript><p>{L('The form needs JavaScript. Please use the email alternative shown beside it.','Formularz wymaga JavaScript. Skorzystaj z podanego obok adresu e-mail.')}</p></noscript>
+</form></div></section>
+<script>
+const form=document.querySelector<HTMLFormElement>('#enquiry-form');
+if(form){
+ const locale=form.dataset.locale==='pl'?'pl':'en';const status=form.querySelector<HTMLElement>('#form-status')!;const button=form.querySelector<HTMLButtonElement>('#submit-enquiry')!;
+ const params=new URLSearchParams(location.search);const intent=params.get('intent');const project=params.get('project');
+ if(['investment','partnership','demo','general'].includes(intent||'')) (form.elements.namedItem('intent') as HTMLSelectElement).value=intent!;
+ if(['artisense','aifield'].includes(project||''))(form.elements.namedItem('project') as HTMLSelectElement).value=project!;
+ let pending=false,operation=0,cached:{body:string;id:string;started:number}|null=null;
+ const say=(en:string,pl:string)=>locale==='pl'?pl:en;
+ const setStatus=(message:string,isError=false)=>{status.textContent=message;status.classList.toggle('error',isError);if(message)status.focus()};
+ form.addEventListener('input',()=>{if(!pending)cached=null});form.addEventListener('change',()=>{if(!pending)cached=null});
+ form.addEventListener('submit',async event=>{
+  event.preventDefault();if(pending)return;
+  const data=new FormData(form);const email=String(data.get('email')||'').trim();const message=String(data.get('message')||'').trim();
+  if(!email||!/^\S+@\S+\.\S+$/.test(email)||email.includes('\n')||email.includes('\r')){setStatus(say('Enter a valid email address.','Wpisz prawidłowy adres e-mail.'),true);(form.elements.namedItem('email') as HTMLElement).focus();return}
+  if([...message].length<20||[...message].length>5000){setStatus(say('Your question must be 20–5000 characters.','Pytanie musi mieć 20–5000 znaków.'),true);(form.elements.namedItem('message') as HTMLElement).focus();return}
+  const candidate={intent:String(data.get('intent')),project:String(data.get('project')),email,message,name:String(data.get('name')||'').trim(),organization:String(data.get('organization')||'').trim(),locale,website:String(data.get('website')||'')};
+  const payload={...candidate,submissionId:cached?.id||crypto.randomUUID()};if(!payload.project)delete (payload as any).project;if(!payload.name)delete (payload as any).name;if(!payload.organization)delete (payload as any).organization;
+  const body=JSON.stringify(payload);if(cached&&cached.body!==body){payload.submissionId=crypto.randomUUID();cached=null}
+  const finalBody=JSON.stringify(payload);if(cached&&Date.now()-cached.started>23*60*60*1000){setStatus(say('The safe retry window has ended. Please use the email alternative.','Okno bezpiecznej ponownej próby minęło. Skorzystaj z kontaktu e-mail.'),true);return}
+  cached={body:finalBody,id:payload.submissionId,started:cached?.started||Date.now()};pending=true;const current=++operation;button.disabled=true;button.textContent=say('Sending test enquiry…','Wysyłanie zgłoszenia testowego…');setStatus(say('Checking the local receiver…','Sprawdzanie lokalnego odbiornika…'));
+  const controller=new AbortController();const timer=setTimeout(()=>controller.abort(),12000);
+  try{const response=await fetch('/api/enquiries',{method:'POST',headers:{'Content-Type':'application/json'},body:finalBody,signal:controller.signal});const result=await response.json();if(current!==operation)return;
+   if(response.ok&&result.status==='accepted'){setStatus(result.mode==='fixture'?say('Test enquiry received locally. No email was sent.','Zgłoszenie testowe odebrano lokalnie. Nie wysłano e-maila.'):say('The email provider accepted the message. Mailbox delivery is not confirmed.','Dostawca poczty przyjął wiadomość. Dostarczenie do skrzynki nie jest potwierdzone.'));cached=null}
+   else if(response.status===422){setStatus(say('Please check the highlighted details and try again.','Sprawdź dane i spróbuj ponownie.'),true);cached=null}
+   else if(response.status===429){setStatus(say('Too many attempts. Wait one minute before trying again.','Zbyt wiele prób. Odczekaj minutę przed ponownym wysłaniem.'),true)}
+   else if(result.status==='pending'||result.status==='uncertain'){setStatus(say('Acceptance is uncertain. You may retry the unchanged enquiry within 23 hours or use email.','Przyjęcie jest niepewne. Możesz ponowić niezmienione zgłoszenie w ciągu 23 godzin lub użyć e-maila.'),true)}
+   else if(result.status==='conflict'){setStatus(say('The request changed. Edit the form to start a new enquiry.','Żądanie się zmieniło. Edytuj formularz, by rozpocząć nowe zgłoszenie.'),true);cached=null}
+   else{setStatus(say('The local receiver is unavailable. Please use the email alternative.','Lokalny odbiornik jest niedostępny. Skorzystaj z adresu e-mail.'),true)}
+  }catch{if(current===operation)setStatus(say('Acceptance is uncertain. Retry the unchanged enquiry or use email.','Przyjęcie jest niepewne. Ponów niezmienione zgłoszenie lub użyj e-maila.'),true)}finally{clearTimeout(timer);if(current===operation){pending=false;button.disabled=false;button.innerHTML=say('Send test enquiry <span aria-hidden="true">↗</span>','Wyślij zgłoszenie testowe <span aria-hidden="true">↗</span>')}}
+ });
+}
+</script>
+<style>
+.contact-area{background:#f2f7f7;padding:96px 0}.contact-grid{display:grid;grid-template-columns:minmax(0,.8fr) minmax(0,1.2fr);gap:clamp(40px,7vw,100px)}.contact-side h2{max-width:13ch}.contact-side p{color:#4d5661}.email-option{display:flex;flex-direction:column;gap:7px;margin-top:55px;padding-top:20px;border-top:1px solid #dce5e6}.email-option span{font:700 11px ui-monospace,monospace;letter-spacing:.1em;text-transform:uppercase;color:#662483}.email-option a{font-size:23px;color:#662483;font-weight:700;overflow-wrap:anywhere}.email-option small{font-size:13px;color:#5c6470}.enquiry-form{padding:clamp(24px,3vw,48px);background:#fff;border:1px solid #dce5e6;border-radius:20px;box-shadow:0 18px 40px #2024380d}.form-heading{display:flex;justify-content:space-between;gap:20px;padding-bottom:22px;margin-bottom:30px;border-bottom:1px solid #dce5e6;font:700 11px ui-monospace,monospace;letter-spacing:.06em;text-transform:uppercase}.form-heading span:last-child{color:#5c6470;text-align:right}.form-row{display:flex;flex-direction:column;gap:7px;margin-bottom:24px}.form-row label{font-size:15px;font-weight:700}.form-row input,.form-row select,.form-row textarea{width:100%;min-height:48px;padding:10px 14px;border:1px solid #747c88;border-radius:10px;background:#fff;color:#202438}.form-row textarea{resize:vertical}.form-row small{font-size:12px;color:#5c6470}.two-fields{display:grid;grid-template-columns:1fr 1fr;gap:18px}.honeypot{position:absolute;left:-9999px;width:1px;height:1px;overflow:hidden}#form-status{margin:10px 0 22px;font-size:15px;color:#087f8c}#form-status:empty{display:none}#form-status.error{color:#9a2741;background:#fff2f4;border-left:3px solid #9a2741;padding:12px}button:disabled{opacity:.65;cursor:not-allowed}.form-privacy{font-size:13px;color:#5c6470;margin:17px 0 0}.form-privacy a{color:#662483}@media(max-width:48rem){.contact-area{padding:70px 0}.contact-grid,.two-fields{grid-template-columns:1fr}.email-option{margin-top:25px}.enquiry-form{padding:22px}}
+</style>

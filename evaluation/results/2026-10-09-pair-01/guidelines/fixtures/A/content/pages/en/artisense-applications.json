@@ -1,0 +1,95 @@
+{
+  "id": "artisense-applications",
+  "locale": "en",
+  "type": "detail",
+  "title": "An intended use starts with a testable need.",
+  "description": "ArtiSense application research centers on photonic glucose sensing. Explore the proposed non-invasive and wearable direction and the evidence still required.",
+  "eyebrow": "ARTISENSE / APPLICATIONS",
+  "lead": "The application is a measurement question before it is a product. Glucose sensing is the substantive example in the supplied research.",
+  "sections": [
+    {
+      "id": "glucose",
+      "title": "Glucose: the research example.",
+      "paragraphs": [
+        "The supplied work explores optical feasibility and a photonic chip-design example associated with glucose sensing. The intended goal is to obtain useful chemical information through optical interaction and signal interpretation.",
+        "For a researcher evaluating this idea, a useful question is whether a response attributable to glucose can be distinguished from other changes under controlled conditions. A design or modeled optical response does not answer the full measurement question.",
+        "No fabricated-device accuracy, human-use result or clinical outcome is supplied. This page describes the research direction and its validation needs; it does not present a diagnostic device or offer medical-use guidance."
+      ]
+    },
+    {
+      "id": "context",
+      "title": "Non-invasive and wearable are directions to investigate.",
+      "paragraphs": [
+        "The proposed system is miniaturized, with potential non-invasive measurement and wearable form factors discussed as an intended direction. Neither format is established as an available or validated product.",
+        "A practical form factor adds questions about optical coupling, stability, changing conditions, power and integration. These should become explicit operating requirements before the design is evaluated for a particular user. No approved form factor, user protocol or use environment is supplied."
+      ]
+    },
+    {
+      "id": "requirements",
+      "title": "What would make the intended use credible?",
+      "paragraphs": [
+        "A validation plan needs to connect the proposed application to an observable result. The table names questions for a future study, not experiments already completed."
+      ],
+      "rows": [
+        [
+          "Target-specific response",
+          "Compare against a known reference and investigate interference from other changing properties."
+        ],
+        [
+          "Repeatability",
+          "Repeat measurements under stated conditions and report variation, not just an illustrative trace."
+        ],
+        [
+          "Transfer to hardware",
+          "Compare the fabricated structure with its modeled behavior and document discrepancies."
+        ],
+        [
+          "Use conditions",
+          "Define the intended setting, limitations and acceptance criteria before wider claims."
+        ]
+      ],
+      "links": [
+        {
+          "id": "artisense-validation"
+        }
+      ]
+    },
+    {
+      "id": "collaboration",
+      "title": "Start with a bounded collaboration question.",
+      "paragraphs": [
+        "Potential discussions could concern optical characterization, reference comparisons or the constraints introduced by integration. A useful proposal identifies what would be tested, what expertise is needed and what result would change the next design decision.",
+        "These are possible topics for discussion, not active partnership commitments. Broader chemical-sensing markets are not inferred from one design example."
+      ],
+      "links": [
+        {
+          "id": "artisense-technology"
+        },
+        {
+          "id": "partnerships"
+        }
+      ]
+    }
+  ],
+  "relatedIds": [
+    "artisense-technology",
+    "artisense-validation",
+    "partnerships"
+  ],
+  "project": "artisense",
+  "sourceReferences": [
+    "HP-1.1/project-context",
+    "SM-0.3/artisense-applications"
+  ],
+  "sourceRevision": "2026-10-09 (AIFIELD snapshot: September 2026)",
+  "editorialState": "published",
+  "modifiedAt": "2026-10-09T21:00:00.000Z",
+  "reviews": {
+    "facts": "f99a33da0e39207297eda3d636aaeec36d31158c45665c661a0965403e2a606c",
+    "language": "f99a33da0e39207297eda3d636aaeec36d31158c45665c661a0965403e2a606c",
+    "assets": "f99a33da0e39207297eda3d636aaeec36d31158c45665c661a0965403e2a606c"
+  },
+  "privateNotes": "Locally authored from supplied summary. Factual, translation and asset owner review pending. Original PDFs were not supplied.",
+  "visual": "sensing",
+  "maturity": "Intended applications · no clinical validation claimed"
+}

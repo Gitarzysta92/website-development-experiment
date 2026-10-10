@@ -1,0 +1,386 @@
+[
+  {
+    "path": ".gitignore",
+    "sha256": "97eee16f76b6f49c7c62515a6f53aa6feb3ae0db084d05b4285fd23af38fd146",
+    "bytes": 103,
+    "source_mtime": 1791582211.0885286
+  },
+  {
+    "path": "README.md",
+    "sha256": "670cb6c01595811369c8e17425eea550998b0c36346dec95207948b399bfb0f0",
+    "bytes": 11198,
+    "source_mtime": 1791582642.0142562
+  },
+  {
+    "path": "build.mjs",
+    "sha256": "c4dd91a5e64f91f743aedcf7fc33d5e259a2e251cc128abf9357624825803229",
+    "bytes": 5084,
+    "source_mtime": 1791582556.9243808
+  },
+  {
+    "path": "dist/assets/client.js",
+    "sha256": "29a68b309633854aaa71be7a923fb7d1851db71d2391c0592bc04059299120f2",
+    "bytes": 8008,
+    "source_mtime": 1791582759.6176822
+  },
+  {
+    "path": "dist/assets/favicon.svg",
+    "sha256": "dd8fd0139db9b50979b884e7c8f70b950001699d6b994827f0d0e7bcec4eebf6",
+    "bytes": 230,
+    "source_mtime": 1791582759.6482134
+  },
+  {
+    "path": "dist/assets/fonts/ibm-plex-mono-LICENSE.txt",
+    "sha256": "23b0a9d0c6d3f140a0b77e483c5cfa6bba574325ef5cb189ed9f2fec4884533f",
+    "bytes": 5299,
+    "source_mtime": 1791582759.6203718
+  },
+  {
+    "path": "dist/assets/fonts/ibm-plex-mono-latin-400-normal.woff2",
+    "sha256": "08949f728dc52d528e69b1667d15c89a5686a4ee9a296ff90983985f99c380f7",
+    "bytes": 14708,
+    "source_mtime": 1791582759.6195765
+  },
+  {
+    "path": "dist/assets/fonts/ibm-plex-mono-latin-ext-400-normal.woff2",
+    "sha256": "6bc0f226a5b7884a8170e3f62c63d7675609d4631bdc5931b5cdab81821f00eb",
+    "bytes": 13348,
+    "source_mtime": 1791582759.6199691
+  },
+  {
+    "path": "dist/assets/fonts/manrope-LICENSE.txt",
+    "sha256": "d826ab6583b12c26807d8716a545bdbbb672df04f48608a364ba9efdbe501c30",
+    "bytes": 4383,
+    "source_mtime": 1791582759.6190345
+  },
+  {
+    "path": "dist/assets/fonts/manrope-latin-ext-wght-normal.woff2",
+    "sha256": "3911b66d9f2e005a4b989223405d0e5032619c668597ba467cc76a23c8fffcfb",
+    "bytes": 15120,
+    "source_mtime": 1791582759.6186247
+  },
+  {
+    "path": "dist/assets/fonts/manrope-latin-wght-normal.woff2",
+    "sha256": "a30ddcd349703aff7464c34bef3fffdff405ee50c113440d7c8693c02d210972",
+    "bytes": 24836,
+    "source_mtime": 1791582759.6181734
+  },
+  {
+    "path": "dist/assets/share-en.svg",
+    "sha256": "fb5ac53719a6295351eaaa347d1d9e8e021c36f78fc99694a90b2d9ca7e4c4cc",
+    "bytes": 1945,
+    "source_mtime": 1791582759.6483052
+  },
+  {
+    "path": "dist/assets/share-pl.svg",
+    "sha256": "22ce9e0156bdbcdc5366d58769e1880c409092254e3f39c7bc1e71e0037637e8",
+    "bytes": 1956,
+    "source_mtime": 1791582759.64838
+  },
+  {
+    "path": "dist/assets/styles.css",
+    "sha256": "4d4ed552f3dd8402179fbde75aeb2e5be1443dbb2859436fdac1d68a332e5094",
+    "bytes": 54168,
+    "source_mtime": 1791582759.617117
+  },
+  {
+    "path": "dist/build-config.json",
+    "sha256": "a9b5f2f2a840d8fb7b00abeaeb1f51e0b72aa35633d75737ab4168a2226fefed",
+    "bytes": 52,
+    "source_mtime": 1791582759.64868
+  },
+  {
+    "path": "dist/en/about/index.html",
+    "sha256": "d163562c894f27bd321009e4c46afc8b42bbd68764db3482cf598561b7c149ae",
+    "bytes": 73423,
+    "source_mtime": 1791582759.6454425
+  },
+  {
+    "path": "dist/en/approach/index.html",
+    "sha256": "955e6624506f0cddf568909160a08d4f1ea67549b52211dfbe3a4b85c0d650af",
+    "bytes": 14116,
+    "source_mtime": 1791582759.6440432
+  },
+  {
+    "path": "dist/en/contact/index.html",
+    "sha256": "4b14c5bc3bc9c2a7b036019f312c31f0665d9d0db3003f556e73d06aacf39fb3",
+    "bytes": 11802,
+    "source_mtime": 1791582759.6471908
+  },
+  {
+    "path": "dist/en/index.html",
+    "sha256": "ec3fbc61f74b9add3d45fc0a10b5617501c883661dcf10be568bfac1c2dda9a2",
+    "bytes": 148089,
+    "source_mtime": 1791582759.6253865
+  },
+  {
+    "path": "dist/en/investors/index.html",
+    "sha256": "1c46219c4b46b6c09df94ca7cae0a4814680d50b1705b518656020c028b50a29",
+    "bytes": 12643,
+    "source_mtime": 1791582759.6436563
+  },
+  {
+    "path": "dist/en/partnerships/index.html",
+    "sha256": "3658c106317b675123bb63670bd97767185f43301835a502c76035985637eab0",
+    "bytes": 10899,
+    "source_mtime": 1791582759.646761
+  },
+  {
+    "path": "dist/en/privacy/index.html",
+    "sha256": "43d7b2846c7cd1a83f9c9b102a7bc5d19ebb0a8dfe1507627a8f38e2151ec474",
+    "bytes": 9638,
+    "source_mtime": 1791582759.6477294
+  },
+  {
+    "path": "dist/en/projects/aifield/ai-workflows/index.html",
+    "sha256": "57ba3fa1975907915f78324284a8fbbc05610865ced63950f760f2dc8ad22821",
+    "bytes": 16761,
+    "source_mtime": 1791582759.6424057
+  },
+  {
+    "path": "dist/en/projects/aifield/design-simulation/index.html",
+    "sha256": "e086dad242ff0626193c4c296f030a086fc67cce45e603786021d01c80031c84",
+    "bytes": 21331,
+    "source_mtime": 1791582759.6418986
+  },
+  {
+    "path": "dist/en/projects/aifield/examples-validation/index.html",
+    "sha256": "baf553afa88fe62b35a0a498d37b046b3c90e3b60d6783011003c984d28220a1",
+    "bytes": 21193,
+    "source_mtime": 1791582759.643182
+  },
+  {
+    "path": "dist/en/projects/aifield/index.html",
+    "sha256": "b2f81e5c524c12f33763b86bd06ca3e1214baea565674e0c4b4f99d7fecdc8df",
+    "bytes": 20935,
+    "source_mtime": 1791582759.64145
+  },
+  {
+    "path": "dist/en/projects/aifield/neural-field-research/index.html",
+    "sha256": "e9e7d6e921b970f22b70c30ea0540da330dab2437631355c6d9d040d8bfd400c",
+    "bytes": 20749,
+    "source_mtime": 1791582759.6427991
+  },
+  {
+    "path": "dist/en/projects/artisense/applications/index.html",
+    "sha256": "d3a7e5b8ee9c6962826535e82e999161b2a7252469f3b2891d80e84826f101b9",
+    "bytes": 76129,
+    "source_mtime": 1791582759.6374836
+  },
+  {
+    "path": "dist/en/projects/artisense/index.html",
+    "sha256": "4af04f7532a6e5e57e410de681ff148b05573d68d2a1e2d0cd3219a8f7ad9140",
+    "bytes": 76577,
+    "source_mtime": 1791582759.631958
+  },
+  {
+    "path": "dist/en/projects/artisense/research-validation/index.html",
+    "sha256": "e372408fcc9615ebf33cfd273716ba0bb68c6ccf530d82500e077ac50af556cc",
+    "bytes": 76949,
+    "source_mtime": 1791582759.640035
+  },
+  {
+    "path": "dist/en/projects/artisense/technology/index.html",
+    "sha256": "33fc4a4a14b2eb0a9552399f51af481dda7480c45d3203713a3278a6f1f23180",
+    "bytes": 76592,
+    "source_mtime": 1791582759.6346953
+  },
+  {
+    "path": "dist/en/projects/index.html",
+    "sha256": "5c8ff43f331f1908f519a411fceaf18c02f9c3483afad92349f3d92bb024975f",
+    "bytes": 82373,
+    "source_mtime": 1791582759.629236
+  },
+  {
+    "path": "dist/en-404.html",
+    "sha256": "527bb58bcc9c64a1f9ce7b1bf1a9a5202633d44ad7edb36513d3d89e8a90bf05",
+    "bytes": 7225,
+    "source_mtime": 1791582759.6480184
+  },
+  {
+    "path": "dist/pl/index.html",
+    "sha256": "060ccbddef098a75ebea5fad7926ce6ea1e1471b4c961faf0799cdf95b65c7ac",
+    "bytes": 148334,
+    "source_mtime": 1791582759.627828
+  },
+  {
+    "path": "dist/pl/inwestorzy/index.html",
+    "sha256": "869be37929678117f13cdbe9d0665250dd4bc827be39dc5468bf42d236012468",
+    "bytes": 12773,
+    "source_mtime": 1791582759.6438136
+  },
+  {
+    "path": "dist/pl/jak-pracujemy/index.html",
+    "sha256": "c8f00d44d1acb318644f0d9a2d1520c54c6627ffa0ba42851dc1cf5f5068de21",
+    "bytes": 14285,
+    "source_mtime": 1791582759.6442251
+  },
+  {
+    "path": "dist/pl/kontakt/index.html",
+    "sha256": "014ade19683a64aeaedd2e85eaa062639f8ade97a28a8220991ba1284a727831",
+    "bytes": 12011,
+    "source_mtime": 1791582759.6473598
+  },
+  {
+    "path": "dist/pl/o-nas/index.html",
+    "sha256": "ebf348b56b6abd68d7363e034f806a6ec9129c092d611db0ede09d85af0874dd",
+    "bytes": 73600,
+    "source_mtime": 1791582759.6465218
+  },
+  {
+    "path": "dist/pl/projekty/aifield/badania-modeli-pola/index.html",
+    "sha256": "40f0cf848fa13dcca55fb53b5bc3945cae246af99fe7457212701961e22b6c76",
+    "bytes": 20852,
+    "source_mtime": 1791582759.6429837
+  },
+  {
+    "path": "dist/pl/projekty/aifield/index.html",
+    "sha256": "f5f27fd7c05e4b241d8dcffd8c4950463205b92e3fa9d02c2a10307dcf224975",
+    "bytes": 21210,
+    "source_mtime": 1791582759.6416602
+  },
+  {
+    "path": "dist/pl/projekty/aifield/praca-z-ai/index.html",
+    "sha256": "f2d2bd6ffaf0329599176597add84b803058c6096157825bd302953e3cfabd6d",
+    "bytes": 17039,
+    "source_mtime": 1791582759.6425884
+  },
+  {
+    "path": "dist/pl/projekty/aifield/projektowanie-symulacja/index.html",
+    "sha256": "bb6be4e9995c8995fc049ec1339592322a8142746ca6eb5d52ebb8693f1a42f8",
+    "bytes": 21507,
+    "source_mtime": 1791582759.6421263
+  },
+  {
+    "path": "dist/pl/projekty/aifield/przyklady-walidacja/index.html",
+    "sha256": "64e246a3a2fdcdeccef676e7106f4891fd94813b2c92aa404b966e8eda455926",
+    "bytes": 21431,
+    "source_mtime": 1791582759.6433718
+  },
+  {
+    "path": "dist/pl/projekty/artisense/badania-walidacja/index.html",
+    "sha256": "db50f2c67a0a380b9107d2f3b9821dd87de8c1e6dd70ff587b56af843f06159d",
+    "bytes": 77118,
+    "source_mtime": 1791582759.6411674
+  },
+  {
+    "path": "dist/pl/projekty/artisense/index.html",
+    "sha256": "da7d2b69fe741a89b5596c676e3959bea15104bd15f2750373b97edb5af7ca3e",
+    "bytes": 76908,
+    "source_mtime": 1791582759.633201
+  },
+  {
+    "path": "dist/pl/projekty/artisense/technologia/index.html",
+    "sha256": "9b576a9a8c09c918f2b0d1d1e1b59d562ec712823881764ff461cd526afa9d61",
+    "bytes": 76876,
+    "source_mtime": 1791582759.6360693
+  },
+  {
+    "path": "dist/pl/projekty/artisense/zastosowania/index.html",
+    "sha256": "89242d1f3e4899ce96d5229a065d1246b3e778386a6ad80f8ac5d4800cb2060e",
+    "bytes": 76325,
+    "source_mtime": 1791582759.63867
+  },
+  {
+    "path": "dist/pl/projekty/index.html",
+    "sha256": "9ca175c1a02280bb6326b5389df70237aa4c919d21551152ab486b00ce82c8ad",
+    "bytes": 82615,
+    "source_mtime": 1791582759.6304536
+  },
+  {
+    "path": "dist/pl/prywatnosc/index.html",
+    "sha256": "8581e71bb0560825440090850b2b5aa3d6e87d10eac0a7fa144d3655774cc626",
+    "bytes": 9931,
+    "source_mtime": 1791582759.6479
+  },
+  {
+    "path": "dist/pl/wspolpraca/index.html",
+    "sha256": "55e0dac99caaba2a83d4d440d08053d5f82bf5da4133c77fd3d15e5ef0df0a87",
+    "bytes": 11146,
+    "source_mtime": 1791582759.646931
+  },
+  {
+    "path": "dist/pl-404.html",
+    "sha256": "1954d70320f3cf1099091c310070f1cb83afbe34e1d9c46b7c0e90ffcfc481fd",
+    "bytes": 7335,
+    "source_mtime": 1791582759.6481328
+  },
+  {
+    "path": "dist/robots.txt",
+    "sha256": "331ea9090db0c9f6f597bd9840fd5b171830f6e0b3ba1cb24dfa91f0c95aedc1",
+    "bytes": 26,
+    "source_mtime": 1791582759.6485398
+  },
+  {
+    "path": "dist/sitemap.xml",
+    "sha256": "3a9976f0ed80dc22748bf9809f3dcb7b34c125d8d34fdf70209c0a11b6ccf8aa",
+    "bytes": 111,
+    "source_mtime": 1791582759.6484592
+  },
+  {
+    "path": "package-lock.json",
+    "sha256": "718ee33f71bcbaf3eb304abcce7c3433584876b8545900b87385083baf9ce4ad",
+    "bytes": 4116,
+    "source_mtime": 1791582433.6876884
+  },
+  {
+    "path": "package.json",
+    "sha256": "34fc953a4a6986b40b0bf76f1b013968df444bea052af7959f35e8e804fdac9a",
+    "bytes": 732,
+    "source_mtime": 1791582556.1866524
+  },
+  {
+    "path": "playwright.config.mjs",
+    "sha256": "039ea6e096385ef83080a5dc33837dc5ba510276900c02899a2425363840008f",
+    "bytes": 529,
+    "source_mtime": 1791582556.927675
+  },
+  {
+    "path": "public/client.js",
+    "sha256": "29a68b309633854aaa71be7a923fb7d1851db71d2391c0592bc04059299120f2",
+    "bytes": 8008,
+    "source_mtime": 1791582556.787375
+  },
+  {
+    "path": "public/styles.css",
+    "sha256": "4d4ed552f3dd8402179fbde75aeb2e5be1443dbb2859436fdac1d68a332e5094",
+    "bytes": 54168,
+    "source_mtime": 1791582556.8986025
+  },
+  {
+    "path": "server.mjs",
+    "sha256": "77a2eb3b992b99964d36ff5bbd773674a6461cd980497ad6eed0a0b983a6e30b",
+    "bytes": 5638,
+    "source_mtime": 1791582556.9344158
+  },
+  {
+    "path": "src/content.mjs",
+    "sha256": "d7050b279bcb4a0f0fe3708f6bbc108a02177b4f3fb4899a2361698aeb3a7ede",
+    "bytes": 53509,
+    "source_mtime": 1791582556.7237768
+  },
+  {
+    "path": "src/render.mjs",
+    "sha256": "069d35b5de4ac8758b862bdf9f0ea1c58c17a8e6383f0d191afd6a5b811d9e2e",
+    "bytes": 55205,
+    "source_mtime": 1791582556.7678382
+  },
+  {
+    "path": "src/visuals.mjs",
+    "sha256": "6fa2d72b41896a0aa9d1fa839a54d4e9dd19dcef72f2baa099bb3594889b4b1a",
+    "bytes": 7579,
+    "source_mtime": 1791582556.7769542
+  },
+  {
+    "path": "tests/browser/journeys.spec.mjs",
+    "sha256": "47ccdd946885691717b49cbcbf20a064e6142bc03319d17dbfb675ecbab40139",
+    "bytes": 9978,
+    "source_mtime": 1791582556.9116633
+  },
+  {
+    "path": "tests/site.test.mjs",
+    "sha256": "f67777b8947c6ea109828f89514f4a309d8d31d2b18e437551db8ea43534b275",
+    "bytes": 4282,
+    "source_mtime": 1791582556.9182906
+  }
+]

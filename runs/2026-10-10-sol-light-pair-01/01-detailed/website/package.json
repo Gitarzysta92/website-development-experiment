@@ -1,0 +1,36 @@
+{
+  "name": "artifactory-detailed",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev --host 127.0.0.1",
+    "build": "node scripts/build.mjs",
+    "build:published": "SITE_PROFILE=published node scripts/build.mjs",
+    "start": "node scripts/runtime/server.mjs",
+    "check": "astro check",
+    "test": "vitest run tests/content.test.ts tests/enquiry.test.ts tests/http.test.ts tests/publication.test.ts tests/seed.test.ts",
+    "test:e2e": "playwright test",
+    "test:a11y": "playwright test --grep @a11y",
+    "check:links": "node scripts/check-links.mjs",
+    "check:boundaries": "node scripts/check-boundaries.mjs",
+    "test:performance": "node scripts/performance.mjs",
+    "seed:content": "node scripts/seed-content.mjs"
+  },
+  "dependencies": {
+    "astro": "7.3.8",
+    "@astrojs/node": "11.1.7",
+    "zod": "4.6.5"
+  },
+  "devDependencies": {
+    "@astrojs/check": "0.9.10",
+    "@astrojs/markdown-remark": "7.3.2",
+    "@playwright/test": "1.64.0",
+    "@axe-core/playwright": "4.13.0",
+    "@types/node": "24.19.2",
+    "lighthouse": "13.5.0",
+    "typescript": "6.0.3",
+    "vite": "8.3.4",
+    "vitest": "5.0.3"
+  }
+}

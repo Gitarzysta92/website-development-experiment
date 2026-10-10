@@ -1,0 +1,46 @@
+{
+  "id": "artisense-applications",
+  "locale": "en",
+  "title": "From research to intended use",
+  "lead": "Glucose sensing illustrates the need ArtiSense is investigating, not an available clinical capability.",
+  "description": "Potential non-invasive measurement and wearable form factors are directions that need rigorous evidence.",
+  "eyebrow": "ArtiSense",
+  "sections": [
+    {
+      "id": "focus",
+      "title": "A glucose example",
+      "paragraphs": [
+        "Repeated measurements could be valuable where convenient monitoring matters. The supplied work, however, concerns optical feasibility and design rather than validated glucose readings from people."
+      ]
+    },
+    {
+      "id": "evidence",
+      "title": "The operating context",
+      "paragraphs": [
+        "An eventual device would need to account for skin and sample variability, calibration drift, environmental effects, safety, usability and regulatory requirements."
+      ]
+    },
+    {
+      "id": "next",
+      "title": "The gap to use",
+      "paragraphs": [
+        "Before any health claim, independent testing would need to establish analytical performance and the relevance of results to the intended setting. No such outcome is asserted here."
+      ]
+    }
+  ],
+  "related": [
+    "artisense",
+    "artisense-technology",
+    "artisense-applications",
+    "artisense-validation",
+    "partnerships"
+  ],
+  "stage": "Local draft · source context October 2026",
+  "pageType": "project",
+  "sourceReferences": [
+    "HP-1.1 project-context 2026-10-09"
+  ],
+  "sourceRevision": "2026-10-09",
+  "editorialState": "draft",
+  "modifiedAt": "2026-10-10"
+}

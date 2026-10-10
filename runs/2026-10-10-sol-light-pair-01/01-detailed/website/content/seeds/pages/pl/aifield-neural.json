@@ -1,0 +1,47 @@
+{
+  "id": "aifield-neural",
+  "locale": "pl",
+  "title": "Badania predykcji pola optycznego",
+  "lead": "Modele neuronowe są badane jako możliwy sposób przewidywania pól fotonicznych w określonych warunkach.",
+  "description": "Ten kierunek jest odrębny od klasycznych solwerów i proponowanego analogowego procesora interpretacji ArtiSense.",
+  "eyebrow": "AIFIELD",
+  "sections": [
+    {
+      "id": "focus",
+      "title": "Zakres eksperymentów",
+      "paragraphs": [
+        "Omawiane wyniki dotyczą predykcji pola z podanymi warunkami brzegowymi. Ten warunek ma znaczenie dla interpretacji."
+      ]
+    },
+    {
+      "id": "evidence",
+      "title": "Ważne ograniczenia",
+      "paragraphs": [
+        "Predykcja bez danych początkowych, większe łączone domeny i praktyczna przewaga szybkości pozostają pytaniami badawczymi."
+      ]
+    },
+    {
+      "id": "next",
+      "title": "Kolejne testy",
+      "paragraphs": [
+        "Porównanie powinno zachować geometrię, warunki brzegowe, kryteria dokładności i środowisko obliczeń wobec udokumentowanego solwera."
+      ]
+    }
+  ],
+  "related": [
+    "aifield",
+    "aifield-design",
+    "aifield-ai",
+    "aifield-neural",
+    "aifield-validation",
+    "partnerships"
+  ],
+  "stage": "Local draft · source context October 2026",
+  "pageType": "project",
+  "sourceReferences": [
+    "HP-1.1 project-context 2026-10-09"
+  ],
+  "sourceRevision": "2026-10-09",
+  "editorialState": "draft",
+  "modifiedAt": "2026-10-10"
+}

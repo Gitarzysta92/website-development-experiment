@@ -1,0 +1,44 @@
+{
+  "id": "home",
+  "locale": "en",
+  "title": "Photonic ideas, examined with care",
+  "description": "Artifactory explores photonic sensing and the tools needed to design photonic systems. Two distinct projects connect a measurement ambition with an engineering workflow; both invite scrutiny of what is known and what still needs proof.",
+  "eyebrow": "Artifactory",
+  "lead": "Artifactory explores photonic sensing and the tools needed to design photonic systems. Two distinct projects connect a measurement ambition with an engineering workflow; both invite scrutiny of what is known and what still needs proof.",
+  "sections": [
+    {
+      "id": "section-1",
+      "heading": "The company thesis",
+      "body": [
+        "Artifactory brings two lines of work into one conversation: ArtiSense investigates a compact optical sensing system, while AIFIELD develops tools for designing and simulating photonic structures. The link is an engineering example, not proof that either project has reached commercial or clinical readiness."
+      ]
+    },
+    {
+      "id": "section-2",
+      "heading": "Two projects, different questions",
+      "body": [
+        "ArtiSense asks whether optical responses can support useful chemical measurements in practical conditions. AIFIELD asks how engineers can design and examine photonic devices, and separately researches learned field prediction. Each project has its own evidence, limitations and next steps."
+      ]
+    },
+    {
+      "id": "section-3",
+      "heading": "An invitation to examine the work",
+      "body": [
+        "The material available here describes concepts, design activity and research summarized as of September 2026. We invite investors to review the scope and evidence before discussing the company-level opportunity; potential partners can explore a specific technical question."
+      ]
+    }
+  ],
+  "related": [
+    "projects",
+    "investors",
+    "approach",
+    "partnerships"
+  ],
+  "editorialState": "draft",
+  "sourceRevision": "HP-1.1; context 2026-10-09",
+  "modified": "2026-10-10",
+  "sourceRefs": [
+    "inputs/content/project-context.md (summary, 2026-10-09)",
+    "inputs/docs/sitemap.md (SM-0.3)"
+  ]
+}

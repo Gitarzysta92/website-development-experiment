@@ -1,0 +1,2 @@
+import {routes} from '../navigation';
+export function GET(){const origin=process.env.SITE_ORIGIN??'http://127.0.0.1:4321';const published=process.env.SITE_PROFILE==='published';const urls=published?routes.flatMap(r=>[r.paths.en,r.paths.pl]).map(path=>`<url><loc>${new URL(path,origin).href}</loc></url>`).join(''):'';return new Response(`<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">${urls}</urlset>`,{headers:{'Content-Type':'application/xml'}})}

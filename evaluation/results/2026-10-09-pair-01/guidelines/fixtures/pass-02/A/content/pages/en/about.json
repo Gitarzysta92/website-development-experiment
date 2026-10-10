@@ -1,0 +1,84 @@
+{
+  "id": "about",
+  "locale": "en",
+  "type": "company",
+  "title": "Artifactory. Sensing and photonic engineering.",
+  "description": "Meet the company-level focus connecting ArtiSense sensing research and AIFIELD design tools, with clear evidence and collaboration paths.",
+  "eyebrow": "ARTIFACTORY / COMPANY",
+  "lead": "Explore the work through the questions it addresses: how to sense with light, and how to design the systems that make that possible.",
+  "sections": [
+    {
+      "id": "focus",
+      "title": "A company presented through its work.",
+      "paragraphs": [
+        "Artifactory is the company behind the two projects presented here. The proposed positioning connects sensing technology with tools for designing photonic systems. It gives investors and potential collaborators a way to assess the work at a company level.",
+        "The site concentrates on ArtiSense and AIFIELD. Their pages describe different purposes, stages and evidence boundaries rather than a single combined product."
+      ]
+    },
+    {
+      "id": "relationship",
+      "title": "Related work, distinct responsibilities.",
+      "paragraphs": [
+        "ArtiSense pursues a miniaturized chemical-sensing concept using photonics and signal interpretation. AIFIELD addresses photonic design and simulation, alongside a separate neural field research direction.",
+        "The internal glucose-related design example links an intended sensing objective to an engineering workflow. That connection does not make a simulated design a validated sensor, and the two projects’ neural subjects are not the same technology."
+      ],
+      "links": [
+        {
+          "id": "projects"
+        }
+      ]
+    },
+    {
+      "id": "known",
+      "title": "Read the date with the claim.",
+      "paragraphs": [
+        "The supplied context describes optical feasibility and chip-design work for ArtiSense. AIFIELD capability descriptions refer to a September 2026 snapshot. These provide a basis for a technical conversation while leaving current availability and further validation to be confirmed.",
+        "The approach page explains how concept, simulation and physical evidence should be distinguished. Project evidence pages keep the limits attached to the work they describe."
+      ],
+      "links": [
+        {
+          "id": "approach"
+        }
+      ]
+    },
+    {
+      "id": "conversation",
+      "title": "Choose the conversation that fits.",
+      "paragraphs": [
+        "Investors can begin with the company proposition and its unresolved development questions. Potential collaborators can start from a measurement, design or evaluation topic. A non-confidential introduction is enough for the first enquiry.",
+        "Use the contact page to describe your interest and preferred context. It provides an editable enquiry form and a public email route."
+      ],
+      "links": [
+        {
+          "id": "investors"
+        },
+        {
+          "id": "partnerships"
+        },
+        {
+          "id": "contact"
+        }
+      ]
+    }
+  ],
+  "relatedIds": [
+    "investors",
+    "approach",
+    "partnerships",
+    "contact"
+  ],
+  "project": null,
+  "sourceReferences": [
+    "HP-1.1/project-context",
+    "SM-0.3/about"
+  ],
+  "sourceRevision": "2026-10-09 (AIFIELD snapshot: September 2026)",
+  "editorialState": "draft",
+  "modifiedAt": "2026-10-09T21:00:00.000Z",
+  "reviews": {
+    "facts": null,
+    "language": null,
+    "assets": null
+  },
+  "privateNotes": "Locally authored from supplied summary. Factual, translation and asset owner review pending. Original PDFs were not supplied."
+}

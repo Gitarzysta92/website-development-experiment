@@ -1,0 +1,43 @@
+{
+  "id": "artisense-validation",
+  "locale": "pl",
+  "title": "Kiedy sygnał optyczny będzie wiarygodny?",
+  "description": "Dostępne podsumowanie opisuje prace nad wykonalnością i projektem fotonicznego pomiaru glukozy. Nie zawiera wyniku zwalidowanego urządzenia, badania klinicznego ani liczb uzasadniających deklarację dokładności.",
+  "eyebrow": "ArtiSense",
+  "lead": "Dostępne podsumowanie opisuje prace nad wykonalnością i projektem fotonicznego pomiaru glukozy. Nie zawiera wyniku zwalidowanego urządzenia, badania klinicznego ani liczb uzasadniających deklarację dokładności.",
+  "sections": [
+    {
+      "id": "section-1",
+      "heading": "Co potwierdzają dostępne materiały",
+      "body": [
+        "Rozważano podejścia optyczne i projekt układu dla toru pomiarowego. Pozwala to objaśnić hipotezę fizyczną i kierunek projektu. Samo w sobie nie potwierdza selektywności, powtarzalności ani działania kompletnego urządzenia."
+      ]
+    },
+    {
+      "id": "section-2",
+      "heading": "Co wymaga wykazania",
+      "body": [
+        "Rzetelna ocena powinna określić warunki próbek, pomiary odniesienia, kalibrację, czynniki zakłócające i niezależne powtórzenia. Należy pokazać udane i nieudane wyniki w określonym zakresie oraz niepewność i warunki obowiązywania wniosków."
+      ]
+    },
+    {
+      "id": "section-3",
+      "heading": "Następna bramka walidacyjna",
+      "body": [
+        "Praktyczny kolejny krok to plan prototypowania i pomiarów: wykonanie lub integracja toru optycznego, zebranie danych z metodą odniesienia i sprawdzenie odporności odpowiedzi na rzeczywistą zmienność. Bez zatwierdzonego źródła nie podajemy liczbowego celu."
+      ]
+    }
+  ],
+  "related": [
+    "aifield-validation",
+    "investors",
+    "partnerships"
+  ],
+  "editorialState": "draft",
+  "sourceRevision": "HP-1.1; context 2026-10-09",
+  "modified": "2026-10-10",
+  "sourceRefs": [
+    "inputs/content/project-context.md (summary, 2026-10-09)",
+    "inputs/docs/sitemap.md (SM-0.3)"
+  ]
+}

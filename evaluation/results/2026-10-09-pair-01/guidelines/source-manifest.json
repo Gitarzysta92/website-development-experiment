@@ -1,0 +1,157 @@
+{
+  "captured_at": "2026-10-10T08:47:41.630113+00:00",
+  "files": [
+    {
+      "path": "/Users/michal.lukasiewicz/Programming/website-creation-guidelines/rules/README.md",
+      "sha256": "626d8b5557263b6eb7c83c4ed4a5adf235cceeab3b5bf0baa71e63ad9bf88e8e",
+      "delivered_copy": "/Users/michal.lukasiewicz/Programming/website-development-experiment/prompt-sets/01-detailed/knowledge/website-creation-guidelines/rules/README.md",
+      "same_as_delivered": true
+    },
+    {
+      "path": "/Users/michal.lukasiewicz/Programming/website-creation-guidelines/rules/architecture.md",
+      "sha256": "9559a1d69cf5d1fcb487649689f46a4fdac22e23203f62c8d1f8acda3a82bb69",
+      "delivered_copy": "/Users/michal.lukasiewicz/Programming/website-development-experiment/prompt-sets/01-detailed/knowledge/website-creation-guidelines/rules/architecture.md",
+      "same_as_delivered": true
+    },
+    {
+      "path": "/Users/michal.lukasiewicz/Programming/website-creation-guidelines/rules/capabilities/assistant.md",
+      "sha256": "9c90c241d941914253485ea13c23fb27815eca9472cb300f2970fc486fe38477",
+      "delivered_copy": "/Users/michal.lukasiewicz/Programming/website-development-experiment/prompt-sets/01-detailed/knowledge/website-creation-guidelines/rules/capabilities/assistant.md",
+      "same_as_delivered": true
+    },
+    {
+      "path": "/Users/michal.lukasiewicz/Programming/website-creation-guidelines/rules/capabilities/cms.md",
+      "sha256": "6ad1b6a9eb7d709a6c52f0a5da4b5f65b34ce5e636ad0c2596451b1d02943323",
+      "delivered_copy": "/Users/michal.lukasiewicz/Programming/website-development-experiment/prompt-sets/01-detailed/knowledge/website-creation-guidelines/rules/capabilities/cms.md",
+      "same_as_delivered": true
+    },
+    {
+      "path": "/Users/michal.lukasiewicz/Programming/website-creation-guidelines/rules/capabilities/collections.md",
+      "sha256": "c75726aa1a2f2f745f5ee9d66c40f7bd760345744e410128a942ac624ced5a9b",
+      "delivered_copy": "/Users/michal.lukasiewicz/Programming/website-development-experiment/prompt-sets/01-detailed/knowledge/website-creation-guidelines/rules/capabilities/collections.md",
+      "same_as_delivered": true
+    },
+    {
+      "path": "/Users/michal.lukasiewicz/Programming/website-creation-guidelines/rules/capabilities/extensions.md",
+      "sha256": "581baa227c6a67ab08261845dd0c0688576d991b732c6b5494f60b7debd3cb8a",
+      "delivered_copy": "/Users/michal.lukasiewicz/Programming/website-development-experiment/prompt-sets/01-detailed/knowledge/website-creation-guidelines/rules/capabilities/extensions.md",
+      "same_as_delivered": true
+    },
+    {
+      "path": "/Users/michal.lukasiewicz/Programming/website-creation-guidelines/rules/capabilities/forms.md",
+      "sha256": "1e0e497f40bab573e1d9f245ba1f303f1acf6217a246d46d212b4fc15d59ed82",
+      "delivered_copy": "/Users/michal.lukasiewicz/Programming/website-development-experiment/prompt-sets/01-detailed/knowledge/website-creation-guidelines/rules/capabilities/forms.md",
+      "same_as_delivered": true
+    },
+    {
+      "path": "/Users/michal.lukasiewicz/Programming/website-creation-guidelines/rules/capabilities/languages.md",
+      "sha256": "d4e68ad6b92d43a8788289274f7706ab321df9bff98114f41c1be34b7f84214b",
+      "delivered_copy": "/Users/michal.lukasiewicz/Programming/website-development-experiment/prompt-sets/01-detailed/knowledge/website-creation-guidelines/rules/capabilities/languages.md",
+      "same_as_delivered": true
+    },
+    {
+      "path": "/Users/michal.lukasiewicz/Programming/website-creation-guidelines/rules/capabilities/search.md",
+      "sha256": "5c4ca8792c6c2e14a8729417b0430d34afb9ecb94f5ac4bc0b9fbb99415871d1",
+      "delivered_copy": "/Users/michal.lukasiewicz/Programming/website-development-experiment/prompt-sets/01-detailed/knowledge/website-creation-guidelines/rules/capabilities/search.md",
+      "same_as_delivered": true
+    },
+    {
+      "path": "/Users/michal.lukasiewicz/Programming/website-creation-guidelines/rules/capabilities/themes.md",
+      "sha256": "e673561c189e2ba3023abb2e206ebc8355cba4f7cf2e9fb766b0f999bbec3b32",
+      "delivered_copy": "/Users/michal.lukasiewicz/Programming/website-development-experiment/prompt-sets/01-detailed/knowledge/website-creation-guidelines/rules/capabilities/themes.md",
+      "same_as_delivered": true
+    },
+    {
+      "path": "/Users/michal.lukasiewicz/Programming/website-creation-guidelines/rules/data-privacy-and-security.md",
+      "sha256": "97ee90387d989b07fac9bab7a554b691e7d317623f5f603e0ccdec804a1aa30f",
+      "delivered_copy": "/Users/michal.lukasiewicz/Programming/website-development-experiment/prompt-sets/01-detailed/knowledge/website-creation-guidelines/rules/data-privacy-and-security.md",
+      "same_as_delivered": true
+    },
+    {
+      "path": "/Users/michal.lukasiewicz/Programming/website-creation-guidelines/rules/interaction-and-accessibility.md",
+      "sha256": "c7491641c8ace299c37bf80ba63e4d2abea9275602b12ea57d6446edaa3bba9d",
+      "delivered_copy": "/Users/michal.lukasiewicz/Programming/website-development-experiment/prompt-sets/01-detailed/knowledge/website-creation-guidelines/rules/interaction-and-accessibility.md",
+      "same_as_delivered": true
+    },
+    {
+      "path": "/Users/michal.lukasiewicz/Programming/website-creation-guidelines/rules/operations-and-lifecycle.md",
+      "sha256": "d06b5cc3f93af4fc5354518a08e9c74532fcc3ad7341f0ee4f4ac999ba367465",
+      "delivered_copy": "/Users/michal.lukasiewicz/Programming/website-development-experiment/prompt-sets/01-detailed/knowledge/website-creation-guidelines/rules/operations-and-lifecycle.md",
+      "same_as_delivered": true
+    },
+    {
+      "path": "/Users/michal.lukasiewicz/Programming/website-creation-guidelines/rules/performance.md",
+      "sha256": "62f8ef915fb052353ee8b46f48cc6a29726e063a0857798fdbcd3e50ce31d4a4",
+      "delivered_copy": "/Users/michal.lukasiewicz/Programming/website-development-experiment/prompt-sets/01-detailed/knowledge/website-creation-guidelines/rules/performance.md",
+      "same_as_delivered": true
+    },
+    {
+      "path": "/Users/michal.lukasiewicz/Programming/website-creation-guidelines/rules/project-structure.md",
+      "sha256": "f70ffdfdecb5ebaa39f01fea746c3f53b776b5c3e6cef6629bf94fbc7584d129",
+      "delivered_copy": "/Users/michal.lukasiewicz/Programming/website-development-experiment/prompt-sets/01-detailed/knowledge/website-creation-guidelines/rules/project-structure.md",
+      "same_as_delivered": true
+    },
+    {
+      "path": "/Users/michal.lukasiewicz/Programming/website-creation-guidelines/rules/purpose-and-content.md",
+      "sha256": "0eb1fa0d2a08161f14e0e980ee3252854c4c8a1adb933f41284bb563f82ef512",
+      "delivered_copy": "/Users/michal.lukasiewicz/Programming/website-development-experiment/prompt-sets/01-detailed/knowledge/website-creation-guidelines/rules/purpose-and-content.md",
+      "same_as_delivered": true
+    },
+    {
+      "path": "/Users/michal.lukasiewicz/Programming/website-creation-guidelines/rules/technical-conventions.md",
+      "sha256": "1eabf825736de2af149c6b49c13adb71289400cab5c798f317aa7718af5fd269",
+      "delivered_copy": "/Users/michal.lukasiewicz/Programming/website-development-experiment/prompt-sets/01-detailed/knowledge/website-creation-guidelines/rules/technical-conventions.md",
+      "same_as_delivered": true
+    },
+    {
+      "path": "/Users/michal.lukasiewicz/Programming/website-creation-guidelines/rules/verification.md",
+      "sha256": "40d3ea176a50322e6496f04c249df307a049683854733e0f84104dc5fbc3a507",
+      "delivered_copy": "/Users/michal.lukasiewicz/Programming/website-development-experiment/prompt-sets/01-detailed/knowledge/website-creation-guidelines/rules/verification.md",
+      "same_as_delivered": true
+    },
+    {
+      "path": "/Users/michal.lukasiewicz/Programming/website-creation-guidelines/rules/visibility-and-discoverability.md",
+      "sha256": "4adae1143da25329cf5741d88740103301d4015fec54996b6d68bd22a3678f4c",
+      "delivered_copy": "/Users/michal.lukasiewicz/Programming/website-development-experiment/prompt-sets/01-detailed/knowledge/website-creation-guidelines/rules/visibility-and-discoverability.md",
+      "same_as_delivered": true
+    },
+    {
+      "path": "/Users/michal.lukasiewicz/Programming/website-creation-guidelines/rules/visual-design-and-layout.md",
+      "sha256": "1f59b8a9e35584d1486ce9a99592ded6bd1841befd2697683ddcc74f45b2e26c",
+      "delivered_copy": "/Users/michal.lukasiewicz/Programming/website-development-experiment/prompt-sets/01-detailed/knowledge/website-creation-guidelines/rules/visual-design-and-layout.md",
+      "same_as_delivered": true
+    },
+    {
+      "path": "/Users/michal.lukasiewicz/Programming/website-creation-guidelines/guides/README.md",
+      "sha256": "830e354f90171b949390c973f0f9a3de79ad210908fbd1d7c38fc1899eb35596",
+      "delivered_copy": "/Users/michal.lukasiewicz/Programming/website-development-experiment/prompt-sets/01-detailed/knowledge/website-creation-guidelines/guides/README.md",
+      "same_as_delivered": true
+    },
+    {
+      "path": "/Users/michal.lukasiewicz/Programming/website-creation-guidelines/guides/architecture.md",
+      "sha256": "03db5028dbb690525b6ed5593b201dace70461435b54993ef97f1e8dbe2aadb4",
+      "delivered_copy": "/Users/michal.lukasiewicz/Programming/website-development-experiment/prompt-sets/01-detailed/knowledge/website-creation-guidelines/guides/architecture.md",
+      "same_as_delivered": true
+    },
+    {
+      "path": "/Users/michal.lukasiewicz/Programming/website-creation-guidelines/guides/project-structure.md",
+      "sha256": "e3d97bdb035471bd356e1d39428e95f664fcec246f018f15a14be4a33f3f6699",
+      "delivered_copy": "/Users/michal.lukasiewicz/Programming/website-development-experiment/prompt-sets/01-detailed/knowledge/website-creation-guidelines/guides/project-structure.md",
+      "same_as_delivered": true
+    },
+    {
+      "path": "/Users/michal.lukasiewicz/Programming/website-creation-guidelines/guides/requirements-matrix.md",
+      "sha256": "8340d1e49c139b3e8008c1105384840aba3ffc3b24a7deb0ea7d328e972226f6",
+      "delivered_copy": "/Users/michal.lukasiewicz/Programming/website-development-experiment/prompt-sets/01-detailed/knowledge/website-creation-guidelines/guides/requirements-matrix.md",
+      "same_as_delivered": true
+    },
+    {
+      "path": "/Users/michal.lukasiewicz/Programming/website-creation-guidelines/guides/technical-conventions.md",
+      "sha256": "558b5b8c5b190446a734103b61d1ef4c9106bd9a2c4d3d2390603896692e94a1",
+      "delivered_copy": "/Users/michal.lukasiewicz/Programming/website-development-experiment/prompt-sets/01-detailed/knowledge/website-creation-guidelines/guides/technical-conventions.md",
+      "same_as_delivered": true
+    }
+  ],
+  "numbered_rules": 219,
+  "all_identical_to_detailed_run_knowledge": true
+}

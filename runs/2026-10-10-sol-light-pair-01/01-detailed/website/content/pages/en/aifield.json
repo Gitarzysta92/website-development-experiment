@@ -1,0 +1,47 @@
+{
+  "id": "aifield",
+  "locale": "en",
+  "title": "A workspace for photonic engineering",
+  "lead": "AIFIELD brings design and simulation tasks into a photonic development workflow.",
+  "description": "The September 2026 material describes CAD and solver work alongside experimental AI assistance. Neural field prediction is research, not a replacement for established solvers.",
+  "eyebrow": "AIFIELD",
+  "sections": [
+    {
+      "id": "focus",
+      "title": "Engineering workflow",
+      "paragraphs": [
+        "Layer and process handling, mode, circuit, field and thermal simulation address different questions during design. Their precise current availability requires confirmation."
+      ]
+    },
+    {
+      "id": "evidence",
+      "title": "Human-directed assistance",
+      "paragraphs": [
+        "Command-line and Model Context Protocol explorations let an agent propose or run selected steps while a person reviews and applies the work. The material does not support autonomous end-to-end chip design."
+      ]
+    },
+    {
+      "id": "next",
+      "title": "Evidence boundaries",
+      "paragraphs": [
+        "Internal comparisons and a glucose chip-design example illustrate engineering activity. They do not demonstrate fabricated-chip performance or a validated glucose sensor."
+      ]
+    }
+  ],
+  "related": [
+    "aifield",
+    "aifield-design",
+    "aifield-ai",
+    "aifield-neural",
+    "aifield-validation",
+    "partnerships"
+  ],
+  "stage": "Local draft · source context October 2026",
+  "pageType": "project",
+  "sourceReferences": [
+    "HP-1.1 project-context 2026-10-09"
+  ],
+  "sourceRevision": "2026-10-09",
+  "editorialState": "draft",
+  "modifiedAt": "2026-10-10"
+}

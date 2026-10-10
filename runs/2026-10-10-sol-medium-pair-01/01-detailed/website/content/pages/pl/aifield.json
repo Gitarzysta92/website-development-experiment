@@ -1,0 +1,44 @@
+{
+  "id": "aifield",
+  "locale": "pl",
+  "title": "Projektowanie fotoniki z czytelniejszą informacją zwrotną",
+  "description": "AIFIELD rozwija środowisko CAD i symulacji fotonicznych. Materiały z września 2026 roku opisują klasyczne narzędzia inżynierskie oraz osobny kierunek badań nad przewidywaniem pola optycznego.",
+  "eyebrow": "AIFIELD",
+  "lead": "AIFIELD rozwija środowisko CAD i symulacji fotonicznych. Materiały z września 2026 roku opisują klasyczne narzędzia inżynierskie oraz osobny kierunek badań nad przewidywaniem pola optycznego.",
+  "sections": [
+    {
+      "id": "section-1",
+      "heading": "Warsztat inżynierski",
+      "body": [
+        "Opisany proces obejmuje warstwy projektu i informacje technologiczne, a następnie analizę modów, obwodów, pól i efektów cieplnych. Są to różne spojrzenia na projektowaną strukturę, pomocne przed wykonaniem. Aktualne interfejsy i ograniczenia wymagają potwierdzenia przez zespół."
+      ]
+    },
+    {
+      "id": "section-2",
+      "heading": "Wsparcie z udziałem człowieka",
+      "body": [
+        "Narzędzia wiersza poleceń i protokołu Model Context Protocol służą badaniu pracy wspomaganej przez agenta: asystent może proponować działania, które człowiek ocenia i stosuje. Materiały opisują częściową pomoc, nie autonomiczne projektowanie chipa od początku do końca."
+      ]
+    },
+    {
+      "id": "section-3",
+      "heading": "Badania obok narzędzi praktycznych",
+      "body": [
+        "Predykcja neuronowa bada, czy model uczony może szacować pola optyczne przy zadanych warunkach. Jest odrębna od klasycznych solverów i analogowego procesora interpretacji proponowanego w ArtiSense. Potrzebne są szersze porównania i jawne założenia brzegowe."
+      ]
+    }
+  ],
+  "related": [
+    "aifield-design",
+    "aifield-ai",
+    "aifield-neural",
+    "aifield-validation"
+  ],
+  "editorialState": "draft",
+  "sourceRevision": "HP-1.1; context 2026-10-09",
+  "modified": "2026-10-10",
+  "sourceRefs": [
+    "inputs/content/project-context.md (summary, 2026-10-09)",
+    "inputs/docs/sitemap.md (SM-0.3)"
+  ]
+}

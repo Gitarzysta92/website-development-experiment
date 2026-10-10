@@ -1,0 +1,10 @@
+---
+import type {PageView} from '../../content/index';
+import ProjectFrame from '../../layouts/ProjectFrame.astro';
+import PageIntro from '../../partials/PageIntro.astro';
+import ProjectClosing from '../../partials/ProjectClosing.astro';
+import Sections from '../Sections.astro';
+interface Props{page:PageView;}const {page}=Astro.props;const pl=page.locale==='pl';
+---
+<PageIntro page={page}/><ProjectFrame page={page}><div class="application-context"><span class="context-label">{pl?'ZAMIERZONY KONTEKST':'INTENDED CONTEXT'}</span><div class="context-orbit" aria-hidden="true"><span></span><span></span><span></span></div><p>{pl?'Odpowiedź optyczna + odniesienie + określone warunki':'Optical response + reference + stated conditions'}</p><small>{pl?'Koncepcja badania, nie urządzenie do użytku medycznego.':'A research concept, not a device for medical use.'}</small></div><Sections page={page}/></ProjectFrame><ProjectClosing page={page}/>
+<style>.application-context{position:relative;border:1px solid var(--af-line);border-radius:20px;background:var(--af-mist);padding:32px;margin-bottom:48px;overflow:hidden}.context-label{font:16px/1.5 var(--mono);color:var(--af-muted)}.context-orbit{height:180px;display:flex;align-items:center;justify-content:center}.context-orbit span{display:block;flex-shrink:0;width:140px;height:140px;border:2px solid var(--af-purple);border-radius:50%;margin-left:-50px}.context-orbit span:first-child{margin-left:0;border-color:var(--af-teal)}.context-orbit span:last-child{width:90px;height:90px;border-color:var(--af-teal)}.application-context p{font-size:22px;font-weight:550;line-height:1.4}.application-context small{font-size:16px;color:var(--af-muted);display:block;margin-top:12px}@media(max-width:48rem){.application-context{padding:24px 20px}.context-orbit span{width:100px;height:100px;margin-left:-35px}.context-orbit span:last-child{width:64px;height:64px}}</style>

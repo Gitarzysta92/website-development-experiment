@@ -1,0 +1,43 @@
+- main:
+  - navigation "Ścieżka nawigacji":
+    - list:
+      - listitem:
+        - link "Strona główna":
+          - /url: /pl/
+      - listitem: / Kontakt
+  - paragraph: KONTAKT
+  - heading "Zacznijmy rozmowę." [level=1]
+  - paragraph: Napisz, jakie pytanie chcesz omówić. Rozmowy inwestycyjne dotyczą Artifactory jako firmy; rozmowę o projekcie lub współpracy można zacząć od konkretnego zagadnienia technicznego.
+  - heading "Od czego zacząć" [level=2]
+  - paragraph: Wybierz rodzaj zapytania i, jeśli ma to znaczenie, projekt. Przy rozmowie inwestycyjnej wskaż informacje, które chcesz przeanalizować. Przy współpracy lub demonstracji opisz problem inżynierski i potrzebne dowody.
+  - paragraph: Ta wersja służy testowaniu strony. W formularzu używaj wymyślonych danych przykładowych, bez danych osobowych, finansowych i informacji poufnych. Zapytanie o demo AIFIELD rozpoczyna rozmowę; nie zapewnia natychmiastowego dostępu do produktu.
+  - heading "Wolisz e-mail?" [level=2]
+  - link "info@artifactory.tech":
+    - /url: mailto:info@artifactory.tech
+  - paragraph: Otwiera Twoją aplikację pocztową. Lokalny tryb testowy formularza nie dotyczy wiadomości, które samodzielnie wyślesz.
+  - strong: Lokalny tryb testowy
+  - paragraph: Formularz przesyła dane testowe do pamięci tego komputera. Nie wysyła e-maili. Wpisy wygasają w ciągu 24 godzin i są usuwane po ponownym uruchomieniu serwera.
+  - text: O czym chcesz porozmawiać?
+  - combobox "O czym chcesz porozmawiać?":
+    - option "Zapytanie ogólne" [selected]
+    - option "Inwestycja w Artifactory"
+    - option "Współpraca"
+    - option "Rozmowa o demonstracji AIFIELD"
+  - text: Projekt (opcjonalnie)
+  - combobox "Projekt (opcjonalnie)":
+    - option "Bez wskazania projektu" [selected]
+    - option "ArtiSense"
+    - option "AIFIELD"
+  - text: Imię i nazwisko (opcjonalnie)
+  - textbox "Imię i nazwisko (opcjonalnie)"
+  - text: Organizacja (opcjonalnie)
+  - textbox "Organizacja (opcjonalnie)"
+  - text: Adres e-mail
+  - textbox "Adres e-mail"
+  - text: Twoja wiadomość
+  - paragraph: 20–5000 znaków. Używaj wyłącznie danych testowych; nie wpisuj danych osobowych ani informacji poufnych.
+  - textbox "Twoja wiadomość"
+  - paragraph:
+    - link "Jak lokalny formularz przetwarza informacje":
+      - /url: /pl/prywatnosc/
+  - button "Wyślij zapytanie testowe"

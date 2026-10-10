@@ -1,0 +1,28 @@
+{
+  "name": "Purple + Teal",
+  "selectedAt": "2026-10-09",
+  "status": "Selected by the user from the proposed palette variations",
+  "originalSiteSamples": "sampled-colors.json",
+  "colors": {
+    "primary": { "hex": "#662483", "token": "--af-purple" },
+    "accent": { "hex": "#087F8C", "token": "--af-teal" },
+    "ink": { "hex": "#202438", "token": "--af-ink" },
+    "page": { "hex": "#FFFFFF", "token": "--af-white" },
+    "surface": { "hex": "#F2F7F7", "token": "--af-mist" },
+    "divider": { "hex": "#DCE5E6", "token": "--af-line" }
+  },
+  "supportingColors": {
+    "primaryHover": { "hex": "#541B6E", "token": "--af-purple-hover" },
+    "mutedText": { "hex": "#5C6470", "token": "--af-muted" }
+  },
+  "usage": [
+    "Keep the page predominantly white with mist surfaces for supporting sections.",
+    "Use purple consistently for primary actions and links.",
+    "Use teal selectively for technical illustrations, data highlights, and informational emphasis.",
+    "Use ink for primary text, section headings, the footer, and dark sections.",
+    "Use the pale divider only for decorative separation; controls use the stronger muted color.",
+    "Use white text on purple, teal, and ink backgrounds.",
+    "Place focus outlines outside the control with spacing; use the inverse focus token on dark surfaces."
+  ],
+  "provenance": "The six main colors match the selected proposal. Purple and white are retained from the original site. Supporting hover and muted colors complete the implementation mapping."
+}

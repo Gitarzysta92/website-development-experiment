@@ -1,0 +1,107 @@
+{
+  "id": "aifield",
+  "locale": "pl",
+  "type": "overview",
+  "title": "Od pomysłu fotonicznego do projektu, który można ocenić.",
+  "description": "AIFIELD łączy projektowanie fotoniki i klasyczne symulacje z częściowym wsparciem AI oraz odrębnymi badaniami neuronowych modeli pola.",
+  "eyebrow": "AIFIELD / INŻYNIERIA FOTONICZNA",
+  "lead": "Narzędzia dla inżynierów, którzy potrzebują powiązać strukturę fotoniczną, jej założenia i zachowanie przewidywane przez model.",
+  "sections": [
+    {
+      "id": "users",
+      "title": "Kontekst pracy nad fotoniką.",
+      "paragraphs": [
+        "Projektowanie elementu optycznego wymaga więcej niż narysowania jego obrysu. Geometria, materiały, warstwy i planowany proces określają pytanie, na które może odpowiedzieć symulacja. AIFIELD jest przedstawiany jako środowisko łączące projekt z badaniem modelowym.",
+        "Docelowi użytkownicy to projektanci fotoniki i badacze oceniający proponowane struktury. Użytecznym wynikiem jest projekt inżynierski oraz rezultat symulacji, którego kontekst pozwala zrozumieć, co zamodelowano."
+      ],
+      "links": [
+        {
+          "id": "aifield-design"
+        }
+      ]
+    },
+    {
+      "id": "classical",
+      "title": "Klasyczne narzędzia według opisu z września 2026.",
+      "paragraphs": [
+        "Dostarczone podsumowanie demonstracji opisuje obsługę geometrii, warstw i procesów oraz prace nad symulacją modów, obwodów, pola i zjawisk cieplnych. Są to opisy możliwości z określonego momentu, które nie potwierdzają dzisiejszej dostępności ani wsparcia każdej funkcji.",
+        "Proces prowadzi od pytania projektowego przez przygotowanie i wykonanie obliczeń do oceny wyniku. Agent może pomagać w wybranych działaniach, a człowiek odpowiada za zastosowanie i sprawdzenie proponowanych zmian."
+      ],
+      "links": [
+        {
+          "id": "aifield-design"
+        },
+        {
+          "id": "aifield-ai"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "title": "Odrębne pytanie: czy sieć może przewidzieć pole?",
+      "paragraphs": [
+        "Neuronowe przewidywanie pola optycznego bada możliwość uzyskiwania użytecznych oszacowań przez wyuczony model. Opisane badania zależą od warunków, w tym dostarczonej informacji brzegowej. Generalizacja, większe łączone obszary i praktyczna przewaga czasowa pozostają otwarte.",
+        "To kierunek odrębny od klasycznych narzędzi projektowych i proponowanego analogowego procesora interpretacji sygnałów ArtiSense."
+      ],
+      "links": [
+        {
+          "id": "aifield-neural"
+        }
+      ]
+    },
+    {
+      "id": "example",
+      "title": "Jeden wewnętrzny przykład. Dwa różne pytania.",
+      "paragraphs": [
+        "Przykład projektu fotonicznego chipu do badań nad pomiarem glukozy łączy oba projekty. AIFIELD dotyczy geometrii, procesu projektowania i symulowanego zachowania. ArtiSense dotyczy zamierzonego pomiaru i wymagań jego walidacji.",
+        "Wewnętrzna praca projektowa jest użytecznym dowodem działania inżynierskiego. Nie stanowi wdrożenia u klienta, pomiaru wykonanego chipu ani walidacji dokładności pomiaru glukozy."
+      ],
+      "links": [
+        {
+          "id": "aifield-validation"
+        },
+        {
+          "id": "artisense"
+        }
+      ]
+    },
+    {
+      "id": "access",
+      "title": "Zacznij od pytania inżynierskiego.",
+      "paragraphs": [
+        "Prośba o demo rozpoczyna rozmowę o zadaniu, dostępnych narzędziach i ograniczeniach. Nie tworzy konta ani nie daje natychmiastowego dostępu do programu. Opisz badaną strukturę i potrzebny wynik; w pierwszym zapytaniu nie przesyłaj poufnych plików projektowych."
+      ],
+      "links": [
+        {
+          "id": "investors"
+        },
+        {
+          "id": "partnerships"
+        }
+      ]
+    }
+  ],
+  "relatedIds": [
+    "aifield-design",
+    "aifield-ai",
+    "aifield-neural",
+    "aifield-validation",
+    "artisense",
+    "investors"
+  ],
+  "project": "aifield",
+  "sourceReferences": [
+    "HP-1.1/project-context",
+    "SM-0.3/aifield"
+  ],
+  "sourceRevision": "2026-10-09 (AIFIELD snapshot: September 2026)",
+  "editorialState": "draft",
+  "modifiedAt": "2026-10-09T21:00:00.000Z",
+  "reviews": {
+    "facts": null,
+    "language": null,
+    "assets": null
+  },
+  "privateNotes": "Locally authored from supplied summary. Factual, translation and asset owner review pending. Original PDFs were not supplied.",
+  "maturity": "Stan opisany we wrześniu 2026 · aktualny dostęp do uzgodnienia"
+}

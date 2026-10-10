@@ -1,0 +1,78 @@
+{
+  "sourceHtmlSha256": "185bacd1bfd8d623791d66cacaab2e5fa8aea1bafab733f2303dd395ea4b4f2f",
+  "conditions": "Lighthouse 13.5.0; Playwright Chromium 156.0.8078.4; default simulated mobile profile; macOS 26.6.2 arm64; built local loopback server",
+  "groups": {
+    "home": {
+      "runs": [
+        {
+          "file": "lh-accepted-home-1.json",
+          "url": "http://127.0.0.1:4321/en/",
+          "score": 100,
+          "lcpMs": 901.3340000000001,
+          "cls": 0,
+          "formFactor": "mobile",
+          "benchmarkIndex": 3708
+        },
+        {
+          "file": "lh-accepted-home-2.json",
+          "url": "http://127.0.0.1:4321/en/",
+          "score": 100,
+          "lcpMs": 900.9922999999999,
+          "cls": 0,
+          "formFactor": "mobile",
+          "benchmarkIndex": 3967
+        },
+        {
+          "file": "lh-accepted-home-3.json",
+          "url": "http://127.0.0.1:4321/en/",
+          "score": 100,
+          "lcpMs": 901.0979,
+          "cls": 0,
+          "formFactor": "mobile",
+          "benchmarkIndex": 3895.5
+        }
+      ],
+      "median": {
+        "score": 100,
+        "lcpMs": 901.0979,
+        "cls": 0
+      }
+    },
+    "polishTechnical": {
+      "runs": [
+        {
+          "file": "lh-accepted-pl-1.json",
+          "url": "http://127.0.0.1:4321/pl/projekty/aifield/przyklady-walidacja/",
+          "score": 100,
+          "lcpMs": 901.1086,
+          "cls": 0,
+          "formFactor": "mobile",
+          "benchmarkIndex": 3718.5
+        },
+        {
+          "file": "lh-accepted-pl-2.json",
+          "url": "http://127.0.0.1:4321/pl/projekty/aifield/przyklady-walidacja/",
+          "score": 100,
+          "lcpMs": 901.797,
+          "cls": 0,
+          "formFactor": "mobile",
+          "benchmarkIndex": 3658.5
+        },
+        {
+          "file": "lh-accepted-pl-3.json",
+          "url": "http://127.0.0.1:4321/pl/projekty/aifield/przyklady-walidacja/",
+          "score": 100,
+          "lcpMs": 901.4402,
+          "cls": 0,
+          "formFactor": "mobile",
+          "benchmarkIndex": 3814
+        }
+      ],
+      "median": {
+        "score": 100,
+        "lcpMs": 901.4402,
+        "cls": 0
+      }
+    }
+  }
+}

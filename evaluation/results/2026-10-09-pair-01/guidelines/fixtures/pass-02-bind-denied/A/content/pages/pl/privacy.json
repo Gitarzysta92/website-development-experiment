@@ -1,0 +1,71 @@
+{
+  "id": "privacy",
+  "locale": "pl",
+  "type": "privacy",
+  "title": "Prywatność w wersji lokalnej.",
+  "description": "Jak lokalna wersja Artifactory obsługuje zapytania testowe, potwierdzenia w pamięci, odnośniki e-mail i dane przeglądarki. Bez wysyłki i śledzenia.",
+  "eyebrow": "PRZETWARZANIE INFORMACJI",
+  "lead": "Ten opis dotyczy używanej wersji lokalnej. Nie jest ostateczną informacją o prywatności dla publicznie udostępnionej usługi.",
+  "sections": [
+    {
+      "id": "form-data",
+      "title": "Co odbiera formularz testowy",
+      "paragraphs": [
+        "Formularz przyjmuje rodzaj zapytania, adres e-mail, wiadomość, język i losowy identyfikator zgłoszenia. Imię i nazwisko, organizacja oraz projekt są opcjonalne. Należy wpisywać wyłącznie dane testowe.",
+        "Odbiornik działa na tym komputerze. Zachowuje zapytanie i potwierdzenie testowe w pamięci procesu, aby sprawdzić odbiór i zapobiegać duplikatom. Tryb testowy nie wysyła e-maili, powiadomień ani żądań do zewnętrznych usług."
+      ]
+    },
+    {
+      "id": "retention",
+      "title": "Kiedy dane testowe znikają",
+      "paragraphs": [
+        "Lokalne wpisy testowe wygasają najpóźniej po 24 godzinach od utworzenia. Ponowne uruchomienie serwera usuwa je natychmiast. Czyszczenie następuje przy dostępie do odbiornika w pamięci; wygasłych wpisów nie można odczytać przez jego interfejs kontrolny.",
+        "Formularz przechowuje wartości i informacje o ponowieniu wyłącznie w pamięci strony. Nie zapisuje ich w pamięci przeglądarki, plikach cookie ani adresie. Zamknięcie lub opuszczenie strony kończy ten lokalny stan."
+      ]
+    },
+    {
+      "id": "email",
+      "title": "E-mail to osobny kanał",
+      "paragraphs": [
+        "Odnośnik e-mail otwiera Twoją aplikację pocztową. Wiadomość, którą zdecydujesz się wysłać, podlega zasadom Twojej usługi pocztowej i odbiorcy; nie przechodzi przez lokalny odbiornik testowy.",
+        "Podany adres kontaktowy to info@artifactory.tech. W tej wersji nie zweryfikowano jego operatora ani zasad obsługi rzeczywistych wiadomości."
+      ],
+      "links": [
+        {
+          "id": "contact"
+        }
+      ]
+    },
+    {
+      "id": "tracking",
+      "title": "Bez śledzenia i opcjonalnych plików cookie",
+      "paragraphs": [
+        "Strona nie ładuje analityki, zewnętrznych czcionek, osadzonych usług ani reklam. Nie ma kont użytkowników ani plików cookie z preferencjami. Zwykłe logi diagnostyczne nie mogą zawierać treści zapytań."
+      ]
+    },
+    {
+      "id": "release",
+      "title": "Przed publicznym udostępnieniem",
+      "paragraphs": [
+        "Usługa publiczna wymaga wskazanego operatora, zatwierdzonego dostawcy i odbiorcy, sprawdzonej informacji o prywatności, procedur przechowywania i usuwania danych oraz określonego zakresu publikacji. Te ustalenia wymagają jeszcze dostarczenia i przeglądu. Lokalny tryb testowy ich nie zastępuje."
+      ]
+    }
+  ],
+  "relatedIds": [
+    "contact"
+  ],
+  "project": null,
+  "sourceReferences": [
+    "HP-1.1/project-context",
+    "SM-0.3/privacy"
+  ],
+  "sourceRevision": "2026-10-09 (AIFIELD snapshot: September 2026)",
+  "editorialState": "draft",
+  "modifiedAt": "2026-10-09T21:00:00.000Z",
+  "reviews": {
+    "facts": null,
+    "language": null,
+    "assets": null
+  },
+  "privateNotes": "Locally authored from supplied summary. Factual, translation and asset owner review pending. Original PDFs were not supplied."
+}

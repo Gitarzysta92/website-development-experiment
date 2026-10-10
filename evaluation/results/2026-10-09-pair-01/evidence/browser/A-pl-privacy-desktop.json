@@ -1,0 +1,274 @@
+{
+  "id": "A-pl-privacy-desktop",
+  "label": "A",
+  "locale": "pl",
+  "pageId": "privacy",
+  "view": "desktop",
+  "url": "http://127.0.0.1:4501/pl/prywatnosc/",
+  "status": 200,
+  "errors": [],
+  "title": "Prywatność w wersji lokalnej. | Artifactory",
+  "language": "pl",
+  "h1": [
+    "Prywatność w wersji lokalnej."
+  ],
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Prywatność w wersji lokalnej."
+    },
+    {
+      "level": "H2",
+      "text": "Co odbiera formularz testowy"
+    },
+    {
+      "level": "H2",
+      "text": "Kiedy dane testowe znikają"
+    },
+    {
+      "level": "H2",
+      "text": "E-mail to osobny kanał"
+    },
+    {
+      "level": "H2",
+      "text": "Bez śledzenia i opcjonalnych plików cookie"
+    },
+    {
+      "level": "H2",
+      "text": "Przed publicznym udostępnieniem"
+    },
+    {
+      "level": "H2",
+      "text": "Firma"
+    },
+    {
+      "level": "H2",
+      "text": "Projekty"
+    },
+    {
+      "level": "H2",
+      "text": "Porozmawiajmy"
+    }
+  ],
+  "text": "Przejdź do treści\nWersja lokalna · Badania w toku\na·\nartifactory\nProjekty\n⌄\nDla inwestorów\nJak pracujemy\nO nas\nEN\n↔\nPorozmawiajmy\n↗\nStrona główna\nPolityka prywatności\n\nPRZETWARZANIE INFORMACJI\n\nPrywatność w wersji lokalnej.\n\nTen opis dotyczy używanej wersji lokalnej. Nie jest ostateczną informacją o prywatności dla publicznie udostępnionej usługi.\n\nCo odbiera formularz testowy\n\nFormularz przyjmuje rodzaj zapytania, adres e-mail, wiadomość, język i losowy identyfikator zgłoszenia. Imię i nazwisko, organizacja oraz projekt są opcjonalne. Należy wpisywać wyłącznie dane testowe.\n\nOdbiornik działa na tym komputerze. Zachowuje zapytanie i potwierdzenie testowe w pamięci procesu, aby sprawdzić odbiór i zapobiegać duplikatom. Tryb testowy nie wysyła e-maili, powiadomień ani żądań do zewnętrznych usług.\n\nKiedy dane testowe znikają\n\nLokalne wpisy testowe wygasają najpóźniej po 24 godzinach od utworzenia. Ponowne uruchomienie serwera usuwa je natychmiast. Czyszczenie następuje przy dostępie do odbiornika w pamięci; wygasłych wpisów nie można odczytać przez jego interfejs kontrolny.\n\nFormularz przechowuje wartości i informacje o ponowieniu wyłącznie w pamięci strony. Nie zapisuje ich w pamięci przeglądarki, plikach cookie ani adresie. Zamknięcie lub opuszczenie strony kończy ten lokalny stan.\n\nE-mail to osobny kanał\n\nOdnośnik e-mail otwiera Twoją aplikację pocztową. Wiadomość, którą zdecydujesz się wysłać, podlega zasadom Twojej usługi pocztowej i odbiorcy; nie przechodzi przez lokalny odbiornik testowy.\n\nPodany adres kontaktowy to info@artifactory.tech. W tej wersji nie zweryfikowano jego operatora ani zasad obsługi rzeczywistych wiadomości.\n\nKontakt\n↗\nBez śledzenia i opcjonalnych plików cookie\n\nStrona nie ładuje analityki, zewnętrznych czcionek, osadzonych usług ani reklam. Nie ma kont użytkowników ani plików cookie z preferencjami. Zwykłe logi diagnostyczne nie mogą zawierać treści zapytań.\n\nPrzed publicznym udostępnieniem\n\nUsługa publiczna wymaga wskazanego operatora, zatwierdzonego dostawcy i odbiorcy, sprawdzonej informacji o prywatności, procedur przechowywania i usuwania danych oraz określonego zakresu publikacji. Te ustalenia wymagają jeszcze dostarczenia i przeglądu. Lokalny tryb testowy ich nie zastępuje.\n\nartifactory·\n\nTechnologie pomiarowe i narzędzia do projektowania systemów fotonicznych.\n\ninfo@artifactory.tech\n↗\nFirma\nStrona główna\nProjekty\nDla inwestorów\nJak pracujemy\nO nas\nProjekty\nArtiSense\nAIFIELD\nPorozmawiajmy\nWspółpraca\nKontakt\nPolityka prywatności\nArtifactory\nŚwiatło otwiera nowe możliwości.",
+  "links": [
+    {
+      "text": "Przejdź do treści",
+      "href": "#main",
+      "lang": ""
+    },
+    {
+      "text": "a·\nartifactory",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/pl/projekty/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/pl/projekty/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/pl/projekty/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Dla inwestorów",
+      "href": "/pl/inwestorzy/",
+      "lang": ""
+    },
+    {
+      "text": "Jak pracujemy",
+      "href": "/pl/jak-pracujemy/",
+      "lang": ""
+    },
+    {
+      "text": "O nas",
+      "href": "/pl/o-nas/",
+      "lang": ""
+    },
+    {
+      "text": "Współpraca",
+      "href": "/pl/wspolpraca/",
+      "lang": ""
+    },
+    {
+      "text": "Kontakt",
+      "href": "/pl/kontakt/",
+      "lang": ""
+    },
+    {
+      "text": "EN\n↔",
+      "href": "http://127.0.0.1:4501/en/privacy/",
+      "lang": "en"
+    },
+    {
+      "text": "Porozmawiajmy\n↗",
+      "href": "/pl/kontakt/?intent=investment",
+      "lang": ""
+    },
+    {
+      "text": "Strona główna",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "Kontakt\n↗",
+      "href": "/pl/kontakt/",
+      "lang": ""
+    },
+    {
+      "text": "artifactory·",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "info@artifactory.tech\n↗",
+      "href": "mailto:info@artifactory.tech",
+      "lang": ""
+    },
+    {
+      "text": "Strona główna",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "Projekty",
+      "href": "/pl/projekty/",
+      "lang": ""
+    },
+    {
+      "text": "Dla inwestorów",
+      "href": "/pl/inwestorzy/",
+      "lang": ""
+    },
+    {
+      "text": "Jak pracujemy",
+      "href": "/pl/jak-pracujemy/",
+      "lang": ""
+    },
+    {
+      "text": "O nas",
+      "href": "/pl/o-nas/",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSense",
+      "href": "/pl/projekty/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELD",
+      "href": "/pl/projekty/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Współpraca",
+      "href": "/pl/wspolpraca/",
+      "lang": ""
+    },
+    {
+      "text": "Kontakt",
+      "href": "/pl/kontakt/",
+      "lang": ""
+    },
+    {
+      "text": "Polityka prywatności",
+      "href": "/pl/prywatnosc/",
+      "lang": ""
+    }
+  ],
+  "metadata": [
+    {
+      "name": "viewport",
+      "content": "width=device-width, initial-scale=1"
+    },
+    {
+      "name": "description",
+      "content": "Jak lokalna wersja Artifactory obsługuje zapytania testowe, potwierdzenia w pamięci, odnośniki e-mail i dane przeglądarki. Bez wysyłki i śledzenia."
+    },
+    {
+      "name": "robots",
+      "content": "noindex, nofollow"
+    },
+    {
+      "rel": "canonical",
+      "href": "http://127.0.0.1:4501/pl/prywatnosc/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "en",
+      "href": "http://127.0.0.1:4501/en/privacy/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "pl",
+      "href": "http://127.0.0.1:4501/pl/prywatnosc/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "x-default",
+      "href": "http://127.0.0.1:4501/en/privacy/"
+    },
+    {
+      "property": "og:type",
+      "content": "website"
+    },
+    {
+      "property": "og:site_name",
+      "content": "Artifactory"
+    },
+    {
+      "property": "og:title",
+      "content": "Prywatność w wersji lokalnej. | Artifactory"
+    },
+    {
+      "property": "og:description",
+      "content": "Jak lokalna wersja Artifactory obsługuje zapytania testowe, potwierdzenia w pamięci, odnośniki e-mail i dane przeglądarki. Bez wysyłki i śledzenia."
+    },
+    {
+      "property": "og:url",
+      "content": "http://127.0.0.1:4501/pl/prywatnosc/"
+    },
+    {
+      "property": "og:locale",
+      "content": "pl_PL"
+    },
+    {
+      "property": "og:image",
+      "content": "http://127.0.0.1:4501/brand/share-v1.svg"
+    },
+    {
+      "property": "og:image:width",
+      "content": "1200"
+    },
+    {
+      "property": "og:image:height",
+      "content": "630"
+    }
+  ],
+  "forms": [],
+  "images": [],
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "scrollWidth": 1425
+  },
+  "overflowing": [],
+  "axe": {
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "impact": "serious",
+        "nodeCount": 1
+      }
+    ],
+    "passes": 39
+  }
+}

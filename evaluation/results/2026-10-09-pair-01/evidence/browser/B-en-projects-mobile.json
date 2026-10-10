@@ -1,0 +1,459 @@
+{
+  "id": "B-en-projects-mobile",
+  "label": "B",
+  "locale": "en",
+  "pageId": "projects",
+  "view": "mobile",
+  "url": "http://127.0.0.1:4511/en/projects/",
+  "status": 200,
+  "errors": [],
+  "title": "Projects | Artifactory",
+  "language": "en",
+  "h1": [
+    "Two projects. Shared curiosity."
+  ],
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Two projects. Shared curiosity."
+    },
+    {
+      "level": "H3",
+      "text": "ArtiSense"
+    },
+    {
+      "level": "H3",
+      "text": "AIFIELD"
+    },
+    {
+      "level": "H2",
+      "text": "Different questions. Connected work."
+    },
+    {
+      "level": "H2",
+      "text": "Let’s explore what\ncomes next."
+    },
+    {
+      "level": "H2",
+      "text": "Projects"
+    },
+    {
+      "level": "H2",
+      "text": "Company"
+    },
+    {
+      "level": "H2",
+      "text": "Get in touch"
+    }
+  ],
+  "text": "Skip to content\nLocal preview\nDraft content · 9 October 2026\nartifactory.\nMenu\nHome\nProjects\n\nOUR PROJECTS\n\nTwo projects. Shared curiosity.\n\nSensing technology and photonic engineering tools, each with its own development path and evidence.\n\nARTISENSE / 01\nPHOTONICS\nSIGNAL\nLIGHT\n01 / PHOTONIC SENSING\nResearch & concept development\nArtiSense\n\nExploring how light can reveal chemical information, with a miniaturized sensing system at the heart of the research.\n\nExplore ArtiSense\nOPTICAL FIELD\nCONCEPTUAL ILLUSTRATION\nAIFIELD\n02 / PHOTONIC ENGINEERING\nDevelopment & internal demonstrations\nAIFIELD\n\nA design and simulation environment for exploring photonic systems, with AI-assisted workflows and a distinct neural field research direction.\n\nExplore AIFIELD\n\nConceptual illustration · not a product image or measured result\n\nAT A GLANCE\n\nDifferent questions. Connected work.\nPerspective\tArtiSense\tAIFIELD\nFocus\tSensing systems\tDesign & simulation tools\nIntended output\tA miniaturized chemical-sensing system\tA photonic design and simulation workflow\nStage in supplied material\tResearch & concept development\tDevelopment & internal demonstrations\nEvidence boundary\tDesign work does not validate sensing performance\tSimulation comparisons do not establish fabricated-device results\nResearch & validation\nExamples & validation\n\nTHE NEXT CONVERSATION\n\nLet’s explore what\ncomes next.\n\nInvest in the company. Explore the science. Bring a question worth working on.\n\nDiscuss an investment\nExplore partnerships\nartifactory.\n\nEngineering light. Creating possibility.\n\nSensing technology and tools for designing photonic systems.\nProjects\nAll projects\nArtiSense\nAIFIELD\nCompany\nHome\nInvestors\nOur approach\nAbout\nPartnerships\nGet in touch\ninfo@artifactory.tech\nContact\nPrivacy\nArtifactory · 2026\nLocal review edition. Content and Polish translations await owner review.\nBack to top ↑",
+  "links": [
+    {
+      "text": "Skip to content",
+      "href": "#main",
+      "lang": ""
+    },
+    {
+      "text": "artifactory.",
+      "href": "/en/",
+      "lang": ""
+    },
+    {
+      "text": "All projects",
+      "href": "/en/projects/",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSensePhotonic sensing",
+      "href": "/en/projects/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELDPhotonic engineering",
+      "href": "/en/projects/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Investors",
+      "href": "/en/investors/",
+      "lang": ""
+    },
+    {
+      "text": "Our approach",
+      "href": "/en/approach/",
+      "lang": ""
+    },
+    {
+      "text": "About",
+      "href": "/en/about/",
+      "lang": ""
+    },
+    {
+      "text": "Partnerships",
+      "href": "/en/partnerships/",
+      "lang": ""
+    },
+    {
+      "text": "Contact",
+      "href": "/en/contact/",
+      "lang": ""
+    },
+    {
+      "text": "PL",
+      "href": "/pl/projekty/",
+      "lang": "pl"
+    },
+    {
+      "text": "Let’s talk",
+      "href": "/en/contact/?intent=investment",
+      "lang": ""
+    },
+    {
+      "text": "Home",
+      "href": "/en/",
+      "lang": ""
+    },
+    {
+      "text": "ARTISENSE / 01\nPHOTONICS\nSIGNAL\nLIGHT",
+      "href": "/en/projects/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSense",
+      "href": "/en/projects/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "Explore ArtiSense",
+      "href": "/en/projects/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "OPTICAL FIELD\nCONCEPTUAL ILLUSTRATION\nAIFIELD",
+      "href": "/en/projects/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELD",
+      "href": "/en/projects/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Explore AIFIELD",
+      "href": "/en/projects/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Research & validation",
+      "href": "/en/projects/artisense/research-validation/",
+      "lang": ""
+    },
+    {
+      "text": "Examples & validation",
+      "href": "/en/projects/aifield/examples-validation/",
+      "lang": ""
+    },
+    {
+      "text": "Discuss an investment",
+      "href": "/en/contact/?intent=investment",
+      "lang": ""
+    },
+    {
+      "text": "Explore partnerships",
+      "href": "/en/partnerships/",
+      "lang": ""
+    },
+    {
+      "text": "artifactory.",
+      "href": "/en/",
+      "lang": ""
+    },
+    {
+      "text": "All projects",
+      "href": "/en/projects/",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSense",
+      "href": "/en/projects/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELD",
+      "href": "/en/projects/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Home",
+      "href": "/en/",
+      "lang": ""
+    },
+    {
+      "text": "Investors",
+      "href": "/en/investors/",
+      "lang": ""
+    },
+    {
+      "text": "Our approach",
+      "href": "/en/approach/",
+      "lang": ""
+    },
+    {
+      "text": "About",
+      "href": "/en/about/",
+      "lang": ""
+    },
+    {
+      "text": "Partnerships",
+      "href": "/en/partnerships/",
+      "lang": ""
+    },
+    {
+      "text": "info@artifactory.tech",
+      "href": "mailto:info@artifactory.tech",
+      "lang": ""
+    },
+    {
+      "text": "Contact",
+      "href": "/en/contact/",
+      "lang": ""
+    },
+    {
+      "text": "Privacy",
+      "href": "/en/privacy/",
+      "lang": ""
+    },
+    {
+      "text": "Back to top ↑",
+      "href": "#top",
+      "lang": ""
+    }
+  ],
+  "metadata": [
+    {
+      "name": "viewport",
+      "content": "width=device-width, initial-scale=1"
+    },
+    {
+      "name": "description",
+      "content": "Meet ArtiSense and AIFIELD: sensing research and photonic design tools, with current stages and evidence boundaries."
+    },
+    {
+      "name": "robots",
+      "content": "noindex,nofollow"
+    },
+    {
+      "name": "theme-color",
+      "content": "#662483"
+    },
+    {
+      "rel": "canonical",
+      "href": "http://127.0.0.1:4511/en/projects/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "en",
+      "href": "http://127.0.0.1:4511/en/projects/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "pl",
+      "href": "http://127.0.0.1:4511/pl/projekty/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "x-default",
+      "href": "http://127.0.0.1:4511/en/projects/"
+    },
+    {
+      "property": "og:type",
+      "content": "website"
+    },
+    {
+      "property": "og:site_name",
+      "content": "Artifactory"
+    },
+    {
+      "property": "og:title",
+      "content": "Projects | Artifactory"
+    },
+    {
+      "property": "og:description",
+      "content": "Meet ArtiSense and AIFIELD: sensing research and photonic design tools, with current stages and evidence boundaries."
+    },
+    {
+      "property": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "property": "og:locale:alternate",
+      "content": "pl_PL"
+    },
+    {
+      "property": "og:url",
+      "content": "http://127.0.0.1:4511/en/projects/"
+    },
+    {
+      "property": "og:image",
+      "content": "http://127.0.0.1:4511/assets/share-en.svg"
+    },
+    {
+      "name": "twitter:card",
+      "content": "summary_large_image"
+    }
+  ],
+  "forms": [],
+  "images": [],
+  "viewport": {
+    "width": 390,
+    "height": 844,
+    "scrollWidth": 390
+  },
+  "overflowing": [
+    {
+      "tag": "TABLE",
+      "class": "",
+      "text": "Perspective\tArtiSense\tAIFIELD\nFocus\tSensing systems\tDesign & simulation tools\nIntended output\tA mini"
+    },
+    {
+      "tag": "THEAD",
+      "class": "",
+      "text": "Perspective\tArtiSense\tAIFIELD\n"
+    },
+    {
+      "tag": "TR",
+      "class": "",
+      "text": "Perspective\tArtiSense\tAIFIELD"
+    },
+    {
+      "tag": "TH",
+      "class": "",
+      "text": "AIFIELD"
+    },
+    {
+      "tag": "TBODY",
+      "class": "",
+      "text": "Focus\tSensing systems\tDesign & simulation tools\nIntended output\tA miniaturized chemical-sensing syst"
+    },
+    {
+      "tag": "TR",
+      "class": "",
+      "text": "Focus\tSensing systems\tDesign & simulation tools"
+    },
+    {
+      "tag": "TD",
+      "class": "",
+      "text": "Design & simulation tools"
+    },
+    {
+      "tag": "TR",
+      "class": "",
+      "text": "Intended output\tA miniaturized chemical-sensing system\tA photonic design and simulation workflow"
+    },
+    {
+      "tag": "TD",
+      "class": "",
+      "text": "A photonic design and simulation workflow"
+    },
+    {
+      "tag": "TR",
+      "class": "",
+      "text": "Stage in supplied material\tResearch & concept development\tDevelopment & internal demonstrations"
+    },
+    {
+      "tag": "TD",
+      "class": "",
+      "text": "Development & internal demonstrations"
+    },
+    {
+      "tag": "TR",
+      "class": "",
+      "text": "Evidence boundary\tDesign work does not validate sensing performance\tSimulation comparisons do not es"
+    },
+    {
+      "tag": "TD",
+      "class": "",
+      "text": "Simulation comparisons do not establish fabricated-device results"
+    }
+  ],
+  "axe": {
+    "violations": [
+      {
+        "id": "heading-order",
+        "impact": "moderate",
+        "tags": [
+          "cat.semantics",
+          "best-practice"
+        ],
+        "description": "Ensure the order of headings is semantically correct",
+        "help": "Heading levels should only increase by one",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/heading-order?application=playwright",
+        "nodes": [
+          {
+            "any": [
+              {
+                "id": "heading-order",
+                "data": null,
+                "relatedNodes": [],
+                "impact": "moderate",
+                "message": "Heading order invalid"
+              }
+            ],
+            "all": [],
+            "none": [],
+            "impact": "moderate",
+            "html": "<h3><a href=\"/en/projects/artisense/\">ArtiSense</a></h3>",
+            "target": [
+              "article:nth-child(1) > .project-card-content > h3"
+            ],
+            "failureSummary": "Fix any of the following:\n  Heading order invalid"
+          }
+        ]
+      },
+      {
+        "id": "region",
+        "impact": "moderate",
+        "tags": [
+          "cat.keyboard",
+          "best-practice",
+          "RGAAv4",
+          "RGAA-9.2.1"
+        ],
+        "description": "Ensure all page content is contained by landmarks",
+        "help": "All page content should be contained by landmarks",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/region?application=playwright",
+        "nodes": [
+          {
+            "any": [
+              {
+                "id": "region",
+                "data": {
+                  "isIframe": false
+                },
+                "relatedNodes": [],
+                "impact": "moderate",
+                "message": "Some page content is not contained by landmarks"
+              }
+            ],
+            "all": [],
+            "none": [],
+            "impact": "moderate",
+            "html": "<div class=\"preview-strip\"><div class=\"container\"><span><i aria-hidden=\"true\"></i>Local preview</span><span>Draft content · 9 October 2026</span></div></div>",
+            "target": [
+              ".preview-strip"
+            ],
+            "failureSummary": "Fix any of the following:\n  Some page content is not contained by landmarks"
+          }
+        ]
+      }
+    ],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "impact": "serious",
+        "nodeCount": 15
+      }
+    ],
+    "passes": 45
+  }
+}

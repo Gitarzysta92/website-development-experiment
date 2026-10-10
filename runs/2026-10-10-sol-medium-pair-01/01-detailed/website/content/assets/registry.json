@@ -1,0 +1,66 @@
+[
+  {
+    "id": "favicon",
+    "file": "public/favicon.svg",
+    "author": "local implementation",
+    "status": "concept draft",
+    "placement": "all routes",
+    "captions": {
+      "en": "Artifactory color mark",
+      "pl": "Znak kolorystyczny Artifactory"
+    },
+    "alts": {
+      "en": "Artifactory",
+      "pl": "Artifactory"
+    },
+    "publicationStatus": "unreviewed"
+  },
+  {
+    "id": "share",
+    "file": "public/media/share.svg",
+    "author": "local implementation",
+    "status": "concept draft",
+    "placement": "social metadata fallback",
+    "captions": {
+      "en": "Artifactory concept share graphic",
+      "pl": "Grafika poglądowa Artifactory"
+    },
+    "alts": {
+      "en": "Artifactory photonic sensing and design tools",
+      "pl": "Artifactory: czujniki fotoniczne i narzędzia projektowe"
+    },
+    "publicationStatus": "unreviewed"
+  },
+  {
+    "id": "sensing-diagram",
+    "file": "src/components/ui/Concept.astro",
+    "author": "local implementation",
+    "status": "explanatory concept",
+    "placement": "ArtiSense routes",
+    "captions": {
+      "en": "Original explanatory concept diagram. It is not a product image or measured result.",
+      "pl": "Oryginalny schemat objaśniający koncepcję. Nie przedstawia istniejącego produktu ani wyniku pomiaru."
+    },
+    "alts": {
+      "en": "Light, sample, response, interpretation",
+      "pl": "Światło, próbka, odpowiedź, interpretacja"
+    },
+    "publicationStatus": "unreviewed"
+  },
+  {
+    "id": "design-diagram",
+    "file": "src/components/ui/Concept.astro",
+    "author": "local implementation",
+    "status": "explanatory concept",
+    "placement": "AIFIELD routes",
+    "captions": {
+      "en": "Original explanatory concept diagram. It is not a product image or measured result.",
+      "pl": "Oryginalny schemat objaśniający koncepcję. Nie przedstawia istniejącego produktu ani wyniku pomiaru."
+    },
+    "alts": {
+      "en": "Design, model, simulate, review",
+      "pl": "Projekt, model, symulacja, ocena"
+    },
+    "publicationStatus": "unreviewed"
+  }
+]

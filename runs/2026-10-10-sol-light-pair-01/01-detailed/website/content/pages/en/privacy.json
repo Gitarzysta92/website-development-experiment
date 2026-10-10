@@ -1,0 +1,42 @@
+{
+  "id": "privacy",
+  "locale": "en",
+  "title": "Privacy in this local preview",
+  "lead": "This preview is intended for synthetic enquiries, not real customer data.",
+  "description": "Its local fixture receiver does not send email or connect to a provider. A production privacy notice still needs an assigned owner and approved facts.",
+  "eyebrow": "Artifactory",
+  "sections": [
+    {
+      "id": "focus",
+      "title": "Form handling",
+      "paragraphs": [
+        "A successful test request is retained only in process memory for up to 24 hours and disappears when the server restarts. The page does not put form text in a URL, cookie or browser storage."
+      ]
+    },
+    {
+      "id": "evidence",
+      "title": "Email alternative",
+      "paragraphs": [
+        "The email link opens your own mail application. Handling then depends on that application and the eventual mailbox operator; neither is verified in this preview."
+      ]
+    },
+    {
+      "id": "next",
+      "title": "No tracking in this build",
+      "paragraphs": [
+        "The local website includes no analytics or third-party font requests. Production delivery and retention policies require separate review."
+      ]
+    }
+  ],
+  "related": [
+    "home"
+  ],
+  "stage": "Local draft · source context October 2026",
+  "pageType": "company",
+  "sourceReferences": [
+    "HP-1.1 project-context 2026-10-09"
+  ],
+  "sourceRevision": "2026-10-09",
+  "editorialState": "draft",
+  "modifiedAt": "2026-10-10"
+}

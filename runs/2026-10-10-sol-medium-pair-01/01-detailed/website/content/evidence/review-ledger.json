@@ -1,0 +1,245 @@
+{
+  "about/en": {
+    "contentHash": "7a3233a007b1d6cfb1b3077b9336e3452af495f696e91ca582d8af51d1b05c67",
+    "factReview": "pending",
+    "languageReview": "pending",
+    "reviewedFactHash": null,
+    "reviewedLanguageHash": null
+  },
+  "aifield-ai/en": {
+    "contentHash": "6101a82305dcde98cd4a529044df77778e2382eb682823ea4d462c1c45cb82e3",
+    "factReview": "pending",
+    "languageReview": "pending",
+    "reviewedFactHash": null,
+    "reviewedLanguageHash": null
+  },
+  "aifield-design/en": {
+    "contentHash": "d45ffe5cd5518b9c5137673bf923d88bd6638262999663097a40bd735a5bb534",
+    "factReview": "pending",
+    "languageReview": "pending",
+    "reviewedFactHash": null,
+    "reviewedLanguageHash": null
+  },
+  "aifield-neural/en": {
+    "contentHash": "c1b8a691609e1ce263b42154a71e8bfa90761580717f530677fb504bfacb6bf8",
+    "factReview": "pending",
+    "languageReview": "pending",
+    "reviewedFactHash": null,
+    "reviewedLanguageHash": null
+  },
+  "aifield-validation/en": {
+    "contentHash": "67e33762b82dd434753c1232c077dcdf6407cf3f9b2b3b10f4d894c239a73d85",
+    "factReview": "pending",
+    "languageReview": "pending",
+    "reviewedFactHash": null,
+    "reviewedLanguageHash": null
+  },
+  "aifield/en": {
+    "contentHash": "d482821ea745e8dd79642ca0867fc0f934500ce9eb3c7c253b6494659bb9e669",
+    "factReview": "pending",
+    "languageReview": "pending",
+    "reviewedFactHash": null,
+    "reviewedLanguageHash": null
+  },
+  "approach/en": {
+    "contentHash": "ab46bc1edccc19a8124c6ecab503528a07c2e920b6f45cdec87986d4cb35cb6f",
+    "factReview": "pending",
+    "languageReview": "pending",
+    "reviewedFactHash": null,
+    "reviewedLanguageHash": null
+  },
+  "artisense-applications/en": {
+    "contentHash": "e329baa484d5cd45087f2421c40e8d3a883efbe9ec334a2d550617d11264ac12",
+    "factReview": "pending",
+    "languageReview": "pending",
+    "reviewedFactHash": null,
+    "reviewedLanguageHash": null
+  },
+  "artisense-technology/en": {
+    "contentHash": "fd4469e6cfa503e40b8ef78f7701c043194f6fc7e47e543feb9207d2b9fdfff5",
+    "factReview": "pending",
+    "languageReview": "pending",
+    "reviewedFactHash": null,
+    "reviewedLanguageHash": null
+  },
+  "artisense-validation/en": {
+    "contentHash": "bde1601801505cfb44da354687d235805e8705c857dd9b22dbe35ac0608f6262",
+    "factReview": "pending",
+    "languageReview": "pending",
+    "reviewedFactHash": null,
+    "reviewedLanguageHash": null
+  },
+  "artisense/en": {
+    "contentHash": "63c8d1364cd6adb30740a3c9326d26d6c46140d74646acd07c3c7db4cadc4701",
+    "factReview": "pending",
+    "languageReview": "pending",
+    "reviewedFactHash": null,
+    "reviewedLanguageHash": null
+  },
+  "contact/en": {
+    "contentHash": "a93225ba71013a4ed8fccebf20067e8bf11e059f87df4cb4263108076fb8c86e",
+    "factReview": "pending",
+    "languageReview": "pending",
+    "reviewedFactHash": null,
+    "reviewedLanguageHash": null
+  },
+  "home/en": {
+    "contentHash": "a5ded47d1f24ed385597e413b1bd72cfe9a320b55381ccd0618df860d87f2182",
+    "factReview": "pending",
+    "languageReview": "pending",
+    "reviewedFactHash": null,
+    "reviewedLanguageHash": null
+  },
+  "investors/en": {
+    "contentHash": "dd2b7a1e1d417cc2cca68a9290eec7a37740f1171c11c73f0749e919dfb2320c",
+    "factReview": "pending",
+    "languageReview": "pending",
+    "reviewedFactHash": null,
+    "reviewedLanguageHash": null
+  },
+  "partnerships/en": {
+    "contentHash": "f6192882a35f4059c320d5eddc7978ce0ab296bc1839a46bb4a1a9e9df9b4ac3",
+    "factReview": "pending",
+    "languageReview": "pending",
+    "reviewedFactHash": null,
+    "reviewedLanguageHash": null
+  },
+  "privacy/en": {
+    "contentHash": "14d5d682ff13066cd114828c8028af697e13416b615d6a65f6bb63c7e0b0f0b5",
+    "factReview": "pending",
+    "languageReview": "pending",
+    "reviewedFactHash": null,
+    "reviewedLanguageHash": null
+  },
+  "projects/en": {
+    "contentHash": "50271a72a75513e24b826dc6bb27a3f54ef459dceff4e2e86f1f95a91d5f4959",
+    "factReview": "pending",
+    "languageReview": "pending",
+    "reviewedFactHash": null,
+    "reviewedLanguageHash": null
+  },
+  "about/pl": {
+    "contentHash": "6345a7aff02fba9937fcce4ff481b29d0ecef3f164f0e954f08a2d5f12ea3058",
+    "factReview": "pending",
+    "languageReview": "pending",
+    "reviewedFactHash": null,
+    "reviewedLanguageHash": null
+  },
+  "aifield-ai/pl": {
+    "contentHash": "f523da2610fe8a63e0f882c364f638df3b90b912fe6a6c59fadbcacf159ce56e",
+    "factReview": "pending",
+    "languageReview": "pending",
+    "reviewedFactHash": null,
+    "reviewedLanguageHash": null
+  },
+  "aifield-design/pl": {
+    "contentHash": "60f5eb283da0e00dce6a0a8e4abfa4c92a496df197a017f1f35557700560e798",
+    "factReview": "pending",
+    "languageReview": "pending",
+    "reviewedFactHash": null,
+    "reviewedLanguageHash": null
+  },
+  "aifield-neural/pl": {
+    "contentHash": "458f5d23fc17060c4d313051e2c9533b49c5db71d439aff4a1502dbf802bcdfa",
+    "factReview": "pending",
+    "languageReview": "pending",
+    "reviewedFactHash": null,
+    "reviewedLanguageHash": null
+  },
+  "aifield-validation/pl": {
+    "contentHash": "adcc40a68de4154b79705bc116c9968562592aefab9bc4194d6e6f5b3a98d545",
+    "factReview": "pending",
+    "languageReview": "pending",
+    "reviewedFactHash": null,
+    "reviewedLanguageHash": null
+  },
+  "aifield/pl": {
+    "contentHash": "b9276cfaed0a6b5b42edaa8fc80abde2a0ac5ec5766231cc0564824b9cd14b45",
+    "factReview": "pending",
+    "languageReview": "pending",
+    "reviewedFactHash": null,
+    "reviewedLanguageHash": null
+  },
+  "approach/pl": {
+    "contentHash": "2e1cc36e8ad27fd8127a372a659100ff27ab2a0b5267df7008bf6a1e0235f4ca",
+    "factReview": "pending",
+    "languageReview": "pending",
+    "reviewedFactHash": null,
+    "reviewedLanguageHash": null
+  },
+  "artisense-applications/pl": {
+    "contentHash": "d079b3bde96c352c2b3c1fe7b04ced7b673ef658f862eaa3fc0c16c98e925209",
+    "factReview": "pending",
+    "languageReview": "pending",
+    "reviewedFactHash": null,
+    "reviewedLanguageHash": null
+  },
+  "artisense-technology/pl": {
+    "contentHash": "d20457a85358eb761df758e356c5a715bd8e93fc8cdfafc5fb9d8ffab98feafe",
+    "factReview": "pending",
+    "languageReview": "pending",
+    "reviewedFactHash": null,
+    "reviewedLanguageHash": null
+  },
+  "artisense-validation/pl": {
+    "contentHash": "1c10f6b3b0838bab0359e0c2ac8d423092f0f2a1671b97c11ef4b17609e53684",
+    "factReview": "pending",
+    "languageReview": "pending",
+    "reviewedFactHash": null,
+    "reviewedLanguageHash": null
+  },
+  "artisense/pl": {
+    "contentHash": "8a7d0b84477fdba9e4c23d99b071be386e1b0fc87b9b85e92a4d1d8ff931b1ef",
+    "factReview": "pending",
+    "languageReview": "pending",
+    "reviewedFactHash": null,
+    "reviewedLanguageHash": null
+  },
+  "contact/pl": {
+    "contentHash": "59cfbd161fc570930180617c8fbfa9e1e61eba93a7549311a211bb8cbe1c111b",
+    "factReview": "pending",
+    "languageReview": "pending",
+    "reviewedFactHash": null,
+    "reviewedLanguageHash": null
+  },
+  "home/pl": {
+    "contentHash": "a62d1e052fb522bcf45c66253d6392549de656d988296bb064a8879f8ddfbfab",
+    "factReview": "pending",
+    "languageReview": "pending",
+    "reviewedFactHash": null,
+    "reviewedLanguageHash": null
+  },
+  "investors/pl": {
+    "contentHash": "f6d144b75ae6074ed8f11a74aca0e0763dd87538b6549006ed76f680ba67705e",
+    "factReview": "pending",
+    "languageReview": "pending",
+    "reviewedFactHash": null,
+    "reviewedLanguageHash": null
+  },
+  "partnerships/pl": {
+    "contentHash": "f408020e7507cf12d3476d5c1f7e338478cb9bff532bd369968da27eed28faad",
+    "factReview": "pending",
+    "languageReview": "pending",
+    "reviewedFactHash": null,
+    "reviewedLanguageHash": null
+  },
+  "privacy/pl": {
+    "contentHash": "87edbd629efa0d4a60b282f7bad2a0470d467dbf1eb9a7ef4be6cf83191cbf41",
+    "factReview": "pending",
+    "languageReview": "pending",
+    "reviewedFactHash": null,
+    "reviewedLanguageHash": null
+  },
+  "projects/pl": {
+    "contentHash": "a274df290ff9c682cc980e3f51d8b1b9e54e7acbf66b5765ab76da8522575399",
+    "factReview": "pending",
+    "languageReview": "pending",
+    "reviewedFactHash": null,
+    "reviewedLanguageHash": null
+  },
+  "assets": {
+    "registryHash": "f4a1296524e449d65f40837b9cfe2eef99bbbbf0b177b573d92ce42079e479b2",
+    "assetReview": "pending",
+    "reviewedAssetHash": null
+  }
+}

@@ -1,0 +1,409 @@
+{
+  "id": "A-pl-artisense-desktop",
+  "label": "A",
+  "locale": "pl",
+  "pageId": "artisense",
+  "view": "desktop",
+  "url": "http://127.0.0.1:4501/pl/projekty/artisense/",
+  "status": 200,
+  "errors": [],
+  "title": "ArtiSense. Poznawać świat dzięki światłu. | Artifactory",
+  "language": "pl",
+  "h1": [
+    "ArtiSense. Poznawać świat dzięki światłu."
+  ],
+  "headings": [
+    {
+      "level": "H1",
+      "text": "ArtiSense. Poznawać świat dzięki światłu."
+    },
+    {
+      "level": "H2",
+      "text": "Mniejszy system. Wymagające zadanie pomiarowe."
+    },
+    {
+      "level": "H2",
+      "text": "Proponowany system w skrócie."
+    },
+    {
+      "level": "H2",
+      "text": "Co potwierdza obecny zakres prac."
+    },
+    {
+      "level": "H2",
+      "text": "Poznaj system. Następnie sprawdź dowody."
+    },
+    {
+      "level": "H2",
+      "text": "Fotoniczny moduł pomiarowy"
+    },
+    {
+      "level": "H3",
+      "text": "O module"
+    },
+    {
+      "level": "H3",
+      "text": "Fotonika"
+    },
+    {
+      "level": "H3",
+      "text": "Elektronika"
+    },
+    {
+      "level": "H3",
+      "text": "Technologie"
+    },
+    {
+      "level": "H2",
+      "text": "Przyjrzyjmy się temu razem."
+    },
+    {
+      "level": "H2",
+      "text": "Firma"
+    },
+    {
+      "level": "H2",
+      "text": "Projekty"
+    },
+    {
+      "level": "H2",
+      "text": "Porozmawiajmy"
+    }
+  ],
+  "text": "Przejdź do treści\nWersja lokalna · Badania w toku\na·\nartifactory\nProjekty\n⌄\nDla inwestorów\nJak pracujemy\nO nas\nEN\n↔\nPorozmawiajmy\n↗\nStrona główna\nProjekty\nArtiSense\n\nARTISENSE / PRZEGLĄD\n\nArtiSense. Poznawać świat dzięki światłu.\n\nKierunek badań nad pomiarem składu chemicznego: oświetlić próbkę, zarejestrować odpowiedź optyczną i sprawdzić, co może powiedzieć nam ten sygnał.\n\nProponowany system pomiarowy · badania\n\nArtiSense\n\nPrzegląd\nTechnologia\nZastosowania\nBadania i walidacja\n\nNa tej stronie\n\nMniejszy system. Wymagające zadanie pomiarowe.\nProponowany system w skrócie.\nCo potwierdza obecny zakres prac.\nPoznaj system. Następnie sprawdź dowody.\nARTISENSE\nŚWIATŁO → ODPOWIEDŹ → INTERPRETACJA\n↗\nSchemat koncepcyjny proponowanego systemu. Nie przedstawia wykonanego urządzenia ani danych pomiarowych.\nMniejszy system. Wymagające zadanie pomiarowe.\n\nArtiSense ma łączyć pomiary fotoniczne z interpretacją sygnału w zminiaturyzowanym systemie. Pomiary nieinwazyjne i formy ubieralne to zamierzone kierunki, a nie wykazane możliwości produktu.\n\nGłówne wyzwanie nie polega jedynie na wykryciu światła. Trzeba pokazać, że odpowiedź wiarygodnie odpowiada badanej substancji w warunkach używania urządzenia. Docelowi użytkownicy i użyteczny zakres pracy muszą wynikać z tych dowodów.\n\nZastosowania\n↗\nProponowany system w skrócie.\n\nOpisana architektura łączy oświetlenie widzialne lub podczerwone, oddziaływanie z próbką, detekcję odpowiedzi optycznej i porównanie z odniesieniem. Interpretacja miałaby przekształcać informację widmową w znaczący pomiar.\n\nW proponowanej architekturze pojawia się przeprogramowywalny analogowy procesor neuromorficzny, oprogramowanie i łączność. Sam opis nie dowodzi wykonania i integracji każdego bloku. Analogowy procesor interpretacji jest czymś innym niż badania neuronowego pola optycznego w AIFIELD.\n\nTechnologia\n↗\nCo potwierdza obecny zakres prac.\n\nDostarczone podsumowanie badań opisuje wykonalność optyczną i projektowanie fotonicznego chipu związanego z glukozą. AIFIELD stanowi kontekst dla wyjaśnienia tych działań projektowych.\n\nProjekt i symulacja mogą pomóc wybrać kolejny eksperyment. Nie potwierdzają parametrów wykonanego urządzenia, dokładności pomiaru glukozy, wyników klinicznych ani gotowego rozwiązania ubieralnego.\n\nObszar\tZakres i ograniczenia\nDostępna podstawa\tPrace nad wykonalnością optyczną i projektem chipu opisane w podsumowaniu badań.\nOtwarta walidacja\tKontrolowana odpowiedź fizyczna, powtarzalność i oddzielenie wpływów zakłócających.\nKolejny użyteczny krok\tOkreślenie mierzalnej hipotezy i porównania odniesienia potrzebnego do jej sprawdzenia.\nBadania i walidacja\n↗\nPrzykłady i walidacja\n↗\nPoznaj system. Następnie sprawdź dowody.\n\nTechnologia wyjaśnia proponowany tor sygnałowy. Zastosowania opisują zamierzony kontekst pomiaru. Badania i walidacja oddzielają to, co wynika z projektu, od potrzebnych eksperymentów.\n\nRozmowy inwestycyjne dotyczą Artifactory jako firmy. Potencjalna współpraca techniczna może skupić się na charakteryzacji optycznej, integracji lub precyzyjnie określonym badaniu walidacyjnym.\n\nTechnologia\n↗\nZastosowania\n↗\nBadania i walidacja\n↗\nDla inwestorów\n↗\nWspółpraca\n↗\nFotoniczny moduł pomiarowy\nO module\n\nArtiSense opisuje proponowany system pomiarów chemicznych, łączący oddziaływanie światła z interpretacją sygnałów.\n\nPoznaj proponowaną technologię ↗\nFotonika\n\nWidzialne lub podczerwone światło miałoby oddziaływać z próbką. Odpowiedź optyczna wymaga porównania z odniesieniem.\n\nPoznaj proponowaną technologię ↗\nElektronika\n\nProponowany analogowy procesor neuromorficzny jest blokiem interpretacji sygnału; nie należy utożsamiać go z neuronowym solwerem AIFIELD.\n\nPoznaj proponowaną technologię ↗\nTechnologie\n\nArchitektura obejmuje elementy optyczne, detekcję i przetwarzanie. Ich opis nie potwierdza wykonania zintegrowanego urządzenia.\n\nPoznaj proponowaną technologię ↗\n\nZACZNIJMY OD PYTANIA\n\nPrzyjrzyjmy się temu razem.\nPorozmawiajmy o inwestycji\n↗\nMożliwości współpracy ↗\nartifactory·\n\nTechnologie pomiarowe i narzędzia do projektowania systemów fotonicznych.\n\ninfo@artifactory.tech\n↗\nFirma\nStrona główna\nProjekty\nDla inwestorów\nJak pracujemy\nO nas\nProjekty\nArtiSense\nAIFIELD\nPorozmawiajmy\nWspółpraca\nKontakt\nPolityka prywatności\nArtifactory\nŚwiatło otwiera nowe możliwości.",
+  "links": [
+    {
+      "text": "Przejdź do treści",
+      "href": "#main",
+      "lang": ""
+    },
+    {
+      "text": "a·\nartifactory",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/pl/projekty/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/pl/projekty/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/pl/projekty/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Dla inwestorów",
+      "href": "/pl/inwestorzy/",
+      "lang": ""
+    },
+    {
+      "text": "Jak pracujemy",
+      "href": "/pl/jak-pracujemy/",
+      "lang": ""
+    },
+    {
+      "text": "O nas",
+      "href": "/pl/o-nas/",
+      "lang": ""
+    },
+    {
+      "text": "Współpraca",
+      "href": "/pl/wspolpraca/",
+      "lang": ""
+    },
+    {
+      "text": "Kontakt",
+      "href": "/pl/kontakt/",
+      "lang": ""
+    },
+    {
+      "text": "EN\n↔",
+      "href": "http://127.0.0.1:4501/en/projects/artisense/",
+      "lang": "en"
+    },
+    {
+      "text": "Porozmawiajmy\n↗",
+      "href": "/pl/kontakt/?intent=investment",
+      "lang": ""
+    },
+    {
+      "text": "Strona główna",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "Projekty",
+      "href": "/pl/projekty/",
+      "lang": ""
+    },
+    {
+      "text": "Przegląd",
+      "href": "/pl/projekty/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "Technologia",
+      "href": "/pl/projekty/artisense/technologia/",
+      "lang": ""
+    },
+    {
+      "text": "Zastosowania",
+      "href": "/pl/projekty/artisense/zastosowania/",
+      "lang": ""
+    },
+    {
+      "text": "Badania i walidacja",
+      "href": "/pl/projekty/artisense/badania-walidacja/",
+      "lang": ""
+    },
+    {
+      "text": "Mniejszy system. Wymagające zadanie pomiarowe.",
+      "href": "#purpose",
+      "lang": ""
+    },
+    {
+      "text": "Proponowany system w skrócie.",
+      "href": "#system",
+      "lang": ""
+    },
+    {
+      "text": "Co potwierdza obecny zakres prac.",
+      "href": "#stage",
+      "lang": ""
+    },
+    {
+      "text": "Poznaj system. Następnie sprawdź dowody.",
+      "href": "#next",
+      "lang": ""
+    },
+    {
+      "text": "Zastosowania\n↗",
+      "href": "/pl/projekty/artisense/zastosowania/",
+      "lang": ""
+    },
+    {
+      "text": "Technologia\n↗",
+      "href": "/pl/projekty/artisense/technologia/",
+      "lang": ""
+    },
+    {
+      "text": "Badania i walidacja\n↗",
+      "href": "/pl/projekty/artisense/badania-walidacja/",
+      "lang": ""
+    },
+    {
+      "text": "Przykłady i walidacja\n↗",
+      "href": "/pl/projekty/aifield/przyklady-walidacja/",
+      "lang": ""
+    },
+    {
+      "text": "Technologia\n↗",
+      "href": "/pl/projekty/artisense/technologia/",
+      "lang": ""
+    },
+    {
+      "text": "Zastosowania\n↗",
+      "href": "/pl/projekty/artisense/zastosowania/",
+      "lang": ""
+    },
+    {
+      "text": "Badania i walidacja\n↗",
+      "href": "/pl/projekty/artisense/badania-walidacja/",
+      "lang": ""
+    },
+    {
+      "text": "Dla inwestorów\n↗",
+      "href": "/pl/inwestorzy/",
+      "lang": ""
+    },
+    {
+      "text": "Współpraca\n↗",
+      "href": "/pl/wspolpraca/",
+      "lang": ""
+    },
+    {
+      "text": "Poznaj proponowaną technologię ↗",
+      "href": "/pl/projekty/artisense/technologia/",
+      "lang": ""
+    },
+    {
+      "text": "Poznaj proponowaną technologię ↗",
+      "href": "/pl/projekty/artisense/technologia/",
+      "lang": ""
+    },
+    {
+      "text": "Poznaj proponowaną technologię ↗",
+      "href": "/pl/projekty/artisense/technologia/",
+      "lang": ""
+    },
+    {
+      "text": "Poznaj proponowaną technologię ↗",
+      "href": "/pl/projekty/artisense/technologia/",
+      "lang": ""
+    },
+    {
+      "text": "Porozmawiajmy o inwestycji\n↗",
+      "href": "/pl/kontakt/?intent=investment&project=artisense",
+      "lang": ""
+    },
+    {
+      "text": "Możliwości współpracy ↗",
+      "href": "/pl/wspolpraca/",
+      "lang": ""
+    },
+    {
+      "text": "artifactory·",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "info@artifactory.tech\n↗",
+      "href": "mailto:info@artifactory.tech",
+      "lang": ""
+    },
+    {
+      "text": "Strona główna",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "Projekty",
+      "href": "/pl/projekty/",
+      "lang": ""
+    },
+    {
+      "text": "Dla inwestorów",
+      "href": "/pl/inwestorzy/",
+      "lang": ""
+    },
+    {
+      "text": "Jak pracujemy",
+      "href": "/pl/jak-pracujemy/",
+      "lang": ""
+    },
+    {
+      "text": "O nas",
+      "href": "/pl/o-nas/",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSense",
+      "href": "/pl/projekty/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELD",
+      "href": "/pl/projekty/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Współpraca",
+      "href": "/pl/wspolpraca/",
+      "lang": ""
+    },
+    {
+      "text": "Kontakt",
+      "href": "/pl/kontakt/",
+      "lang": ""
+    },
+    {
+      "text": "Polityka prywatności",
+      "href": "/pl/prywatnosc/",
+      "lang": ""
+    }
+  ],
+  "metadata": [
+    {
+      "name": "viewport",
+      "content": "width=device-width, initial-scale=1"
+    },
+    {
+      "name": "description",
+      "content": "Poznaj ArtiSense, proponowany miniaturowy system fotonicznych pomiarów chemicznych: architekturę, projekt glukozowy, ograniczenia i dalszą walidację."
+    },
+    {
+      "name": "robots",
+      "content": "noindex, nofollow"
+    },
+    {
+      "rel": "canonical",
+      "href": "http://127.0.0.1:4501/pl/projekty/artisense/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "en",
+      "href": "http://127.0.0.1:4501/en/projects/artisense/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "pl",
+      "href": "http://127.0.0.1:4501/pl/projekty/artisense/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "x-default",
+      "href": "http://127.0.0.1:4501/en/projects/artisense/"
+    },
+    {
+      "property": "og:type",
+      "content": "website"
+    },
+    {
+      "property": "og:site_name",
+      "content": "Artifactory"
+    },
+    {
+      "property": "og:title",
+      "content": "ArtiSense. Poznawać świat dzięki światłu. | Artifactory"
+    },
+    {
+      "property": "og:description",
+      "content": "Poznaj ArtiSense, proponowany miniaturowy system fotonicznych pomiarów chemicznych: architekturę, projekt glukozowy, ograniczenia i dalszą walidację."
+    },
+    {
+      "property": "og:url",
+      "content": "http://127.0.0.1:4501/pl/projekty/artisense/"
+    },
+    {
+      "property": "og:locale",
+      "content": "pl_PL"
+    },
+    {
+      "property": "og:image",
+      "content": "http://127.0.0.1:4501/brand/share-v1.svg"
+    },
+    {
+      "property": "og:image:width",
+      "content": "1200"
+    },
+    {
+      "property": "og:image:height",
+      "content": "630"
+    }
+  ],
+  "forms": [],
+  "images": [],
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "scrollWidth": 1425
+  },
+  "overflowing": [],
+  "axe": {
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "impact": "serious",
+        "nodeCount": 3
+      }
+    ],
+    "passes": 45
+  }
+}

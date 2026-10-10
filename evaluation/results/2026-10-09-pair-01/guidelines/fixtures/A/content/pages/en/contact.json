@@ -1,0 +1,37 @@
+{
+  "id": "contact",
+  "locale": "en",
+  "type": "contact",
+  "title": "Let’s start a conversation.",
+  "description": "Discuss an investment in Artifactory, a research partnership or an AIFIELD demonstration. This local form accepts synthetic test enquiries only.",
+  "eyebrow": "CONTACT",
+  "lead": "Tell us which question you are exploring. Investment conversations concern Artifactory as a company; project and partnership discussions can start with a specific technical question.",
+  "sections": [
+    {
+      "id": "next",
+      "title": "A useful starting point",
+      "paragraphs": [
+        "Choose an enquiry type and, if relevant, a project. For an investment discussion, describe the information you would like to assess. For a partnership or demo, outline the engineering question and the evidence you need.",
+        "This preview is for testing the website. Use invented example details in the form, not personal, financial or confidential information. AIFIELD demo enquiries request a conversation; they do not grant immediate product access."
+      ]
+    }
+  ],
+  "relatedIds": [
+    "privacy",
+    "projects"
+  ],
+  "project": null,
+  "sourceReferences": [
+    "HP-1.1/project-context",
+    "SM-0.3/contact"
+  ],
+  "sourceRevision": "2026-10-09 (AIFIELD snapshot: September 2026)",
+  "editorialState": "published",
+  "modifiedAt": "2026-10-09T21:00:00.000Z",
+  "reviews": {
+    "facts": "5e7d295816ef5860e0a4ed49a279a7c9aef15072837d284d3c0272f5db9f554d",
+    "language": "5e7d295816ef5860e0a4ed49a279a7c9aef15072837d284d3c0272f5db9f554d",
+    "assets": "5e7d295816ef5860e0a4ed49a279a7c9aef15072837d284d3c0272f5db9f554d"
+  },
+  "privateNotes": "Locally authored from supplied summary. Factual, translation and asset owner review pending. Original PDFs were not supplied."
+}

@@ -1,0 +1,42 @@
+{
+  "id": "contact",
+  "locale": "pl",
+  "title": "Rozpocznij rozmowę",
+  "lead": "Wyślij zapytanie inwestycyjne, o współpracę lub demo w lokalnym podglądzie.",
+  "description": "Formularz tworzy wyłącznie lokalne potwierdzenie testowe. Nie wysyła wiadomości e-mail.",
+  "eyebrow": "Artifactory",
+  "sections": [
+    {
+      "id": "focus",
+      "title": "Zanim napiszesz",
+      "paragraphs": [
+        "Wybierz temat i zadaj krótkie pytanie. Nie wpisuj do podglądu danych zdrowotnych ani poufnych informacji."
+      ]
+    },
+    {
+      "id": "evidence",
+      "title": "Alternatywa e-mail",
+      "paragraphs": [
+        "Możesz użyć własnego klienta poczty: info@artifactory.tech. To adres wskazany w materiałach, jeszcze niezweryfikowany przez operatora."
+      ]
+    },
+    {
+      "id": "next",
+      "title": "Działanie podglądu",
+      "paragraphs": [
+        "Lokalny odbiornik przechowuje syntetyczne zapytania w pamięci najwyżej 24 godziny i usuwa je po restarcie."
+      ]
+    }
+  ],
+  "related": [
+    "home"
+  ],
+  "stage": "Local draft · source context October 2026",
+  "pageType": "company",
+  "sourceReferences": [
+    "HP-1.1 project-context 2026-10-09"
+  ],
+  "sourceRevision": "2026-10-09",
+  "editorialState": "draft",
+  "modifiedAt": "2026-10-10"
+}

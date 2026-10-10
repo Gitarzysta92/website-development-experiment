@@ -1,0 +1,43 @@
+{
+  "id": "aifield-validation",
+  "locale": "pl",
+  "title": "Przykłady pokazują metodę, walidacja bada jej granice",
+  "description": "Wewnętrzny przykład projektu układu fotonicznego dla glukozy pokazuje sposób pracy z AIFIELD. Dostępne podsumowanie wspomina też o wewnętrznych porównaniach, lecz nie zawiera gotowego do publikacji testu porównawczego ani pomiaru wykonanego układu.",
+  "eyebrow": "AIFIELD",
+  "lead": "Wewnętrzny przykład projektu układu fotonicznego dla glukozy pokazuje sposób pracy z AIFIELD. Dostępne podsumowanie wspomina też o wewnętrznych porównaniach, lecz nie zawiera gotowego do publikacji testu porównawczego ani pomiaru wykonanego układu.",
+  "sections": [
+    {
+      "id": "section-1",
+      "heading": "Pytanie projektowe w praktyce",
+      "body": [
+        "Przykład zaczyna się od celu pomiarowego, po czym obejmuje geometrię elementów, założenia technologiczne i symulowane zachowanie światła. Wynikiem są dane projektowe i symulacyjne. ArtiSense nadal wymaga osobnej walidacji sprzętu i pomiaru."
+      ]
+    },
+    {
+      "id": "section-2",
+      "heading": "Jak czytać porównanie",
+      "body": [
+        "Rzetelne porównanie nazywa metodę odniesienia, geometrię wejściową, warunki brzegowe, miarę dokładności, czas i sprzęt. Pokazuje udane oraz nieudane przypadki. W dostępnym podsumowaniu nie ma tych szczegółów i liczb, dlatego nie podajemy ilościowej deklaracji wydajności."
+      ]
+    },
+    {
+      "id": "section-3",
+      "heading": "Następny krok dowodowy",
+      "body": [
+        "Przyszły pakiet walidacyjny mógłby połączyć odtwarzalne pliki projektowe z wersjami symulatora, warunkami i pomiarami lub niezależnym odniesieniem. Wykonanie i pomiar laboratoryjny należy opisywać osobno od symulacji i od wykorzystania przez klientów."
+      ]
+    }
+  ],
+  "related": [
+    "aifield-design",
+    "artisense-validation",
+    "investors"
+  ],
+  "editorialState": "draft",
+  "sourceRevision": "HP-1.1; context 2026-10-09",
+  "modified": "2026-10-10",
+  "sourceRefs": [
+    "inputs/content/project-context.md (summary, 2026-10-09)",
+    "inputs/docs/sitemap.md (SM-0.3)"
+  ]
+}

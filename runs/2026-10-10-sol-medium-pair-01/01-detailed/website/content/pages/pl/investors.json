@@ -1,0 +1,43 @@
+{
+  "id": "investors",
+  "locale": "pl",
+  "title": "Możliwość inwestycji w firmę wymagająca oceny",
+  "description": "Artifactory łączy cel związany z czujnikiem i narzędzia do projektowania fotoniki. Rozmowa inwestycyjna powinna uwzględniać różny etap, dostępne podstawy i ryzyka ArtiSense oraz AIFIELD przed oceną firmy jako całości.",
+  "eyebrow": "Artifactory",
+  "lead": "Artifactory łączy cel związany z czujnikiem i narzędzia do projektowania fotoniki. Rozmowa inwestycyjna powinna uwzględniać różny etap, dostępne podstawy i ryzyka ArtiSense oraz AIFIELD przed oceną firmy jako całości.",
+  "sections": [
+    {
+      "id": "section-1",
+      "heading": "Stan opisanych prac",
+      "body": [
+        "Dostępne materiały pozwalają mówić o badaniach, projektowaniu, symulacjach i proponowanych architekturach. Nie potwierdzają obecnej rundy finansowania, przychodów, walidacji klinicznej, praw własności ani kwoty inwestycji. Wymaga to bezpośredniego potwierdzenia."
+      ]
+    },
+    {
+      "id": "section-2",
+      "heading": "Pytania, które warto zadać",
+      "body": [
+        "Dla ArtiSense kluczowym etapem jest powtarzalny pomiar i integracja. Dla AIFIELD: odtwarzalny opis możliwości narzędzia, ograniczeń i wartości dla użytkownika. W obu przypadkach firma powinna potwierdzić bieżące plany, zasoby i kamienie milowe."
+      ]
+    },
+    {
+      "id": "section-3",
+      "heading": "Rozpocznij konkretną rozmowę",
+      "body": [
+        "Zgłoszenie inwestycyjne może dotyczyć aktualnych danych, etapu i kolejnych celów całej firmy. W tej wersji formularz zapisuje jedynie lokalne zgłoszenie testowe; rzeczywisty kontakt wymaga zweryfikowanego kanału firmy."
+      ]
+    }
+  ],
+  "related": [
+    "artisense-validation",
+    "aifield-validation",
+    "about"
+  ],
+  "editorialState": "draft",
+  "sourceRevision": "HP-1.1; context 2026-10-09",
+  "modified": "2026-10-10",
+  "sourceRefs": [
+    "inputs/content/project-context.md (summary, 2026-10-09)",
+    "inputs/docs/sitemap.md (SM-0.3)"
+  ]
+}

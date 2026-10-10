@@ -1,0 +1,10 @@
+{
+  "command": "npm run build",
+  "cwd": "/Users/michal.lukasiewicz/Programming/website-development-experiment/evaluation/results/2026-10-09-pair-01/snapshots/B",
+  "exit_code": 0,
+  "elapsed_seconds": 0.158,
+  "node": "v24.21.0",
+  "npm": "11.19.0",
+  "log": "evidence/setup/B-build-confirmed.log",
+  "reason": "Persist successful build evidence after evaluator cache/overlapping-install setup issue; original failed log retained. No source repair."
+}

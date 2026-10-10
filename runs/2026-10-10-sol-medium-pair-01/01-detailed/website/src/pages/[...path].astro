@@ -1,0 +1,10 @@
+---
+import Shell from '../layouts/Shell.astro';
+import Page from '../templates/Page.astro';
+import { routes, type Locale } from '../navigation';
+import { publicPage } from '../content';
+export function getStaticPaths(){return routes.flatMap(r=>(['en','pl'] as Locale[]).map(locale=>({params:{path:r.paths[locale].slice(1,-1)},props:{id:r.id,locale}})));}
+const {id,locale}=Astro.props;
+const page=publicPage(id,locale);
+---
+<Shell id={id} locale={locale} page={page}><Page id={id} locale={locale} page={page}/></Shell>

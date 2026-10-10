@@ -1,0 +1,17 @@
+Artifactory local preview: http://127.0.0.1:4611/en/
+Serving the built website.
+node:internal/fs/promises:1345
+  return new FileHandle(await PromisePrototypeThen(
+                        ^
+
+Error: ENOENT: no such file or directory, open '/Users/michal.lukasiewicz/Programming/website-development-experiment/evaluation/results/2026-10-09-pair-01/guidelines/fixtures/pass-02/B/dist/en-404.html'
+    at async open (node:internal/fs/promises:1345:25)
+    at async readFile (node:internal/fs/promises:1996:14)
+    at async Server.<anonymous> (file:///Users/michal.lukasiewicz/Programming/website-development-experiment/evaluation/results/2026-10-09-pair-01/guidelines/fixtures/pass-02/B/server.mjs:125:18) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/michal.lukasiewicz/Programming/website-development-experiment/evaluation/results/2026-10-09-pair-01/guidelines/fixtures/pass-02/B/dist/en-404.html'
+}
+
+Node.js v24.21.0

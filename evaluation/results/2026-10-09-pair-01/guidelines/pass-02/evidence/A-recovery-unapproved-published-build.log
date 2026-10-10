@@ -1,0 +1,18 @@
+
+ RUN  v5.0.3 /Users/michal.lukasiewicz/Programming/website-development-experiment/evaluation/results/2026-10-09-pair-01/guidelines/fixtures/pass-02/A
+
+
+ Test Files  1 passed (1)
+      Tests  7 passed (7)
+   Start at  10:45:53
+   Duration  189ms (tests 49%, transform 25%, import 25%, worker 1%)
+
+file:///Users/michal.lukasiewicz/Programming/website-development-experiment/evaluation/results/2026-10-09-pair-01/guidelines/fixtures/pass-02/A/src/content/publication.mjs:13
+    throw new Error('Publication blocked: reviewed facts, both languages, assets, HTTPS origin, privacy and receiver required');
+          ^
+
+Error: Publication blocked: reviewed facts, both languages, assets, HTTPS origin, privacy and receiver required
+    at assertPublication (file:///Users/michal.lukasiewicz/Programming/website-development-experiment/evaluation/results/2026-10-09-pair-01/guidelines/fixtures/pass-02/A/src/content/publication.mjs:13:11)
+    at file:///Users/michal.lukasiewicz/Programming/website-development-experiment/evaluation/results/2026-10-09-pair-01/guidelines/fixtures/pass-02/A/scripts/check-content.mjs:12:2
+
+Node.js v24.21.0

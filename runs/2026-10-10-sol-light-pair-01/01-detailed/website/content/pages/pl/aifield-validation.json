@@ -1,0 +1,47 @@
+{
+  "id": "aifield-validation",
+  "locale": "pl",
+  "title": "Przykłady wymagają kontekstu",
+  "lead": "Przykład projektu i porównanie wewnętrzne pomagają ocenić pracę, gdy znamy dane wejściowe, metodę odniesienia i niepowodzenia.",
+  "description": "Materiał z września 2026 nie uzasadnia publicznej liczby wydajności ani twierdzenia o walidacji wykonanego układu.",
+  "eyebrow": "AIFIELD",
+  "sections": [
+    {
+      "id": "focus",
+      "title": "Przykład detekcji",
+      "paragraphs": [
+        "Projekt układu fotonicznego może pokazać użycie geometrii i symulacji. Sam nie potwierdza pomiaru glukozy."
+      ]
+    },
+    {
+      "id": "evidence",
+      "title": "Jak czytać porównanie",
+      "paragraphs": [
+        "Wiarygodny test zapisuje wersję, solwer odniesienia, przypadki, warunki brzegowe, sukcesy, niepowodzenia i koszt obliczeń."
+      ]
+    },
+    {
+      "id": "next",
+      "title": "Dalsze dowody",
+      "paragraphs": [
+        "Powtarzalne studia przypadków i wyniki możliwe do niezależnego sprawdzenia pomogłyby ocenić użyteczność narzędzi."
+      ]
+    }
+  ],
+  "related": [
+    "aifield",
+    "aifield-design",
+    "aifield-ai",
+    "aifield-neural",
+    "aifield-validation",
+    "partnerships"
+  ],
+  "stage": "Local draft · source context October 2026",
+  "pageType": "project",
+  "sourceReferences": [
+    "HP-1.1 project-context 2026-10-09"
+  ],
+  "sourceRevision": "2026-10-09",
+  "editorialState": "draft",
+  "modifiedAt": "2026-10-10"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "privacy",
+  "locale": "en",
+  "title": "Privacy in this local preview",
+  "description": "This draft explains the behavior of the local test website. A final production privacy notice needs a verified controller, delivery arrangement and legal review before publication.",
+  "eyebrow": "Artifactory",
+  "lead": "This draft explains the behavior of the local test website. A final production privacy notice needs a verified controller, delivery arrangement and legal review before publication.",
+  "sections": [
+    {
+      "id": "section-1",
+      "heading": "What the form does",
+      "body": [
+        "The form sends a JSON request to this same local website. In fixture mode, a valid test enquiry is held in process memory with an ID; it is not emailed or transferred to an external service. Entries expire after 24 hours and all disappear when the process restarts."
+      ]
+    },
+    {
+      "id": "section-2",
+      "heading": "What is not stored in the browser",
+      "body": [
+        "The form keeps entered values in page memory while the page is open. It does not put them in URLs, cookies, local storage or session storage. The website adds no analytics or tracking requests."
+      ]
+    },
+    {
+      "id": "section-3",
+      "heading": "Using the email alternative",
+      "body": [
+        "The visible email link opens your own mail application. If you use it, handling follows your mail provider and the recipient mailbox, not this local fixture. The candidate address has not been verified for production publication."
+      ]
+    }
+  ],
+  "related": [
+    "contact"
+  ],
+  "editorialState": "draft",
+  "sourceRevision": "HP-1.1; context 2026-10-09",
+  "modified": "2026-10-10",
+  "sourceRefs": [
+    "inputs/content/project-context.md (summary, 2026-10-09)",
+    "inputs/docs/sitemap.md (SM-0.3)"
+  ]
+}

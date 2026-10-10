@@ -1,0 +1,319 @@
+{
+  "id": "A-pl-about-desktop",
+  "label": "A",
+  "locale": "pl",
+  "pageId": "about",
+  "view": "desktop",
+  "url": "http://127.0.0.1:4501/pl/o-nas/",
+  "status": 200,
+  "errors": [],
+  "title": "Artifactory. Pomiary i inżynieria fotoniczna. | Artifactory",
+  "language": "pl",
+  "h1": [
+    "Artifactory. Pomiary i inżynieria fotoniczna."
+  ],
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Artifactory. Pomiary i inżynieria fotoniczna."
+    },
+    {
+      "level": "H2",
+      "text": "Firma przedstawiona przez swoje prace."
+    },
+    {
+      "level": "H2",
+      "text": "Powiązane prace, odrębne odpowiedzialności."
+    },
+    {
+      "level": "H2",
+      "text": "Czytaj twierdzenie razem z datą."
+    },
+    {
+      "level": "H2",
+      "text": "Wybierz odpowiednią rozmowę."
+    },
+    {
+      "level": "H2",
+      "text": "Zacznijmy od konkretnej rozmowy."
+    },
+    {
+      "level": "H2",
+      "text": "Firma"
+    },
+    {
+      "level": "H2",
+      "text": "Projekty"
+    },
+    {
+      "level": "H2",
+      "text": "Porozmawiajmy"
+    }
+  ],
+  "text": "Przejdź do treści\nWersja lokalna · Badania w toku\na·\nartifactory\nProjekty\n⌄\nDla inwestorów\nJak pracujemy\nO nas\nEN\n↔\nPorozmawiajmy\n↗\nStrona główna\nO nas\n\nARTIFACTORY / FIRMA\n\nArtifactory. Pomiary i inżynieria fotoniczna.\n\nPoznaj prace przez pytania, na które odpowiadają: jak mierzyć za pomocą światła i jak projektować systemy, które to umożliwiają.\n\nNa tej stronie\n\nFirma przedstawiona przez swoje prace.\nPowiązane prace, odrębne odpowiedzialności.\nCzytaj twierdzenie razem z datą.\nWybierz odpowiednią rozmowę.\n\nArtifactory\n\nArtiSense\n\nCel pomiarowy\n\nAIFIELD\n\nNarzędzia projektowania\n\nKoncepcyjne powiązanie prac. Etap i dowody każdego projektu wymagają osobnej oceny.\nFirma przedstawiona przez swoje prace.\n\nArtifactory jest firmą stojącą za dwoma prezentowanymi tu projektami. Proponowane pozycjonowanie łączy technologię pomiarową z narzędziami do projektowania systemów fotonicznych. Pozwala inwestorom i potencjalnym współpracownikom ocenić prace na poziomie firmy.\n\nStrona koncentruje się na ArtiSense i AIFIELD. Ich opisy przedstawiają różne cele, etapy i granice dowodów, a nie jeden połączony produkt.\n\nPowiązane prace, odrębne odpowiedzialności.\n\nArtiSense rozwija koncepcję zminiaturyzowanego pomiaru składu chemicznego z wykorzystaniem fotoniki i interpretacji sygnałów. AIFIELD dotyczy projektowania i symulacji fotoniki oraz odrębnego kierunku badań neuronowych modeli pola.\n\nWewnętrzny przykład związany z glukozą łączy zamierzony cel pomiarowy z procesem inżynierskim. Powiązanie nie zmienia symulowanego projektu w zwalidowany czujnik, a neuronowe elementy obu projektów nie są tą samą technologią.\n\nProjekty\n↗\nCzytaj twierdzenie razem z datą.\n\nDostarczony kontekst opisuje prace nad wykonalnością optyczną i projektem chipu ArtiSense. Opisy możliwości AIFIELD odnoszą się do stanu z września 2026. Stanowią podstawę rozmowy technicznej, a bieżąca dostępność i dalsza walidacja wymagają potwierdzenia.\n\nStrona o podejściu wyjaśnia rozróżnienie koncepcji, symulacji i dowodów fizycznych. Strony walidacji zachowują ograniczenia przy opisywanych pracach.\n\nJak pracujemy\n↗\nWybierz odpowiednią rozmowę.\n\nInwestorzy mogą zacząć od propozycji firmy i otwartych pytań rozwojowych. Potencjalni współpracownicy mogą wyjść od tematu pomiaru, projektowania lub oceny. Do pierwszego zapytania wystarczy niepoufne wprowadzenie.\n\nNa stronie kontaktowej opisz zainteresowanie i preferowany kontekst. Dostępny jest edytowalny formularz oraz publiczny adres e-mail.\n\nDla inwestorów\n↗\nWspółpraca\n↗\nKontakt\n↗\nZacznijmy od konkretnej rozmowy.\nPorozmawiajmy o inwestycji\n↗\nartifactory·\n\nTechnologie pomiarowe i narzędzia do projektowania systemów fotonicznych.\n\ninfo@artifactory.tech\n↗\nFirma\nStrona główna\nProjekty\nDla inwestorów\nJak pracujemy\nO nas\nProjekty\nArtiSense\nAIFIELD\nPorozmawiajmy\nWspółpraca\nKontakt\nPolityka prywatności\nArtifactory\nŚwiatło otwiera nowe możliwości.",
+  "links": [
+    {
+      "text": "Przejdź do treści",
+      "href": "#main",
+      "lang": ""
+    },
+    {
+      "text": "a·\nartifactory",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/pl/projekty/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/pl/projekty/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/pl/projekty/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Dla inwestorów",
+      "href": "/pl/inwestorzy/",
+      "lang": ""
+    },
+    {
+      "text": "Jak pracujemy",
+      "href": "/pl/jak-pracujemy/",
+      "lang": ""
+    },
+    {
+      "text": "O nas",
+      "href": "/pl/o-nas/",
+      "lang": ""
+    },
+    {
+      "text": "Współpraca",
+      "href": "/pl/wspolpraca/",
+      "lang": ""
+    },
+    {
+      "text": "Kontakt",
+      "href": "/pl/kontakt/",
+      "lang": ""
+    },
+    {
+      "text": "EN\n↔",
+      "href": "http://127.0.0.1:4501/en/about/",
+      "lang": "en"
+    },
+    {
+      "text": "Porozmawiajmy\n↗",
+      "href": "/pl/kontakt/?intent=investment",
+      "lang": ""
+    },
+    {
+      "text": "Strona główna",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "Firma przedstawiona przez swoje prace.",
+      "href": "#focus",
+      "lang": ""
+    },
+    {
+      "text": "Powiązane prace, odrębne odpowiedzialności.",
+      "href": "#relationship",
+      "lang": ""
+    },
+    {
+      "text": "Czytaj twierdzenie razem z datą.",
+      "href": "#known",
+      "lang": ""
+    },
+    {
+      "text": "Wybierz odpowiednią rozmowę.",
+      "href": "#conversation",
+      "lang": ""
+    },
+    {
+      "text": "Projekty\n↗",
+      "href": "/pl/projekty/",
+      "lang": ""
+    },
+    {
+      "text": "Jak pracujemy\n↗",
+      "href": "/pl/jak-pracujemy/",
+      "lang": ""
+    },
+    {
+      "text": "Dla inwestorów\n↗",
+      "href": "/pl/inwestorzy/",
+      "lang": ""
+    },
+    {
+      "text": "Współpraca\n↗",
+      "href": "/pl/wspolpraca/",
+      "lang": ""
+    },
+    {
+      "text": "Kontakt\n↗",
+      "href": "/pl/kontakt/",
+      "lang": ""
+    },
+    {
+      "text": "Porozmawiajmy o inwestycji\n↗",
+      "href": "/pl/kontakt/?intent=investment",
+      "lang": ""
+    },
+    {
+      "text": "artifactory·",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "info@artifactory.tech\n↗",
+      "href": "mailto:info@artifactory.tech",
+      "lang": ""
+    },
+    {
+      "text": "Strona główna",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "Projekty",
+      "href": "/pl/projekty/",
+      "lang": ""
+    },
+    {
+      "text": "Dla inwestorów",
+      "href": "/pl/inwestorzy/",
+      "lang": ""
+    },
+    {
+      "text": "Jak pracujemy",
+      "href": "/pl/jak-pracujemy/",
+      "lang": ""
+    },
+    {
+      "text": "O nas",
+      "href": "/pl/o-nas/",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSense",
+      "href": "/pl/projekty/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELD",
+      "href": "/pl/projekty/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Współpraca",
+      "href": "/pl/wspolpraca/",
+      "lang": ""
+    },
+    {
+      "text": "Kontakt",
+      "href": "/pl/kontakt/",
+      "lang": ""
+    },
+    {
+      "text": "Polityka prywatności",
+      "href": "/pl/prywatnosc/",
+      "lang": ""
+    }
+  ],
+  "metadata": [
+    {
+      "name": "viewport",
+      "content": "width=device-width, initial-scale=1"
+    },
+    {
+      "name": "description",
+      "content": "Poznaj obszar działania firmy łączący badania pomiarowe ArtiSense i narzędzia projektowe AIFIELD oraz ścieżki oceny dowodów i współpracy."
+    },
+    {
+      "name": "robots",
+      "content": "noindex, nofollow"
+    },
+    {
+      "rel": "canonical",
+      "href": "http://127.0.0.1:4501/pl/o-nas/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "en",
+      "href": "http://127.0.0.1:4501/en/about/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "pl",
+      "href": "http://127.0.0.1:4501/pl/o-nas/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "x-default",
+      "href": "http://127.0.0.1:4501/en/about/"
+    },
+    {
+      "property": "og:type",
+      "content": "website"
+    },
+    {
+      "property": "og:site_name",
+      "content": "Artifactory"
+    },
+    {
+      "property": "og:title",
+      "content": "Artifactory. Pomiary i inżynieria fotoniczna. | Artifactory"
+    },
+    {
+      "property": "og:description",
+      "content": "Poznaj obszar działania firmy łączący badania pomiarowe ArtiSense i narzędzia projektowe AIFIELD oraz ścieżki oceny dowodów i współpracy."
+    },
+    {
+      "property": "og:url",
+      "content": "http://127.0.0.1:4501/pl/o-nas/"
+    },
+    {
+      "property": "og:locale",
+      "content": "pl_PL"
+    },
+    {
+      "property": "og:image",
+      "content": "http://127.0.0.1:4501/brand/share-v1.svg"
+    },
+    {
+      "property": "og:image:width",
+      "content": "1200"
+    },
+    {
+      "property": "og:image:height",
+      "content": "630"
+    }
+  ],
+  "forms": [],
+  "images": [],
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "scrollWidth": 1425
+  },
+  "overflowing": [],
+  "axe": {
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "impact": "serious",
+        "nodeCount": 7
+      }
+    ],
+    "passes": 39
+  }
+}

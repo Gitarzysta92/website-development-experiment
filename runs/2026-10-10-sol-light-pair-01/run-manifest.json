@@ -1,0 +1,591 @@
+{
+  "run_group": "2026-10-10-sol-light-pair-01",
+  "status": "both sessions running",
+  "created_at": "2026-10-10T09:04:51.159548+00:00",
+  "comparison_baseline": "2026-10-09-pair-01",
+  "models": {
+    "both": {
+      "model": "gpt-6-sol",
+      "reasoning_effort": "low",
+      "display_label": "Sol Light"
+    }
+  },
+  "launch_authorization": {
+    "instruction": "ok, dawaj teraz na sol-light",
+    "gateway_preflight_required": false
+  },
+  "telemetry": {
+    "status": "local recording verified for both Sol Light sessions; LiteLLM cost-log access unverified",
+    "collector": "../../../telemetry/collect.py",
+    "gateway_provider": "litellm-coolify",
+    "gateway_verification": "not requested; no gateway probe will be sent",
+    "cost": "unknown until gateway spend records are verified",
+    "exact_reasoning_duration": "unavailable; do not infer from wall time",
+    "collector_pid": 60931,
+    "last_verified_at": "2026-10-10T09:05:25.296813+00:00"
+  },
+  "sessions": [
+    {
+      "variant": "01-detailed",
+      "repository": "/Users/michal.lukasiewicz/Programming/website-development-experiment/runs/2026-10-10-sol-light-pair-01/01-detailed",
+      "website": "/Users/michal.lukasiewicz/Programming/website-development-experiment/runs/2026-10-10-sol-light-pair-01/01-detailed/website",
+      "entry_prompt": "/Users/michal.lukasiewicz/Programming/website-development-experiment/runs/2026-10-10-sol-light-pair-01/01-detailed/prompt.txt",
+      "entry_prompt_sha256": "7cf2c6e8c1a5909ca44782929d039133616093e6766d465984538cbdd04a4073",
+      "thread_id": "01a1250e-f206-7683-86d6-b2a6f1fca10c",
+      "host_id": "local",
+      "model": "gpt-6-sol",
+      "reasoning_effort": "low",
+      "status": "running",
+      "copied_files": [
+        {
+          "path": "README.md",
+          "sha256": "3ad3608a7c20fb375fbe2ed714bc8ed424a8a93193c9ed5ef3e252287f58191d"
+        },
+        {
+          "path": "compiled/README.md",
+          "sha256": "6a55db473dd5c0a6a5804523b211b76de147cd65c2f0bb71e2e40981c673eba3"
+        },
+        {
+          "path": "compiled/acceptance-report.md",
+          "sha256": "b549ae7ea13223600ee751626897d48145842a89694a335d0aac174e481856e6"
+        },
+        {
+          "path": "compiled/compilation-validation.json",
+          "sha256": "b19af7be5ee3448f6572a8cb9e7f281cd07f19c63e244b39da4a7509e3810951"
+        },
+        {
+          "path": "compiled/decisions.md",
+          "sha256": "40c4d7a0fc1de75bbb4c5e943a180f210b3d2b95fbc866b1815852515f2e5f08"
+        },
+        {
+          "path": "compiled/execution-record.md",
+          "sha256": "7735212dbe7cb8ffc35ece096dcc7bf953c05505e1809f10de9308a0d9966684"
+        },
+        {
+          "path": "compiled/implementation-plan.md",
+          "sha256": "913dc6f130167035eed7db0a7dbf16061277dfc716f2ac2aa25dd26819556362"
+        },
+        {
+          "path": "compiled/routes.json",
+          "sha256": "d28f34fbf7922cf6d9cae70e68f8e8bf1cbc19128c00d9d56dbf82b0bdfdd967"
+        },
+        {
+          "path": "compiled/rule-coverage.csv",
+          "sha256": "4cd654f988602123c96ebb127b5acc18189c2b66c87cf01d0972604c48d5f48a"
+        },
+        {
+          "path": "compiled/solution-structure.md",
+          "sha256": "d619a2a778c960e293968e892620f02e2f0b5a05805737039497f9da834efc17"
+        },
+        {
+          "path": "compiled/source-lock.json",
+          "sha256": "c9448c4d40e4943fbb900a697bece4f59250e36e25659c402168069ead2d5c1b"
+        },
+        {
+          "path": "compiled/specification.md",
+          "sha256": "b10a90ee35f7cbeb3811e353e1fd6adf6c7f85bad2547db06c01057897bdfbde"
+        },
+        {
+          "path": "compiled/toolchain.json",
+          "sha256": "ca7c67297c9f401c0106b57609163f0754e4f70f20a69639cf6867d869b8e925"
+        },
+        {
+          "path": "compiled/unit-manifest.json",
+          "sha256": "8c7d9e78e2822d8438f47fb42f6b79e4b7b652378c93ae6406a66b8d608e275a"
+        },
+        {
+          "path": "compiled/units/01-runtime-host.md",
+          "sha256": "18eaaf9db0329f42e37118efaec8cffe23b6073753aef12a66516ed3cc59aa67"
+        },
+        {
+          "path": "compiled/units/02-content-repository.md",
+          "sha256": "3d72875063a9ba44b9b9a3acfb106e7a0460cd78e0049d723a9bb93a59a7540d"
+        },
+        {
+          "path": "compiled/units/03-page-frame.md",
+          "sha256": "93d84cd9d379900e8b01273749986dd57c5bfd67a3b6d8bb62b1891ff75703a8"
+        },
+        {
+          "path": "compiled/units/04-site-header.md",
+          "sha256": "d58eeff21e2f40c4e7238e45d11c59f892110511e3e113c5104a6a2ede39ae92"
+        },
+        {
+          "path": "compiled/units/05-site-footer.md",
+          "sha256": "a1c2649523a002e6212b55a62300a34ff90e6617ed279073f20f96e1b7966379"
+        },
+        {
+          "path": "compiled/units/06-project-navigation.md",
+          "sha256": "2f6010edbfa8f0bb5a2f230ae680788210f8ce6f2d8d1da614fe94cd14e489fa"
+        },
+        {
+          "path": "compiled/units/07-enquiry-experience.md",
+          "sha256": "9312295ca8109ac43f379218f813bad40986e203a5d6364e8b68a220521cbb5c"
+        },
+        {
+          "path": "compiled/units/08-home.md",
+          "sha256": "b3474f6c8939a30bb62e0cb6f5002798e5feadada26dc278082d5702ba93c853"
+        },
+        {
+          "path": "compiled/units/09-projects.md",
+          "sha256": "77f82fee52a6d0a456025c13ce4790fe839f014b3ad2e5249523b8693d44cfc8"
+        },
+        {
+          "path": "compiled/units/10-artisense.md",
+          "sha256": "985e5bd1ec2ab703f6eb0bd563523a7873a8c0b9550886a02c8984a4376c8ff5"
+        },
+        {
+          "path": "compiled/units/11-artisense-technology.md",
+          "sha256": "39b7caaafcddb390a8f322847e9268509abb4bcfb500e39856dd63be3fc18ccc"
+        },
+        {
+          "path": "compiled/units/12-artisense-applications.md",
+          "sha256": "22a0e757356170b853eb2b7892a3032d3474b3c2e14308dffd790c91ce80d0b5"
+        },
+        {
+          "path": "compiled/units/13-artisense-validation.md",
+          "sha256": "2185825a1b71e23826c26346df778f44e05de96e99375c4c8f895062a6766cc8"
+        },
+        {
+          "path": "compiled/units/14-aifield.md",
+          "sha256": "f59f83ad080d4f5ca43a74fe3412e0a02f4fc91d041155608d3a7c39dc24c59f"
+        },
+        {
+          "path": "compiled/units/15-aifield-design.md",
+          "sha256": "d23bd845b94945221417f2628d362f6654d472b2c75d236c0af8e5c529f731b2"
+        },
+        {
+          "path": "compiled/units/16-aifield-ai.md",
+          "sha256": "4e9aaf89824342c8541339c66e93f82a362ed628c160c4c29262b7df6ba00780"
+        },
+        {
+          "path": "compiled/units/17-aifield-neural.md",
+          "sha256": "98f4d12917fe926cf8cf21ed4db2a27814e573dde04fd7007b148d731f98da7b"
+        },
+        {
+          "path": "compiled/units/18-aifield-validation.md",
+          "sha256": "7224c53ee03ae7dce8560fdc517a45a5765cb173b03ce24e9229c7a3e8d15269"
+        },
+        {
+          "path": "compiled/units/19-investors.md",
+          "sha256": "1785b28842b3049fd61b19d1ba0532cfe22731336689c68c7f8af24b17073474"
+        },
+        {
+          "path": "compiled/units/20-approach.md",
+          "sha256": "10bb335170f42f9c72b966986038fdb1cdbd911067a27a4efd5f839e381a77c7"
+        },
+        {
+          "path": "compiled/units/21-about.md",
+          "sha256": "cf446b03652a154ef0ba57c4a7ea62b2837f2aca2786662a654a8e94e56e0fb2"
+        },
+        {
+          "path": "compiled/units/22-partnerships.md",
+          "sha256": "6183c38d1e76143a3c9afd63dda7e7d74819d0c0109e63e5d8fcaffa0b6d892c"
+        },
+        {
+          "path": "compiled/units/23-route-recovery.md",
+          "sha256": "c6b23af59523317c529359ec8cd15cc214e7d417fc99cea8da7ab6dcd38a4768"
+        },
+        {
+          "path": "compiled/verification.md",
+          "sha256": "4ca37d1f0fe61ff83546042e91085d4205f785da429075f75d875900b94c7b2a"
+        },
+        {
+          "path": "inputs/README.md",
+          "sha256": "cc38ca941b584a0a98eb3bc02f6e4a2e9618c2574b4c05025a5f7b9a256f3c7d"
+        },
+        {
+          "path": "inputs/content/project-context.md",
+          "sha256": "7a4a95eb7f75f101b1092525d145dfd6227b3f97699d89ea650b8ba12b5f0ea1"
+        },
+        {
+          "path": "inputs/design-system/colors.css",
+          "sha256": "1079da91e7d89c913d97469854b891d99eab24eaa2c89fe88ae30214be0950c7"
+        },
+        {
+          "path": "inputs/design-system/palette.json",
+          "sha256": "cea423464d64f39ff20d938554084ff15f5c8a0b23a87945ad55c16d9bc60631"
+        },
+        {
+          "path": "inputs/design-system/sampled-colors.json",
+          "sha256": "b1a259671fa714a6e8bd18d35328c2a6aa6f2d63f3720455a4976b1dd8e304e2"
+        },
+        {
+          "path": "inputs/docs/decision-register.md",
+          "sha256": "6d284b49bceb5aa6c48e4cb22a3614dce48ba9ff46158d63ab71ac70369b9063"
+        },
+        {
+          "path": "inputs/docs/project-brief.md",
+          "sha256": "9e9d31258dc346c1f15d35c9bee550078cbfcd6e92b77930023f920806677f49"
+        },
+        {
+          "path": "inputs/docs/sitemap.md",
+          "sha256": "51ebf2f08804dcabe51fdfb2c423ece1b9d27c6252951939e5cc996d58cb83f1"
+        },
+        {
+          "path": "inputs/manifest.json",
+          "sha256": "327f5afc6d5aebb46d034018a9b95325c1a2faa11596b8ba67681b5a1c5fe0f7"
+        },
+        {
+          "path": "inputs/references/guidelines-reference.md",
+          "sha256": "a52a963e9629695f41e3ae6139a43b7fb44390d23b927442a5e1479082c66355"
+        },
+        {
+          "path": "inputs/references/mockup-references.md",
+          "sha256": "bdd208fa8aebcb64fcd038a291e9181a41511087fbda5716d766cd77ce233c33"
+        },
+        {
+          "path": "inputs/required-items.md",
+          "sha256": "a94682a613fd3bcb20ac812a13942471a266cd496f3b7e94418458f8e881ba78"
+        },
+        {
+          "path": "inputs/visuals/mockup-references/design-reference-board.png",
+          "sha256": "18c4db6a9042ccd546431834a673d38ff526ddd894b16cfea2b8de803571eb51"
+        },
+        {
+          "path": "inputs/visuals/mockup-references/threesixty-case-studies.jpg",
+          "sha256": "4ecf05d660de6729c28d48285e79ea56526b3d2db9bdacfa0feefbfea5da9065"
+        },
+        {
+          "path": "inputs/visuals/mockup-references/threesixty-hero.jpg",
+          "sha256": "a16497c67a995cf02897bd8a94cd4c04bb9d5f5a4528cd33a52a8e8957c02e41"
+        },
+        {
+          "path": "inputs/visuals/mockup-references/workos-hero.jpg",
+          "sha256": "3c64516272c7098c7ad0cc63b10a499ca890d5e06b9b2c97bd801f92a99679b3"
+        },
+        {
+          "path": "inputs/visuals/mockup-references/workos-product-section.jpg",
+          "sha256": "2daf9ee8d7d51b46bae98f79519aac418548c6e5969bce3796dadb438db987a4"
+        },
+        {
+          "path": "inputs/visuals/palette-preview.png",
+          "sha256": "b72d663f1cbce0532196cd178493915842a91968ab9cbaa330d2b2c4c550c4a4"
+        },
+        {
+          "path": "inputs/visuals/palette-preview.svg",
+          "sha256": "f480e5b59240c22a4c64ecb6961c7743820e3e36267ad5b0cb949dd4fd9be6a6"
+        },
+        {
+          "path": "knowledge/website-creation-guidelines/AGENTS.md",
+          "sha256": "30d0e1e2e051a835fa5eda393d73b87c5cb5a939919441bde92b280aa2a2442e"
+        },
+        {
+          "path": "knowledge/website-creation-guidelines/README.md",
+          "sha256": "8e50f95929e7a86afaabd69516834d8a67f38cc8d2359b30722614f8275bb342"
+        },
+        {
+          "path": "knowledge/website-creation-guidelines/capabilities/README.md",
+          "sha256": "ffb0a2c61a77306f4e5e28cb57a823030451b2454884d03f95013a5eca75459a"
+        },
+        {
+          "path": "knowledge/website-creation-guidelines/capabilities/assistant.md",
+          "sha256": "7fd7afe6ee7894cd82cc7455657ccb5cf94b02bf4b264c17959d9df23fd1b5d1"
+        },
+        {
+          "path": "knowledge/website-creation-guidelines/capabilities/cms.md",
+          "sha256": "61e8bd31f7c7847e21992f171c2ac2ad42ae66fce61b5eb7263746f9655d3613"
+        },
+        {
+          "path": "knowledge/website-creation-guidelines/capabilities/collections.md",
+          "sha256": "53a1c4c19e33b513414bb336f15ce3a6792ed5f95ff35a756e601a2ecf039cc3"
+        },
+        {
+          "path": "knowledge/website-creation-guidelines/capabilities/extensions.md",
+          "sha256": "e187b21157a90f1901f8785283c411b05f78bd1a1c1dc428fe2a8ca4a25ac437"
+        },
+        {
+          "path": "knowledge/website-creation-guidelines/capabilities/forms.md",
+          "sha256": "98fcca064d985bc86e08b3fa6e5bf3efbf76a22e11a5b437e6f9378402f37e7c"
+        },
+        {
+          "path": "knowledge/website-creation-guidelines/capabilities/languages.md",
+          "sha256": "7ebe4fee00a2543da4e32ffc2f9b1afe2f37926441ca949d5d75afbdf7d7a4c9"
+        },
+        {
+          "path": "knowledge/website-creation-guidelines/capabilities/search.md",
+          "sha256": "a721cc7dee7f07f84755d69d9e3a0e2a31e1c2156ab67c0c1ad7d4f379c855c8"
+        },
+        {
+          "path": "knowledge/website-creation-guidelines/capabilities/themes.md",
+          "sha256": "f97303b3fc6507561f3b73152f7dcde4e2b19429bd3300b6438abc02310146b3"
+        },
+        {
+          "path": "knowledge/website-creation-guidelines/compilation/README.md",
+          "sha256": "9de2a50a31c96f02c8282bbd0bb55eb8dd3c56be5c0b3f48f51bef9ea4f03ab8"
+        },
+        {
+          "path": "knowledge/website-creation-guidelines/compilation/compile-implementation-units.md",
+          "sha256": "99c10014ef786a1d983b987ae5e7e6ea0732f1a93ecc29d5de665d056e0797f3"
+        },
+        {
+          "path": "knowledge/website-creation-guidelines/compilation/implementation-plan.md",
+          "sha256": "e7a6ff7070bad931cf0b70bce231d4aa7a97ec17406b2c6944f3b7a95ed2573f"
+        },
+        {
+          "path": "knowledge/website-creation-guidelines/compilation/implementation-unit.md",
+          "sha256": "816502cc25c406d3eb36f97ddb67d11791e518e8e24613e8bcf50cc1e6994a92"
+        },
+        {
+          "path": "knowledge/website-creation-guidelines/guides/README.md",
+          "sha256": "830e354f90171b949390c973f0f9a3de79ad210908fbd1d7c38fc1899eb35596"
+        },
+        {
+          "path": "knowledge/website-creation-guidelines/guides/architecture.md",
+          "sha256": "03db5028dbb690525b6ed5593b201dace70461435b54993ef97f1e8dbe2aadb4"
+        },
+        {
+          "path": "knowledge/website-creation-guidelines/guides/project-structure.md",
+          "sha256": "e3d97bdb035471bd356e1d39428e95f664fcec246f018f15a14be4a33f3f6699"
+        },
+        {
+          "path": "knowledge/website-creation-guidelines/guides/requirements-matrix.md",
+          "sha256": "8340d1e49c139b3e8008c1105384840aba3ffc3b24a7deb0ea7d328e972226f6"
+        },
+        {
+          "path": "knowledge/website-creation-guidelines/guides/technical-conventions.md",
+          "sha256": "558b5b8c5b190446a734103b61d1ef4c9106bd9a2c4d3d2390603896692e94a1"
+        },
+        {
+          "path": "knowledge/website-creation-guidelines/implementation/README.md",
+          "sha256": "e4ea55d99c5ebf42dbcaea9cc90117f8e53cbf22ea0648e6857018f5f2d2da73"
+        },
+        {
+          "path": "knowledge/website-creation-guidelines/implementation/execute-implementation-plan.md",
+          "sha256": "043a33f5e23fdc6b76730f2fb30e2f36177e0f67ef3c787537f0b793c4569b20"
+        },
+        {
+          "path": "knowledge/website-creation-guidelines/implementation/execution-record.md",
+          "sha256": "46c52a3ded321eaf60eb33ceb79da9d177f8583fd89d4662b0304907c389d254"
+        },
+        {
+          "path": "knowledge/website-creation-guidelines/rules/README.md",
+          "sha256": "626d8b5557263b6eb7c83c4ed4a5adf235cceeab3b5bf0baa71e63ad9bf88e8e"
+        },
+        {
+          "path": "knowledge/website-creation-guidelines/rules/architecture.md",
+          "sha256": "9559a1d69cf5d1fcb487649689f46a4fdac22e23203f62c8d1f8acda3a82bb69"
+        },
+        {
+          "path": "knowledge/website-creation-guidelines/rules/capabilities/assistant.md",
+          "sha256": "9c90c241d941914253485ea13c23fb27815eca9472cb300f2970fc486fe38477"
+        },
+        {
+          "path": "knowledge/website-creation-guidelines/rules/capabilities/cms.md",
+          "sha256": "6ad1b6a9eb7d709a6c52f0a5da4b5f65b34ce5e636ad0c2596451b1d02943323"
+        },
+        {
+          "path": "knowledge/website-creation-guidelines/rules/capabilities/collections.md",
+          "sha256": "c75726aa1a2f2f745f5ee9d66c40f7bd760345744e410128a942ac624ced5a9b"
+        },
+        {
+          "path": "knowledge/website-creation-guidelines/rules/capabilities/extensions.md",
+          "sha256": "581baa227c6a67ab08261845dd0c0688576d991b732c6b5494f60b7debd3cb8a"
+        },
+        {
+          "path": "knowledge/website-creation-guidelines/rules/capabilities/forms.md",
+          "sha256": "1e0e497f40bab573e1d9f245ba1f303f1acf6217a246d46d212b4fc15d59ed82"
+        },
+        {
+          "path": "knowledge/website-creation-guidelines/rules/capabilities/languages.md",
+          "sha256": "d4e68ad6b92d43a8788289274f7706ab321df9bff98114f41c1be34b7f84214b"
+        },
+        {
+          "path": "knowledge/website-creation-guidelines/rules/capabilities/search.md",
+          "sha256": "5c4ca8792c6c2e14a8729417b0430d34afb9ecb94f5ac4bc0b9fbb99415871d1"
+        },
+        {
+          "path": "knowledge/website-creation-guidelines/rules/capabilities/themes.md",
+          "sha256": "e673561c189e2ba3023abb2e206ebc8355cba4f7cf2e9fb766b0f999bbec3b32"
+        },
+        {
+          "path": "knowledge/website-creation-guidelines/rules/data-privacy-and-security.md",
+          "sha256": "97ee90387d989b07fac9bab7a554b691e7d317623f5f603e0ccdec804a1aa30f"
+        },
+        {
+          "path": "knowledge/website-creation-guidelines/rules/interaction-and-accessibility.md",
+          "sha256": "c7491641c8ace299c37bf80ba63e4d2abea9275602b12ea57d6446edaa3bba9d"
+        },
+        {
+          "path": "knowledge/website-creation-guidelines/rules/operations-and-lifecycle.md",
+          "sha256": "d06b5cc3f93af4fc5354518a08e9c74532fcc3ad7341f0ee4f4ac999ba367465"
+        },
+        {
+          "path": "knowledge/website-creation-guidelines/rules/performance.md",
+          "sha256": "62f8ef915fb052353ee8b46f48cc6a29726e063a0857798fdbcd3e50ce31d4a4"
+        },
+        {
+          "path": "knowledge/website-creation-guidelines/rules/project-structure.md",
+          "sha256": "f70ffdfdecb5ebaa39f01fea746c3f53b776b5c3e6cef6629bf94fbc7584d129"
+        },
+        {
+          "path": "knowledge/website-creation-guidelines/rules/purpose-and-content.md",
+          "sha256": "0eb1fa0d2a08161f14e0e980ee3252854c4c8a1adb933f41284bb563f82ef512"
+        },
+        {
+          "path": "knowledge/website-creation-guidelines/rules/technical-conventions.md",
+          "sha256": "1eabf825736de2af149c6b49c13adb71289400cab5c798f317aa7718af5fd269"
+        },
+        {
+          "path": "knowledge/website-creation-guidelines/rules/verification.md",
+          "sha256": "40d3ea176a50322e6496f04c249df307a049683854733e0f84104dc5fbc3a507"
+        },
+        {
+          "path": "knowledge/website-creation-guidelines/rules/visibility-and-discoverability.md",
+          "sha256": "4adae1143da25329cf5741d88740103301d4015fec54996b6d68bd22a3678f4c"
+        },
+        {
+          "path": "knowledge/website-creation-guidelines/rules/visual-design-and-layout.md",
+          "sha256": "1f59b8a9e35584d1486ce9a99592ded6bd1841befd2697683ddcc74f45b2e26c"
+        },
+        {
+          "path": "knowledge/website-creation-guidelines/sources/README.md",
+          "sha256": "3a1102dfd5df695cb406010c3e076945f8a518c6eb74770add2eff52d11829a3"
+        },
+        {
+          "path": "knowledge/website-creation-guidelines/sources/retrospective.md",
+          "sha256": "7d682cd9ced09da193507b15606751ef1961870f50e4f6c7104afd81002761d1"
+        },
+        {
+          "path": "knowledge/website-creation-guidelines/sources/wapps.md",
+          "sha256": "3b81b58f9ccabd9518d94e27e69f3b6d9b1e8c6fe485f25b83a7b21d6b09e938"
+        },
+        {
+          "path": "knowledge/website-creation-guidelines/templates/README.md",
+          "sha256": "b20ebc288e5a677628fb41646185547d245ad997e4f522b983a88346ebac2692"
+        },
+        {
+          "path": "knowledge/website-creation-guidelines/templates/acceptance-report.md",
+          "sha256": "d0107a6e134da7166e82b1b8e2160fa8d5cc10e4d5a93ffa2447a1fde4da95ad"
+        },
+        {
+          "path": "knowledge/website-creation-guidelines/templates/decision-register.md",
+          "sha256": "fb08bc0cc0ea96d0d029b08f22e02f3ebf64bcb517b58fbb76e899ee8cde3cd9"
+        },
+        {
+          "path": "knowledge/website-creation-guidelines/templates/project-brief.md",
+          "sha256": "c5a66e570eaefa848822913556bbf6627c7d68b2da8d6b5793675a1b62ff5f69"
+        },
+        {
+          "path": "knowledge/website-creation-guidelines/workflows/README.md",
+          "sha256": "526ca519775f7ad65403c998a585bc993a53b54a5859f0e57a16ce8d5fcb314b"
+        },
+        {
+          "path": "knowledge/website-creation-guidelines/workflows/add-page-or-feature.md",
+          "sha256": "e15af2e9cae8ca5a606a8f5bc1d7bebebad8c92cf825d7b03743b2754fc7ad5c"
+        },
+        {
+          "path": "knowledge/website-creation-guidelines/workflows/create-website.md",
+          "sha256": "8771be23941ddc3a5fd9070d3e977e61628df6fd6f4c039521279756860b6a40"
+        },
+        {
+          "path": "knowledge/website-creation-guidelines/workflows/prepare-creation-inputs.md",
+          "sha256": "bf1bbccfddcd930c5454a81b58fdf3385d0b4c66525e5f18a9c9573b1ea203df"
+        },
+        {
+          "path": "package-manifest.json",
+          "sha256": "e1a6189368a8925ead85f643c612b10577577903a753efdd036c13b1c61aa982"
+        },
+        {
+          "path": "prompt.txt",
+          "sha256": "7cf2c6e8c1a5909ca44782929d039133616093e6766d465984538cbdd04a4073"
+        },
+        {
+          "path": "revisions/AF-D1-1.0.zip",
+          "sha256": "74cd60364c3f9aa70c8dcc80a1fd3416d90ca05cd773953a407bbb099d4647f2"
+        }
+      ],
+      "dispatched_at": "2026-10-10T09:05:10.059805+00:00"
+    },
+    {
+      "variant": "02-inputs-only",
+      "repository": "/Users/michal.lukasiewicz/Programming/website-development-experiment/runs/2026-10-10-sol-light-pair-01/02-inputs-only",
+      "website": "/Users/michal.lukasiewicz/Programming/website-development-experiment/runs/2026-10-10-sol-light-pair-01/02-inputs-only/website",
+      "entry_prompt": "/Users/michal.lukasiewicz/Programming/website-development-experiment/runs/2026-10-10-sol-light-pair-01/02-inputs-only/prompt.txt",
+      "entry_prompt_sha256": "c92439ab20e71ec4d48c75a91a032990db3b386f6d5e7f221f63dd22d752c328",
+      "thread_id": "01a1250f-055f-72f2-a97f-f9dec14f174e",
+      "host_id": "local",
+      "model": "gpt-6-sol",
+      "reasoning_effort": "low",
+      "status": "running",
+      "copied_files": [
+        {
+          "path": "inputs/README.md",
+          "sha256": "5582f198e81cfb50a68c3cf25c7ddc4ee9f1ecceb7cad387450aaeed666b628c"
+        },
+        {
+          "path": "inputs/content/project-context.md",
+          "sha256": "7a4a95eb7f75f101b1092525d145dfd6227b3f97699d89ea650b8ba12b5f0ea1"
+        },
+        {
+          "path": "inputs/design-system/colors.css",
+          "sha256": "1079da91e7d89c913d97469854b891d99eab24eaa2c89fe88ae30214be0950c7"
+        },
+        {
+          "path": "inputs/design-system/palette.json",
+          "sha256": "cea423464d64f39ff20d938554084ff15f5c8a0b23a87945ad55c16d9bc60631"
+        },
+        {
+          "path": "inputs/design-system/sampled-colors.json",
+          "sha256": "b1a259671fa714a6e8bd18d35328c2a6aa6f2d63f3720455a4976b1dd8e304e2"
+        },
+        {
+          "path": "inputs/docs/decision-register.md",
+          "sha256": "483df91d1b3749b139483b46dce45c6e0849d6d2c81262cec26bd54c486260fd"
+        },
+        {
+          "path": "inputs/docs/project-brief.md",
+          "sha256": "631b191acf26003246bbafe551bcd6c48ec54265af806fe331d104d490cfda3e"
+        },
+        {
+          "path": "inputs/docs/sitemap.md",
+          "sha256": "56e55dd6a430e88882ba12798ec8350ba27b0feb22776d0bea9533906a2eb667"
+        },
+        {
+          "path": "inputs/manifest.json",
+          "sha256": "fca1b7878cbd8e90e5cfc077a7102d3baf33dfd2dd8f41b4b5a545dbedfccd06"
+        },
+        {
+          "path": "inputs/references/mockup-references.md",
+          "sha256": "bdd208fa8aebcb64fcd038a291e9181a41511087fbda5716d766cd77ce233c33"
+        },
+        {
+          "path": "inputs/required-items.md",
+          "sha256": "019e7e509b3c8e2f2faff5edce1c81f17cf8bddea501d293813eeada83b60896"
+        },
+        {
+          "path": "inputs/visuals/mockup-references/design-reference-board.png",
+          "sha256": "18c4db6a9042ccd546431834a673d38ff526ddd894b16cfea2b8de803571eb51"
+        },
+        {
+          "path": "inputs/visuals/mockup-references/threesixty-case-studies.jpg",
+          "sha256": "4ecf05d660de6729c28d48285e79ea56526b3d2db9bdacfa0feefbfea5da9065"
+        },
+        {
+          "path": "inputs/visuals/mockup-references/threesixty-hero.jpg",
+          "sha256": "a16497c67a995cf02897bd8a94cd4c04bb9d5f5a4528cd33a52a8e8957c02e41"
+        },
+        {
+          "path": "inputs/visuals/mockup-references/workos-hero.jpg",
+          "sha256": "3c64516272c7098c7ad0cc63b10a499ca890d5e06b9b2c97bd801f92a99679b3"
+        },
+        {
+          "path": "inputs/visuals/mockup-references/workos-product-section.jpg",
+          "sha256": "2daf9ee8d7d51b46bae98f79519aac418548c6e5969bce3796dadb438db987a4"
+        },
+        {
+          "path": "inputs/visuals/palette-preview.png",
+          "sha256": "b72d663f1cbce0532196cd178493915842a91968ab9cbaa330d2b2c4c550c4a4"
+        },
+        {
+          "path": "inputs/visuals/palette-preview.svg",
+          "sha256": "f480e5b59240c22a4c64ecb6961c7743820e3e36267ad5b0cb949dd4fd9be6a6"
+        },
+        {
+          "path": "prompt.txt",
+          "sha256": "c92439ab20e71ec4d48c75a91a032990db3b386f6d5e7f221f63dd22d752c328"
+        }
+      ],
+      "dispatched_at": "2026-10-10T09:05:10.059890+00:00"
+    }
+  ]
+}

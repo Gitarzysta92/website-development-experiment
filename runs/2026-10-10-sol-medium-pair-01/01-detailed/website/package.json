@@ -1,0 +1,33 @@
+{
+  "name": "artifactory-detailed",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev --host 127.0.0.1",
+    "build": "npm run validate:content && astro check && astro build",
+    "start": "node scripts/serve.mjs",
+    "check": "astro check",
+    "test": "vitest run",
+    "e2e": "node tests/browser-smoke.mjs && node tests/journeys.mjs && node tests/visual-matrix.mjs && node tests/browser-extended.mjs && node tests/form-failures.mjs",
+    "validate:content": "node scripts/validate-content.mjs",
+    "test:http": "node tests/http-smoke.mjs",
+    "verify:output": "node scripts/check-output.mjs && node scripts/check-budgets.mjs"
+  },
+  "dependencies": {
+    "astro": "7.3.8",
+    "@astrojs/node": "11.1.7",
+    "zod": "4.6.5",
+    "@astrojs/markdown-remark": "7.3.2"
+  },
+  "devDependencies": {
+    "@astrojs/check": "0.9.10",
+    "vitest": "5.0.3",
+    "@playwright/test": "1.64.0",
+    "@axe-core/playwright": "4.13.0",
+    "lighthouse": "13.5.0",
+    "typescript": "6.0.3",
+    "vite": "8.3.4",
+    "@types/node": "24.19.2"
+  }
+}

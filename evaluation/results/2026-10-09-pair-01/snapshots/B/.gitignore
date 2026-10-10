@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.build-temp/
+.dist-old/
+test-results/
+playwright-report/
+.env
+.env.*
+!.env.example

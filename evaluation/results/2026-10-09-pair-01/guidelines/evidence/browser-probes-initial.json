@@ -1,0 +1,373 @@
+{
+  "chromium": "156.0.8078.4",
+  "results": [
+    {
+      "id": "A-NAV-11",
+      "cards": [
+        {
+          "class": "project-feature",
+          "links": [
+            {
+              "href": "/en/projects/artisense/",
+              "text": "Explore ArtiSense ↗",
+              "tabIndex": 0
+            },
+            {
+              "href": "/en/projects/artisense/research-validation/",
+              "text": "Research and Validation ↗",
+              "tabIndex": 0
+            }
+          ]
+        },
+        {
+          "class": "project-feature reverse",
+          "links": [
+            {
+              "href": "/en/projects/aifield/",
+              "text": "Explore AIFIELD ↗",
+              "tabIndex": 0
+            },
+            {
+              "href": "/en/projects/aifield/examples-validation/",
+              "text": "Examples and Validation ↗",
+              "tabIndex": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A-LAY-08-technologia",
+      "route": "/pl/projekty/artisense/technologia/",
+      "measurement": {
+        "position": "static",
+        "declaredTop": "116px",
+        "top": -150.265625,
+        "bottom": 439.484375,
+        "height": 589.75,
+        "viewport": 480,
+        "overflowY": "visible",
+        "links": [
+          {
+            "text": "Przegląd",
+            "top": -102.265625,
+            "bottom": -58.265625
+          },
+          {
+            "text": "Technologia",
+            "top": -58.265625,
+            "bottom": -14.265625
+          },
+          {
+            "text": "Zastosowania",
+            "top": -14.265625,
+            "bottom": 29.734375
+          },
+          {
+            "text": "Badania i walidacja",
+            "top": 29.734375,
+            "bottom": 73.734375
+          },
+          {
+            "text": "Punktem wyjścia jest oddziaływanie.",
+            "top": 170.734375,
+            "bottom": 237.921875
+          },
+          {
+            "text": "Detekcja to tylko część interpretacji.",
+            "top": 237.921875,
+            "bottom": 305.109375
+          },
+          {
+            "text": "Odniesienie musi pozostać wiarygodne.",
+            "top": 305.109375,
+            "bottom": 372.296875
+          },
+          {
+            "text": "Narzędzia projektowe pomagają określić eksperyment.",
+            "top": 372.296875,
+            "bottom": 439.484375
+          }
+        ]
+      },
+      "violatesFitContract": false
+    },
+    {
+      "id": "A-LAY-08-badania-modeli-pola",
+      "route": "/pl/projekty/aifield/badania-modeli-pola/",
+      "measurement": {
+        "position": "static",
+        "declaredTop": "116px",
+        "top": -150.265625,
+        "bottom": 533.078125,
+        "height": 683.34375,
+        "viewport": 480,
+        "overflowY": "visible",
+        "links": [
+          {
+            "text": "Przegląd",
+            "top": -102.265625,
+            "bottom": -58.265625
+          },
+          {
+            "text": "Projektowanie i symulacja",
+            "top": -58.265625,
+            "bottom": -14.265625
+          },
+          {
+            "text": "Praca z AI",
+            "top": -14.265625,
+            "bottom": 29.734375
+          },
+          {
+            "text": "Badania neuronowych modeli pola",
+            "top": 29.734375,
+            "bottom": 97.734375
+          },
+          {
+            "text": "Przykłady i walidacja",
+            "top": 97.734375,
+            "bottom": 141.734375
+          },
+          {
+            "text": "Badanie wyuczonego przybliżenia zachowania optycznego.",
+            "top": 238.734375,
+            "bottom": 331.515625
+          },
+          {
+            "text": "Informacja brzegowa jest częścią eksperymentu.",
+            "top": 331.515625,
+            "bottom": 398.703125
+          },
+          {
+            "text": "Cztery pytania przed szerszym użyciem.",
+            "top": 398.703125,
+            "bottom": 465.890625
+          },
+          {
+            "text": "Kolejne porównanie powinno rozstrzygać węższe pytanie.",
+            "top": 465.890625,
+            "bottom": 533.078125
+          }
+        ]
+      },
+      "violatesFitContract": false
+    },
+    {
+      "id": "A-LAY-08-jak-pracujemy",
+      "route": "/pl/jak-pracujemy/",
+      "measurement": {
+        "position": "static",
+        "declaredTop": "116px",
+        "top": -149.65625,
+        "bottom": 132.90625,
+        "height": 282.5625,
+        "viewport": 480,
+        "overflowY": "visible",
+        "links": [
+          {
+            "text": "Zachowaj rozróżnienie etapów.",
+            "top": -84.65625,
+            "bottom": -43.0625
+          },
+          {
+            "text": "Nazwij rodzaj dowodu.",
+            "top": -43.0625,
+            "bottom": -1.46875
+          },
+          {
+            "text": "Przykład projektowania pomiaru pokazuje tę różnicę.",
+            "top": -1.46875,
+            "bottom": 65.71875
+          },
+          {
+            "text": "Zamień niepewność w konkretne pytanie.",
+            "top": 65.71875,
+            "bottom": 132.90625
+          }
+        ]
+      },
+      "violatesFitContract": false
+    },
+    {
+      "id": "A-RWD-08",
+      "menuExpandedAfterResize": "false",
+      "overflow": false
+    },
+    {
+      "id": "A-SEC-07",
+      "status": 200,
+      "headers": {
+        "x-content-type-options": "nosniff",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "permissions-policy": "camera=(), microphone=(), geolocation=()",
+        "content-security-policy": "default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; font-src 'self'; connect-src 'self'; form-action 'self'; frame-ancestors 'none'; base-uri 'none'; object-src 'none'",
+        "cache-control": "no-store",
+        "x-robots-tag": "noindex, nofollow",
+        "accept-ranges": "bytes",
+        "last-modified": "Fri, 09 Oct 2026 22:53:12 GMT",
+        "etag": "W/\"6e79-1a122ded869\"",
+        "content-type": "text/html; charset=utf-8",
+        "content-length": "28281",
+        "date": "Sat, 10 Oct 2026 07:29:26 GMT",
+        "connection": "keep-alive",
+        "keep-alive": "timeout=5"
+      }
+    },
+    {
+      "id": "B-NAV-11",
+      "cards": [
+        {
+          "class": "project-card full",
+          "links": [
+            {
+              "href": "/en/projects/artisense/",
+              "text": "Conceptual photonics illustration\n    \n    \n    \n    \n    \n    \n    \n  \n    \n    \n    \n    \n    \n    ARTISENSE / 01PHOTONICSSIGNALLIGHT",
+              "tabIndex": 0
+            },
+            {
+              "href": "/en/projects/artisense/",
+              "text": "ArtiSense",
+              "tabIndex": 0
+            },
+            {
+              "href": "/en/projects/artisense/",
+              "text": "Explore ArtiSense",
+              "tabIndex": 0
+            }
+          ]
+        },
+        {
+          "class": "project-card full",
+          "links": [
+            {
+              "href": "/en/projects/aifield/",
+              "text": "Conceptual optical field\n    \n    \n    \n    \n    \n    \n    \n  OPTICAL FIELDCONCEPTUAL ILLUSTRATIONAIFIELD",
+              "tabIndex": 0
+            },
+            {
+              "href": "/en/projects/aifield/",
+              "text": "AIFIELD",
+              "tabIndex": 0
+            },
+            {
+              "href": "/en/projects/aifield/",
+              "text": "Explore AIFIELD",
+              "tabIndex": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B-LAY-08-technologia",
+      "route": "/pl/projekty/artisense/technologia/",
+      "measurement": {
+        "position": "sticky",
+        "declaredTop": "183px",
+        "top": 183,
+        "bottom": 573.46875,
+        "height": 390.46875,
+        "viewport": 480,
+        "overflowY": "visible",
+        "links": [
+          {
+            "text": "01Proponowana droga sygnału",
+            "top": 238.5,
+            "bottom": 281.09375
+          },
+          {
+            "text": "02Fotonika i interpretacja sygnału",
+            "top": 281.09375,
+            "bottom": 323.6875
+          },
+          {
+            "text": "03Co wymaga rozstrzygnięcia przy integracji",
+            "top": 323.6875,
+            "bottom": 383.875
+          },
+          {
+            "text": "04Rola AIFIELD",
+            "top": 383.875,
+            "bottom": 426.46875
+          }
+        ]
+      },
+      "violatesFitContract": true
+    },
+    {
+      "id": "B-LAY-08-badania-modeli-pola",
+      "route": "/pl/projekty/aifield/badania-modeli-pola/",
+      "measurement": {
+        "position": "sticky",
+        "declaredTop": "183px",
+        "top": 183,
+        "bottom": 573.46875,
+        "height": 390.46875,
+        "viewport": 480,
+        "overflowY": "visible",
+        "links": [
+          {
+            "text": "01Pytanie badawcze",
+            "top": 238.5,
+            "bottom": 281.09375
+          },
+          {
+            "text": "02Warunki są częścią wyniku",
+            "top": 281.09375,
+            "bottom": 323.6875
+          },
+          {
+            "text": "03Co jest potrzebne do wartościowego porównania",
+            "top": 323.6875,
+            "bottom": 383.875
+          },
+          {
+            "text": "04Kolejne pytania badawcze",
+            "top": 383.875,
+            "bottom": 426.46875
+          }
+        ]
+      },
+      "violatesFitContract": true
+    },
+    {
+      "id": "B-LAY-08-jak-pracujemy",
+      "route": "/pl/jak-pracujemy/",
+      "measurement": {
+        "position": "sticky",
+        "declaredTop": "125px",
+        "top": 125,
+        "bottom": 652.1875,
+        "height": 527.1875,
+        "viewport": 480,
+        "overflowY": "visible",
+        "links": []
+      },
+      "violatesFitContract": true
+    },
+    {
+      "id": "B-RWD-08",
+      "menuExpandedAfterResize": "true",
+      "overflow": false
+    },
+    {
+      "id": "B-SEC-07",
+      "status": 200,
+      "headers": {
+        "x-content-type-options": "nosniff",
+        "referrer-policy": "no-referrer",
+        "x-frame-options": "DENY",
+        "x-robots-tag": "noindex, nofollow",
+        "permissions-policy": "camera=(), microphone=(), geolocation=()",
+        "content-security-policy": "default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; font-src 'self'; connect-src 'self'; frame-ancestors 'none'; form-action 'none'; base-uri 'none'; object-src 'none'",
+        "cache-control": "no-store",
+        "content-type": "text/html; charset=utf-8",
+        "content-length": "148089",
+        "date": "Sat, 10 Oct 2026 07:29:26 GMT",
+        "connection": "keep-alive",
+        "keep-alive": "timeout=5"
+      }
+    }
+  ]
+}

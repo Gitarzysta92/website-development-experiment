@@ -1,0 +1,309 @@
+{
+  "id": "A-en-approach-desktop",
+  "label": "A",
+  "locale": "en",
+  "pageId": "approach",
+  "view": "desktop",
+  "url": "http://127.0.0.1:4501/en/approach/",
+  "status": 200,
+  "errors": [],
+  "title": "Let the evidence define the next question. | Artifactory",
+  "language": "en",
+  "h1": [
+    "Let the evidence define the next question."
+  ],
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Let the evidence define the next question."
+    },
+    {
+      "level": "H2",
+      "text": "Keep the steps distinguishable."
+    },
+    {
+      "level": "H2",
+      "text": "Name the kind of evidence."
+    },
+    {
+      "level": "H2",
+      "text": "The sensing-design example makes the distinction concrete."
+    },
+    {
+      "level": "H2",
+      "text": "Use uncertainty to make a specific request."
+    },
+    {
+      "level": "H2",
+      "text": "Start a focused conversation."
+    },
+    {
+      "level": "H2",
+      "text": "Company"
+    },
+    {
+      "level": "H2",
+      "text": "Projects"
+    },
+    {
+      "level": "H2",
+      "text": "Connect"
+    }
+  ],
+  "text": "Skip to content\nLocal draft · Research in progress\na·\nartifactory\nProjects\n⌄\nInvestors\nOur Approach\nAbout\nPL\n↔\nLet’s talk\n↗\nHome\nOur Approach\n\nARTIFACTORY / COMPANY\n\nLet the evidence define the next question.\n\nA clear progression helps explain what has been learned, what remains an assumption and what a next experiment should resolve.\n\nOn this page\n\nKeep the steps distinguishable.\nName the kind of evidence.\nThe sensing-design example makes the distinction concrete.\nUse uncertainty to make a specific request.\n01\nProblem\n\nDefine the intended outcome.\n\n↓\n02\nModel\n\nExpose the assumptions.\n\n↓\n03\nDesign\n\nSpecify a candidate structure.\n\n↓\n04\nPrototype\n\nExamine a physical realization.\n\n↓\n05\nMeasurement\n\nCompare observation with a reference.\n\nProposed sequence of questions, not a list of completed milestones.\nKeep the steps distinguishable.\n\nA problem defines a desired outcome. A model expresses assumptions about how a system behaves. A design turns those assumptions into a candidate structure. A prototype is a physical realization to examine, and a measurement compares observed behavior with an appropriate reference.\n\nMoving through these steps is not automatic. A useful result may call for a revised model or a narrower question before further development. This is a proposed way to organize the supplied work, not a claim of an independently audited company procedure.\n\nName the kind of evidence.\n\nThe word “result” can hide very different levels of support. Keep the category and the limits attached when summarizing a project.\n\nArea\tScope and limitations\nConcept\tDescribes intended behavior and architecture. It identifies what needs to be established.\nSimulation\tEstimates behavior inside a defined model. Its inputs, assumptions and comparison method remain essential.\nMeasured evidence\tDescribes observations under stated physical conditions. Repeatability, reference and uncertainty determine its meaning.\nThe sensing-design example makes the distinction concrete.\n\nAn intended optical sensing response motivates a candidate photonic design. AIFIELD’s internal glucose-related example concerns that design and simulated behavior. It does not establish that a fabricated ArtiSense device measures glucose accurately.\n\nThe next useful question depends on the gap: inspect the model and comparison first, then define what a physical experiment would need to establish. Progress in design does not automatically close the measurement gap.\n\nArtiSense\n↗\nAIFIELD\n↗\nUse uncertainty to make a specific request.\n\nA discussion becomes more useful when it names an unknown, a possible observation and the expertise needed to interpret it. Retain failed cases and unexpected behavior alongside favorable results.\n\nFor a potential collaboration, describe the question you could help answer and the conditions under which an answer would be meaningful. Topics can include optical measurement, fabrication constraints, model comparisons or engineering workflow evaluation.\n\nPartnerships\n↗\nStart a focused conversation.\nDiscuss an investment\n↗\nartifactory·\n\nSensing technology and tools for designing photonic systems.\n\ninfo@artifactory.tech\n↗\nCompany\nHome\nProjects\nInvestors\nOur Approach\nAbout\nProjects\nArtiSense\nAIFIELD\nConnect\nPartnerships\nContact\nPrivacy\nArtifactory\nNew possibilities, through light.",
+  "links": [
+    {
+      "text": "Skip to content",
+      "href": "#main",
+      "lang": ""
+    },
+    {
+      "text": "a·\nartifactory",
+      "href": "/en/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/en/projects/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/en/projects/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/en/projects/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Investors",
+      "href": "/en/investors/",
+      "lang": ""
+    },
+    {
+      "text": "Our Approach",
+      "href": "/en/approach/",
+      "lang": ""
+    },
+    {
+      "text": "About",
+      "href": "/en/about/",
+      "lang": ""
+    },
+    {
+      "text": "Partnerships",
+      "href": "/en/partnerships/",
+      "lang": ""
+    },
+    {
+      "text": "Contact",
+      "href": "/en/contact/",
+      "lang": ""
+    },
+    {
+      "text": "PL\n↔",
+      "href": "http://127.0.0.1:4501/pl/jak-pracujemy/",
+      "lang": "pl"
+    },
+    {
+      "text": "Let’s talk\n↗",
+      "href": "/en/contact/?intent=investment",
+      "lang": ""
+    },
+    {
+      "text": "Home",
+      "href": "/en/",
+      "lang": ""
+    },
+    {
+      "text": "Keep the steps distinguishable.",
+      "href": "#progression",
+      "lang": ""
+    },
+    {
+      "text": "Name the kind of evidence.",
+      "href": "#evidence",
+      "lang": ""
+    },
+    {
+      "text": "The sensing-design example makes the distinction concrete.",
+      "href": "#example",
+      "lang": ""
+    },
+    {
+      "text": "Use uncertainty to make a specific request.",
+      "href": "#decisions",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSense\n↗",
+      "href": "/en/projects/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELD\n↗",
+      "href": "/en/projects/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Partnerships\n↗",
+      "href": "/en/partnerships/",
+      "lang": ""
+    },
+    {
+      "text": "Discuss an investment\n↗",
+      "href": "/en/contact/?intent=investment",
+      "lang": ""
+    },
+    {
+      "text": "artifactory·",
+      "href": "/en/",
+      "lang": ""
+    },
+    {
+      "text": "info@artifactory.tech\n↗",
+      "href": "mailto:info@artifactory.tech",
+      "lang": ""
+    },
+    {
+      "text": "Home",
+      "href": "/en/",
+      "lang": ""
+    },
+    {
+      "text": "Projects",
+      "href": "/en/projects/",
+      "lang": ""
+    },
+    {
+      "text": "Investors",
+      "href": "/en/investors/",
+      "lang": ""
+    },
+    {
+      "text": "Our Approach",
+      "href": "/en/approach/",
+      "lang": ""
+    },
+    {
+      "text": "About",
+      "href": "/en/about/",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSense",
+      "href": "/en/projects/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELD",
+      "href": "/en/projects/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Partnerships",
+      "href": "/en/partnerships/",
+      "lang": ""
+    },
+    {
+      "text": "Contact",
+      "href": "/en/contact/",
+      "lang": ""
+    },
+    {
+      "text": "Privacy",
+      "href": "/en/privacy/",
+      "lang": ""
+    }
+  ],
+  "metadata": [
+    {
+      "name": "viewport",
+      "content": "width=device-width, initial-scale=1"
+    },
+    {
+      "name": "description",
+      "content": "A proposed evidence-oriented approach to photonic development: distinguish problems, models, designs, prototypes and physical measurements."
+    },
+    {
+      "name": "robots",
+      "content": "noindex, nofollow"
+    },
+    {
+      "rel": "canonical",
+      "href": "http://127.0.0.1:4501/en/approach/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "en",
+      "href": "http://127.0.0.1:4501/en/approach/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "pl",
+      "href": "http://127.0.0.1:4501/pl/jak-pracujemy/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "x-default",
+      "href": "http://127.0.0.1:4501/en/approach/"
+    },
+    {
+      "property": "og:type",
+      "content": "website"
+    },
+    {
+      "property": "og:site_name",
+      "content": "Artifactory"
+    },
+    {
+      "property": "og:title",
+      "content": "Let the evidence define the next question. | Artifactory"
+    },
+    {
+      "property": "og:description",
+      "content": "A proposed evidence-oriented approach to photonic development: distinguish problems, models, designs, prototypes and physical measurements."
+    },
+    {
+      "property": "og:url",
+      "content": "http://127.0.0.1:4501/en/approach/"
+    },
+    {
+      "property": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "property": "og:image",
+      "content": "http://127.0.0.1:4501/brand/share-v1.svg"
+    },
+    {
+      "property": "og:image:width",
+      "content": "1200"
+    },
+    {
+      "property": "og:image:height",
+      "content": "630"
+    }
+  ],
+  "forms": [],
+  "images": [],
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "scrollWidth": 1425
+  },
+  "overflowing": [],
+  "axe": {
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "impact": "serious",
+        "nodeCount": 5
+      }
+    ],
+    "passes": 44
+  }
+}

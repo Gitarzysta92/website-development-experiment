@@ -1,0 +1,30 @@
+{
+  "en": [
+    {
+      "title": "Define",
+      "description": "Geometry, layers and an engineering question"
+    },
+    {
+      "title": "Simulate",
+      "description": "A classical model with stated assumptions"
+    },
+    {
+      "title": "Inspect",
+      "description": "A result connected to its inputs"
+    }
+  ],
+  "pl": [
+    {
+      "title": "Określ",
+      "description": "Geometria, warstwy i pytanie inżynierskie"
+    },
+    {
+      "title": "Symuluj",
+      "description": "Klasyczny model z określonymi założeniami"
+    },
+    {
+      "title": "Oceń",
+      "description": "Wynik powiązany z danymi wejściowymi"
+    }
+  ]
+}

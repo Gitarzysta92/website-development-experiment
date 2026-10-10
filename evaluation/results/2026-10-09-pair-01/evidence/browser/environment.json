@@ -1,0 +1,11 @@
+{
+  "chromium": "156.0.8078.4",
+  "node": "v22.17.1",
+  "platform": "darwin",
+  "architecture": "arm64",
+  "playwright": "1.64.0",
+  "axe": "4.13.0",
+  "deviceScaleFactor": 1,
+  "externalRequests": "blocked",
+  "startedAt": "2026-10-09T22:55:41.781Z"
+}

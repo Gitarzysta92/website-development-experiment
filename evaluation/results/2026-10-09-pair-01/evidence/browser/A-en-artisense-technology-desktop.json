@@ -1,0 +1,349 @@
+{
+  "id": "A-en-artisense-technology-desktop",
+  "label": "A",
+  "locale": "en",
+  "pageId": "artisense-technology",
+  "view": "desktop",
+  "url": "http://127.0.0.1:4501/en/projects/artisense/technology/",
+  "status": 200,
+  "errors": [],
+  "title": "From optical response to useful information. | Artifactory",
+  "language": "en",
+  "h1": [
+    "From optical response to useful information."
+  ],
+  "headings": [
+    {
+      "level": "H1",
+      "text": "From optical response to useful information."
+    },
+    {
+      "level": "H2",
+      "text": "Start with the interaction."
+    },
+    {
+      "level": "H2",
+      "text": "Detection is only part of interpretation."
+    },
+    {
+      "level": "H2",
+      "text": "A reference must remain a meaningful reference."
+    },
+    {
+      "level": "H2",
+      "text": "Design tools help frame the experiment."
+    },
+    {
+      "level": "H2",
+      "text": "Let’s explore what comes next."
+    },
+    {
+      "level": "H2",
+      "text": "Company"
+    },
+    {
+      "level": "H2",
+      "text": "Projects"
+    },
+    {
+      "level": "H2",
+      "text": "Connect"
+    }
+  ],
+  "text": "Skip to content\nLocal draft · Research in progress\na·\nartifactory\nProjects\n⌄\nInvestors\nOur Approach\nAbout\nPL\n↔\nLet’s talk\n↗\nHome\nProjects\nArtiSense\nTechnology\n\nARTISENSE / TECHNOLOGY\n\nFrom optical response to useful information.\n\nThe proposed signal chain connects an optical interaction to an interpretation. Each connection brings assumptions that need to be tested.\n\nProposed architecture · components require validation\n\nArtiSense\n\nOverview\nTechnology\nApplications\nResearch and Validation\n\nOn this page\n\nStart with the interaction.\nDetection is only part of interpretation.\nA reference must remain a meaningful reference.\nDesign tools help frame the experiment.\n\nPart of ArtiSense by Artifactory.\n\n01\nIllumination\n\nVisible or infrared light; conditions to be specified.\n\n↓\n02\nSample and response\n\nOptical interaction and reference comparison.\n\n↓\n03\nDetection\n\nA signal whose quality and limits need characterization.\n\n↓\n04\nInterpretation\n\nProposed analog processing and software support.\n\nProposed functional chain. This diagram does not establish implementation or validation of the blocks.\nStart with the interaction.\n\nVisible or infrared light is directed toward a sample. Its interaction can alter the response that reaches a detector. The architectural idea is to examine that response against a reference and use spectral information to investigate a chemical property.\n\nA change in optical response is not automatically a measurement of one substance. The illumination, sample conditions, optical path and detector response must be considered together. The supplied summary does not specify a validated operating range or a finalized component selection.\n\nDetection is only part of interpretation.\n\nThe proposed electronic chain receives the detected signal and prepares it for interpretation. The architecture describes a reprogrammable analog neuromorphic processor: an intended approach to processing the signal, rather than proof of an integrated working chip.\n\nSoftware support and connectivity are also described. Their role would be to configure and communicate information from the sensing system. No confirmed interface standard, complete hardware implementation or validated system-level performance is supplied.\n\nThis analog interpretation proposal is not AIFIELD’s neural field research. That research investigates predicting optical fields during engineering analysis; it does not establish a sensor’s measurement accuracy.\n\nA reference must remain a meaningful reference.\n\nCalibration would need to relate an optical response to a known comparison under stated conditions. A useful study would keep track of what changes between reference and test, and distinguish the target effect from sources of variation.\n\nThe project’s next architecture decisions therefore depend on a measurement plan. Repeatability, sensitivity to changing conditions and the transfer from a modeled structure to a physical device are open validation questions.\n\nArea\tScope and limitations\nIllumination and optical path\tDefine the source, reference and interaction conditions before interpreting a response.\nDetector and electronics\tCharacterize signal quality and the limits introduced by detection and processing.\nInterpretation\tTest whether the inferred quantity remains valid beyond the calibration examples.\nIntegration\tEvaluate the combined system; component descriptions alone do not show end-to-end operation.\nDesign tools help frame the experiment.\n\nThe glucose-related photonic chip-design example provides a way to discuss geometry and simulation using AIFIELD. It supports an engineering conversation about models and candidate structures.\n\nThe sensing question remains separate: what signal would the fabricated structure produce, and how would it compare with a reliable reference? That question belongs in physical validation.\n\nDesign and Simulation\n↗\nResearch and Validation\n↗\nApplications\n↗\n\nSTART WITH A QUESTION\n\nLet’s explore what comes next.\nDiscuss an investment\n↗\nPartnership opportunities ↗\nartifactory·\n\nSensing technology and tools for designing photonic systems.\n\ninfo@artifactory.tech\n↗\nCompany\nHome\nProjects\nInvestors\nOur Approach\nAbout\nProjects\nArtiSense\nAIFIELD\nConnect\nPartnerships\nContact\nPrivacy\nArtifactory\nNew possibilities, through light.",
+  "links": [
+    {
+      "text": "Skip to content",
+      "href": "#main",
+      "lang": ""
+    },
+    {
+      "text": "a·\nartifactory",
+      "href": "/en/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/en/projects/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/en/projects/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/en/projects/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Investors",
+      "href": "/en/investors/",
+      "lang": ""
+    },
+    {
+      "text": "Our Approach",
+      "href": "/en/approach/",
+      "lang": ""
+    },
+    {
+      "text": "About",
+      "href": "/en/about/",
+      "lang": ""
+    },
+    {
+      "text": "Partnerships",
+      "href": "/en/partnerships/",
+      "lang": ""
+    },
+    {
+      "text": "Contact",
+      "href": "/en/contact/",
+      "lang": ""
+    },
+    {
+      "text": "PL\n↔",
+      "href": "http://127.0.0.1:4501/pl/projekty/artisense/technologia/",
+      "lang": "pl"
+    },
+    {
+      "text": "Let’s talk\n↗",
+      "href": "/en/contact/?intent=investment",
+      "lang": ""
+    },
+    {
+      "text": "Home",
+      "href": "/en/",
+      "lang": ""
+    },
+    {
+      "text": "Projects",
+      "href": "/en/projects/",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSense",
+      "href": "/en/projects/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "Overview",
+      "href": "/en/projects/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "Technology",
+      "href": "/en/projects/artisense/technology/",
+      "lang": ""
+    },
+    {
+      "text": "Applications",
+      "href": "/en/projects/artisense/applications/",
+      "lang": ""
+    },
+    {
+      "text": "Research and Validation",
+      "href": "/en/projects/artisense/research-validation/",
+      "lang": ""
+    },
+    {
+      "text": "Start with the interaction.",
+      "href": "#photonics",
+      "lang": ""
+    },
+    {
+      "text": "Detection is only part of interpretation.",
+      "href": "#electronics",
+      "lang": ""
+    },
+    {
+      "text": "A reference must remain a meaningful reference.",
+      "href": "#calibration",
+      "lang": ""
+    },
+    {
+      "text": "Design tools help frame the experiment.",
+      "href": "#design",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSense",
+      "href": "/en/projects/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "Design and Simulation\n↗",
+      "href": "/en/projects/aifield/design-simulation/",
+      "lang": ""
+    },
+    {
+      "text": "Research and Validation\n↗",
+      "href": "/en/projects/artisense/research-validation/",
+      "lang": ""
+    },
+    {
+      "text": "Applications\n↗",
+      "href": "/en/projects/artisense/applications/",
+      "lang": ""
+    },
+    {
+      "text": "Discuss an investment\n↗",
+      "href": "/en/contact/?intent=investment&project=artisense",
+      "lang": ""
+    },
+    {
+      "text": "Partnership opportunities ↗",
+      "href": "/en/partnerships/",
+      "lang": ""
+    },
+    {
+      "text": "artifactory·",
+      "href": "/en/",
+      "lang": ""
+    },
+    {
+      "text": "info@artifactory.tech\n↗",
+      "href": "mailto:info@artifactory.tech",
+      "lang": ""
+    },
+    {
+      "text": "Home",
+      "href": "/en/",
+      "lang": ""
+    },
+    {
+      "text": "Projects",
+      "href": "/en/projects/",
+      "lang": ""
+    },
+    {
+      "text": "Investors",
+      "href": "/en/investors/",
+      "lang": ""
+    },
+    {
+      "text": "Our Approach",
+      "href": "/en/approach/",
+      "lang": ""
+    },
+    {
+      "text": "About",
+      "href": "/en/about/",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSense",
+      "href": "/en/projects/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELD",
+      "href": "/en/projects/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Partnerships",
+      "href": "/en/partnerships/",
+      "lang": ""
+    },
+    {
+      "text": "Contact",
+      "href": "/en/contact/",
+      "lang": ""
+    },
+    {
+      "text": "Privacy",
+      "href": "/en/privacy/",
+      "lang": ""
+    }
+  ],
+  "metadata": [
+    {
+      "name": "viewport",
+      "content": "width=device-width, initial-scale=1"
+    },
+    {
+      "name": "description",
+      "content": "How the proposed ArtiSense architecture connects illumination, sample response, detection and analog interpretation, with calibration and integration limits."
+    },
+    {
+      "name": "robots",
+      "content": "noindex, nofollow"
+    },
+    {
+      "rel": "canonical",
+      "href": "http://127.0.0.1:4501/en/projects/artisense/technology/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "en",
+      "href": "http://127.0.0.1:4501/en/projects/artisense/technology/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "pl",
+      "href": "http://127.0.0.1:4501/pl/projekty/artisense/technologia/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "x-default",
+      "href": "http://127.0.0.1:4501/en/projects/artisense/technology/"
+    },
+    {
+      "property": "og:type",
+      "content": "website"
+    },
+    {
+      "property": "og:site_name",
+      "content": "Artifactory"
+    },
+    {
+      "property": "og:title",
+      "content": "From optical response to useful information. | Artifactory"
+    },
+    {
+      "property": "og:description",
+      "content": "How the proposed ArtiSense architecture connects illumination, sample response, detection and analog interpretation, with calibration and integration limits."
+    },
+    {
+      "property": "og:url",
+      "content": "http://127.0.0.1:4501/en/projects/artisense/technology/"
+    },
+    {
+      "property": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "property": "og:image",
+      "content": "http://127.0.0.1:4501/brand/share-v1.svg"
+    },
+    {
+      "property": "og:image:width",
+      "content": "1200"
+    },
+    {
+      "property": "og:image:height",
+      "content": "630"
+    }
+  ],
+  "forms": [],
+  "images": [],
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "scrollWidth": 1425
+  },
+  "overflowing": [],
+  "axe": {
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "impact": "serious",
+        "nodeCount": 4
+      }
+    ],
+    "passes": 45
+  }
+}

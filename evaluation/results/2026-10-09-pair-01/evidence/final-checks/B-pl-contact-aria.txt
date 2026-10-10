@@ -1,0 +1,45 @@
+- main:
+  - navigation "Ścieżka strony":
+    - list:
+      - listitem:
+        - link "Strona główna":
+          - /url: /pl/
+        - text: /
+      - listitem: Kontakt
+  - paragraph: Zacznijmy rozmowę
+  - heading "Dobre rzeczy zaczynają się od pytania." [level=1]
+  - paragraph: Powiedz, co Cię interesuje. Inwestycja, współpraca lub bliższe poznanie naszych prac.
+  - link "info@artifactory.tech":
+    - /url: mailto:info@artifactory.tech
+  - text: Jasny kolejny krok
+  - paragraph: Ten lokalny formularz przygotowuje treść wiadomości. Nie wysyła jej do odbiorcy. Skopiuj treść, otwórz program pocztowy i wyślij wiadomość, gdy będzie gotowa.
+  - paragraph: Nie podawaj informacji poufnych, danych rachunków ani danych o zdrowiu. Publiczny adres pochodzi z briefu; jego operator nie został zweryfikowany.
+  - heading "O czym chcesz porozmawiać?" [level=2]
+  - paragraph: Pola oznaczone * są wymagane.
+  - text: Rodzaj zapytania
+  - combobox "Rodzaj zapytania":
+    - option "Inwestycja w Artifactory" [selected]
+    - option "Współpraca"
+    - option "Demo AIFIELD"
+    - option "Zapytanie ogólne"
+  - text: Kontekst projektu (opcjonalnie)
+  - combobox "Kontekst projektu (opcjonalnie)":
+    - option "Artifactory / bez konkretnego projektu" [selected]
+    - option "ArtiSense"
+    - option "AIFIELD"
+  - text: Imię i nazwisko (opcjonalnie)
+  - textbox "Imię i nazwisko (opcjonalnie)"
+  - text: Organizacja (opcjonalnie)
+  - textbox "Organizacja (opcjonalnie)"
+  - text: Adres e-mail do odpowiedzi
+  - textbox "Adres e-mail do odpowiedzi"
+  - text: Twoja wiadomość
+  - textbox "Twoja wiadomość":
+    - /placeholder: Krótki opis ułatwi rozpoczęcie rozmowy…
+  - text: 20–4000 znaków
+  - paragraph:
+    - text: Treść pozostaje w pamięci tej strony. Witryna niczego nie zapisuje ani nie wysyła.
+    - link "Jak podgląd przetwarza dane":
+      - /url: /pl/prywatnosc/
+    - text: .
+  - button "Przygotuj zapytanie e-mail"

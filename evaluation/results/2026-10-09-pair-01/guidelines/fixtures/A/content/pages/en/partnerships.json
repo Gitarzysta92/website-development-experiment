@@ -1,0 +1,83 @@
+{
+  "id": "partnerships",
+  "locale": "en",
+  "type": "company",
+  "title": "Bring a question we can investigate.",
+  "description": "Proposed Artifactory collaboration topics in sensing, optical measurement, fabrication and testing, and photonic engineering-tool evaluation.",
+  "eyebrow": "ARTIFACTORY / COMPANY",
+  "lead": "Useful collaboration starts with a specific technical question and the expertise needed to answer it.",
+  "sections": [
+    {
+      "id": "sensing",
+      "title": "Sensing and optical measurement.",
+      "paragraphs": [
+        "Possible ArtiSense discussions concern the optical response being sought, a suitable reference comparison and the effects that could obscure the signal. Expertise in controlled measurements, calibration and repeatability could help define what a meaningful experiment would need.",
+        "Describe the application context and which observation you could help evaluate. Non-invasive and wearable ambitions remain research directions; no clinical pilot or validated measurement capability is implied."
+      ],
+      "links": [
+        {
+          "id": "artisense-technology"
+        },
+        {
+          "id": "artisense-validation"
+        }
+      ]
+    },
+    {
+      "id": "fabrication",
+      "title": "Connect a design with a testable structure.",
+      "paragraphs": [
+        "Potential fabrication and testing topics include process assumptions, tolerances, material behavior and the conditions needed to compare a physical structure with a model. The first task is to identify where the design assumptions may fail in implementation.",
+        "These are proposed discussion areas. The supplied material does not establish a manufacturing agreement, committed test program or existing partner relationship."
+      ]
+    },
+    {
+      "id": "tools",
+      "title": "Evaluate the engineering workflow.",
+      "paragraphs": [
+        "For AIFIELD, a useful evaluation begins with a bounded design task: its inputs, expected output and a reference method. Photonic designers can help assess how a workflow supports setup, comparison and result inspection.",
+        "Feedback on command-line or agent-assisted work should include human review responsibilities and the local/external data boundary. A demo request is a discussion about access and scope, not immediate product access."
+      ],
+      "links": [
+        {
+          "id": "aifield-design"
+        },
+        {
+          "id": "aifield-validation"
+        }
+      ]
+    },
+    {
+      "id": "context",
+      "title": "Give the first conversation enough context.",
+      "paragraphs": [
+        "State the question, the expertise or facilities you can contribute and the evidence you would need to assess progress. Identify any constraints on sharing before sending design files or unpublished data. A short non-confidential description is sufficient.",
+        "The topics on this page are invitations to explore fit. They are not evidence of named partners, customers, letters of intent or committed pilots. Any relationship and permission to describe it publicly would need separate confirmation."
+      ],
+      "links": [
+        {
+          "id": "contact"
+        }
+      ]
+    }
+  ],
+  "relatedIds": [
+    "artisense-technology",
+    "aifield-design",
+    "contact"
+  ],
+  "project": null,
+  "sourceReferences": [
+    "HP-1.1/project-context",
+    "SM-0.3/partnerships"
+  ],
+  "sourceRevision": "2026-10-09 (AIFIELD snapshot: September 2026)",
+  "editorialState": "published",
+  "modifiedAt": "2026-10-09T21:00:00.000Z",
+  "reviews": {
+    "facts": "a9bee94b9dcc94a0c558a16244cd9c634acfff62898f18418de595ca01bc2902",
+    "language": "a9bee94b9dcc94a0c558a16244cd9c634acfff62898f18418de595ca01bc2902",
+    "assets": "a9bee94b9dcc94a0c558a16244cd9c634acfff62898f18418de595ca01bc2902"
+  },
+  "privateNotes": "Locally authored from supplied summary. Factual, translation and asset owner review pending. Original PDFs were not supplied."
+}

@@ -1,0 +1,30 @@
+{
+  "en": [
+    {
+      "title": "Known information",
+      "description": "Geometry and supplied boundary context constrain the problem."
+    },
+    {
+      "title": "Learned prediction",
+      "description": "Estimate a field within the evaluated research setting."
+    },
+    {
+      "title": "Reference comparison",
+      "description": "Inspect discrepancies, transfer and end-to-end cost."
+    }
+  ],
+  "pl": [
+    {
+      "title": "Znane informacje",
+      "description": "Geometria i dostarczony kontekst brzegowy ograniczają problem."
+    },
+    {
+      "title": "Wyuczone przewidywanie",
+      "description": "Oszacuj pole w ocenianych warunkach badawczych."
+    },
+    {
+      "title": "Porównanie z odniesieniem",
+      "description": "Oceń rozbieżności, przenoszenie i koszt całego procesu."
+    }
+  ]
+}

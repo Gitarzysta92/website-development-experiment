@@ -1,0 +1,81 @@
+{
+  "applications": {
+    "01-detailed": {
+      "uuid": "hzko0brsdil4ptbx51jetn4q",
+      "name": "artifactory-detailed-astra-xhigh",
+      "origin": "https://artifactory-detailed-astra-xhigh.coolify.threesixty.dev",
+      "source_sha256": "30b3652a0e3d2f01a5c23a95b7c61baeb430b15b4c392f4e7e6fc5071d5b4463",
+      "deployment_uuid": "exibohm2ippasiwihg6dyp4e",
+      "deployment_status": "finished",
+      "application_status": "running:healthy",
+      "previous_deployments": [
+        "zofchgtnjpgkt2ylgk9qjkon",
+        "jh5g9rnnumms3bb4tqygpi3r"
+      ],
+      "previous_applications": [
+        "fb4vzcjh4whpfhahwq2xtmpu"
+      ],
+      "verification": {
+        "variant": "01-detailed",
+        "origin": "https://artifactory-detailed-astra-xhigh.coolify.threesixty.dev",
+        "verified_at": "2026-10-09T22:56:12.032741+00:00",
+        "cloudflare_access_protected": true,
+        "pages_ok": 34,
+        "assets_ok": 7,
+        "redirects_and_404s_ok": true,
+        "source_paths_private": true,
+        "noindex": true,
+        "enquiry": "Synthetic fixture receipt confirmed, no email sent"
+      },
+      "browser_verification": {
+        "variant": "01-detailed",
+        "desktop_home": true,
+        "mobile_home": true,
+        "language_switch": true,
+        "contact_flow": true,
+        "browser_errors": []
+      }
+    },
+    "02-inputs-only": {
+      "uuid": "ttpcfeye2uepm1ebxl1v3wx4",
+      "name": "artifactory-inputs-only-astra-xhigh",
+      "origin": "https://artifactory-inputs-only-astra-xhigh.coolify.threesixty.dev",
+      "source_sha256": "314e076283aae126c9b3486c10f85adfbfdae282bcd0dee4deac4b7d6985f929",
+      "deployment_uuid": "mtzejpc73wd9upepwj3w0nrr",
+      "deployment_status": "finished",
+      "application_status": "running:healthy",
+      "previous_deployments": [
+        "80aqsqivvhidva1icq1t1gin"
+      ],
+      "verification": {
+        "variant": "02-inputs-only",
+        "origin": "https://artifactory-inputs-only-astra-xhigh.coolify.threesixty.dev",
+        "verified_at": "2026-10-09T22:56:16.128906+00:00",
+        "cloudflare_access_protected": true,
+        "pages_ok": 34,
+        "assets_ok": 5,
+        "redirects_and_404s_ok": true,
+        "source_paths_private": true,
+        "noindex": true,
+        "enquiry": "Write requests rejected, email drafting remains browser-only"
+      },
+      "browser_verification": {
+        "variant": "02-inputs-only",
+        "desktop_home": true,
+        "mobile_home": true,
+        "language_switch": true,
+        "contact_flow": true,
+        "browser_errors": []
+      }
+    }
+  },
+  "project_uuid": "vw79xyabzjyhlbuwwtdjpbrk",
+  "run_group": "2026-10-09-pair-01",
+  "hosting": "Coolify behind existing Cloudflare Access wildcard, TLS at Cloudflare",
+  "original_experiment_source_changed": false,
+  "build_transfer": {
+    "01-detailed": "For a fresh build, stage source.tar.gz over SSH to the Coolify host and run serve-bundle.py bound to 127.0.0.1:18765 until the build finishes. Dockerfile.staged verifies its SHA256. Ordinary app runtime does not use the bundle server.",
+    "02-inputs-only": "Source bundle embedded in the saved Coolify Dockerfile."
+  },
+  "temporary_bundle_server_stopped": true
+}

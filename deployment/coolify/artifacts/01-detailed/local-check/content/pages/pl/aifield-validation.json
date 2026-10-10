@@ -1,0 +1,104 @@
+{
+  "id": "aifield-validation",
+  "locale": "pl",
+  "type": "detail",
+  "title": "Przykład projektu. Granica dowodów.",
+  "description": "Wewnętrzny przykład projektu fotonicznego chipu glukozowego, porównania klasycznych symulacji i ograniczenia dostępnych dowodów AIFIELD.",
+  "eyebrow": "AIFIELD / INŻYNIERIA FOTONICZNA",
+  "lead": "Prześledź działania inżynierskie, zachowując różnicę między wynikiem projektowania a zmierzonym rezultatem pomiarowym.",
+  "sections": [
+    {
+      "id": "example",
+      "title": "Wewnętrzny projekt fotoniczny związany z glukozą.",
+      "paragraphs": [
+        "Materiał demonstracyjny z września 2026 obejmuje wewnętrzny przykład projektu fotonicznego chipu do badań nad pomiarem glukozy. Łączy zamierzone pytanie pomiarowe z definiowaniem struktury fotonicznej i badaniem jej zachowania w modelu.",
+        "To wewnętrzna praca projektowa. Dostarczony opis nie potwierdza zewnętrznego klienta, wdrożenia produkcyjnego ani pomiaru wykonanego chipu. Odrębne pytanie o walidację pomiaru omawia strona dowodów ArtiSense."
+      ],
+      "links": [
+        {
+          "id": "artisense-validation"
+        }
+      ]
+    },
+    {
+      "id": "workflow",
+      "title": "Odczytaj przykład jako ciąg decyzji inżynierskich.",
+      "paragraphs": [
+        "Objaśniająca sekwencja zaczyna się od celu pomiarowego i proponowanej struktury optycznej. Geometria i założenia modelu określają możliwą symulację. Projekt i modelowaną odpowiedź można następnie ocenić, aby wskazać potrzebne zmiany lub badania fizyczne.",
+        "Podsumowanie uzasadnia jakościowy opis tej pracy. Nie zawiera oryginalnego pliku projektu ani wyniku liczbowego możliwego do odtworzenia na stronie. Diagram objaśnia kolejność; nie jest zrzutem interfejsu ani wykresem eksperymentu."
+      ],
+      "links": [
+        {
+          "id": "aifield-design"
+        }
+      ]
+    },
+    {
+      "id": "comparison",
+      "title": "Czego wymaga porównanie symulacji.",
+      "paragraphs": [
+        "Źródło wspomina o porównaniach wewnętrznych. Ich interpretacja wymaga metody odniesienia, zgodnej geometrii i materiałów, źródła oraz warunków brzegowych, ustawień numerycznych i porównywanej wielkości.",
+        "Dostarczone podsumowanie nie zawiera tych szczegółów na poziomie pozwalającym odtworzyć obliczenia. Nie określa też liczbowo przypadków udanych i nieudanych. Brakujących liczb nie zastępujemy oceną benchmarku ani twierdzeniem o powszechnej zgodności."
+      ],
+      "rows": [
+        [
+          "Proces projektowy",
+          "Opisano wewnętrzny przykład. Pozwala omówić pracę inżynierską, lecz nie dowodzi przyjęcia narzędzia przez klientów."
+        ],
+        [
+          "Porównanie klasyczne",
+          "Wspomniano porównania wewnętrzne; ustawienia odniesienia i liczbowe sukcesy lub rozbieżności są tutaj niedostępne."
+        ],
+        [
+          "Przewidywanie neuronowe",
+          "Odrębny kierunek badań z ograniczeniami dotyczącymi brzegów, generalizacji i łączenia obszarów."
+        ],
+        [
+          "Pomiar fizyczny",
+          "Przykład projektowy nie potwierdza wytworzenia ani zmierzonych parametrów pomiaru."
+        ]
+      ]
+    },
+    {
+      "id": "next",
+      "title": "Kolejny zestaw dowodów powinien umożliwiać odtworzenie.",
+      "paragraphs": [
+        "Proponowany kolejny etap to możliwy do oceny zapis projektu i symulacji: wersjonowane dane, ustawienia narzędzi, warunki odniesienia, wyniki i znane rozbieżności. Późniejsze porównanie fizyczne wymagałoby własnych dowodów wytworzenia i pomiarów.",
+        "To potrzeby dowodowe, a nie zakończone etapy ani obiecane terminy. Demo o uzgodnionym zakresie może wyjaśnić dostępne obecnie elementy procesu i wymagania oceny konkretnego zadania inżynierskiego."
+      ],
+      "links": [
+        {
+          "id": "aifield-neural"
+        },
+        {
+          "id": "investors"
+        },
+        {
+          "id": "contact"
+        }
+      ]
+    }
+  ],
+  "relatedIds": [
+    "aifield-design",
+    "aifield-neural",
+    "artisense-validation",
+    "investors",
+    "contact"
+  ],
+  "project": "aifield",
+  "sourceReferences": [
+    "HP-1.1/project-context",
+    "SM-0.3/aifield-validation"
+  ],
+  "sourceRevision": "2026-10-09 (AIFIELD snapshot: September 2026)",
+  "editorialState": "draft",
+  "modifiedAt": "2026-10-09T21:00:00.000Z",
+  "reviews": {
+    "facts": null,
+    "language": null,
+    "assets": null
+  },
+  "privateNotes": "Locally authored from supplied summary. Factual, translation and asset owner review pending. Original PDFs were not supplied.",
+  "maturity": "Stan opisany we wrześniu 2026 · aktualny dostęp do uzgodnienia"
+}

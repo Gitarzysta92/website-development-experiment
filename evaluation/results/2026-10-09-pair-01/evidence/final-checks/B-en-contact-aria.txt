@@ -1,0 +1,45 @@
+- main:
+  - navigation "Breadcrumb":
+    - list:
+      - listitem:
+        - link "Home":
+          - /url: /en/
+        - text: /
+      - listitem: Contact
+  - paragraph: Start a conversation
+  - heading "Good things start with a question." [level=1]
+  - paragraph: Tell us what you would like to explore. Investment, collaboration or a closer look at the work.
+  - link "info@artifactory.tech":
+    - /url: mailto:info@artifactory.tech
+  - text: A clear next step
+  - paragraph: This local form prepares an email draft. It does not submit to a receiver. Copy your draft, open your email app and send it when you are ready.
+  - paragraph: Please avoid confidential, financial-account or health information. The public mailbox is supplied in the brief; its operator has not been verified.
+  - heading "What would you like to discuss?" [level=2]
+  - paragraph: Fields marked * are required.
+  - text: Enquiry type
+  - combobox "Enquiry type":
+    - option "Investment in Artifactory" [selected]
+    - option "Partnership"
+    - option "AIFIELD demo"
+    - option "General enquiry"
+  - text: Project context (optional)
+  - combobox "Project context (optional)":
+    - option "Artifactory / no specific project" [selected]
+    - option "ArtiSense"
+    - option "AIFIELD"
+  - text: Your name (optional)
+  - textbox "Your name (optional)"
+  - text: Organization (optional)
+  - textbox "Organization (optional)"
+  - text: Reply email
+  - textbox "Reply email"
+  - text: Your message
+  - textbox "Your message":
+    - /placeholder: A little context makes for a better conversation…
+  - text: 20–4,000 characters
+  - paragraph:
+    - text: Your draft stays in this page’s memory. Nothing is stored or sent by this site.
+    - link "How this preview handles data":
+      - /url: /en/privacy/
+    - text: .
+  - button "Prepare email enquiry"

@@ -1,0 +1,44 @@
+{
+  "id": "projects",
+  "locale": "pl",
+  "title": "Dwa projekty, różne pytania",
+  "lead": "Poznaj cel pomiarowy i narzędzia projektowe bez mieszania ich wyników.",
+  "description": "ArtiSense dotyczy możliwego pomiaru optycznego. AIFIELD dotyczy projektowania i symulacji układów fotonicznych.",
+  "eyebrow": "Artifactory",
+  "sections": [
+    {
+      "id": "focus",
+      "title": "ArtiSense",
+      "paragraphs": [
+        "Proponowany system łączy oświetlenie, odpowiedź optyczną i interpretację. Pomiar glukozy to ważny przykład badawczy; sprawdzony pomiar pozostaje celem."
+      ]
+    },
+    {
+      "id": "evidence",
+      "title": "AIFIELD",
+      "paragraphs": [
+        "Materiały z września 2026 opisują CAD, symulacje i częściowo wspierane przez AI procesy z kontrolą człowieka. Predykcja pola neuronowego pozostaje osobnym kierunkiem badań."
+      ]
+    },
+    {
+      "id": "next",
+      "title": "Powiązanie",
+      "paragraphs": [
+        "AIFIELD może wspierać projektowanie układów detekcyjnych. Symulowany projekt nie jest przetestowanym czujnikiem."
+      ]
+    }
+  ],
+  "related": [
+    "artisense",
+    "aifield",
+    "investors"
+  ],
+  "stage": "Local draft · source context October 2026",
+  "pageType": "company",
+  "sourceReferences": [
+    "HP-1.1 project-context 2026-10-09"
+  ],
+  "sourceRevision": "2026-10-09",
+  "editorialState": "draft",
+  "modifiedAt": "2026-10-10"
+}

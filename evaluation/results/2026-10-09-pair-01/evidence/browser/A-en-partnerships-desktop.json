@@ -1,0 +1,319 @@
+{
+  "id": "A-en-partnerships-desktop",
+  "label": "A",
+  "locale": "en",
+  "pageId": "partnerships",
+  "view": "desktop",
+  "url": "http://127.0.0.1:4501/en/partnerships/",
+  "status": 200,
+  "errors": [],
+  "title": "Bring a question we can investigate. | Artifactory",
+  "language": "en",
+  "h1": [
+    "Bring a question we can investigate."
+  ],
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Bring a question we can investigate."
+    },
+    {
+      "level": "H2",
+      "text": "Sensing and optical measurement."
+    },
+    {
+      "level": "H2",
+      "text": "Connect a design with a testable structure."
+    },
+    {
+      "level": "H2",
+      "text": "Evaluate the engineering workflow."
+    },
+    {
+      "level": "H2",
+      "text": "Give the first conversation enough context."
+    },
+    {
+      "level": "H2",
+      "text": "Start a focused conversation."
+    },
+    {
+      "level": "H2",
+      "text": "Company"
+    },
+    {
+      "level": "H2",
+      "text": "Projects"
+    },
+    {
+      "level": "H2",
+      "text": "Connect"
+    }
+  ],
+  "text": "Skip to content\nLocal draft · Research in progress\na·\nartifactory\nProjects\n⌄\nInvestors\nOur Approach\nAbout\nPL\n↔\nLet’s talk\n↗\nHome\nPartnerships\n\nARTIFACTORY / COMPANY\n\nBring a question we can investigate.\n\nUseful collaboration starts with a specific technical question and the expertise needed to answer it.\n\nOn this page\n\nSensing and optical measurement.\nConnect a design with a testable structure.\nEvaluate the engineering workflow.\nGive the first conversation enough context.\n\nArtifactory\n\nArtiSense\n\nSensing objective\n\nAIFIELD\n\nDesign tools\n\nConceptual relationship between the work. Each project’s stage and evidence need their own assessment.\nSensing and optical measurement.\n\nPossible ArtiSense discussions concern the optical response being sought, a suitable reference comparison and the effects that could obscure the signal. Expertise in controlled measurements, calibration and repeatability could help define what a meaningful experiment would need.\n\nDescribe the application context and which observation you could help evaluate. Non-invasive and wearable ambitions remain research directions; no clinical pilot or validated measurement capability is implied.\n\nTechnology\n↗\nResearch and Validation\n↗\nConnect a design with a testable structure.\n\nPotential fabrication and testing topics include process assumptions, tolerances, material behavior and the conditions needed to compare a physical structure with a model. The first task is to identify where the design assumptions may fail in implementation.\n\nThese are proposed discussion areas. The supplied material does not establish a manufacturing agreement, committed test program or existing partner relationship.\n\nEvaluate the engineering workflow.\n\nFor AIFIELD, a useful evaluation begins with a bounded design task: its inputs, expected output and a reference method. Photonic designers can help assess how a workflow supports setup, comparison and result inspection.\n\nFeedback on command-line or agent-assisted work should include human review responsibilities and the local/external data boundary. A demo request is a discussion about access and scope, not immediate product access.\n\nDesign and Simulation\n↗\nExamples and Validation\n↗\nGive the first conversation enough context.\n\nState the question, the expertise or facilities you can contribute and the evidence you would need to assess progress. Identify any constraints on sharing before sending design files or unpublished data. A short non-confidential description is sufficient.\n\nThe topics on this page are invitations to explore fit. They are not evidence of named partners, customers, letters of intent or committed pilots. Any relationship and permission to describe it publicly would need separate confirmation.\n\nContact\n↗\nStart a focused conversation.\nDiscuss a partnership\n↗\nartifactory·\n\nSensing technology and tools for designing photonic systems.\n\ninfo@artifactory.tech\n↗\nCompany\nHome\nProjects\nInvestors\nOur Approach\nAbout\nProjects\nArtiSense\nAIFIELD\nConnect\nPartnerships\nContact\nPrivacy\nArtifactory\nNew possibilities, through light.",
+  "links": [
+    {
+      "text": "Skip to content",
+      "href": "#main",
+      "lang": ""
+    },
+    {
+      "text": "a·\nartifactory",
+      "href": "/en/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/en/projects/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/en/projects/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/en/projects/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Investors",
+      "href": "/en/investors/",
+      "lang": ""
+    },
+    {
+      "text": "Our Approach",
+      "href": "/en/approach/",
+      "lang": ""
+    },
+    {
+      "text": "About",
+      "href": "/en/about/",
+      "lang": ""
+    },
+    {
+      "text": "Partnerships",
+      "href": "/en/partnerships/",
+      "lang": ""
+    },
+    {
+      "text": "Contact",
+      "href": "/en/contact/",
+      "lang": ""
+    },
+    {
+      "text": "PL\n↔",
+      "href": "http://127.0.0.1:4501/pl/wspolpraca/",
+      "lang": "pl"
+    },
+    {
+      "text": "Let’s talk\n↗",
+      "href": "/en/contact/?intent=investment",
+      "lang": ""
+    },
+    {
+      "text": "Home",
+      "href": "/en/",
+      "lang": ""
+    },
+    {
+      "text": "Sensing and optical measurement.",
+      "href": "#sensing",
+      "lang": ""
+    },
+    {
+      "text": "Connect a design with a testable structure.",
+      "href": "#fabrication",
+      "lang": ""
+    },
+    {
+      "text": "Evaluate the engineering workflow.",
+      "href": "#tools",
+      "lang": ""
+    },
+    {
+      "text": "Give the first conversation enough context.",
+      "href": "#context",
+      "lang": ""
+    },
+    {
+      "text": "Technology\n↗",
+      "href": "/en/projects/artisense/technology/",
+      "lang": ""
+    },
+    {
+      "text": "Research and Validation\n↗",
+      "href": "/en/projects/artisense/research-validation/",
+      "lang": ""
+    },
+    {
+      "text": "Design and Simulation\n↗",
+      "href": "/en/projects/aifield/design-simulation/",
+      "lang": ""
+    },
+    {
+      "text": "Examples and Validation\n↗",
+      "href": "/en/projects/aifield/examples-validation/",
+      "lang": ""
+    },
+    {
+      "text": "Contact\n↗",
+      "href": "/en/contact/",
+      "lang": ""
+    },
+    {
+      "text": "Discuss a partnership\n↗",
+      "href": "/en/contact/?intent=partnership",
+      "lang": ""
+    },
+    {
+      "text": "artifactory·",
+      "href": "/en/",
+      "lang": ""
+    },
+    {
+      "text": "info@artifactory.tech\n↗",
+      "href": "mailto:info@artifactory.tech",
+      "lang": ""
+    },
+    {
+      "text": "Home",
+      "href": "/en/",
+      "lang": ""
+    },
+    {
+      "text": "Projects",
+      "href": "/en/projects/",
+      "lang": ""
+    },
+    {
+      "text": "Investors",
+      "href": "/en/investors/",
+      "lang": ""
+    },
+    {
+      "text": "Our Approach",
+      "href": "/en/approach/",
+      "lang": ""
+    },
+    {
+      "text": "About",
+      "href": "/en/about/",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSense",
+      "href": "/en/projects/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELD",
+      "href": "/en/projects/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Partnerships",
+      "href": "/en/partnerships/",
+      "lang": ""
+    },
+    {
+      "text": "Contact",
+      "href": "/en/contact/",
+      "lang": ""
+    },
+    {
+      "text": "Privacy",
+      "href": "/en/privacy/",
+      "lang": ""
+    }
+  ],
+  "metadata": [
+    {
+      "name": "viewport",
+      "content": "width=device-width, initial-scale=1"
+    },
+    {
+      "name": "description",
+      "content": "Proposed Artifactory collaboration topics in sensing, optical measurement, fabrication and testing, and photonic engineering-tool evaluation."
+    },
+    {
+      "name": "robots",
+      "content": "noindex, nofollow"
+    },
+    {
+      "rel": "canonical",
+      "href": "http://127.0.0.1:4501/en/partnerships/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "en",
+      "href": "http://127.0.0.1:4501/en/partnerships/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "pl",
+      "href": "http://127.0.0.1:4501/pl/wspolpraca/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "x-default",
+      "href": "http://127.0.0.1:4501/en/partnerships/"
+    },
+    {
+      "property": "og:type",
+      "content": "website"
+    },
+    {
+      "property": "og:site_name",
+      "content": "Artifactory"
+    },
+    {
+      "property": "og:title",
+      "content": "Bring a question we can investigate. | Artifactory"
+    },
+    {
+      "property": "og:description",
+      "content": "Proposed Artifactory collaboration topics in sensing, optical measurement, fabrication and testing, and photonic engineering-tool evaluation."
+    },
+    {
+      "property": "og:url",
+      "content": "http://127.0.0.1:4501/en/partnerships/"
+    },
+    {
+      "property": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "property": "og:image",
+      "content": "http://127.0.0.1:4501/brand/share-v1.svg"
+    },
+    {
+      "property": "og:image:width",
+      "content": "1200"
+    },
+    {
+      "property": "og:image:height",
+      "content": "630"
+    }
+  ],
+  "forms": [],
+  "images": [],
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "scrollWidth": 1425
+  },
+  "overflowing": [],
+  "axe": {
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "impact": "serious",
+        "nodeCount": 7
+      }
+    ],
+    "passes": 39
+  }
+}

@@ -1,0 +1,39 @@
+
+ RUN  v5.0.3 /Users/michal.lukasiewicz/Programming/website-development-experiment/evaluation/results/2026-10-09-pair-01/guidelines/fixtures/A
+
+ ❯ tests/content.test.ts (7 tests | 1 failed) 20ms
+   × complete authored contract, every page edit and asset inventory 6ms
+
+ Test Files  1 failed (1)
+      Tests  1 failed | 6 passed (7)
+   Start at  09:31:57
+   Duration  149ms (import 42%, transform 33%, tests 23%, worker 2%)
+
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 1 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  tests/content.test.ts > complete authored contract, every page edit and asset inventory
+AssertionError: expected { …(3) } to deeply equal { facts: null, language: null, …(1) }
+
+- Expected
++ Received
+
+  {
+-   "assets": null,
+-   "facts": null,
+-   "language": null,
++   "assets": "67819f44985875e03e901b605d193b4d54181439ac1c6a17fb4a9ee6064c83d7",
++   "facts": "67819f44985875e03e901b605d193b4d54181439ac1c6a17fb4a9ee6064c83d7",
++   "language": "67819f44985875e03e901b605d193b4d54181439ac1c6a17fb4a9ee6064c83d7",
+  }
+
+ ❯ tests/content.test.ts:18:26
+     16|  expect(records).toHaveLength(34);
+     17|  for(const record of records){
+     18|   expect(record.reviews).toEqual({facts:null,language:null,assets:null…
+       |                          ^
+     19|   expect(record.editorialState).toBe('draft');
+     20|   const other=records.find(r=>r.id===record.id&&r.locale!==record.loca…
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/1]⎯
+

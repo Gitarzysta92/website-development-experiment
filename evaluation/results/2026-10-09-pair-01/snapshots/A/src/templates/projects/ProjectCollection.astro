@@ -1,0 +1,9 @@
+---
+import type {PageView} from '../../content/index';
+import ProjectFeature from '../home/ProjectFeature.astro';
+import EvidenceTable from '../../components/ui/EvidenceTable.astro';
+interface Props {sections:PageView['sections'];locale:PageView['locale'];tables?:boolean;prefix?:string;showVisual?:boolean;}
+const {sections,locale,tables=false,prefix='',showVisual=true}=Astro.props;
+const pl=locale==='pl';
+---
+{sections.length===0?<p>{pl?'Brak projektów do wyświetlenia w tym widoku.':'There are no projects to display in this view.'}</p>:sections.map((section,index)=><div><ProjectFeature section={section} locale={locale} index={index+1} prefix={prefix} showVisual={showVisual}/>{tables&&section.rows&&<EvidenceTable rows={section.rows} headers={pl?['Pytanie','Odpowiedź']:['Question','Project view']} label={`${section.title} ${pl?'porównanie':'comparison'}`}/>}</div>)}

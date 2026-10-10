@@ -1,0 +1,42 @@
+{
+  "id": "aifield-neural",
+  "locale": "pl",
+  "title": "Badania nad uczonym modelem pola optycznego",
+  "description": "Predykcja pola neuronowego to badawczy kierunek AIFIELD. Dotyczy pytania, czy model uczony potrafi oszacować zachowanie pola w określonych warunkach; nie zastępuje klasycznych solverów opisanych na innych stronach.",
+  "eyebrow": "AIFIELD",
+  "lead": "Predykcja pola neuronowego to badawczy kierunek AIFIELD. Dotyczy pytania, czy model uczony potrafi oszacować zachowanie pola w określonych warunkach; nie zastępuje klasycznych solverów opisanych na innych stronach.",
+  "sections": [
+    {
+      "id": "section-1",
+      "heading": "Ramy doświadczenia",
+      "body": [
+        "Model otrzymuje opis problemu fotonicznego i informacje o warunkach brzegowych, a następnie przewiduje pole optyczne. Porównanie z obliczeniami klasycznymi pozwala sprawdzić podobieństwa i odstępstwa w badanych warunkach."
+      ]
+    },
+    {
+      "id": "section-2",
+      "heading": "Granice obecnych podstaw",
+      "body": [
+        "Przejrzane wyniki zależą od podanych informacji brzegowych. Predykcja od podstaw, większe łączone obszary i praktyczna przewaga szybkości pozostają pytaniami otwartymi. Dostępne podsumowanie nie zawiera ogólnego zestawu testów i liczb uzasadniających publiczną deklarację wydajności."
+      ]
+    },
+    {
+      "id": "section-3",
+      "heading": "Kolejne potrzebne badanie",
+      "body": [
+        "Dalsza praca powinna określić rozdział danych treningowych i testowych, rodziny geometrii i warunków brzegowych, miary błędu, przypadki niepowodzenia, koszt obliczeń i warunki porównania. Umożliwiłoby to ocenę uogólniania wyników."
+      ]
+    }
+  ],
+  "related": [
+    "aifield-validation",
+    "aifield-design"
+  ],
+  "editorialState": "draft",
+  "sourceRevision": "HP-1.1; context 2026-10-09",
+  "modified": "2026-10-10",
+  "sourceRefs": [
+    "inputs/content/project-context.md (summary, 2026-10-09)",
+    "inputs/docs/sitemap.md (SM-0.3)"
+  ]
+}

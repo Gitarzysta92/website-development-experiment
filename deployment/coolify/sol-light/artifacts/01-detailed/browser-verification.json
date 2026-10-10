@@ -1,0 +1,8 @@
+{
+  "variant": "01-detailed",
+  "desktop_home": true,
+  "mobile_home": true,
+  "language_switch": true,
+  "contact_flow": true,
+  "browser_errors": []
+}

@@ -1,0 +1,8 @@
+file:///Users/michal.lukasiewicz/Programming/website-development-experiment/runs/2026-10-10-sol-medium-pair-01/01-detailed/website/scripts/serve.mjs:7
+if(process.env.HOST&&!['127.0.0.1','localhost','::1'].includes(process.env.HOST))throw new Error('Preview host must be loopback.');
+                                                                                       ^
+
+Error: Preview host must be loopback.
+    at file:///Users/michal.lukasiewicz/Programming/website-development-experiment/runs/2026-10-10-sol-medium-pair-01/01-detailed/website/scripts/serve.mjs:7:88
+
+Node.js v22.17.1

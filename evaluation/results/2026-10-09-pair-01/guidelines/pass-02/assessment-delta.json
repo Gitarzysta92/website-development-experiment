@@ -1,0 +1,82 @@
+{
+  "changes": [
+    {
+      "rule": "SEC-03",
+      "site": "A",
+      "before": "pass",
+      "after": "fail",
+      "findings": [
+        "GA-04"
+      ]
+    },
+    {
+      "rule": "REL-04",
+      "site": "A",
+      "before": "not checked",
+      "after": "fail",
+      "findings": [
+        "G-03"
+      ]
+    },
+    {
+      "rule": "REL-04",
+      "site": "B",
+      "before": "not checked",
+      "after": "fail",
+      "findings": [
+        "G-03"
+      ]
+    },
+    {
+      "rule": "REL-06",
+      "site": "A",
+      "before": "not checked",
+      "after": "pass",
+      "findings": []
+    },
+    {
+      "rule": "PERF-03",
+      "site": "B",
+      "before": "not checked",
+      "after": "pass",
+      "findings": []
+    }
+  ],
+  "counts_before": {
+    "A": {
+      "pass": 135,
+      "not applicable": 54,
+      "not checked": 22,
+      "fail": 8
+    },
+    "B": {
+      "pass": 99,
+      "not checked": 42,
+      "not applicable": 62,
+      "fail": 16
+    }
+  },
+  "counts_after": {
+    "A": {
+      "pass": 135,
+      "not applicable": 54,
+      "not checked": 20,
+      "fail": 10
+    },
+    "B": {
+      "pass": 100,
+      "not checked": 40,
+      "not applicable": 62,
+      "fail": 17
+    }
+  },
+  "validation": {
+    "rule_assessments": 438,
+    "local_links_checked": 3791,
+    "broken_links": [],
+    "runtime_observations": 13,
+    "recovery_checks": 5,
+    "browser_comparisons": 12
+  },
+  "originals_and_snapshots_unchanged": true
+}

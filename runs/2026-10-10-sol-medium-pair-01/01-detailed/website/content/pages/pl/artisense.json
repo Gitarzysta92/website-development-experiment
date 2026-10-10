@@ -1,0 +1,44 @@
+{
+  "id": "artisense",
+  "locale": "pl",
+  "title": "Światło jako źródło informacji chemicznej",
+  "description": "ArtiSense bada koncepcję zminiaturyzowanego czujnika optycznego. Proponowana architektura ma przekształcać odpowiedź fotoniczną zależną od próbki w możliwą do interpretacji informację, lecz pozostają ważne pytania pomiarowe i integracyjne.",
+  "eyebrow": "ArtiSense",
+  "lead": "ArtiSense bada koncepcję zminiaturyzowanego czujnika optycznego. Proponowana architektura ma przekształcać odpowiedź fotoniczną zależną od próbki w możliwą do interpretacji informację, lecz pozostają ważne pytania pomiarowe i integracyjne.",
+  "sections": [
+    {
+      "id": "section-1",
+      "heading": "Cel pomiarowy",
+      "body": [
+        "Koncepcja wykorzystuje światło widzialne lub podczerwone oddziałujące z próbką. Detektor i porównanie z odniesieniem mogłyby pomóc oddzielić sygnał chemiczny od zmian oświetlenia, tkanki, ruchu i otoczenia. Zastosowania nieinwazyjne i ubieralne są kierunkami prac, nie gotowymi produktami."
+      ]
+    },
+    {
+      "id": "section-2",
+      "heading": "Proponowany układ, nie gotowy chip",
+      "body": [
+        "Opisana architektura obejmuje elementy fotoniczne, detekcję elektroniczną, proponowany rekonfigurowalny analogowy procesor interpretacji, oprogramowanie i łączność. Opis części nie oznacza, że istnieje zintegrowane i zwalidowane urządzenie."
+      ]
+    },
+    {
+      "id": "section-3",
+      "heading": "Kolejny krok",
+      "body": [
+        "Prace nad wykonalnością optyczną i projektem układu są punktem wyjścia. Następne pytania dotyczą kalibracji, powtarzalności, integracji fizycznej i porównania z wiarygodnymi pomiarami w określonych warunkach."
+      ]
+    }
+  ],
+  "related": [
+    "artisense-technology",
+    "artisense-applications",
+    "artisense-validation",
+    "aifield"
+  ],
+  "editorialState": "draft",
+  "sourceRevision": "HP-1.1; context 2026-10-09",
+  "modified": "2026-10-10",
+  "sourceRefs": [
+    "inputs/content/project-context.md (summary, 2026-10-09)",
+    "inputs/docs/sitemap.md (SM-0.3)"
+  ]
+}

@@ -1,0 +1,8 @@
+file:///Users/michal.lukasiewicz/Programming/website-development-experiment/runs/2026-10-10-sol-medium-pair-01/01-detailed/website/scripts/serve.mjs:10
+if(process.env.AF_PROFILE==='published')throw new Error('No approved published records or live release prerequisites.');
+                                              ^
+
+Error: No approved published records or live release prerequisites.
+    at file:///Users/michal.lukasiewicz/Programming/website-development-experiment/runs/2026-10-10-sol-medium-pair-01/01-detailed/website/scripts/serve.mjs:10:47
+
+Node.js v22.17.1

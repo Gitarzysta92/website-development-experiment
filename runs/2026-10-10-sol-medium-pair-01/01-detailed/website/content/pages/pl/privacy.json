@@ -1,0 +1,41 @@
+{
+  "id": "privacy",
+  "locale": "pl",
+  "title": "Prywatność w lokalnym podglądzie",
+  "description": "Ten szkic opisuje działanie lokalnej strony testowej. Ostateczna informacja produkcyjna wymaga potwierdzenia administratora danych, sposobu dostarczania wiadomości i oceny prawnej przed publikacją.",
+  "eyebrow": "Artifactory",
+  "lead": "Ten szkic opisuje działanie lokalnej strony testowej. Ostateczna informacja produkcyjna wymaga potwierdzenia administratora danych, sposobu dostarczania wiadomości i oceny prawnej przed publikacją.",
+  "sections": [
+    {
+      "id": "section-1",
+      "heading": "Działanie formularza",
+      "body": [
+        "Formularz wysyła żądanie JSON do tej samej lokalnej strony. W trybie testowym prawidłowe zgłoszenie jest przechowywane w pamięci procesu wraz z identyfikatorem; nie jest wysyłane pocztą ani przekazywane usłudze zewnętrznej. Wpisy wygasają po 24 godzinach i znikają po restarcie."
+      ]
+    },
+    {
+      "id": "section-2",
+      "heading": "Czego nie zapisujemy w przeglądarce",
+      "body": [
+        "Wpisane wartości pozostają w pamięci strony, dopóki jest otwarta. Nie trafiają do adresu URL, plików cookie ani magazynu lokalnego lub sesyjnego. Strona nie dodaje żądań analitycznych ani śledzących."
+      ]
+    },
+    {
+      "id": "section-3",
+      "heading": "Alternatywny kontakt e-mail",
+      "body": [
+        "Widoczny link otwiera własny program pocztowy użytkownika. Jeśli z niego skorzystasz, zastosowanie mają zasady dostawcy poczty i odbiorczej skrzynki, nie lokalnego testu. Adres kandydujący nie został zweryfikowany do publikacji."
+      ]
+    }
+  ],
+  "related": [
+    "contact"
+  ],
+  "editorialState": "draft",
+  "sourceRevision": "HP-1.1; context 2026-10-09",
+  "modified": "2026-10-10",
+  "sourceRefs": [
+    "inputs/content/project-context.md (summary, 2026-10-09)",
+    "inputs/docs/sitemap.md (SM-0.3)"
+  ]
+}

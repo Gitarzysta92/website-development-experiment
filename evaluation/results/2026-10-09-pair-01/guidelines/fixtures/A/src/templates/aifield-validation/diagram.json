@@ -1,0 +1,38 @@
+{
+  "en": [
+    {
+      "title": "Sensing objective",
+      "description": "An intended glucose-related optical investigation."
+    },
+    {
+      "title": "Design output",
+      "description": "Candidate geometry and explicit model assumptions."
+    },
+    {
+      "title": "Simulation output",
+      "description": "Inspect modeled behavior; preserve reference conditions."
+    },
+    {
+      "title": "Evidence still needed",
+      "description": "Reproducible comparison, then separate physical validation."
+    }
+  ],
+  "pl": [
+    {
+      "title": "Cel pomiarowy",
+      "description": "Zamierzone badanie optyczne związane z glukozą."
+    },
+    {
+      "title": "Wynik projektowy",
+      "description": "Proponowana geometria i jawne założenia modelu."
+    },
+    {
+      "title": "Wynik symulacji",
+      "description": "Oceń modelowane zachowanie; zachowaj warunki odniesienia."
+    },
+    {
+      "title": "Potrzebne dowody",
+      "description": "Odtwarzalne porównanie, następnie odrębna walidacja fizyczna."
+    }
+  ]
+}

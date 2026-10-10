@@ -1,0 +1,80 @@
+{
+  "project_uuid": "vw79xyabzjyhlbuwwtdjpbrk",
+  "run_group": "2026-10-10-sol-medium-pair-01",
+  "applications": {
+    "01-detailed": {
+      "variant": "01-detailed",
+      "run_group": "2026-10-10-sol-medium-pair-01",
+      "name": "artifactory-detailed-sol-medium",
+      "origin": "https://artifactory-detailed-sol-medium.coolify.threesixty.dev",
+      "model": "gpt-6-sol",
+      "reasoning_effort": "medium",
+      "source_sha256": "752c5a7ea348eb8fc3311958d5b2d95255c2f667cf179c215ddb3f1bbdd21489",
+      "uuid": "dxoodmsi88rbpv2r58skyvpf",
+      "deployment_uuid": "fg0kxjhol2y8dwcaz7uh4wto",
+      "deployment_status": "finished",
+      "application_status": "running:healthy",
+      "verification": {
+        "variant": "01-detailed",
+        "origin": "https://artifactory-detailed-sol-medium.coolify.threesixty.dev",
+        "verified_at": "2026-10-10T08:48:51.161854+00:00",
+        "cloudflare_access_protected": true,
+        "pages_ok": 34,
+        "assets_ok": 3,
+        "redirects_and_404s_ok": true,
+        "source_paths_private": true,
+        "noindex": true,
+        "enquiry": "Synthetic fixture receipt confirmed, no email sent"
+      },
+      "browser_verification": {
+        "variant": "01-detailed",
+        "desktop_home": true,
+        "mobile_home": true,
+        "language_switch": true,
+        "contact_flow": true,
+        "browser_errors": []
+      }
+    },
+    "02-inputs-only": {
+      "variant": "02-inputs-only",
+      "run_group": "2026-10-10-sol-medium-pair-01",
+      "name": "artifactory-inputs-only-sol-medium",
+      "origin": "https://artifactory-inputs-only-sol-medium.coolify.threesixty.dev",
+      "model": "gpt-6-sol",
+      "reasoning_effort": "medium",
+      "source_sha256": "da0bd509cd4afbc768aec726919fb1b61529bf3e15450e16d9de4f8367fd8372",
+      "uuid": "isrlrgpaprjjh3vbx71p9ec5",
+      "deployment_uuid": "pgjmhrqvyb28wsfzjykybbov",
+      "deployment_status": "finished",
+      "application_status": "running:healthy",
+      "verification": {
+        "variant": "02-inputs-only",
+        "origin": "https://artifactory-inputs-only-sol-medium.coolify.threesixty.dev",
+        "verified_at": "2026-10-10T08:48:17.224247+00:00",
+        "cloudflare_access_protected": true,
+        "pages_ok": 34,
+        "assets_ok": 4,
+        "redirects_and_404s_ok": true,
+        "source_paths_private": true,
+        "noindex": true,
+        "enquiry": "Receiver disabled, form reports unavailable and email alternative remains visible"
+      },
+      "browser_verification": {
+        "variant": "02-inputs-only",
+        "desktop_home": true,
+        "mobile_home": true,
+        "language_switch": true,
+        "contact_flow": true,
+        "browser_errors": []
+      }
+    }
+  },
+  "hosting": "Coolify behind existing Cloudflare Access wildcard, TLS at Cloudflare",
+  "original_experiment_source_changed": false,
+  "temporary_bundle_server_stopped": true,
+  "temporary_remote_source_removed": true,
+  "build_transfer": {
+    "01-detailed": "For a fresh uncached build, upload the recorded source.tar.gz and run ../serve-bundle.py on the deployment server loopback port 18765 until build completion. The saved Dockerfile verifies its SHA256. Runtime does not depend on this server.",
+    "02-inputs-only": "Source bundle embedded in the saved Coolify Dockerfile."
+  }
+}

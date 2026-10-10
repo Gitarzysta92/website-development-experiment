@@ -1,0 +1,19 @@
+Docker 29.8.1 with BuildKit and Buildx detected on deployment server (localhost).
+Starting deployment of artifactory-inputs-only-astra-xhigh to localhost.
+Preparing container with helper image: docker.io/coollabsio/coolify-helper:1.0.17
+----------------------------------------
+Building docker image started.
+To check the current progress, click on Show Debug Logs.
+Building docker image completed.
+----------------------------------------
+Rolling update started.
+New container started.
+Custom healthcheck found in Dockerfile.
+Waiting for healthcheck to pass on the new container.
+Waiting for the start period (30 seconds) before starting healthcheck.
+Attempt 1 of 5 | Healthcheck status: "healthy"
+Healthcheck logs: (no logs) | Return code: 0
+New container is healthy.
+Removing old containers.
+Rolling update completed.
+Gracefully shutting down build container: mtzejpc73wd9upepwj3w0nrr

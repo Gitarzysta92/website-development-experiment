@@ -1,0 +1,42 @@
+{
+  "id": "aifield-ai",
+  "locale": "en",
+  "title": "Assistance that keeps engineering judgment visible",
+  "description": "AIFIELD explores command-line and Model Context Protocol workflows for proposed design actions. A human reviews and applies changes, and the supplied material does not support a claim of fully autonomous chip design.",
+  "eyebrow": "AIFIELD",
+  "lead": "AIFIELD explores command-line and Model Context Protocol workflows for proposed design actions. A human reviews and applies changes, and the supplied material does not support a claim of fully autonomous chip design.",
+  "sections": [
+    {
+      "id": "section-1",
+      "heading": "A bounded workflow",
+      "body": [
+        "An assistant can receive a design question, inspect available context and propose a command or change. The engineer evaluates assumptions, chooses whether to apply it and checks the resulting simulation. Proposed output is not accepted design evidence until reviewed."
+      ]
+    },
+    {
+      "id": "section-2",
+      "heading": "Tool and data boundaries",
+      "body": [
+        "Some solver work is described as local. The treatment of context sent to any external assistant needs a precise deployment-specific account before confidentiality statements can be made. This page makes no promise that all design data stays local."
+      ]
+    },
+    {
+      "id": "section-3",
+      "heading": "What needs evaluation",
+      "body": [
+        "A useful assessment would track task completion, erroneous proposals, required human corrections and repeatability on documented examples. The next milestone is to specify supported actions and measure the assistance against a manual baseline."
+      ]
+    }
+  ],
+  "related": [
+    "aifield-validation",
+    "partnerships"
+  ],
+  "editorialState": "draft",
+  "sourceRevision": "HP-1.1; context 2026-10-09",
+  "modified": "2026-10-10",
+  "sourceRefs": [
+    "inputs/content/project-context.md (summary, 2026-10-09)",
+    "inputs/docs/sitemap.md (SM-0.3)"
+  ]
+}

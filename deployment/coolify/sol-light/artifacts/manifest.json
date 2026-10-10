@@ -1,0 +1,22 @@
+[
+  {
+    "variant": "01-detailed",
+    "run_group": "2026-10-10-sol-light-pair-01",
+    "name": "artifactory-detailed-sol-light",
+    "origin": "https://artifactory-detailed-sol-light.coolify.threesixty.dev",
+    "model": "gpt-6-sol",
+    "reasoning_effort": "low",
+    "display_label": "Sol Light",
+    "source_sha256": "b9d91dc9afac884f1a0b35545945f7b56619301ba3e65dd3d55635a4d95ca570"
+  },
+  {
+    "variant": "02-inputs-only",
+    "run_group": "2026-10-10-sol-light-pair-01",
+    "name": "artifactory-inputs-only-sol-light",
+    "origin": "https://artifactory-inputs-only-sol-light.coolify.threesixty.dev",
+    "model": "gpt-6-sol",
+    "reasoning_effort": "low",
+    "display_label": "Sol Light",
+    "source_sha256": "652caa681518719528a3e175435ba29980425f14d16786a7862c58061200247b"
+  }
+]

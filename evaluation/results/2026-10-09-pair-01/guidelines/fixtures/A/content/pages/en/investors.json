@@ -1,0 +1,86 @@
+{
+  "id": "investors",
+  "locale": "en",
+  "type": "company",
+  "title": "Explore Artifactory as a company.",
+  "description": "A company-level investment discussion connecting ArtiSense sensing research, AIFIELD photonic engineering tools, available evidence and open development questions.",
+  "eyebrow": "ARTIFACTORY / COMPANY",
+  "lead": "Two related technical directions. A company proposition to examine through the work, its limits and the next evidence it needs.",
+  "sections": [
+    {
+      "id": "thesis",
+      "title": "Sensing technology and the tools to design it.",
+      "paragraphs": [
+        "Artifactory brings together ArtiSense and AIFIELD in a proposed positioning around sensing and photonic engineering. The investment subject is Artifactory as a company. Understanding that proposition means assessing the role and maturity of each project, rather than treating them as interchangeable products.",
+        "The internal sensing-design example provides a concrete connection: a measurement objective creates a photonic design question, and engineering tools help investigate a candidate structure. This connection is a technical rationale to explore, not evidence of shared IP ownership or commercial success."
+      ]
+    },
+    {
+      "id": "projects",
+      "title": "Two evidence paths, at different boundaries.",
+      "paragraphs": [
+        "ArtiSense is a proposed miniaturized chemical-sensing system. The supplied glucose-related work concerns optical feasibility and chip design; physical measurement accuracy and intended wearable use remain unvalidated.",
+        "AIFIELD’s September 2026 summary describes classical design and simulation work, partial agent assistance and separate neural field research. Its internal example supports an engineering discussion, while current access, commercial readiness and the research limitations need their own assessment."
+      ],
+      "links": [
+        {
+          "id": "artisense"
+        },
+        {
+          "id": "aifield"
+        }
+      ]
+    },
+    {
+      "id": "questions",
+      "title": "What a useful investment discussion should establish.",
+      "paragraphs": [
+        "A company assessment needs current evidence beyond this technical overview. The materials supplied for the site do not establish a current funding round, instrument, valuation, revenue, market validation or committed pilot. A historical project funding proposal is not presented as a current company ask.",
+        "The next conversation can identify which evidence may be shared and who can answer questions about company structure, ownership, development resources and commercial assumptions. No confidential investor pack or numerical market case is implied by this page."
+      ],
+      "items": [
+        "Which technical risks most affect the company proposition?",
+        "What would a reproducible design or physical result establish?",
+        "Which commercial assumptions need customer evidence?"
+      ],
+      "links": [
+        {
+          "id": "about"
+        }
+      ]
+    },
+    {
+      "id": "milestones",
+      "title": "Potential milestones should reduce a stated uncertainty.",
+      "paragraphs": [
+        "Possible development steps include an inspectable design-and-simulation record for AIFIELD and a controlled optical comparison for ArtiSense. Neural field work would need a clearly bounded evaluation that includes unsuccessful cases and full workflow cost.",
+        "These are proposed evidence needs, not funded commitments, promised dates or completed results. Start an investment enquiry to discuss the company, the evidence currently available and a suitable next conversation."
+      ],
+      "links": [
+        {
+          "id": "contact"
+        }
+      ]
+    }
+  ],
+  "relatedIds": [
+    "artisense",
+    "aifield",
+    "about",
+    "contact"
+  ],
+  "project": null,
+  "sourceReferences": [
+    "HP-1.1/project-context",
+    "SM-0.3/investors"
+  ],
+  "sourceRevision": "2026-10-09 (AIFIELD snapshot: September 2026)",
+  "editorialState": "published",
+  "modifiedAt": "2026-10-09T21:00:00.000Z",
+  "reviews": {
+    "facts": "6bb07043c53447e5d38eb02887d92b9865e6bf608a90fc6428a23ec89e126d4b",
+    "language": "6bb07043c53447e5d38eb02887d92b9865e6bf608a90fc6428a23ec89e126d4b",
+    "assets": "6bb07043c53447e5d38eb02887d92b9865e6bf608a90fc6428a23ec89e126d4b"
+  },
+  "privateNotes": "Locally authored from supplied summary. Factual, translation and asset owner review pending. Original PDFs were not supplied."
+}

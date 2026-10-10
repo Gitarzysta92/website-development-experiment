@@ -1,0 +1,33 @@
+{
+  "scope": "Disposable local fixtures only; no original/snapshot edits, no deployment, no real approvals or external sends.",
+  "results": [
+    {
+      "id": "A-approval-media-binding",
+      "fixtureOnly": true,
+      "beforeGatePass": true,
+      "afterGatePass": true,
+      "beforeDiagramHash": "03b33c6460a9f822111dff744cc50d49ff5d66347b27553f71e403ed398194b8",
+      "afterDiagramHash": "a2096ef54ef62e45ca23f201322843f2f11f07eed3453f799f6db3880dadabb0",
+      "affectedPageStillEligible": true,
+      "observation": "The rendered diagram changes, but the actual publication gate reads record fingerprints and approval booleans only; it does not bind this dependency to review."
+    },
+    {
+      "id": "A-approved-content-check",
+      "fixtureOnly": true,
+      "command": "node scripts/check-content.mjs",
+      "exitCode": 1,
+      "approvedRecords": 34,
+      "gateDirectlyAcceptsApprovedFixture": true,
+      "observation": "The documented build prerequisite executes tests that require every actual record to remain draft/unreviewed. The approved fixture therefore fails before publication can proceed."
+    },
+    {
+      "id": "B-approval-revision-binding",
+      "fixtureOnly": true,
+      "beforeExitCode": 0,
+      "afterExitCode": 0,
+      "changedContentRendered": true,
+      "indexableAfterChange": true,
+      "observation": "The same CONTENT_APPROVED/SITE_INDEXABLE booleans generate an indexable artifact after authored content changes. No revision-bound approval or invalidation exists."
+    }
+  ]
+}

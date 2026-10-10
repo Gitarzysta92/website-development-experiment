@@ -1,0 +1,333 @@
+{
+  "id": "A-pl-contact-desktop",
+  "label": "A",
+  "locale": "pl",
+  "pageId": "contact",
+  "view": "desktop",
+  "url": "http://127.0.0.1:4501/pl/kontakt/",
+  "status": 200,
+  "errors": [],
+  "title": "Zacznijmy rozmowę. | Artifactory",
+  "language": "pl",
+  "h1": [
+    "Zacznijmy rozmowę."
+  ],
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Zacznijmy rozmowę."
+    },
+    {
+      "level": "H2",
+      "text": "Od czego zacząć"
+    },
+    {
+      "level": "H2",
+      "text": "Wolisz e-mail?"
+    },
+    {
+      "level": "H2",
+      "text": "Firma"
+    },
+    {
+      "level": "H2",
+      "text": "Projekty"
+    },
+    {
+      "level": "H2",
+      "text": "Porozmawiajmy"
+    }
+  ],
+  "text": "Przejdź do treści\nWersja lokalna · Badania w toku\na·\nartifactory\nProjekty\n⌄\nDla inwestorów\nJak pracujemy\nO nas\nEN\n↔\nPorozmawiajmy\n↗\nStrona główna\nKontakt\n\nKONTAKT\n\nZacznijmy rozmowę.\n\nNapisz, jakie pytanie chcesz omówić. Rozmowy inwestycyjne dotyczą Artifactory jako firmy; rozmowę o projekcie lub współpracy można zacząć od konkretnego zagadnienia technicznego.\n\nOd czego zacząć\n\nWybierz rodzaj zapytania i, jeśli ma to znaczenie, projekt. Przy rozmowie inwestycyjnej wskaż informacje, które chcesz przeanalizować. Przy współpracy lub demonstracji opisz problem inżynierski i potrzebne dowody.\n\nTa wersja służy testowaniu strony. W formularzu używaj wymyślonych danych przykładowych, bez danych osobowych, finansowych i informacji poufnych. Zapytanie o demo AIFIELD rozpoczyna rozmowę; nie zapewnia natychmiastowego dostępu do produktu.\n\nWolisz e-mail?\ninfo@artifactory.tech\n↗\n\nOtwiera Twoją aplikację pocztową. Lokalny tryb testowy formularza nie dotyczy wiadomości, które samodzielnie wyślesz.\n\nLokalny tryb testowy\n\nFormularz przesyła dane testowe do pamięci tego komputera. Nie wysyła e-maili. Wpisy wygasają w ciągu 24 godzin i są usuwane po ponownym uruchomieniu serwera.\n\nO czym chcesz porozmawiać?\nZapytanie ogólne\nInwestycja w Artifactory\nWspółpraca\nRozmowa o demonstracji AIFIELD\nProjekt (opcjonalnie)\nBez wskazania projektu\nArtiSense\nAIFIELD\nImię i nazwisko (opcjonalnie)\nOrganizacja (opcjonalnie)\nAdres e-mail *\nTwoja wiadomość *\n\n20–5000 znaków. Używaj wyłącznie danych testowych; nie wpisuj danych osobowych ani informacji poufnych.\n\nJak lokalny formularz przetwarza informacje\n\nWyślij zapytanie testowe\n↗\nartifactory·\n\nTechnologie pomiarowe i narzędzia do projektowania systemów fotonicznych.\n\ninfo@artifactory.tech\n↗\nFirma\nStrona główna\nProjekty\nDla inwestorów\nJak pracujemy\nO nas\nProjekty\nArtiSense\nAIFIELD\nPorozmawiajmy\nWspółpraca\nKontakt\nPolityka prywatności\nArtifactory\nŚwiatło otwiera nowe możliwości.",
+  "links": [
+    {
+      "text": "Przejdź do treści",
+      "href": "#main",
+      "lang": ""
+    },
+    {
+      "text": "a·\nartifactory",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/pl/projekty/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/pl/projekty/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "href": "/pl/projekty/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Dla inwestorów",
+      "href": "/pl/inwestorzy/",
+      "lang": ""
+    },
+    {
+      "text": "Jak pracujemy",
+      "href": "/pl/jak-pracujemy/",
+      "lang": ""
+    },
+    {
+      "text": "O nas",
+      "href": "/pl/o-nas/",
+      "lang": ""
+    },
+    {
+      "text": "Współpraca",
+      "href": "/pl/wspolpraca/",
+      "lang": ""
+    },
+    {
+      "text": "Kontakt",
+      "href": "/pl/kontakt/",
+      "lang": ""
+    },
+    {
+      "text": "EN\n↔",
+      "href": "http://127.0.0.1:4501/en/contact/",
+      "lang": "en"
+    },
+    {
+      "text": "Porozmawiajmy\n↗",
+      "href": "/pl/kontakt/?intent=investment",
+      "lang": ""
+    },
+    {
+      "text": "Strona główna",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "info@artifactory.tech\n↗",
+      "href": "mailto:info@artifactory.tech",
+      "lang": ""
+    },
+    {
+      "text": "Jak lokalny formularz przetwarza informacje",
+      "href": "/pl/prywatnosc/",
+      "lang": ""
+    },
+    {
+      "text": "artifactory·",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "info@artifactory.tech\n↗",
+      "href": "mailto:info@artifactory.tech",
+      "lang": ""
+    },
+    {
+      "text": "Strona główna",
+      "href": "/pl/",
+      "lang": ""
+    },
+    {
+      "text": "Projekty",
+      "href": "/pl/projekty/",
+      "lang": ""
+    },
+    {
+      "text": "Dla inwestorów",
+      "href": "/pl/inwestorzy/",
+      "lang": ""
+    },
+    {
+      "text": "Jak pracujemy",
+      "href": "/pl/jak-pracujemy/",
+      "lang": ""
+    },
+    {
+      "text": "O nas",
+      "href": "/pl/o-nas/",
+      "lang": ""
+    },
+    {
+      "text": "ArtiSense",
+      "href": "/pl/projekty/artisense/",
+      "lang": ""
+    },
+    {
+      "text": "AIFIELD",
+      "href": "/pl/projekty/aifield/",
+      "lang": ""
+    },
+    {
+      "text": "Współpraca",
+      "href": "/pl/wspolpraca/",
+      "lang": ""
+    },
+    {
+      "text": "Kontakt",
+      "href": "/pl/kontakt/",
+      "lang": ""
+    },
+    {
+      "text": "Polityka prywatności",
+      "href": "/pl/prywatnosc/",
+      "lang": ""
+    }
+  ],
+  "metadata": [
+    {
+      "name": "viewport",
+      "content": "width=device-width, initial-scale=1"
+    },
+    {
+      "name": "description",
+      "content": "Porozmawiaj o inwestycji w Artifactory, współpracy badawczej lub demonstracji AIFIELD. Lokalny formularz przyjmuje wyłącznie zapytania testowe."
+    },
+    {
+      "name": "robots",
+      "content": "noindex, nofollow"
+    },
+    {
+      "rel": "canonical",
+      "href": "http://127.0.0.1:4501/pl/kontakt/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "en",
+      "href": "http://127.0.0.1:4501/en/contact/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "pl",
+      "href": "http://127.0.0.1:4501/pl/kontakt/"
+    },
+    {
+      "rel": "alternate",
+      "hreflang": "x-default",
+      "href": "http://127.0.0.1:4501/en/contact/"
+    },
+    {
+      "property": "og:type",
+      "content": "website"
+    },
+    {
+      "property": "og:site_name",
+      "content": "Artifactory"
+    },
+    {
+      "property": "og:title",
+      "content": "Zacznijmy rozmowę. | Artifactory"
+    },
+    {
+      "property": "og:description",
+      "content": "Porozmawiaj o inwestycji w Artifactory, współpracy badawczej lub demonstracji AIFIELD. Lokalny formularz przyjmuje wyłącznie zapytania testowe."
+    },
+    {
+      "property": "og:url",
+      "content": "http://127.0.0.1:4501/pl/kontakt/"
+    },
+    {
+      "property": "og:locale",
+      "content": "pl_PL"
+    },
+    {
+      "property": "og:image",
+      "content": "http://127.0.0.1:4501/brand/share-v1.svg"
+    },
+    {
+      "property": "og:image:width",
+      "content": "1200"
+    },
+    {
+      "property": "og:image:height",
+      "content": "630"
+    }
+  ],
+  "forms": [
+    {
+      "action": "/api/enquiries",
+      "method": "post",
+      "controls": [
+        {
+          "tag": "SELECT",
+          "name": "intent",
+          "type": "select-one",
+          "required": true,
+          "label": "O czym chcesz porozmawiać?"
+        },
+        {
+          "tag": "SELECT",
+          "name": "project",
+          "type": "select-one",
+          "required": false,
+          "label": "Projekt (opcjonalnie)"
+        },
+        {
+          "tag": "INPUT",
+          "name": "name",
+          "type": "text",
+          "required": false,
+          "label": "Imię i nazwisko (opcjonalnie)"
+        },
+        {
+          "tag": "INPUT",
+          "name": "organization",
+          "type": "text",
+          "required": false,
+          "label": "Organizacja (opcjonalnie)"
+        },
+        {
+          "tag": "INPUT",
+          "name": "email",
+          "type": "email",
+          "required": true,
+          "label": "Adres e-mail *"
+        },
+        {
+          "tag": "TEXTAREA",
+          "name": "message",
+          "type": "textarea",
+          "required": true,
+          "label": "Twoja wiadomość *"
+        },
+        {
+          "tag": "INPUT",
+          "name": "website",
+          "type": "text",
+          "required": false,
+          "label": "Website"
+        },
+        {
+          "tag": "BUTTON",
+          "name": "",
+          "type": "submit"
+        },
+        {
+          "tag": "BUTTON",
+          "name": "",
+          "type": "button"
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "scrollWidth": 1425
+  },
+  "overflowing": [],
+  "axe": {
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "impact": "serious",
+        "nodeCount": 1
+      }
+    ],
+    "passes": 46
+  }
+}
